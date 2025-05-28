@@ -1,43 +1,43 @@
 {
   "layerNav": {
     "name": "Vertical Industrial robot MELFA",
-    "path": "/id_en/products/rbt/robot/items/vertical/index.html",
+    "path": "/fa/id_en/products/rbt/robot/items/vertical/index.html",
     "firstLayer": [
       {
         "name": "Features and Concept",
-        "path": "/id_en/products/rbt/assista/pmerit/assista/index.html",
+        "path": "/fa/id_en/products/rbt/assista/pmerit/assista/index.html",
         "secondLayer": [
            {
             "name": "Features",
-            "path": "/id_en/products/rbt/assista/pmerit/assista/index.html"
+            "path": "/fa/id_en/products/rbt/assista/pmerit/assista/index.html"
           },
           {
             "name": "Concept",
-            "path": "/id_en/products/rbt/assista/pmerit/assista/assista_pr.html"
+            "path": "/fa/id_en/products/rbt/assista/pmerit/assista/assista_pr.html"
           }
         ]
       },
       {
         "name": "Components and Apprilations",
-        "path": "/id_en/products/rbt/assista/pmerit/assista/assista_gripper.html",
+        "path": "/fa/id_en/products/rbt/assista/pmerit/assista/assista_gripper.html",
          "secondLayer": [
            {
             "name": "Grip with ASSISTA",
-            "path": "/id_en/products/rbt/assista/pmerit/assista/assista_gripper.html"
+            "path": "/fa/id_en/products/rbt/assista/pmerit/assista/assista_gripper.html"
           },
           {
             "name": "View with ASSISTA",
-            "path": "/id_en/products/rbt/assista/pmerit/assista/assista_view.html"
+            "path": "/fa/id_en/products/rbt/assista/pmerit/assista/assista_view.html"
           },
            {
             "name": "ASSISTA moves",
-            "path": "/id_en/products/rbt/assista/pmerit/assista/assista_move.html"
+            "path": "/fa/id_en/products/rbt/assista/pmerit/assista/assista_move.html"
           }
         ]
       },
       {
         "name": "Catalog",
-        "path": "/id_en/products/rbt/assista/pmerit/assista/dl.html"
+        "path": "/fa/id_en/products/rbt/assista/pmerit/assista/dl.html"
           }
       ]
   }

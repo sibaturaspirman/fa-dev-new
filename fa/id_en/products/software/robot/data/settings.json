@@ -26,17 +26,17 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_en/download/index.html?modal=cad"
+						"link": "/fa/id_en/download/index.html?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_en/download/index.html?modal=software"
+						"link": "/fa/id_en/download/index.html?modal=software"
 					},
 					{
 						"name": "Sample<br>Library",
 						"icon": "library",
-						"link": "/id_en/download/index.html?modal=lib"
+						"link": "/fa/id_en/download/index.html?modal=lib"
 					}
 				]
 			}
@@ -95,12 +95,12 @@
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_en/download/index.html?modal=software"
+				"link": "/fa/id_en/download/index.html?modal=software"
 			},
 			{
 				"name": "Sample Library",
 				"icon": "library",
-				"link": "/id_en/download/index.html?modal=lib"
+				"link": "/fa/id_en/download/index.html?modal=lib"
 			}
 		]
 	},
@@ -129,7 +129,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

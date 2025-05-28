@@ -1,35 +1,35 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/id_en/index.html",
+    "path": "/fa/id_en/index.html",
     "child": [
       {
         "name": "Products",
-        "path": "/id_en/products/index.html",
+        "path": "/fa/id_en/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/id_en/products/lvd/lvcb/index.html",
+            "path": "/fa/id_en/products/lvd/lvcb/index.html",
 			"child": [
 				{
 					"name": "Circuit Breakers for Use in Particular Applications",
-					"path": "/id_en/products/lvd/lvcb/items/spcb/index.html",
+					"path": "/fa/id_en/products/lvd/lvcb/items/spcb/index.html",
 					"child": [
 					{
 						"name": "For DC Special Voltages",
-						"path": "/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html"					
 					},
 					{
 						"name": "Mag-Only Circuit Breaker",
-						"path": "/id_en/products/lvd/lvcb/pmerit/spcb_mag/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_mag/index.html"					
 					},
 					{
 						"name": "DSN Switches",
-						"path": "/id_en/products/lvd/lvcb/pmerit/spcb_dsn/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_dsn/index.html"					
 					},
 					{
 						"name": "Corrosion Resistant Enhanced Type for Special Environments",
-						"path": "/id_en/products/lvd/lvcb/pmerit/spcb_sp/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_sp/index.html"					
 					}
 				]
 				}
@@ -41,28 +41,28 @@
   },
   "layerNav": {
     "name": "For DC Special Voltages",
-    "path": "/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html",
+    "path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html",
     "firstLayer": [
       {
         "name": "Product Lineup",
-        "path": "/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html"
+        "path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html"
      }
     ]
   },
 "switchNav": {
 	"name": "Circuit Breakers for Use in Particular Applications",
-	"path": "/id_en/products/lvd/lvcb/items/spcb/index.html",
+	"path": "/fa/id_en/products/lvd/lvcb/items/spcb/index.html",
 	"child": [
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
 			"name": "For DC Special Voltages",
-			"feature": "/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html",
+			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DC",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DC",
 			"discon": "",
             "return": {
                 "name": "Circuit Breakers for Use in Particular Applications",
-                "path": "/id_en/products/lvd/lvcb/items/spcb/index.html"
+                "path": "/fa/id_en/products/lvd/lvcb/items/spcb/index.html"
 			}
 		}
 	]

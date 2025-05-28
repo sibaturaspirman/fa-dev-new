@@ -1,37 +1,37 @@
 [
 	{
 		"name": "Data Science Tool MELSOFT MaiLab",
-		"url": "/id_en/products/software/data-science-tools/mailab/index.html",
+		"url": "/fa/id_en/products/software/data-science-tools/mailab/index.html",
 		"number": "01",
 		"target": "_self"
 	},
 	{
 		"name": "Industrial Computer MELIPC Series",
-		"url": "/id_en/products/edge/melipc/",
+		"url": "/fa/id_en/products/edge/melipc/",
 		"number": "02",
 		"target": "_self"
 	},
 	{
 		"name": "iQ Monozukuri Tool Wear Diagnosis for Machine Tools",
-		"url": "/id_en/sols/efactory/component/monozukuri/twdiagnosis/index.html",
+		"url": "/fa/id_en/sols/efactory/component/monozukuri/twdiagnosis/index.html",
 		"number": "03",
 		"target": "_self"
 	},
 	{
 		"name": "iQ Monozukuri Rotary Machine Vibration Diagnosis",
-		"url": "/id_en/sols/efactory/component/monozukuri/rmvdiagnosis/index.html",
+		"url": "/fa/id_en/sols/efactory/component/monozukuri/rmvdiagnosis/index.html",
 		"number": "04",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-R Series",
-		"url": "/id_en/products/cnt/plcr/items/index.html",
+		"url": "/fa/id_en/products/cnt/plcr/items/index.html",
 		"number": "05",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-F Series",
-		"url": "/id_en/products/cnt/plcf/items/index.html",
+		"url": "/fa/id_en/products/cnt/plcf/items/index.html",
 		"number": "06",
 		"target": "_self"
 	},
@@ -55,37 +55,37 @@
 	},
 	{
 		"name": "MELSERVO-J5 Series",
-		"url": "/id_en/products/drv/servo/pmerit/mr_j5/amp/concept.html",
+		"url": "/fa/id_en/products/drv/servo/pmerit/mr_j5/amp/concept.html",
 		"number": "10",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-R Series Energy Measuring Module",
-		"url": "/id_en/products/cnt/plcr/pmerit/measuring/index.html",
+		"url": "/fa/id_en/products/cnt/plcr/pmerit/measuring/index.html",
 		"number": "11",
 		"target": "_self"
 	},
 	{
 		"name": "MELFA Smart Plus",
-		"url": "/id_en/products/rbt/robot/items/msp/index.html",
+		"url": "/fa/id_en/products/rbt/robot/items/msp/index.html",
 		"number": "12",
 		"target": "_self"
 	},
 	{
 		"name": "System Recorder",
-		"url": "/id_en/products/cnt/plcr/pmerit/sysrecorder/index.html",
+		"url": "/fa/id_en/products/cnt/plcr/pmerit/sysrecorder/index.html",
 		"number": "13",
 		"target": "_self"
 	},
 	{
 		"name": "System recorder related software",
-		"url": "/id_en/products/cnt/plcr/pmerit/sysrecorder/related_soft.html",
+		"url": "/fa/id_en/products/cnt/plcr/pmerit/sysrecorder/related_soft.html",
 		"number": "14",
 		"target": "_self"
 	},
 	{
 		"name": "3D Simulator MELSOFT Gemini",
-		"url": "/id_en/products/software/simulation-tools/gemini/index.html",
+		"url": "/fa/id_en/products/software/simulation-tools/gemini/index.html",
 		"number": "15",
 		"target": "_self"
 	},
@@ -97,13 +97,13 @@
 	},
 	{
 		"name": "FREQROL-E800 Series (FR Configurator2)",
-		"url": "/id_en/products/drv/inv/smerit/fr_config2/index.html",
+		"url": "/fa/id_en/products/drv/inv/smerit/fr_config2/index.html",
 		"number": "17",
 		"target": "_self"
 	},
 	{
 		"name": "Edgecross-supporting Software",
-		"url": "/id_en/solutions/efactory/component/edgsw/index.html",
+		"url": "/fa/id_en/solutions/efactory/component/edgsw/index.html",
 		"number": "18",
 		"target": "_self"
 	},

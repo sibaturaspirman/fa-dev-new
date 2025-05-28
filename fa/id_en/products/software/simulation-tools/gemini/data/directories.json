@@ -1,23 +1,23 @@
 {
 	"directories": {
 		"name": "Home",
-		"path": "/id_en/index.html",
+		"path": "/fa/id_en/index.html",
 		"child": [
 		  {
 			"name": "Products",
-			"path": "/id_en/products/index.html",
+			"path": "/fa/id_en/products/index.html",
 			"child": [
 			  {
 				"name": "Simulation tools",
-				"path": "/id_en/products/software/simulation-tools/index.html",
+				"path": "/fa/id_en/products/software/simulation-tools/index.html",
 				"child": [
 				  {
 					"name": "3D Simulator MELSOFT Gemini",
-					"path": "/id_en/products/software/simulation-tools/gemini/index.html"
+					"path": "/fa/id_en/products/software/simulation-tools/gemini/index.html"
 				  },		  
 				  {
 					"name": "MELSOFT RT ToolBox3",
-					"path": "/id_en/products/rbt/robot/smerit/rt3/index.html"
+					"path": "/fa/id_en/products/rbt/robot/smerit/rt3/index.html"
 				  }		  
 				]
 			  }
@@ -27,12 +27,12 @@
   },
   "switchNav": {
     "name": "Simulation tools",
-    "path": "/id_en/products/software/simulation-tools/index.html",
+    "path": "/fa/id_en/products/software/simulation-tools/index.html",
     "child": [
       {
         "group": "Simulation tools",
         "name": "3D Simulator MELSOFT Gemini",
-        "feature": "/id_en/products/software/simulation-tools/gemini/index.html",
+        "feature": "/fa/id_en/products/software/simulation-tools/gemini/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/3dsim",
         "standard": "",
         "discon": ""
@@ -40,7 +40,7 @@
 	  {
         "group": "Simulation tools",
         "name": "MELSOFT RT ToolBox3",
-        "feature": "/id_en/products/rbt/robot/smerit/rt3/index.html",
+        "feature": "/fa/id_en/products/rbt/robot/smerit/rt3/index.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -49,51 +49,51 @@
   },
   "layerNav": {
     "name": "Simulation tools",
-    "path": "/id_en/products/software/simulation-tools/gemini/index.html",
+    "path": "/fa/id_en/products/software/simulation-tools/gemini/index.html",
     "firstLayer": [
       {
         "name": "Overview",
-        "path": "/id_en/products/software/simulation-tools/gemini/index.html"
+        "path": "/fa/id_en/products/software/simulation-tools/gemini/index.html"
 	  },
       {
         "name": "Usages",
-        "path": "/id_en/products/software/simulation-tools/gemini/usage.html"
+        "path": "/fa/id_en/products/software/simulation-tools/gemini/usage.html"
       },
       {
         "name": "Introduction Example",
-        "path": "/id_en/products/software/simulation-tools/gemini/introductions.html"
+        "path": "/fa/id_en/products/software/simulation-tools/gemini/introductions.html"
       },
       {
         "name": "Product List",
-        "path": "/id_en/products/software/simulation-tools/gemini/lineup.html"
+        "path": "/fa/id_en/products/software/simulation-tools/gemini/lineup.html"
       },
       {
         "name": "Feature",
-        "path": "/id_en/products/software/simulation-tools/gemini/function.html"
+        "path": "/fa/id_en/products/software/simulation-tools/gemini/function.html"
       },
       {
         "name": "Fee-based Maintenance Service",
-        "path": "/id_en/products/software/simulation-tools/gemini/service.html"
+        "path": "/fa/id_en/products/software/simulation-tools/gemini/service.html"
       },
       {
         "name": "Tutorial",
-        "path": "/id_en/products/software/simulation-tools/gemini/trial.html"
+        "path": "/fa/id_en/products/software/simulation-tools/gemini/trial.html"
       },
       {
         "name": "Academy",
-        "path": "/id_en/products/software/simulation-tools/gemini/howto.html",
+        "path": "/fa/id_en/products/software/simulation-tools/gemini/howto.html",
         "secondLayer": [
 		  {
             "name": "By Category",
-            "path": "/id_en/products/software/simulation-tools/gemini/howto.html"
+            "path": "/fa/id_en/products/software/simulation-tools/gemini/howto.html"
           },
           {
             "name": "By Purpose",
-            "path": "/id_en/products/software/simulation-tools/gemini/howto_2_2.html",
+            "path": "/fa/id_en/products/software/simulation-tools/gemini/howto_2_2.html",
             "thirdLayer": [
               {
                 "name": "How to use Human, Mobile Robot",
-                "path": "/id_en/products/software/simulation-tools/gemini/howto_2_2.html"                  
+                "path": "/fa/id_en/products/software/simulation-tools/gemini/howto_2_2.html"                  
               }					
             ] 
           }
@@ -101,7 +101,7 @@
       },
       {
         "name": "eCatalog",
-        "path": "/id_en/products/software/simulation-tools/gemini/library.html"
+        "path": "/fa/id_en/products/software/simulation-tools/gemini/library.html"
       }
     ]
   }

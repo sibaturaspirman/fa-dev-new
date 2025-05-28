@@ -1,89 +1,89 @@
 {
   "layerNav": {
     "name": "FREQROL-E series",
-    "path": "/id_en/products/drv/inv/items/fr_e/index.html",
+    "path": "/fa/id_en/products/drv/inv/items/fr_e/index.html",
     "firstLayer": [
       {
         "name": "FR-E800",
-        "path": "/id_en/products/drv/inv/pmerit/fr_e/index.html",
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/index.html",
         "secondLayer": [
           {
             "name": "Concept",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/index.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/index.html"
           },
           {
             "name": "Toward smart factory",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e800/e801.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e800/e801.html"
           },
           {
             "name": "Wide range of applications",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e800/e802.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e800/e802.html"
           },
           {
             "name": "Higher added values",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e800/e803.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e800/e803.html"
           },
           {
             "name": "Improved safety",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e800/e804.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e800/e804.html"
           },
           {
             "name": "Energy saving",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e800/e805.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e800/e805.html"
           },
           {
             "name": "Improved maintainability",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e800/e806.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e800/e806.html"
           },
           {
             "name": "Downtime reduction",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e800/e807.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e800/e807.html"
           },
           {
             "name": "Engineering software for further ease of operation",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e800/e808.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e800/e808.html"
           },
           {
             "name": "Model Configuration",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e800/model_name_configuration.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e800/model_name_configuration.html"
           }
         ]
       },
       {
         "name": "FR-E700",
-        "path": "/id_en/products/drv/inv/pmerit/fr_e/e700/index.html",
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e700/index.html",
         "secondLayer": [
           {
             "name": "Concept",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e700/index.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e700/index.html"
           },
           {
             "name": "Top level of driving performance in compact body",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e700/e701.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e700/e701.html"
           },
           {
             "name": "Excellent usability",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e700/e702.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e700/e702.html"
           },
           {
             "name": "Enhanced expandability",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e700/e703.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e700/e703.html"
           },
           {
             "name": "Compact and space saving",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e700/e704.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e700/e704.html"
           },
           {
             "name": "Easy servicing for peace of mind",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e700/e705.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e700/e705.html"
           },
           {
             "name": "Full of useful functions",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e700/e706.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e700/e706.html"
           },
           {
             "name": "Model Configuration",
-            "path": "/id_en/products/drv/inv/pmerit/fr_e/e700/e707.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_e/e700/e707.html"
           }
         ]
       }

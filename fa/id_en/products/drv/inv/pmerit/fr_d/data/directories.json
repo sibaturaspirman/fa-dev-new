@@ -1,47 +1,47 @@
 {
   "layerNav": {
     "name": "Inverters-FREQROL-D Series",
-    "path": "/id_en/products/drv/inv/items/fr_d/index.html",
+    "path": "/fa/id_en/products/drv/inv/items/fr_d/index.html",
     "firstLayer": [
       {
         "name": "FREQROL-D800",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/d800/index.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/d800/index.html"
       },
       {
         "name": "FREQROL-D700",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/index.html",
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/index.html",
         "secondLayer": [
         {
         "name": "Concept",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/index.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/index.html"
         },
         {
         "name": "New standard of inverter",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/d701.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/d701.html"
         },
         {
         "name": "Mitsubishi's new standard",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/d702.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/d702.html"
         },
         {
         "name": "Easy use and time saving built-in as standard",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/d703.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/d703.html"
         },
         {
         "name": "Compact and space saving",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/d704.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/d704.html"
         },
         {
         "name": "Easy maintenance",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/d705.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/d705.html"
         },
         {
         "name": "Environment consciousness in global standard",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/d706.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/d706.html"
         },
         {
         "name": "Model Configuration",
-        "path": "/id_en/products/drv/inv/pmerit/fr_d/d707.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_d/d707.html"
         }
         ]
       }

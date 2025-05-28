@@ -47,11 +47,11 @@
         "child": [
           {
             "name": "Wire-cut Electrical Discharge Machines",
-            "link": "/id_en/products/mecha/edm/pmerit/wire/close/index.html"
+            "link": "/fa/id_en/products/mecha/edm/pmerit/wire/close/index.html"
           },
           {
             "name": "Die-sinking Electrical Discharge Machines",
-            "link": "/id_en/products/mecha/edm/pmerit/die_sinking/close/index.html"
+            "link": "/fa/id_en/products/mecha/edm/pmerit/die_sinking/close/index.html"
           }
         ]
       }
@@ -87,7 +87,7 @@
       {
         "name": "Contact Us",
         "icon": "contact",
-        "link": "/id_en/contact-us/index.html"
+        "link": "/fa/id_en/contact-us/index.html"
       }
     ]
   }

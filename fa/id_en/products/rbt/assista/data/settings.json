@@ -48,8 +48,8 @@
 		"items": [
 			{
 				"name": "Collaborative robot ASSISA (Special Page)",
-				"img": "/id_en/products/rbt/assista/assets/img/spotlight_assista_pr.png",
-				"link": "/id_en/products/rbt/assista/pmerit/assista/assista_pr.html"
+				"img": "/fa/id_en/products/rbt/assista/assets/img/spotlight_assista_pr.png",
+				"link": "/fa/id_en/products/rbt/assista/pmerit/assista/assista_pr.html"
 			}
 		]
 	},
@@ -98,7 +98,7 @@
 			{
 				"name": "Network",
 				"icon": "tree",
-				"link": "/id_en/products/index.html#section_network"
+				"link": "/fa/id_en/products/index.html#section_network"
 			}
 		]
 	},
@@ -175,7 +175,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

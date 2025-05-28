@@ -39,17 +39,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -143,7 +143,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

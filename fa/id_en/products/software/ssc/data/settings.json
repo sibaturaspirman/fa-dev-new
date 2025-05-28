@@ -93,7 +93,7 @@
 			},
 			{
 				"name": "GX Works2",
-				"link": "/id_en/products/cnt/plceng/smerit/gx_works2/index.html"
+				"link": "/fa/id_en/products/cnt/plceng/smerit/gx_works2/index.html"
 			}
 		]
 	},
@@ -145,11 +145,11 @@
 			{
 				"name": "MELSERVO-J5",
 				"image": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/img/bnr_J5_gl.jpg",
-				"link": "/id_en/products/drv/servo/pmerit/mr_j5/amp/concept.html"
+				"link": "/fa/id_en/products/drv/servo/pmerit/mr_j5/amp/concept.html"
 			},
 			{
 				"name": "New features make things even easier to use!",
-				"image": "/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/fa/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
@@ -159,7 +159,7 @@
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_en/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -170,7 +170,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

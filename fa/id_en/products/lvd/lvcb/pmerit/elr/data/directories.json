@@ -1,19 +1,19 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/id_en/index.html",
+    "path": "/fa/id_en/index.html",
     "child": [
       {
         "name": "Products",
-        "path": "/id_en/products/index.html",
+        "path": "/fa/id_en/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/id_en/products/lvd/lvcb/index.html",
+            "path": "/fa/id_en/products/lvd/lvcb/index.html",
             "child": [
 				{
 					"name": "Earth Leakage Relays",
-					"path": "/id_en/products/lvd/lvcb/pmerit/elr/index.html"
+					"path": "/fa/id_en/products/lvd/lvcb/pmerit/elr/index.html"
 				}
             ]
           }
@@ -23,36 +23,36 @@
   },
   "layerNav": {
     "name": "Earth Leakage Relays",
-    "path": "/id_en/products/lvd/lvcb/pmerit/elr/index.html",
+    "path": "/fa/id_en/products/lvd/lvcb/pmerit/elr/index.html",
     "firstLayer": [
       {
         "name": "Features",
-        "path": "/id_en/products/lvd/lvcb/pmerit/elr/index.html"
+        "path": "/fa/id_en/products/lvd/lvcb/pmerit/elr/index.html"
       },
       {
         "name": "Product Lineup",
-        "path": "/id_en/products/lvd/lvcb/pmerit/elr/index_2.html"
+        "path": "/fa/id_en/products/lvd/lvcb/pmerit/elr/index_2.html"
       },
       {
         "name": "Examples of Use",
-        "path": "/id_en/products/lvd/lvcb/pmerit/elr/index_3.html"
+        "path": "/fa/id_en/products/lvd/lvcb/pmerit/elr/index_3.html"
       }
     ]
   },
 "switchNav": {
 	"name": "Earth Leakage Relays",
-	"path": "/id_en/products/lvd/lvcb/items/elr/index.html",
+	"path": "/fa/id_en/products/lvd/lvcb/items/elr/index.html",
 	"child": [
 		{
 			"group": "Earth Leakage Relays",
 			"name": "Earth Leakage Relays",
-			"feature": "/id_en/products/lvd/lvcb/pmerit/elr/index.html",
+			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/elr/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELR",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELR",
 			"discon": "",
             "return": {
                 "name": "Earth Leakage Relays",
-                "path": "/id_en/products/lvd/lvcb/items/elr/index.html"
+                "path": "/fa/id_en/products/lvd/lvcb/items/elr/index.html"
 			}
 		}
 	]

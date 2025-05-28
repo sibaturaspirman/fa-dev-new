@@ -1,19 +1,19 @@
 {
   "layerNav": {
     "name": "FREQROL-F series",
-    "path": "/id_en/products/drv/inv/items/fr_f/index.html",
+    "path": "/fa/id_en/products/drv/inv/items/fr_f/index.html",
     "firstLayer": [
       {
         "name": "Outline",
-        "path": "/id_en/products/drv/inv/pmerit/fr_f/index.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/index.html"
       },
       {
         "name": "FREQROL-F800",
-        "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/index.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f800/index.html"
       },
       {
         "name": "FREQROL-F700PJ",
-        "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html"
       }
     ]
   }

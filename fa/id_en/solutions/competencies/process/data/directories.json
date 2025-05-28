@@ -1,39 +1,39 @@
 {
 	"layerNav": {
 		"name": "Process Control/Redundant",
-		"path": "/id_en/solutions/competencies/process/index.html",
+		"path": "/fa/id_en/solutions/competencies/process/index.html",
 		"firstLayer": [
 			{
 				"name": "Concept",
-				"path": "/id_en/solutions/competencies/process/index.html"
+				"path": "/fa/id_en/solutions/competencies/process/index.html"
 			},
 			{
 				"name": "Lineup",
-				"path": "/id_en/solutions/competencies/process/lineup/index.html"
+				"path": "/fa/id_en/solutions/competencies/process/lineup/index.html"
 			},
 			{
 				"name": "Supported products",
-				"path": "/id_en/solutions/competencies/process/features/index.html"
+				"path": "/fa/id_en/solutions/competencies/process/features/index.html"
 			},
 			{
 				"name": "Monitoring solution",
-				"path": "/id_en/solutions/competencies/process/monitoring/index.html"
+				"path": "/fa/id_en/solutions/competencies/process/monitoring/index.html"
 			},
 			{
 				"name": "Engineering",
-				"path": "/id_en/solutions/competencies/process/development/index.html"
+				"path": "/fa/id_en/solutions/competencies/process/development/index.html"
 			},
 			{
 				"name": "Partner products",
-				"path": "/id_en/solutions/competencies/process/partners/index.html"
+				"path": "/fa/id_en/solutions/competencies/process/partners/index.html"
 			},
 			{
 				"name": "Application examples",
-				"path": "/id_en/solutions/competencies/process/application/index.html"
+				"path": "/fa/id_en/solutions/competencies/process/application/index.html"
 			},
 			{
 				"name": "Support/Download",
-				"path": "/id_en/solutions/competencies/process/support/index.html"
+				"path": "/fa/id_en/solutions/competencies/process/support/index.html"
 			}
 		]
 	}

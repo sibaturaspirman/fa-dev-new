@@ -9,17 +9,17 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/id_en/download/index.html?modal=catalog"
+						"link": "/fa/id_en/download/index.html?modal=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/id_en/download/index.html?modal=manual"
+						"link": "/fa/id_en/download/index.html?modal=manual"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_en/download/index.html?modal=software"
+						"link": "/fa/id_en/download/index.html?modal=software"
 					}
 				]
 			},
@@ -36,17 +36,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -109,7 +109,7 @@
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_en/download/index.html?modal=software"
+				"link": "/fa/id_en/download/index.html?modal=software"
 			}
 		]
 	},
@@ -134,7 +134,7 @@
 			{
 				"name": "Contact us",
 				"icon": "estimate",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

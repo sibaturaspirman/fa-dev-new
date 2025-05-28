@@ -1,15 +1,15 @@
 {
   "layerNav": {
     "name": "MELFA FR PLUS",
-    "path": "/id_en/products/rbt/robot/items/frplus/index.html",
+    "path": "/fa/id_en/products/rbt/robot/items/frplus/index.html",
     "firstLayer": [
       {
         "name": "Features",
-        "path": "/id_en/products/rbt/robot/pmerit/frplus/index.html"
+        "path": "/fa/id_en/products/rbt/robot/pmerit/frplus/index.html"
       },
      {
         "name": "Catalog",
-        "path": "/id_en/products/rbt/robot/pmerit/frplus/spec.html"
+        "path": "/fa/id_en/products/rbt/robot/pmerit/frplus/spec.html"
       }
       ]
   }

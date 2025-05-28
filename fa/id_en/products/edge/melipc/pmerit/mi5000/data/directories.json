@@ -1,19 +1,19 @@
 {
   "layerNav": {
     "name": "MELIPC MI5000",
-    "path": "/id_en/products/edge/melipc/items/mi5000/index.html",
+    "path": "/fa/id_en/products/edge/melipc/items/mi5000/index.html",
     "firstLayer": [
       {
         "name": "Product features",
-        "path": "/id_en/products/edge/melipc/pmerit/mi5000/index.html"
+        "path": "/fa/id_en/products/edge/melipc/pmerit/mi5000/index.html"
       },
       {
         "name": "System configuration",
-        "path": "/id_en/products/edge/melipc/pmerit/mi5000/sysconfig.html"
+        "path": "/fa/id_en/products/edge/melipc/pmerit/mi5000/sysconfig.html"
       },
       {
         "name": "Softwares",
-        "path": "/id_en/products/edge/melipc/pmerit/mi5000/soft.html"
+        "path": "/fa/id_en/products/edge/melipc/pmerit/mi5000/soft.html"
       }
     ]
   }

@@ -1,19 +1,19 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/id_en/index.html",
+    "path": "/fa/id_en/index.html",
     "child": [
       {
         "name": "Products",
-        "path": "/id_en/products/index.html",
+        "path": "/fa/id_en/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/id_en/products/lvd/lvcb/index.html",
+            "path": "/fa/id_en/products/lvd/lvcb/index.html",
             "child": [
 				{
 					"name": "Circuit Breakers for Equipment",
-					"path": "/id_en/products/lvd/lvcb/pmerit/cbe/index.html"
+					"path": "/fa/id_en/products/lvd/lvcb/pmerit/cbe/index.html"
 				}
             ]
           }
@@ -23,29 +23,29 @@
   },
   "layerNav": {
     "name": "Circuit Breakers for Equipment",
-    "path": "/id_en/products/lvd/lvcb/pmerit/cbe/index.html",
+    "path": "/fa/id_en/products/lvd/lvcb/pmerit/cbe/index.html",
     "firstLayer": [
       {
         "name": "Circuit Protectors",
-        "path": "/id_en/products/lvd/lvcb/pmerit/cbe/index.html",
+        "path": "/fa/id_en/products/lvd/lvcb/pmerit/cbe/index.html",
         "secondLayer": [
         {
           "name": "Features",
-          "path": "/id_en/products/lvd/lvcb/pmerit/cbe/index.html"
+          "path": "/fa/id_en/products/lvd/lvcb/pmerit/cbe/index.html"
         },
         {
           "name": "Product Lineup",
-          "path": "/id_en/products/lvd/lvcb/pmerit/cbe/index_2.html"
+          "path": "/fa/id_en/products/lvd/lvcb/pmerit/cbe/index_2.html"
         }
         ]
      },
       {
         "name": "Safety Breaker-Type Earth Leakage Circuit Breakers",
-        "path": "/id_en/products/lvd/lvcb/pmerit/cbe/index_3.html",
+        "path": "/fa/id_en/products/lvd/lvcb/pmerit/cbe/index_3.html",
         "secondLayer": [
         {
           "name": "Features",
-          "path": "/id_en/products/lvd/lvcb/pmerit/cbe/index_3.html"
+          "path": "/fa/id_en/products/lvd/lvcb/pmerit/cbe/index_3.html"
         }
         ]
       }
@@ -53,18 +53,18 @@
   },
 "switchNav": {
 	"name": "Circuit Breakers for Equipment",
-	"path": "/id_en/products/lvd/lvcb/items/cbe/index.html",
+	"path": "/fa/id_en/products/lvd/lvcb/items/cbe/index.html",
 	"child": [
 		{
 			"group": "Circuit Breakers for Equipment",
 			"name": "Circuit Breakers for Equipment",
-			"feature": "/id_en/products/lvd/lvcb/pmerit/cbe/index.html",
+			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/cbe/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=CBE",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=CBE",
 			"discon": "",
             "return": {
                 "name": "Circuit Breakers for Equipment",
-                "path": "/id_en/products/lvd/lvcb/items/cbe/index.html"
+                "path": "/fa/id_en/products/lvd/lvcb/items/cbe/index.html"
 			}
 		}
 	]

@@ -48,23 +48,23 @@
 		"items": [
 			{
 				"name": "MELFA FR PLUS",
-				"img": "/id_en/products/rbt/robot/assets/img/spotlight_frplus.png",
-				"link": "/id_en/products/rbt/robot/pmerit/frplus/index.html"
+				"img": "/fa/id_en/products/rbt/robot/assets/img/spotlight_frplus.png",
+				"link": "/fa/id_en/products/rbt/robot/pmerit/frplus/index.html"
 			},
 			{
 				"name": "MELFA RH-10CRH/20CRH",
-				"img": "/id_en/products/rbt/robot/assets/img/spotlight_1020crh_eng.png",
-				"link": "/id_en/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
+				"img": "/fa/id_en/products/rbt/robot/assets/img/spotlight_1020crh_eng.png",
+				"link": "/fa/id_en/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
 			},
 			{
 				"name": "MELFA RV-12CRL",
-				"img": "/id_en/products/rbt/robot/assets/img/spotlight_rv12crl_eng.png",
-				"link": "/id_en/products/rbt/robot/pmerit/vertical/crseries/index.html"
+				"img": "/fa/id_en/products/rbt/robot/assets/img/spotlight_rv12crl_eng.png",
+				"link": "/fa/id_en/products/rbt/robot/pmerit/vertical/crseries/index.html"
 			},
 			{
 				"name": "Collaborative robot ASSISA (Special Page)",
-				"img": "/id_en/products/rbt/robot/assets/img/spotlight_assista_pr.png",
-				"link": "/id_en/products/rbt/assista/pmerit/assista/index.html"
+				"img": "/fa/id_en/products/rbt/robot/assets/img/spotlight_assista_pr.png",
+				"link": "/fa/id_en/products/rbt/assista/pmerit/assista/index.html"
 			}
 		]
 	},
@@ -113,7 +113,7 @@
 			{
 				"name": "Network",
 				"icon": "tree",
-				"link": "/id_en/products/index.html#section_network"
+				"link": "/fa/id_en/products/index.html#section_network"
 			}
 		]
 	},
@@ -194,7 +194,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

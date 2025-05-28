@@ -1,27 +1,27 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/id_en/",
+    "path": "/fa/id_en/",
     "child": [
       {
         "name": "Products",
-        "path": "/id_en/products/index.html",
+        "path": "/fa/id_en/products/index.html",
         "child": [
           {
             "name": "Energy Saving Supporting Devices",
-            "path": "/id_en/products/pmng/ems/index.html",
+            "path": "/fa/id_en/products/pmng/ems/index.html",
 			"child": [
 				{
 					"name": "Energy Measuring Units",
-					"path": "/id_en/products/pmng/ems/pmerit/ecomonitor/emplus_1.html",
+					"path": "/fa/id_en/products/pmng/ems/pmerit/ecomonitor/emplus_1.html",
 					"child": [
 					{
 						"name": "EcoMonitorPlus",
-						"path": "/id_en/products/pmng/ems/pmerit/ecomonitor/emplus_1.html"					
+						"path": "/fa/id_en/products/pmng/ems/pmerit/ecomonitor/emplus_1.html"					
 					},
 					{
 						"name": "EcoMonitorLight",
-						"path": "/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html"					
+						"path": "/fa/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html"					
 					}
 				]
 				}
@@ -33,36 +33,36 @@
   },
 "layerNav": {
     "name": "EcoMonitorLight",
-    "path": "/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html",
+    "path": "/fa/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html",
     "firstLayer": [
       {
         "name": "Features",
-        "path": "/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html"
+        "path": "/fa/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html"
       },
       {
         "name": "System Configuration",
-        "path": "/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_2.html"
+        "path": "/fa/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_2.html"
       },
       {
         "name": "Product Lineup",
-        "path": "/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_3.html"
+        "path": "/fa/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_3.html"
       }
     ]
   },
  "switchNav": {
     "name": "Energy Saving Supporting Devices",
-    "path": "/id_en/products/pmng/ems/index.html",
+    "path": "/fa/id_en/products/pmng/ems/index.html",
     "child": [
       {
         "group": "Energy Measuring Units",
         "name": "EcoMonitorLight",
-        "feature": "/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html",
+        "feature": "/fa/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&search=B@@K-01&word=Energy Measuring Units@@EcoMonitorLight&current=EcoMonitorLight",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorLight",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorLight",
 		"return": {
 			"name": "Energy Measuring Units",
-			"path": "/id_en/products/pmng/ems/items/ecomonitor/index.html"
+			"path": "/fa/id_en/products/pmng/ems/items/ecomonitor/index.html"
 		}
       }
         ]

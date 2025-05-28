@@ -43,7 +43,7 @@
 
 /* メインビジュアル */
 .main_bg {
-	background: url("/id_en/products/lvd/lvcb/pmerit/mcb/assets/img/main_bg.png") no-repeat center / 100% 100%;
+	background: url("/fa/id_en/products/lvd/lvcb/pmerit/mcb/assets/img/main_bg.png") no-repeat center / 100% 100%;
 }
 .main_bgwrap {
 	overflow: hidden;
@@ -59,7 +59,7 @@
 }
 @media (max-width: 1400px) {
 .main_bg {
-	background: url("/id_en/products/lvd/lvcb/pmerit/mcb/assets/img/main_bg.png") no-repeat center / auto 100%;
+	background: url("/fa/id_en/products/lvd/lvcb/pmerit/mcb/assets/img/main_bg.png") no-repeat center / auto 100%;
 }
 }
 
@@ -69,6 +69,6 @@
 	line-height: 1.7em;
 	padding-bottom: 7px;
 	font-size: 16px;
-	background: url("/id_en/products/lvd/lvcb/pmerit/mcb/assets/img/img_check.png") left 0px top 0px no-repeat;
+	background: url("/fa/id_en/products/lvd/lvcb/pmerit/mcb/assets/img/img_check.png") left 0px top 0px no-repeat;
 }
 

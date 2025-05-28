@@ -1,31 +1,31 @@
 {
     "layerNav": {
         "name": "Direct Drive Motor",
-        "path": "/id_en/products/drv/servo/pmerit/mr_j5/ddm/feature.html",
+        "path": "/fa/id_en/products/drv/servo/pmerit/mr_j5/ddm/feature.html",
         "firstLayer": [
             {
                 "name": "Product Lines",
-                "path": "/id_en/products/drv/servo/pmerit/mr_j5/ddm/feature.html"
+                "path": "/fa/id_en/products/drv/servo/pmerit/mr_j5/ddm/feature.html"
             },
             {
                 "name": "Features",
-                "path": "/id_en/products/drv/servo/pmerit/mr_j5/ddm/feature_2.html"
+                "path": "/fa/id_en/products/drv/servo/pmerit/mr_j5/ddm/feature_2.html"
             },
             {
                 "name": "Model Designation",
-                "path": "/id_en/products/drv/servo/pmerit/mr_j5/ddm/ddm_model.html"
+                "path": "/fa/id_en/products/drv/servo/pmerit/mr_j5/ddm/ddm_model.html"
             },
             {
                 "name": "Combinations",
-                "path": "/id_en/products/drv/servo/pmerit/mr_j5/ddm/ddm_amplist.html"
+                "path": "/fa/id_en/products/drv/servo/pmerit/mr_j5/ddm/ddm_amplist.html"
             },
             {
                 "name": "Torque Characteristics",
-                "path": "/id_en/products/drv/servo/pmerit/mr_j5/ddm/torque.html"
+                "path": "/fa/id_en/products/drv/servo/pmerit/mr_j5/ddm/torque.html"
             },
             {
                 "name": "Application Examples",
-                "path": "/id_en/products/drv/servo/pmerit/mr_j5/case/ddm_case.html"
+                "path": "/fa/id_en/products/drv/servo/pmerit/mr_j5/case/ddm_case.html"
             }
         ]
     }

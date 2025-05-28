@@ -1,13 +1,13 @@
 [
 	{
 		"name": "MX Sheet",
-		"url": "/id_en/products/cnt/plceng/smerit/mx_sheet/index.html",
+		"url": "/fa/id_en/products/cnt/plceng/smerit/mx_sheet/index.html",
 		"number": "01",
 		"target": "_self"
 	},
 	{
 		"name": "MX Component",
-		"url": "/id_en/products/cnt/plceng/smerit/mx_component/index.html",
+		"url": "/fa/id_en/products/cnt/plceng/smerit/mx_component/index.html",
 		"number": "02",
 		"target": "_self"
 	},
@@ -25,31 +25,31 @@
 	},
 	{
 		"name": "iQ Monozukuri Rotary Machine Vibration Diagnosis",
-		"url": "/id_en/sols/efactory/component/monozukuri/rmvdiagnosis/index.html",
+		"url": "/fa/id_en/sols/efactory/component/monozukuri/rmvdiagnosis/index.html",
 		"number": "05",
 		"target": "_self"
 	},
 	{
 		"name": "iQ Monozukuri Tool Wear Diagnosis for Machine Tools",
-		"url": "/id_en/sols/efactory/component/monozukuri/twdiagnosis/index.html",
+		"url": "/fa/id_en/sols/efactory/component/monozukuri/twdiagnosis/index.html",
 		"number": "06",
 		"target": "_self"
 	},
 	{
 		"name": "MELSOFT MaiLab",
-		"url": "/id_en/products/software/data-science-tools/mailab/index.html",
+		"url": "/fa/id_en/products/software/data-science-tools/mailab/index.html",
 		"number": "07",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-R Series Programmable Controller CPU Module",
-		"url": "/id_en/products/cnt/plcr/pmerit/cpu/cpu.html",
+		"url": "/fa/id_en/products/cnt/plcr/pmerit/cpu/cpu.html",
 		"number": "08",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-F Series Simple CPU Communication Function",
-		"url": "/id_en/products/cnt/plcf/pmerit/cpu/index.html",
+		"url": "/fa/id_en/products/cnt/plcf/pmerit/cpu/index.html",
 		"number": "09",
 		"target": "_self"
 	},
@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "Edgecross-Compatible Software (Data Collector)",
-		"url": "/id_en/solutions/efactory/component/edgsw/dc/index.html",
+		"url": "/fa/id_en/solutions/efactory/component/edgsw/dc/index.html",
 		"number": "11",
 		"target": "_self"
 	},
@@ -85,49 +85,49 @@
 	},
 	{
 		"name": "Energy Saving Support Software EcoAdviser",
-		"url": "/id_en/products/software/ems/eap/index.html",
+		"url": "/fa/id_en/products/software/ems/eap/index.html",
 		"number": "15",
 		"target": "_self"
 	},
 	{
 		"name": "Energy Saving Data Collecting Server EcoWebServerIII",
-		"url": "/id_en/products/pmng/ems/items/ecoserver/index.html",
+		"url": "/fa/id_en/products/pmng/ems/items/ecoserver/index.html",
 		"number": "16",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-R Series MES Interface Module",
-		"url": "/id_en/products/cnt/plcr/pmerit/it_connect/mes.html",
+		"url": "/fa/id_en/products/cnt/plcr/pmerit/it_connect/mes.html",
 		"number": "17",
 		"target": "_self"
 	},
 	{
 		"name": "SCADA software-ICONICS Suite™",
-		"url": "/id_en/products/software/visualisation/genesis64/index.html",
+		"url": "/fa/id_en/products/software/visualisation/genesis64/index.html",
 		"number": "18",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-R Series OPC UA Server Module",
-		"url": "/id_en/products/cnt/plcr/pmerit/it_connect/opc.html",
+		"url": "/fa/id_en/products/cnt/plcr/pmerit/it_connect/opc.html",
 		"number": "19",
 		"target": "_self"
 	},
 	{
 		"name": "Industrial Computer MELIPC Series",
-		"url": "/id_en/products/edge/melipc/",
+		"url": "/fa/id_en/products/edge/melipc/",
 		"number": "20",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-R Series C Intelligent Function Module (RD55UP12-V)",
-		"url": "/id_en/products/cnt/plcr/pmerit/cpu/c_cont.html",
+		"url": "/fa/id_en/products/cnt/plcr/pmerit/cpu/c_cont.html",
 		"number": "21",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-F Series OPC UA Module",
-		"url": "/id_en/products/cnt/plcf/pmerit/communication/opc_ua.html",
+		"url": "/fa/id_en/products/cnt/plcf/pmerit/communication/opc_ua.html",
 		"number": "22",
 		"target": "_self"
 	},

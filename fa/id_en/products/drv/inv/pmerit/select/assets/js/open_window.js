@@ -28,7 +28,7 @@ function MM_openBrWindow() {
     }
 
     var IE_DEBUG_OPTION = (false ? "menubar=1,toolbar=1," : "");
-    window.open("/id_en/products/drv/inv/pmerit/select/app/fan.html","popupr", IE_DEBUG_OPTION + "width=" + windowW + ",height=" + windowH + ",scrollbars=" + scroll);
+    window.open("/fa/id_en/products/drv/inv/pmerit/select/app/fan.html","popupr", IE_DEBUG_OPTION + "width=" + windowW + ",height=" + windowH + ",scrollbars=" + scroll);
 }
 
 //機種選定ツールを開く
@@ -61,6 +61,6 @@ function MM_openBrWindow02() {
     }
 
     var IE_DEBUG_OPTION = (false ? "menubar=1,toolbar=1," : "");
-    window.open("/id_en/products/selectiontool/common/index.html","popupr", IE_DEBUG_OPTION + "width=" + windowW + ",height=" + windowH + ",scrollbars=" + scroll);
+    window.open("/fa/id_en/products/selectiontool/common/index.html","popupr", IE_DEBUG_OPTION + "width=" + windowW + ",height=" + windowH + ",scrollbars=" + scroll);
 
 }

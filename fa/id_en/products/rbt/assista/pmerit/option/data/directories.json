@@ -1,19 +1,19 @@
 {
   "layerNav": {
     "name": "Intelligent Options",
-    "path": "/id_en/products/rbt/assista/items/option/index.html",
+    "path": "/fa/id_en/products/rbt/assista/items/option/index.html",
     "firstLayer": [
       {
         "name": "High-performance teaching box",
-        "path": "/id_en/products/rbt/assista/pmerit/option/index.html"
+        "path": "/fa/id_en/products/rbt/assista/pmerit/option/index.html"
       },
       {
         "name": "Force sensor set",
-        "path": "/id_en/products/rbt/assista/pmerit/option/forcesensor/index.html"
+        "path": "/fa/id_en/products/rbt/assista/pmerit/option/forcesensor/index.html"
       },
       {
         "name": "MELFA-3D Vision 3.0",
-        "path": "/id_en/products/rbt/assista/pmerit/option/vs3d/index.html"
+        "path": "/fa/id_en/products/rbt/assista/pmerit/option/vs3d/index.html"
           }
       ]
   }

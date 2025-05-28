@@ -2157,8 +2157,8 @@ if(isDotPage) {
 					//'link': $searchPankuzuListItems.eq(2).find('a').attr('href')
 				}
 				const $breadcrumbListHTML = `
-					<li class="c-breadcrumb__list-item"><a href="/id_en/">${productsLabels.top}</a></li>
-					<li class="c-breadcrumb__list-item"><a href="/id_en/products/index.html">${productsLabels.products}</a></li>
+					<li class="c-breadcrumb__list-item"><a href="/fa/id_en/">${productsLabels.top}</a></li>
+					<li class="c-breadcrumb__list-item"><a href="/fa/id_en/products/index.html">${productsLabels.products}</a></li>
 					<li class="c-breadcrumb__list-item"><span>${kisyuTopObject.name}</span></li>
 					<li class="c-breadcrumb__list-item"><span>${productsLabels.standard}</span></li>
 				`;
@@ -4334,8 +4334,8 @@ if(isDotPage) {
 					//'link': $searchPankuzuListItems.eq(2).find('a').attr('href')
 				}
 				const $breadcrumbListHTML = `
-					<li class="c-breadcrumb__list-item"><a href="/id_en/">${productsLabels.top}</a></li>
-					<li class="c-breadcrumb__list-item"><a href="/id_en/products/index.html">${productsLabels.products}</a></li>
+					<li class="c-breadcrumb__list-item"><a href="/fa/id_en/">${productsLabels.top}</a></li>
+					<li class="c-breadcrumb__list-item"><a href="/fa/id_en/products/index.html">${productsLabels.products}</a></li>
 					<li class="c-breadcrumb__list-item"><span>${kisyuTopObject.name}</span></li>
 					<li class="c-breadcrumb__list-item"><span>${productsLabels.standard}</span></li>
 				`;

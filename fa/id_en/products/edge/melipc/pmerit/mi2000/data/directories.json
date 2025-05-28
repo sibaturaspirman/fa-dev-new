@@ -1,15 +1,15 @@
 {
   "layerNav": {
     "name": "MELIPC MI2000",
-    "path": "/id_en/products/edge/melipc/items/mi2000/index.html",
+    "path": "/fa/id_en/products/edge/melipc/items/mi2000/index.html",
     "firstLayer": [
       {
         "name": "Product features",
-        "path": "/id_en/products/edge/melipc/pmerit/mi2000/index.html"
+        "path": "/fa/id_en/products/edge/melipc/pmerit/mi2000/index.html"
       },
       {
         "name": "System configuration",
-        "path": "/id_en/products/edge/melipc/pmerit/mi2000/sysconfig.html"
+        "path": "/fa/id_en/products/edge/melipc/pmerit/mi2000/sysconfig.html"
       }
     ]
   }

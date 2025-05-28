@@ -1,27 +1,27 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/id_en/index.html",
+    "path": "/fa/id_en/index.html",
     "child": [
       {
         "name": "Products",
-        "path": "/id_en/products/index.html",
+        "path": "/fa/id_en/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/id_en/products/lvd/lvcb/index.html",
+            "path": "/fa/id_en/products/lvd/lvcb/index.html",
 			"child": [
 				{
 					"name": "Circuit Breakers for Distribution Panel and Control Panel",
-					"path": "/id_en/products/lvd/lvcb/items/pbcb/index.html",
+					"path": "/fa/id_en/products/lvd/lvcb/items/pbcb/index.html",
 					"child": [
 					{
 						"name": "FA/FAU/FHU Series",
-						"path": "/id_en/products/lvd/lvcb/pmerit/pbcb/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/pbcb/index.html"					
 					},
 					{
 						"name": "KC Series",
-						"path": "/id_en/products/lvd/lvcb/pmerit/pbcb_kc/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/pbcb_kc/index.html"					
 					}
 				]
 				}
@@ -33,28 +33,28 @@
   },
   "layerNav": {
     "name": "KC Series",
-    "path": "/id_en/products/lvd/lvcb/pmerit/pbcb_kc/index.html",
+    "path": "/fa/id_en/products/lvd/lvcb/pmerit/pbcb_kc/index.html",
     "firstLayer": [
       {
         "name": "Features",
-        "path": "/id_en/products/lvd/lvcb/pmerit/pbcb_kc/index.html"
+        "path": "/fa/id_en/products/lvd/lvcb/pmerit/pbcb_kc/index.html"
      }
     ]
   },
 "switchNav": {
 	"name": "Circuit Breakers for Distribution Panel and Control Panel",
-	"path": "/id_en/products/lvd/lvcb/items/pbcb/index.html",
+	"path": "/fa/id_en/products/lvd/lvcb/items/pbcb/index.html",
 	"child": [
 		{
 			"group": "Circuit Breakers for Distribution Panel and Control Panel",
 			"name": "KC Series",
-			"feature": "/id_en/products/lvd/lvcb/pmerit/pbcb_kc/index.html",
+			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/pbcb_kc/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=PBCB_KC",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=PBCB_KC",
 			"discon": "",
             "return": {
                 "name": "Circuit Breakers for Distribution Panel and Control Panel",
-                "path": "/id_en/products/lvd/lvcb/items/pbcb/index.html"
+                "path": "/fa/id_en/products/lvd/lvcb/items/pbcb/index.html"
 			}
 		}
 	]

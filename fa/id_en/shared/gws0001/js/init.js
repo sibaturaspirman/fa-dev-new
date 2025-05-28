@@ -181,7 +181,7 @@
 						});
 						return `
 							<div class="c-linkWithIcon c-linkWithIcon--pulldown">
-							<div class="c-linkWithIcon__icon"><img src="/id_en/shared/common/img/icon/icon_${jsonObject.icon}.svg" alt="" with="60" height="60" decoding="async"></div>
+							<div class="c-linkWithIcon__icon"><img src="/fa/id_en/shared/common/img/icon/icon_${jsonObject.icon}.svg" alt="" with="60" height="60" decoding="async"></div>
 							<span class="c-linkWithIcon__link">${jsonObject.name}</span>
 							<div class="c-linkWithIcon__pulldown">
 							<ul class="c-list">
@@ -193,7 +193,7 @@
 					} else {
 						return `
 							<a class="c-linkWithIcon" href="${jsonObject.link}" ${helper.getAttributeFromJson(jsonObject.attr)}>
-							<div class="c-linkWithIcon__icon"><img src="/id_en/shared/common/img/icon/icon_${jsonObject.icon}.svg" alt="" with="60" height="60" decoding="async"></div>
+							<div class="c-linkWithIcon__icon"><img src="/fa/id_en/shared/common/img/icon/icon_${jsonObject.icon}.svg" alt="" with="60" height="60" decoding="async"></div>
 							<span class="c-linkWithIcon__link u-icons u-icons--bulletRight">${jsonObject.name}</span>
 							</a><!-- /.c-linkWithIcon -->
 						`;
@@ -546,7 +546,7 @@
 								{
 									"name": "Contact Us",
 									"icon": "contact",
-									"link": "/id_en/contact-us/index.html"
+									"link": "/fa/id_en/contact-us/index.html"
 								},
 								// {
 								// 	"name": "Whatsapp",

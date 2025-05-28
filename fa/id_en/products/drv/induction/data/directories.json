@@ -1,42 +1,42 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/id_en/index.html",
+    "path": "/fa/id_en/index.html",
     "child": [
       {
         "name": "Products",
-        "path": "/id_en/products/index.html",
+        "path": "/fa/id_en/products/index.html",
         "child": [
           {
             "name": "Induction Motor",
-            "path": "/id_en/products/drv/induction/index.html",
+            "path": "/fa/id_en/products/drv/induction/index.html",
             "child": [
               {
                 "name": "Three-phase Motor IE1",
-                "path": "/id_en/products/drv/induction/items/tpmie1/index.html",
+                "path": "/fa/id_en/products/drv/induction/items/tpmie1/index.html",
                 "child": [
                   {
                     "name": "Foot Mounted 2P",
-                    "path": "/id_en/products/drv/induction/items/tpmie1/models/foot-mounted-2p.html"
+                    "path": "/fa/id_en/products/drv/induction/items/tpmie1/models/foot-mounted-2p.html"
                   },
                   {
                     "name": "Foot Mounted 4P",
-                    "path": "/id_en/products/drv/induction/items/tpmie1/models/foot-mounted-4p.html"
+                    "path": "/fa/id_en/products/drv/induction/items/tpmie1/models/foot-mounted-4p.html"
                   },
                   {
                     "name": "Foot Mounted 6P",
-                    "path": "/id_en/products/drv/induction/items/tpmie1/models/foot-mounted-6p.html"
+                    "path": "/fa/id_en/products/drv/induction/items/tpmie1/models/foot-mounted-6p.html"
                   }
                 ]
                 
               },
               {
                 "name": "Three-phase Motor IE3",
-                "path": "/id_en/products/drv/induction/items/tpmie3/index.html"
+                "path": "/fa/id_en/products/drv/induction/items/tpmie3/index.html"
               },
               {
                 "name": "Single phase Motor",
-                "path": "/id_en/products/drv/induction/items/spm/index.html"
+                "path": "/fa/id_en/products/drv/induction/items/spm/index.html"
               }
             ]
           }
@@ -46,52 +46,52 @@
   },
   "switchNav": {
     "name": "Induction Motor",
-    "path": "/id_en/products/drv/induction/index.html",
+    "path": "/fa/id_en/products/drv/induction/index.html",
     "child": [
       {
         "group": "induction",
         "name": "Product Features",
-        "feature": "/id_en/products/drv/gear/pmerit/",
+        "feature": "/fa/id_en/products/drv/gear/pmerit/",
         "spec": "",
         "standard": "",
-        "discon": "/id_en/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_en/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "induction",
         "name": "Line up",
-        "feature": "/id_en/products/drv/gear/pmerit/lup/",
+        "feature": "/fa/id_en/products/drv/gear/pmerit/lup/",
         "spec": "",
         "standard": "",
-        "discon": "/id_en/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_en/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "induction",
         "name": "Geared Motors Parallel shaft type",
-        "feature": "/id_en/products/drv/gear/pmerit/gm_parallel/",
+        "feature": "/fa/id_en/products/drv/gear/pmerit/gm_parallel/",
         "spec": "",
         "standard": "",
-        "discon": "/id_en/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_en/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "induction",
         "name": "Geared Motors Right angle shaft type",
-        "feature": "/id_en/products/drv/gear/pmerit/gm_right_angle/",
+        "feature": "/fa/id_en/products/drv/gear/pmerit/gm_right_angle/",
         "spec": "",
         "standard": "",
-        "discon": "/id_en/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_en/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "induction",
         "name": "S-PM Geared Motors Parallel shaft type",
-        "feature": "/id_en/products/drv/gear/pmerit/spm_parallel/",
+        "feature": "/fa/id_en/products/drv/gear/pmerit/spm_parallel/",
         "spec": "",
         "standard": "",
-        "discon": "/id_en/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_en/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "induction",
         "name": "S-PM Geared Motors Right angle shaft type",
-        "feature": "/id_en/products/drv/gear/pmerit/spm_right_angle/index.html",
+        "feature": "/fa/id_en/products/drv/gear/pmerit/spm_right_angle/index.html",
         "spec": "",
         "standard": "",
         "discon": ""

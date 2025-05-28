@@ -124,7 +124,7 @@
 		"items": [
 			{
 				"name": "New features make things even easier to use!",
-				"image": "/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/fa/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
@@ -134,7 +134,7 @@
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_en/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -145,7 +145,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

@@ -36,7 +36,7 @@
 			{
 				"name": "Featured Products",
 				"icon": "announce",
-				"link": "/id_en/products/drv/inv/ex/watch/index.html"
+				"link": "/fa/id_en/products/drv/inv/ex/watch/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
@@ -114,7 +114,7 @@
 			{
 				"name": "Contact us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

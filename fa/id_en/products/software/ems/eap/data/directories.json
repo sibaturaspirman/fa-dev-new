@@ -1,49 +1,49 @@
 {
     "layerNav": {
         "name": "Energy Saving Support Software EcoAdviser",
-        "path": "/id_en/products/software/ems/eap/index.html",
+        "path": "/fa/id_en/products/software/ems/eap/index.html",
         "firstLayer": [
             {
                 "name": "Feature",
-                "path": "/id_en/products/software/ems/eap/index.html"
+                "path": "/fa/id_en/products/software/ems/eap/index.html"
             },
             {
                 "name": "Line-up",
-                "path": "/id_en/products/software/ems/eap/index_2.html"
+                "path": "/fa/id_en/products/software/ems/eap/index_2.html"
             },
             {
                 "name": "Utilization Support Services",
-                "path": "/id_en/products/software/ems/eap/index_3.html"
+                "path": "/fa/id_en/products/software/ems/eap/index_3.html"
             },
             {
                 "name": "File converter",
-                "path": "/id_en/products/software/ems/eap/index_6.html"
+                "path": "/fa/id_en/products/software/ems/eap/index_6.html"
             },
             {
                 "name": "Case Studies",
-                "path": "/id_en/products/software/ems/eap/index_4.html"
+                "path": "/fa/id_en/products/software/ems/eap/index_4.html"
             },
             {
                 "name": "Related Videos",
-                "path": "/id_en/products/software/ems/eap/index_5.html"
+                "path": "/fa/id_en/products/software/ems/eap/index_5.html"
             }
         ]
     },
   "directories": {
     "name": "Home",
-    "path": "/id_en/index.html",
+    "path": "/fa/id_en/index.html",
     "child": [
       {
         "name": "Products",
-        "path": "/id_en/products/index.html",
+        "path": "/fa/id_en/products/index.html",
         "child": [
           {
             "name": "Energy Saving Support Software",
-            "path": "/id_en/products/software/ems/index.html",
+            "path": "/fa/id_en/products/software/ems/index.html",
             "child": [
               {
                 "name": "Energy Saving Support Software EcoAdviser",
-                "path": "/id_en/products/software/ems/eap/index.html"
+                "path": "/fa/id_en/products/software/ems/eap/index.html"
               }
             ]
           }
@@ -53,12 +53,12 @@
   },
   "switchNav": {
     "name": "Energy Saving Support Software",
-    "path": "/id_en/products/software/ems/index.html",
+    "path": "/fa/id_en/products/software/ems/index.html",
     "child": [
       {
         "group": "Energy Saving Support Software",
         "name": "Energy Saving Support Software EcoAdviser",
-        "feature": "/id_en/products/software/ems/eap/index.html",
+        "feature": "/fa/id_en/products/software/ems/eap/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ecoadviser&current=EcoAdviser",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ecoadviser&current=EcoAdviser",
         "discon": ""

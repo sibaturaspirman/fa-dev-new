@@ -1,15 +1,15 @@
 {
 	"layerNav": {
 		"name": "Flexible I/O/High-Speed Counter",
-		"path": "/id_en/products/cnt/plcl/pmerit/counter/index.html",
+		"path": "/fa/id_en/products/cnt/plcl/pmerit/counter/index.html",
 		"firstLayer": [
 			{
 				"name": "Lineup",
-				"path": "/id_en/products/cnt/plcl/pmerit/counter/index.html"
+				"path": "/fa/id_en/products/cnt/plcl/pmerit/counter/index.html"
 			},
 			{
 				"name": "Flexible High-Speed I/O Control Module Features",
-				"path": "/id_en/products/cnt/plcl/pmerit/counter/point.html"
+				"path": "/fa/id_en/products/cnt/plcl/pmerit/counter/point.html"
 			}
 		]
 	}

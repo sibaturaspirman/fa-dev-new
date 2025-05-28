@@ -1,23 +1,23 @@
 {
   "layerNav": {
     "name": "Industrial Computer MELIPC",
-    "path": "/id_en/products/edge/melipc/index.html",
+    "path": "/fa/id_en/products/edge/melipc/index.html",
     "firstLayer": [
       {
         "name": "Setting/programming software",
-        "path": "/id_en/products/edge/melipc/smerit/index.html"
+        "path": "/fa/id_en/products/edge/melipc/smerit/index.html"
       },
       {
         "name": "MI Configurator",
-        "path": "/id_en/products/edge/melipc/smerit/mic.html"
+        "path": "/fa/id_en/products/edge/melipc/smerit/mic.html"
       },
       {
         "name": "CW Workbench 4",
-        "path": "/id_en/products/edge/melipc/smerit/cww.html"
+        "path": "/fa/id_en/products/edge/melipc/smerit/cww.html"
       },
       {
         "name": "Solution template",
-        "path": "/id_en/products/edge/melipc/smerit/soltemp.html"
+        "path": "/fa/id_en/products/edge/melipc/smerit/soltemp.html"
       }
     ]
   }

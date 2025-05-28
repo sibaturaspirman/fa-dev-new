@@ -1,35 +1,35 @@
 {
   "layerNav": {
     "name": "FREQROL-XC series",
-    "path": "/id_en/products/drv/inv/items/fr_xc/index.html",
+    "path": "/fa/id_en/products/drv/inv/items/fr_xc/index.html",
     "firstLayer": [
       {
         "name": "Outline",
-        "path": "/id_en/products/drv/inv/pmerit/fr_xc/index.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_xc/index.html"
       },
       {
         "name": "Compact design offering solution to harmonic problems",
-        "path": "/id_en/products/drv/inv/pmerit/fr_xc/feature01.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_xc/feature01.html"
       },
       {
         "name": "Power regeneration contributing to energy saving",
-        "path": "/id_en/products/drv/inv/pmerit/fr_xc/feature02.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_xc/feature02.html"
       },
       {
         "name": "Other features",
-        "path": "/id_en/products/drv/inv/pmerit/fr_xc/feature03.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_xc/feature03.html"
       },
       {
         "name": "Application examples",
-        "path": "/id_en/products/drv/inv/pmerit/fr_xc/feature04.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_xc/feature04.html"
       },
       {
         "name": "Model configuration",
-        "path": "/id_en/products/drv/inv/pmerit/fr_xc/feature05.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_xc/feature05.html"
       },
       {
         "name": "Combination",
-        "path": "/id_en/products/drv/inv/pmerit/fr_xc/feature06.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_xc/feature06.html"
       }
     ]
   }

@@ -1,19 +1,19 @@
 {
 	"layerNav": {
 		"name": "Network",
-		"path": "/id_en/products/cnt/plcl/pmerit/network/index.html",
+		"path": "/fa/id_en/products/cnt/plcl/pmerit/network/index.html",
 		"firstLayer": [
 			{
 				"name": "Lineup",
-				"path": "/id_en/products/cnt/plcl/pmerit/network/index.html"
+				"path": "/fa/id_en/products/cnt/plcl/pmerit/network/index.html"
 			},
 			{
 				"name": "Features",
-				"path": "/id_en/products/cnt/plcl/pmerit/network/point.html"
+				"path": "/fa/id_en/products/cnt/plcl/pmerit/network/point.html"
 			},
 			{
 				"name": "Network diagram",
-				"path": "/id_en/products/cnt/plcl/pmerit/network/layer.html"
+				"path": "/fa/id_en/products/cnt/plcl/pmerit/network/layer.html"
 			}
 		]
 	}

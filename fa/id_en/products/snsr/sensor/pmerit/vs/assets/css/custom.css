@@ -98,7 +98,7 @@
 .prod_name th {background-color:#808b98 !important; color: #ffffff}
 /* PC専用表示 */
 .stepup1-3 {
-    background-image: url("/id_en/products/snsr/sensor/pmerit/vs/soft/img/tool_step_bg.png");
+    background-image: url("/fa/id_en/products/snsr/sensor/pmerit/vs/soft/img/tool_step_bg.png");
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -110,7 +110,7 @@
     }
 .stepup4 {
     background-size: contain;
-    background: url("/id_en/products/snsr/sensor/pmerit/vs/soft/img/tool_step_bg_end.png") no-repeat;
+    background: url("/fa/id_en/products/snsr/sensor/pmerit/vs/soft/img/tool_step_bg_end.png") no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;

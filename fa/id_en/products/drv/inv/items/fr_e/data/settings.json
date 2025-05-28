@@ -39,17 +39,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -60,7 +60,7 @@
 			{
 				"name": "Featured Products",
 				"icon": "announce",
-				"link": "/id_en/products/drv/inv/ex/watch/index.html"
+				"link": "/fa/id_en/products/drv/inv/ex/watch/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
@@ -119,17 +119,17 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_en/download/?modal=cad"
+				"link": "/fa/id_en/download/?modal=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_en/download/?modal=software"
+				"link": "/fa/id_en/download/?modal=software"
 			},
 			{
 				"name": "Sample Library",
 				"icon": "library",
-				"link": "/id_en/download/?modal=lib"
+				"link": "/fa/id_en/download/?modal=lib"
 			}
 		]
 	},
@@ -151,17 +151,17 @@
 		"items": [
             {
 				"name": "The energy saving calculation system",
-				"image": "/id_en/products/drv/inv/img/banner_simulation.jpg",
-				"link": "/id_en/products/drv/inv/pmerit/select/index.html"
+				"image": "/fa/id_en/products/drv/inv/img/banner_simulation.jpg",
+				"link": "/fa/id_en/products/drv/inv/pmerit/select/index.html"
             },
             {
 				"name": "Digital Catalogs",
-				"image": "/id_en/products/drv/inv/img/banner_web-catalog.jpg",
-				"link": "/id_en/products/drv/inv/pmerit/catalog_en.html"
+				"image": "/fa/id_en/products/drv/inv/img/banner_web-catalog.jpg",
+				"link": "/fa/id_en/products/drv/inv/pmerit/catalog_en.html"
             },
             {
 				"name": "New features make things even easier to use!",
-				"image": "/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/fa/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
             }
 		]
@@ -172,7 +172,7 @@
 			{
 				"name": "Contact us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

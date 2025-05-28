@@ -916,7 +916,7 @@ if(isDotPage) {
 				$(this).attr('height', imgHeight);
 				$(this).wrap('<p><a href="javascript:tablePicture(\'' + filePath + "\')\"></a></p>");
 				var parent = $(this).parent().parent();
-				parent.after('<p><a href="javascript:tablePicture(\'' + filePath + "\')\"><img class=\"icon\" src=\"/id_en/shared/common/img/icon/icon_zoom_txt.svg\" width=\"40\" height=\"12\" alt=\"Zoom\"></img></a></p>");
+				parent.after('<p><a href="javascript:tablePicture(\'' + filePath + "\')\"><img class=\"icon\" src=\"/fa/id_en/shared/common/img/icon/icon_zoom_txt.svg\" width=\"40\" height=\"12\" alt=\"Zoom\"></img></a></p>");
 				parent.parent().children('p').wrapAll('<div class="outlineimg"></div>');
 			}
 			//表示状態にする
@@ -954,7 +954,7 @@ if(isDotPage) {
 		new_window.document.write("<img src=\"" + img.src + "\" alt=\"" + specSearchLabels.zoomImage + "\" title=\"" + specSearchLabels.zoomImage + "\">");
 		new_window.document.write("<div>");
 		new_window.document.write("<a href=\"#\" onClick=\"window.close(); return false;\">");
-		new_window.document.write("<img src=\"/id_en/shared/img/module/bt_close_bunrui.gif\" width=\"58\" height=\"18\" alt=\"" + specSearchLabels.close + "\" title=\"" + specSearchLabels.close + "\">\n");
+		new_window.document.write("<img src=\"/fa/id_en/shared/img/module/bt_close_bunrui.gif\" width=\"58\" height=\"18\" alt=\"" + specSearchLabels.close + "\" title=\"" + specSearchLabels.close + "\">\n");
 		new_window.document.write("</div>");
 		new_window.document.write("<" + "/body>");
 		new_window.document.write("<" + "/html>");
@@ -1858,8 +1858,8 @@ if(isDotPage) {
 					'link': $searchPankuzuListItems.eq(3).find('a').attr('href')
 				}
 				const $breadcrumbListHTML = `
-					<li class="c-breadcrumb__list-item"><a href="/id_en/">${productsLabels.top}</a></li>
-					<li class="c-breadcrumb__list-item"><a href="/id_en/products/index.html">${productsLabels.products}</a></li>
+					<li class="c-breadcrumb__list-item"><a href="/fa/id_en/">${productsLabels.top}</a></li>
+					<li class="c-breadcrumb__list-item"><a href="/fa/id_en/products/index.html">${productsLabels.products}</a></li>
 					<li class="c-breadcrumb__list-item"><a href="${kisyuTopObject.link}">${kisyuTopObject.name}</a></li>
 					<li class="c-breadcrumb__list-item"><span>${productsLabels.spec}</span></li>
 				`;
@@ -3599,8 +3599,8 @@ if(isDotPage) {
 					'link': $searchPankuzuListItems.eq(3).find('a').attr('href')
 				}
 				const $breadcrumbListHTML = `
-					<li class="c-breadcrumb__list-item"><a href="/id_en/">${productsLabels.top}</a></li>
-					<li class="c-breadcrumb__list-item"><a href="/id_en/products/index.html">${productsLabels.products}</a></li>
+					<li class="c-breadcrumb__list-item"><a href="/fa/id_en/">${productsLabels.top}</a></li>
+					<li class="c-breadcrumb__list-item"><a href="/fa/id_en/products/index.html">${productsLabels.products}</a></li>
 					<li class="c-breadcrumb__list-item"><a href="${kisyuTopObject.link}">${kisyuTopObject.name}</a></li>
 					<li class="c-breadcrumb__list-item"><span>${productsLabels.spec}</span></li>
 				`;

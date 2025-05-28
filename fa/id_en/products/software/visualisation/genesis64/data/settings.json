@@ -31,17 +31,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -80,7 +80,7 @@
 		"recommended": [
 			{
 				"name": "ICONICS Automation Software Suite",
-				"img": "/id_en/products/software/visualisation/genesis64/assets/img/l08785engd.jpg",
+				"img": "/fa/id_en/products/software/visualisation/genesis64/assets/img/l08785engd.jpg",
 				"link": "https://dl.mitsubishielectric.com/dl/fa/document/catalog/scada/l08785eng/l08785engd.pdf"
 			}
 		],
@@ -126,7 +126,7 @@
 			{
 				"name": "Contact us",
 				"icon": "estimate",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

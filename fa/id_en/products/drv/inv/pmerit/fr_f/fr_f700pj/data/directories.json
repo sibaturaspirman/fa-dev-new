@@ -1,43 +1,43 @@
 {
   "layerNav": {
     "name": "FREQROL-F series",
-    "path": "/id_en/products/drv/inv/items/fr_f/index.html",
+    "path": "/fa/id_en/products/drv/inv/items/fr_f/index.html",
     "firstLayer": [
       {
         "name": "Outline",
-        "path": "/id_en/products/drv/inv/pmerit/fr_f/index.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/index.html"
       },
       {
         "name": "FREQROL-F800",
-        "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/index.html"
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f800/index.html"
       },
       {
         "name": "FREQROL-F700PJ",
-        "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html",
+        "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html",
         "secondLayer": [
           {
             "name": "Concept",
-            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html"
           },
           {
             "name": "Inverter Control for Energy Saving",
-            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj01.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj01.html"
           },
           {
             "name": "Wire and Space Saving",
-            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj02.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj02.html"
           },
           {
             "name": "Easy Operation and Maintenance",
-            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj03.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj03.html"
           },
           {
             "name": "Optimum for Fan and Pump Applications",
-            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj04.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj04.html"
           },
           {
             "name": "Model Configuration",
-            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj05.html"
+            "path": "/fa/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj05.html"
           }
         ]
       }
