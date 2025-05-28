@@ -408,18 +408,18 @@
 		var currentDirectory = window.MEL_SETTINGS.current_directory;
 		var currentDirectoryArray = window.MEL_SETTINGS.current_directories;
 		// FAサイト直下のページは、homeカテゴリーとして処理
-		if(!currentDirectoryArray[2]) {
-			currentDirectoryArray[2] = 'home';
+		if(!currentDirectoryArray[3]) {
+			currentDirectoryArray[3] = 'home';
 		}
 		// カテゴリートップにある設定ファイルパスを指定
-		var settingsJsonPath = currentDirectoryArray.slice(0, 3).join('/')  + '/data/settings.json';
-		var directoriesJsonPath = currentDirectoryArray.slice(0, 3).join('/')  + '/data/directories.json';
+		var settingsJsonPath = currentDirectoryArray.slice(0, 4).join('/')  + '/data/settings.json';
+		var directoriesJsonPath = currentDirectoryArray.slice(0, 4).join('/')  + '/data/directories.json';
 
 		// 製品情報の機種配下のページの場合は、機種配下用のディレクトリ設定ファイルを指定		
-		if(currentDirectoryArray[2].indexOf('products') !== -1 && currentDirectoryArray[3] === 'software' && currentDirectoryArray[5]) {
+		if(currentDirectoryArray[3].indexOf('products') !== -1 && currentDirectoryArray[4] === 'software' && currentDirectoryArray[6]) {
+			directoriesJsonPath = currentDirectoryArray.slice(0, 7).join('/')   + '/data/directories.json';
+		} else if(currentDirectoryArray[3].indexOf('products') !== -1 && currentDirectoryArray[6]) {
 			directoriesJsonPath = currentDirectoryArray.slice(0, 6).join('/')   + '/data/directories.json';
-		} else if(currentDirectoryArray[2].indexOf('products') !== -1 && currentDirectoryArray[5]) {
-			directoriesJsonPath = currentDirectoryArray.slice(0, 5).join('/')   + '/data/directories.json';
 		}
 		
 		// ディレクトリ設定ファイルを上書きするパラメータが設定されている場合
