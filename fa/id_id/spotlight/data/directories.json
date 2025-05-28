@@ -1,0 +1,12 @@
+{
+  "directories": {
+    "name": "FAトップ",
+    "path": "/id_id/",
+    "child": [
+      {
+        "name": "Spotlight",
+        "path": "/id_id/spotlight/"
+      }
+    ]
+  }
+}

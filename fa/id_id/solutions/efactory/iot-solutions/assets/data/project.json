@@ -1,0 +1,146 @@
+[
+	{
+		"name": "MX Sheet",
+		"url": "/id_id/products/cnt/plceng/smerit/mx_sheet/index.html",
+		"number": "01",
+		"target": "_self"
+	},
+	{
+		"name": "MX Component",
+		"url": "/id_id/products/cnt/plceng/smerit/mx_component/index.html",
+		"number": "02",
+		"target": "_self"
+	},
+	{
+		"name": "Paket Pemula e-F@ctory",
+		"url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/support-module/index.html",
+		"number": "03",
+		"target": "_self"
+	},
+	{
+		"name": "Lisensi Fungsi Seluler GOT untuk GOT2000",
+		"url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_01.html",
+		"number": "04",
+		"target": "_self"
+	},
+	{
+		"name": "Diagnosis Getaran Mesin Rotary iQ Monozukuri",
+		"url": "/id_id/sols/efactory/component/monozukuri/rmvdiagnosis/index.html",
+		"number": "05",
+		"target": "_self"
+	},
+	{
+		"name": "Diagnosis Keausan Alat iQ Monozukuri untuk Perkakas Mesin",
+		"url": "/id_id/sols/efactory/component/monozukuri/twdiagnosis/index.html",
+		"number": "06",
+		"target": "_self"
+	},
+	{
+		"name": "MELSOFT MaiLab",
+		"url": "/id_id/products/software/data-science-tools/mailab/index.html",
+		"number": "07",
+		"target": "_self"
+	},
+	{
+		"name": "Modul CPU Pengontrol Terprogram Seri MELSEC iQ-R",
+		"url": "/id_id/products/cnt/plcr/pmerit/cpu/cpu.html",
+		"number": "08",
+		"target": "_self"
+	},
+	{
+		"name": "Fungsi Komunikasi CPU Sederhana Seri MELSEC iQ-F",
+		"url": "/id_id/products/cnt/plcf/pmerit/cpu/index.html",
+		"number": "09",
+		"target": "_self"
+	},
+	{
+		"name": "Fungsi Pencatatan Seri GOT2000",
+		"url": "/id_id/products/hmi/got/pmerit/got2000/got_solutions/case_39.html",
+		"number": "10",
+		"target": "_self"
+	},
+	{
+		"name": "Perangkat Lunak yang Kompatibel dengan Edgecross (Pengumpul Data)",
+		"url": "/id_id/solutions/efactory/component/edgsw/dc/index.html",
+		"number": "11",
+		"target": "_self"
+	},
+	{
+		"name": "iQ Monozukuri Process Remote Monitoring",
+		"url": "/id_id/products/hmi/got/pmerit/apppack/prm/index.html",
+		"number": "12",
+		"target": "_self"
+	},
+	{
+		"name": "MELSOFT GT SoftGOT2000",
+		"url": "/id_id/products/hmi/got/pmerit/sgt/sgt2000/index.html",
+		"number": "13",
+		"target": "_self"
+	},
+	{
+		"name": "Seri GOT2000",
+		"url": "https://www.mitsubishielectric.com/fa/products/hmi/got/items/got2000/index.html",
+		"number": "14",
+		"target": "_self"
+	},
+	{
+		"name": "Energy Saving Support Software EcoAdviser",
+		"url": "/id_id/products/software/ems/eap/index.html",
+		"number": "15",
+		"target": "_self"
+	},
+	{
+		"name": "Energy Saving Data Collecting Servers EcoWebServerIII",
+		"url": "/id_id/products/pmng/ems/items/ecoserver/index.html",
+		"number": "16",
+		"target": "_self"
+	},
+	{
+		"name": "Modul Antarmuka MES Seri MELSEC iQ-R",
+		"url": "/id_id/products/cnt/plcr/pmerit/it_connect/mes.html",
+		"number": "17",
+		"target": "_self"
+	},
+	{
+		"name": "Perangkat lunak SCADA-ICONICS Suite™",
+		"url": "/id_id/products/software/visualisation/genesis64/index.html",
+		"number": "18",
+		"target": "_self"
+	},
+	{
+		"name": "Modul Server OPC UA Seri MELSEC iQ-R",
+		"url": "/id_id/products/cnt/plcr/pmerit/it_connect/opc.html",
+		"number": "19",
+		"target": "_self"
+	},
+	{
+		"name": "Industrial Computer MELIPC Series",
+		"url": "/id_id/products/edge/melipc/",
+		"number": "20",
+		"target": "_self"
+	},
+	{
+		"name": "Modul Fungsi Cerdas MELSEC iQ-R Seri C (RD55UP12-V)",
+		"url": "/id_id/products/cnt/plcr/pmerit/cpu/c_cont.html",
+		"number": "21",
+		"target": "_self"
+	},
+	{
+		"name": "Modul OPC UA Seri MELSEC iQ-F",
+		"url": "/id_id/products/cnt/plcf/pmerit/communication/opc_ua.html",
+		"number": "22",
+		"target": "_self"
+	},
+	{
+		"name": "",
+		"url": "",
+		"number": "23",
+		"target": "_self"
+	},
+	{
+		"name": "",
+		"url": "",
+		"number": "24",
+		"target": "_self"
+	}
+]

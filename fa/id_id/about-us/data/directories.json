@@ -1,0 +1,106 @@
+{
+  "directories": {
+    "name": "HOME",
+    "path": "/id_id/",
+    "child": [
+      {
+        "name": "Tentang Kami",
+        "path": "/id_id/about-us/",
+        "child": [
+          {
+            "name": "Pengembangan dan Produksi Terdepan",
+            "path": "/id_id/about-us/core-competencies/manufacturing/"
+          },
+          {
+            "name": "Jajaran Produk yang Luas",
+            "path": "/id_id/about-us/core-competencies/products/"
+          },
+          {
+            "name": "Menyediakan Solusi Terintegrasi",
+            "path": "/id_id/about-us/core-competencies/solutions/"
+          },
+          {
+            "name": "Jaringan Layanan Global",
+            "path": "/id_id/about-us/core-competencies/global-network/"
+          }
+        ]
+      },
+      {
+        "name": "Tentang Kami",
+        "path": "/id_id/about-us/",
+        "child": [
+          {
+            "name": "Komitmen Kami terhadap Keberlanjutan",
+            "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/",
+            "child": [
+              {
+                "name": "Kontribusi melalui peningkatan efisiensi dan produktivitas",
+                "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/increase-efficiency.html"
+              },
+              {
+                "name": "Kontribusi melalui wawasan visual",
+                "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/visualization.html"
+              },
+              {
+                "name": "Kontribusi melalui teknologi otomasi",
+                "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/automation.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tentang Kami",
+        "path": "/id_id/about-us/",
+        "child": [
+          {
+            "name": "Keamanan Produk FA",
+            "path": "https://www.mitsubishielectric.com/fa/about-us/security/"
+          },
+          {
+            "name": "Informasi Kerentanan",
+            "path": "https://www.mitsubishielectric.com/fa/about-us/security/vulnerability/"
+          }
+        ]
+      },
+      {
+        "name": "Tentang Kami",
+        "path": "/id_id/about-us/",
+        "child": [
+          {
+            "name": "Lokasi di seluruh dunia",
+            "path": "https://www.mitsubishielectric.com/fa/about-us/overseas/index.html",
+            "child": [
+              {
+                "name": "Amerika",
+                "path": "https://www.mitsubishielectric.com/fa/about-us/overseas/americas/index.html"
+              },
+              {
+                "name": "Asia-Pasifik",
+                "path": "https://www.mitsubishielectric.com/fa/about-us/overseas/apac/index.html"
+              },
+              {
+                "name": "Eropa, Timur Tengah dan Afrika",
+                "path": "https://www.mitsubishielectric.com/fa/about-us/overseas/emea/index.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tentang Kami",
+        "path": "/id_id/about-us/",
+        "child": [
+          {
+            "name": "Kontribusi FA selama bertahun-tahun",
+            "path": "/id_id/about-us/history/contribution/"
+          },
+          {
+            "name": "Inovasi FA, yang pertama dan visi",
+            "path": "/id_id/about-us/history/innovation/"
+          }
+        ]
+      }
+    ]
+  }
+}

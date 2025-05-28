@@ -1,0 +1,12 @@
+{
+  "directories": {
+    "name": "FAトップ",
+    "path": "/id_id/",
+    "child": [
+      {
+        "name": "Media Library",
+        "path": "/id_id/media-library/"
+      }
+    ]
+  }
+}

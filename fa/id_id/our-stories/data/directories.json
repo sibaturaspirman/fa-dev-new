@@ -1,0 +1,12 @@
+{
+  "directories": {
+    "name": "Beranda",
+    "path": "/id_id/",
+    "child": [
+      {
+        "name": "Pengalaman Kami",
+        "path": "/id_id/our-stories/"
+      }
+    ]
+  }
+}
