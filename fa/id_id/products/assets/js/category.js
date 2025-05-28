@@ -242,9 +242,9 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     pageRootPath = queryParametersObject.dir + '/';
   } else {
     // ソフトウェアのLP3はルートディレクトリを一段深い所を指定
-    pageRootPath = (window.MEL_SETTINGS.current_directories[3] === 'software' && window.MEL_SETTINGS.current_directories[5])
-    ? window.MEL_SETTINGS.current_directories.slice(0, 6).join('/') + '/'
-    : window.MEL_SETTINGS.current_directories.slice(0, 5).join('/') + '/';
+    pageRootPath = (window.MEL_SETTINGS.current_directories[4] === 'software' && window.MEL_SETTINGS.current_directories[6])
+    ? window.MEL_SETTINGS.current_directories.slice(0, 7).join('/') + '/'
+    : window.MEL_SETTINGS.current_directories.slice(0, 6).join('/') + '/';
   }
   // 機種共通設定ファイル
   const pageDirectoriesJsonPath = pageRootPath + 'data/directories.json';
