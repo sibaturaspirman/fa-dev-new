@@ -26,7 +26,7 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_en/download/cad/search.page?mode=cad&kisyu=/ssc"
+						"link": "/fa/id_en/download/cad/search.page?mode=cad&kisyu=/ssc"
 					},
 					{
 						"name": "Software",
@@ -118,7 +118,7 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_en/download/cad/search.page?mode=cad&kisyu=/ssc"
+				"link": "/fa/id_en/download/cad/search.page?mode=cad&kisyu=/ssc"
 			},
 			{
 				"name": "Software",
@@ -142,17 +142,17 @@
 		"items": [
 				{
 					"name": "New features make things even easier to use!",
-					"image": "/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
+					"image": "/fa/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
 					"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 				},
 				{
 					"name": "FAQ",
-					"image": "/id_en/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
+					"image": "/fa/id_en/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
 					"link": "https://fa-faq.mitsubishielectric.com/category/show/1997"
 				},
 				{
 					"name": "FA SPEC Search",
-					"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
+					"image": "/fa/id_en/products/assets/img/banner_fa-spec-search.jpg",
 					"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 				}
 		]
@@ -163,7 +163,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

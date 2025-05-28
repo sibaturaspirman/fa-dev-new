@@ -1,43 +1,43 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/id_en/",
+    "path": "/fa/id_en/",
     "child": [
       {
         "name": "Programmable Controllers MELSEC",
-        "path": "/id_en/products/cnt/plc/index.html",
+        "path": "/fa/id_en/products/cnt/plc/index.html",
         "child": [
           {
             "name": "MELSEC iQ-R Series",
-            "path": "/id_en/products/cnt/plcr/items/index.html"
+            "path": "/fa/id_en/products/cnt/plcr/items/index.html"
           },
           {
             "name": "MELSEC iQ-F Series",
-            "path": "/id_en/products/cnt/plcf/items/index.html"
+            "path": "/fa/id_en/products/cnt/plcf/items/index.html"
           },
           {
             "name": "MELSEC-Q Series",
-            "path": "/id_en/products/cnt/plcq/items/index.html"
+            "path": "/fa/id_en/products/cnt/plcq/items/index.html"
           },
           {
             "name": "MELSEC-L Series",
-            "path": "/id_en/products/cnt/plcl/items/index.html"
+            "path": "/fa/id_en/products/cnt/plcl/items/index.html"
           },
           {
             "name": "MELSEC-F Series",
-            "path": "/id_en/products/cnt/plc_fx/items/index.html"
+            "path": "/fa/id_en/products/cnt/plc_fx/items/index.html"
           },
           {
             "name": "MELSEC-QS/WS Series",
-            "path": "/id_en/products/cnt/plcqsws/items/index.html"
+            "path": "/fa/id_en/products/cnt/plcqsws/items/index.html"
           },
           {
             "name": "MELSEC-A Series",
-            "path": "/id_en/products/cnt/plca/pmerit/concept/index.html"
+            "path": "/fa/id_en/products/cnt/plca/pmerit/concept/index.html"
           },
           {
             "name": "Network-related products",
-            "path": "/id_en/products/cnt/plcnet/items/index.html"
+            "path": "/fa/id_en/products/cnt/plcnet/items/index.html"
           }
             ]
         }
@@ -45,12 +45,12 @@
   },
   "switchNav": {
     "name": "Programmable Controllers MELSEC",
-    "path": "/id_en/products/cnt/plc/index.html",
+    "path": "/fa/id_en/products/cnt/plc/index.html",
     "child": [
       {
         "group": "LP3",
         "name": "Line up",
-        "path": "/id_en/products/cnt/plc/pmerit/",
+        "path": "/fa/id_en/products/cnt/plc/pmerit/",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -58,7 +58,7 @@
       {
         "group": "LP3",
         "name": "Application Examples",
-        "path": "/id_en/products/cnt/plc/pmerit/case.html",
+        "path": "/fa/id_en/products/cnt/plc/pmerit/case.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -66,7 +66,7 @@
       {
         "group": "LP3",
         "name": "Selection Guide",
-        "path": "/id_en/products/cnt/plc/pmerit/guide.html",
+        "path": "/fa/id_en/products/cnt/plc/pmerit/guide.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -74,7 +74,7 @@
       {
         "group": "LP3",
         "name": "MELSEC History",
-        "path": "/id_en/products/cnt/plc/pmerit/history.html",
+        "path": "/fa/id_en/products/cnt/plc/pmerit/history.html",
         "spec": "",
         "standard": "",
         "discon": ""

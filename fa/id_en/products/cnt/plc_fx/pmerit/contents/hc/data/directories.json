@@ -1,15 +1,15 @@
 {
   "layerNav": {
     "name": "MELSEC-F Series",
-    "path": "/id_en/products/cnt/plc_fx/items/index.html",
+    "path": "/fa/id_en/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
       {
         "name": "High-Speed Counting",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/hc/index.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/hc/index.html"
       },
       {
         "name": "Variety of functions",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/hc/function.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/hc/function.html"
       }
     ]
   }

@@ -156,7 +156,7 @@
       return `
         <div class="l-tile__item">
         <div class="c-card c-card--movie">
-        <a class="c-card__link" href="/id_en/media-library/index.html?movie=${data.movieID}">
+        <a class="c-card__link" href="/fa/id_en/media-library/index.html?movie=${data.movieID}">
         <div class="c-card__head">
         <div class="c-card__img">
         <img src="http://img.youtube.com/vi/${data.movieID}/sddefault.jpg" alt="" decoding="async">

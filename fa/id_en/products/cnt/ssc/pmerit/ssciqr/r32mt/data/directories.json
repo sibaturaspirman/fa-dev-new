@@ -1,15 +1,15 @@
 {
   "layerNav": {
     "name": "Motion Controller",
-    "path": "/id_en/products/cnt/ssc/pmerit/ssciqr/r32mt/point.html",
+    "path": "/fa/id_en/products/cnt/ssc/pmerit/ssciqr/r32mt/point.html",
     "firstLayer": [
           {
             "name": "Features",
-            "path": "/id_en/products/cnt/ssc/pmerit/ssciqr/r32mt/point.html"
+            "path": "/fa/id_en/products/cnt/ssc/pmerit/ssciqr/r32mt/point.html"
           },
           {
             "name": "System Configuration",
-            "path": "/id_en/products/cnt/ssc/pmerit/ssciqr/r32mt/index.html"
+            "path": "/fa/id_en/products/cnt/ssc/pmerit/ssciqr/r32mt/index.html"
           }
         ]
   }

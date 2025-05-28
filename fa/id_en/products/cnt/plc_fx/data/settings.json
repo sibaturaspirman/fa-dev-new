@@ -26,12 +26,12 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_en/download/?modal=cad"
+						"link": "/fa/id_en/download/?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_en/download/?modal=software"
+						"link": "/fa/id_en/download/?modal=software"
 					}
 				]
 			}
@@ -49,17 +49,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -70,7 +70,7 @@
 			{
 				"name": "Featured Products",
 				"icon": "announce",
-				"link": "/id_en/products/cnt/plc_fx/pmerit/contents/index.html"
+				"link": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/index.html"
 			},
 			{
 				"name": "Product Specifications",
@@ -188,7 +188,7 @@
 		"items": [
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_en/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -199,7 +199,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

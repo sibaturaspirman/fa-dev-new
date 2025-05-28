@@ -231,7 +231,7 @@ a.dtl_btn:hover img {
     display: none;
 }
 #fancybox-close {
-    background: url("/id_en/products/cnt/cnc/pmerit/cnc/m800_m80/images/btn_close.gif") no-repeat 0 0;
+    background: url("/fa/id_en/products/cnt/cnc/pmerit/cnc/m800_m80/images/btn_close.gif") no-repeat 0 0;
     height: 26px;
     right: 17px;
     top: 17px;
@@ -261,7 +261,7 @@ a.dtl_btn:hover img {
   opacity:0.8;
 }
 .modal .btn span {
-    background: url("/id_en/products/cnt/cnc/pmerit/cnc/m800_m80/images/icn_arw_white.png") no-repeat left center;
+    background: url("/fa/id_en/products/cnt/cnc/pmerit/cnc/m800_m80/images/icn_arw_white.png") no-repeat left center;
     color: #fff;
     display: inline-block;
     padding-left: 12px;

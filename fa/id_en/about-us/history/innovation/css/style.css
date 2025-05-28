@@ -31,11 +31,11 @@ body.is-fixed { position: fixed; width:100%; }
 /*! ======================================
     innovation_title
 ====================================== */
-.innovation_title { box-sizing: border-box; background: url("/id_en/business/history/innovation/img/bg_title.jpg") center center/cover no-repeat; color: #ffffff; display: flex; align-items: flex-end; position: relative; padding: 0 0 25px 40px; height: 225px; }
+.innovation_title { box-sizing: border-box; background: url("/fa/id_en/business/history/innovation/img/bg_title.jpg") center center/cover no-repeat; color: #ffffff; display: flex; align-items: flex-end; position: relative; padding: 0 0 25px 40px; height: 225px; }
 .innovation_title .title_heading { font-size: 100%; }
 .innovation_title .title_heading span { display: block; font-size: 170%; font-weight: bold; line-height: 1.2; text-shadow: 0 0 10px rgba(0,0,0,0.5), 0 0 3px rgba(0,0,0,1), 0 0 3px rgba(0,0,0,1), 0 0 3px rgba(0,0,0,1); }
 @media screen and (max-width:768px){
-.innovation_title { background: url("/id_en/business/history/innovation/img/bg_title_sp.jpg") center center/cover no-repeat; align-items: center; justify-content: center; padding: 0; height: 172px; }
+.innovation_title { background: url("/fa/id_en/business/history/innovation/img/bg_title_sp.jpg") center center/cover no-repeat; align-items: center; justify-content: center; padding: 0; height: 172px; }
 .innovation_title .title_heading span { font-size: 150%; text-align: center; }
 }
 

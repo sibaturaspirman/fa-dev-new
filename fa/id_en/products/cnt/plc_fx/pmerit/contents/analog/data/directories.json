@@ -1,15 +1,15 @@
 {
   "layerNav": {
     "name": "MELSEC-F Series",
-    "path": "/id_en/products/cnt/plc_fx/items/index.html",
+    "path": "/fa/id_en/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
       {
         "name": "Analog Control",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/analog/index.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/analog/index.html"
       },
       {
         "name": "Input device for temperature sensor",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/analog/temperature.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/analog/temperature.html"
       }
     ]
   }

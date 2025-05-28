@@ -1,4 +1,4 @@
-$('body').append('<div class="innovation_modal_bg"></div><div class="innovation_modal"><div class="modal_close"><a href="javascript:;"><span><img src="/id_en/about-us/history/innovation/img/icon_close.png" alt="閉じる"></span></a></div><div class="modal_contents"><div class="modal_inner"></div></div></div>');
+$('body').append('<div class="innovation_modal_bg"></div><div class="innovation_modal"><div class="modal_close"><a href="javascript:;"><span><img src="/fa/id_en/about-us/history/innovation/img/icon_close.png" alt="閉じる"></span></a></div><div class="modal_contents"><div class="modal_inner"></div></div></div>');
 var $modal = $('.innovation_modal');
 var $modalBg = $('.innovation_modal_bg');
 var $modalContents = $('.innovation_modal .modal_inner');

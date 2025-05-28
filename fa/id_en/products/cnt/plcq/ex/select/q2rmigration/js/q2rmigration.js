@@ -775,7 +775,7 @@ function closeDatatable() {
 function popupDetail(_product) {
 	if (_product != "" && _product != null && typeof _product != "undefind") {
 		//var url = "https://www.mitsubishielectric.co.jp/fa/products/faspec/point.do?kisyu=plcr&formNm=@&popup=1&ref=q2rmgr".replace("@", _product);
-   		var url = "/id_en/products/faspec/point.do?kisyu=plcr&formNm=@&popup=1&ref=q2rmgr".replace("@", _product);
+   		var url = "/fa/id_en/products/faspec/point.do?kisyu=plcr&formNm=@&popup=1&ref=q2rmgr".replace("@", _product);
 				
 		if (url && url.indexOf("formNm=@") == -1) {
 			var win = window.open(url, "popup", "width=" + 850 + ",height=" + 600 + ",toolbar=no,location=yes,status=no,scrollbars=yes");

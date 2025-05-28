@@ -1,47 +1,47 @@
 {
 	"layerNav": {
 		"name": "Network",
-		"path": "/id_en/products/cnt/plcr/pmerit/network/index.html",
+		"path": "/fa/id_en/products/cnt/plcr/pmerit/network/index.html",
 		"firstLayer": [
 			{
 				"name": "Features",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/index.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/index.html"
 			},
 			{
 				"name": "CC-Link IE TSN",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/ie_tsn.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/ie_tsn.html"
 			},
 			{
 				"name": "CC-Link IE Controller Network",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/ie_cont.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/ie_cont.html"
 			},
 			{
 				"name": "CC-Link IE Field Network",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/ie_field.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/ie_field.html"
 			},
 			{
 				"name": "CC-Link",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/cclink.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/cclink.html"
 			},
 			{
 				"name": "AnyWireASLINK",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/aslink.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/aslink.html"
 			},
 			{
 				"name": "MELSECNET/H",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/melsecnet.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/melsecnet.html"
 			},
 			{
 				"name": "Ethernet",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/ethernet.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/ethernet.html"
 			},
 			{
 				"name": "Serial communication",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/serial.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/serial.html"
 			},
 			{
 				"name": "Other open networks",
-				"path": "/id_en/products/cnt/plcr/pmerit/network/others.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/network/others.html"
 			}
 		]
 	}

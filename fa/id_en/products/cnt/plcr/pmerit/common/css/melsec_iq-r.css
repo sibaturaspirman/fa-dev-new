@@ -2008,10 +2008,10 @@ sub {
 	}
 }
 
-.txt_a {background: url("/id_en/products/cnt/plcr/pmerit/cpu/images/icon_a.png") no-repeat 0px 3px; padding-left: 1.25em}
-.txt_b {background: url("/id_en/products/cnt/plcr/pmerit/cpu/images/icon_b.png") no-repeat 0px 3px; padding-left: 1.25em}
-.txt_c {background: url("/id_en/products/cnt/plcr/pmerit/cpu/images/icon_c.png") no-repeat 0px 3px; padding-left: 1.25em}
-.txt_d {background: url("/id_en/products/cnt/plcr/pmerit/cpu/images/icon_d.png") no-repeat 0px 3px; padding-left: 1.25em}
+.txt_a {background: url("/fa/id_en/products/cnt/plcr/pmerit/cpu/images/icon_a.png") no-repeat 0px 3px; padding-left: 1.25em}
+.txt_b {background: url("/fa/id_en/products/cnt/plcr/pmerit/cpu/images/icon_b.png") no-repeat 0px 3px; padding-left: 1.25em}
+.txt_c {background: url("/fa/id_en/products/cnt/plcr/pmerit/cpu/images/icon_c.png") no-repeat 0px 3px; padding-left: 1.25em}
+.txt_d {background: url("/fa/id_en/products/cnt/plcr/pmerit/cpu/images/icon_d.png") no-repeat 0px 3px; padding-left: 1.25em}
 
 /*-------[ I/O ]-------------------------------------------------------------------------------------*/
 .iQ-R_io .feat_io .with_cmn {

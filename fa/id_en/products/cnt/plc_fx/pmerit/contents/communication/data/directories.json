@@ -1,39 +1,39 @@
 {
   "layerNav": {
     "name": "MELSEC-F Series",
-    "path": "/id_en/products/cnt/plc_fx/items/index.html",
+    "path": "/fa/id_en/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
       {
         "name": "Network/Communication",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/communication/index.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/communication/index.html"
       },
       {
         "name": "CC-Link, CC-Link/LT",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/communication/cclink_cclinklt.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/communication/cclink_cclinklt.html"
       },
       {
         "name": "N:N Network",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/communication/function03.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/communication/function03.html"
       },
       {
         "name": "Parallel Link",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/communication/function04.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/communication/function04.html"
       },
       {
         "name": "Computer Link",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/communication/function05.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/communication/function05.html"
       },
       {
         "name": "Non-protocol communication",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/communication/function06.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/communication/function06.html"
       },
       {
         "name": "Peripheral equipment communication",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/communication/function07.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/communication/function07.html"
       },
       {
         "name": "Inverter communication",
-        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/communication/function08.html"
+        "path": "/fa/id_en/products/cnt/plc_fx/pmerit/contents/communication/function08.html"
       }
     ]
   }

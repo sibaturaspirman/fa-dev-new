@@ -1,19 +1,19 @@
 {
 	"layerNav": {
 		"name": "Motion, Positioning",
-		"path": "/id_en/products/cnt/plcr/pmerit/motion/index.html",
+		"path": "/fa/id_en/products/cnt/plcr/pmerit/motion/index.html",
 		"firstLayer": [
 			{
 				"name": "Lineup",
-				"path": "/id_en/products/cnt/plcr/pmerit/motion/index.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/motion/index.html"
 			},
 			{
 				"name": "Features",
-				"path": "/id_en/products/cnt/plcr/pmerit/motion/merit.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/motion/merit.html"
 			},
 			{
 				"name": "Specifications",
-				"path": "/id_en/products/cnt/plcr/pmerit/motion/spec.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/motion/spec.html"
 			}
 		]
 	}

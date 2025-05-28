@@ -1,15 +1,15 @@
 {
   "layerNav": {
       "name": "Motion module",
-      "path": "/id_en/products/cnt/ssc/pmerit/ssciqf/fx5g/index.html",
+      "path": "/fa/id_en/products/cnt/ssc/pmerit/ssciqf/fx5g/index.html",
       "firstLayer": [
           {
               "name": "Features",
-              "path": "/id_en/products/cnt/ssc/pmerit/ssciqf/fx5g/index.html"
+              "path": "/fa/id_en/products/cnt/ssc/pmerit/ssciqf/fx5g/index.html"
           },
           {
               "name": "System Configuration",
-              "path": "/id_en/products/cnt/ssc/pmerit/ssciqf/fx5g/system.html"
+              "path": "/fa/id_en/products/cnt/ssc/pmerit/ssciqf/fx5g/system.html"
           }
       ]
   }

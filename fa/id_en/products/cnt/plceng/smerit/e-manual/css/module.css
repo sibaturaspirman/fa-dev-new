@@ -81,7 +81,7 @@
 .movie_tablet {
 	width: 780px;
 	height: 310px;
-	background-image: url("/id_en/products/cnt/plceng/smerit/e-manual/images/tablet_feature_bg.png");
+	background-image: url("/fa/id_en/products/cnt/plceng/smerit/e-manual/images/tablet_feature_bg.png");
 	margin-top: 15px;
 	overflow: hidden;
 	font-size: 90%;
@@ -95,7 +95,7 @@
 	height: 48px;
 	margin: 10px 0 0 20px;
 	padding-left: 50px;
-	background-image: url("/id_en/products/cnt/plceng/smerit/e-manual/images/app_icon.png");
+	background-image: url("/fa/id_en/products/cnt/plceng/smerit/e-manual/images/app_icon.png");
 	background-repeat : no-repeat;
 	font-size: 75%;
 }
@@ -103,7 +103,7 @@
 .movie_win {
 	width: 780px;
 	height: 325px;
-	background-image: url("/id_en/products/cnt/plceng/smerit/e-manual/images/windows_feature_bg.jpg");
+	background-image: url("/fa/id_en/products/cnt/plceng/smerit/e-manual/images/windows_feature_bg.jpg");
 	margin-top: 15px;
 	overflow: hidden;
 }

@@ -412,7 +412,7 @@
     });
 
     // CAD・ソフトウェアのダウンロード画面にアクセスする際、国・地域確認モーダルを表示
-    $('a[href*="/id_en/download/cad/"], a[href*="/id_en/download/software/"]').on('click.modal', function(e) {
+    $('a[href*="/fa/id_en/download/cad/"], a[href*="/fa/id_en/download/software/"]').on('click.modal', function(e) {
       e.preventDefault();
       const $this = $(this);
       const cookiesObject = MEL_SETTINGS.helper.getCookies();

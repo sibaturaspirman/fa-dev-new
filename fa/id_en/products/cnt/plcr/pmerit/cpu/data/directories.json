@@ -1,35 +1,35 @@
 {
 	"layerNav": {
 		"name": "CPU",
-		"path": "/id_en/products/cnt/plcr/pmerit/cpu/index.html",
+		"path": "/fa/id_en/products/cnt/plcr/pmerit/cpu/index.html",
 		"firstLayer": [
 			{
 				"name": "Features",
-				"path": "/id_en/products/cnt/plcr/pmerit/cpu/index.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/cpu/index.html"
 			},
 			{
 				"name": "Programmable Controller CPU",
-				"path": "/id_en/products/cnt/plcr/pmerit/cpu/cpu.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/cpu/cpu.html"
 			},
 			{
 				"name": "Motion CPU",
-				"path": "/id_en/products/cnt/plcr/pmerit/cpu/motion.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/cpu/motion.html"
 			},
 			{
 				"name": "Safety CPU",
-				"path": "/id_en/products/cnt/plcr/pmerit/cpu/safety.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/cpu/safety.html"
 			},
 			{
 				"name": "Process CPU, SIL2 process CPU, Redundant function",
-				"path": "/id_en/products/cnt/plcr/pmerit/cpu/process.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/cpu/process.html"
 			},
 			{
 				"name": "C Controller, C intelligent function",
-				"path": "/id_en/products/cnt/plcr/pmerit/cpu/c_cont.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/cpu/c_cont.html"
 			},
 			{
 				"name": "MELSECWinCPU",
-				"path": "/id_en/products/cnt/plcr/pmerit/cpu/wincpu.html"
+				"path": "/fa/id_en/products/cnt/plcr/pmerit/cpu/wincpu.html"
 			}
 		]
 	}

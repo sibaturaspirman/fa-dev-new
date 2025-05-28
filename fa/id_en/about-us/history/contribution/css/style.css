@@ -148,11 +148,11 @@
 /*! ======================================
     contribution_title
 ====================================== */
-.contribution_title { box-sizing: border-box; background: url("/id_en/business/history/contribution/img/bg_title.jpg") center center/cover no-repeat; color: #ffffff; display: flex; align-items: flex-end; position: relative; padding: 0 0 25px 40px; height: 225px; }
+.contribution_title { box-sizing: border-box; background: url("/fa/id_en/business/history/contribution/img/bg_title.jpg") center center/cover no-repeat; color: #ffffff; display: flex; align-items: flex-end; position: relative; padding: 0 0 25px 40px; height: 225px; }
 .contribution_title .title_heading { font-size: 100%; }
 .contribution_title .title_heading span { display: block; font-size: 233.3333%; font-weight: bold; line-height: 1.2; text-shadow: 0 0 10px rgba(0,0,0,0.5), 0 0 3px rgba(0,0,0,1), 0 0 3px rgba(0,0,0,1), 0 0 3px rgba(0,0,0,1); }
 @media screen and (max-width:768px){
-.contribution_title { background: #161415 url("/id_en/business/history/contribution/img/bg_title_sp.jpg") center center/auto 100% no-repeat; align-items: center; justify-content: center; padding: 0; height: 172px; }
+.contribution_title { background: #161415 url("/fa/id_en/business/history/contribution/img/bg_title_sp.jpg") center center/auto 100% no-repeat; align-items: center; justify-content: center; padding: 0; height: 172px; }
 .contribution_title .title_heading span { font-size: 150%; text-align: center; }
 }
 

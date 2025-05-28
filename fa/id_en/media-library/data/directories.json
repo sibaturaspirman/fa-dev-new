@@ -1,11 +1,11 @@
 {
   "directories": {
     "name": "FAトップ",
-    "path": "/id_en/",
+    "path": "/fa/id_en/",
     "child": [
       {
         "name": "Media Library",
-        "path": "/id_en/media-library/"
+        "path": "/fa/id_en/media-library/"
       }
     ]
   }

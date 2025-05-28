@@ -26,7 +26,7 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_en/download/cad/search.page?mode=cad&kisyu=/cnc"
+						"link": "/fa/id_en/download/cad/search.page?mode=cad&kisyu=/cnc"
 					},
 					{
 						"name": "Software",
@@ -44,17 +44,17 @@
 			{
 				"name": "Future of Mitsubishi Electric CNC",
 				"img": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/img/spotlight_difference.jpg",
-				"link": "/id_en/products/cnt/cnc/pr/difference/index.html"
+				"link": "/fa/id_en/products/cnt/cnc/pr/difference/index.html"
 			},
 			{
 				"name": "M800V/M80V Series",
 				"img": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/img/spotlight_web_m800v_m80v.jpg",
-				"link": "/id_en/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html"
+				"link": "/fa/id_en/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html"
 			},
 			{
 				"name": "NC Virtual Simulator",
 				"img": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/img/spotlight_nc_virtual_simulator.jpg",
-				"link": "/id_en/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html"
+				"link": "/fa/id_en/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html"
 			}
 		]
 	},
@@ -81,7 +81,7 @@
 			},
 			{
 				"name": "Events",
-				"link": "/id_en/products/cnt/cnc/evt/index.html"
+				"link": "/fa/id_en/products/cnt/cnc/evt/index.html"
 			},
 			{
 				"name": "CNC NEWS",
@@ -118,7 +118,7 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_en/download/cad/search.page?mode=cad&kisyu=/cnc"
+				"link": "/fa/id_en/download/cad/search.page?mode=cad&kisyu=/cnc"
 			},
 			{
 				"name": "Software",
@@ -141,7 +141,7 @@
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_en/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -152,7 +152,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

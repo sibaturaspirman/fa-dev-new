@@ -26,17 +26,17 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_en/download/?modal=cad"
+						"link": "/fa/id_en/download/?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_en/download/?modal=software"
+						"link": "/fa/id_en/download/?modal=software"
 					},
 					{
 						"name": "Sample<br>Library",
 						"icon": "library",
-						"link": "/id_en/download/?modal=lib"
+						"link": "/fa/id_en/download/?modal=lib"
 					}
 				]
 			}
@@ -54,7 +54,7 @@
 		"items": [
 			{
 				"name": "New features make things even easier to use!",
-				"img": "/id_en/products/assets/img/faist-202411-spotlight-en.jpg",
+				"img": "/fa/id_en/products/assets/img/faist-202411-spotlight-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
@@ -314,7 +314,7 @@
 			{
 				"name": "Replace Products",
 				"icon": "replace",
-				"link": "/id_en/products/cnt/plca/ex/renew/renewal/index.html"
+				"link": "/fa/id_en/products/cnt/plca/ex/renew/renewal/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
@@ -373,12 +373,12 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_en/download/?modal=cad"
+				"link": "/fa/id_en/download/?modal=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_en/download/?modal=software"
+				"link": "/fa/id_en/download/?modal=software"
 			}
 		]
 	},
@@ -408,12 +408,12 @@
 		"items": [
 			{
 				"name": "FA Integrated Selection Tool",
-				"image": "/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/fa/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_en/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
             }
 		]
@@ -424,7 +424,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/id_en/contact-us/index.html"
+				"link": "/fa/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",
