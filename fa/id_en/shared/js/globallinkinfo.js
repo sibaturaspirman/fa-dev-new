@@ -90,7 +90,7 @@ function createXmlHttp(){
 }
 
 function loadDataLinkinfo() {
-	$("<script type='text/javascript' charset='utf-8' src='/id_en/shared/js/ikouKisyu.js'></script>").appendTo("body");
+	$("<script type='text/javascript' charset='utf-8' src='/fa/id_en/shared/js/ikouKisyu.js'></script>").appendTo("body");
 }
 
 

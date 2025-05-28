@@ -15,7 +15,7 @@ movie
 .movie_result_list li:first-child { border-top: 1px dotted #bebcbc; }
 .movie_search_block { margin-top: 12px; padding: 24px 16px; background: #f0f0f0; }
 .movie_search_block .narrowing { font-weight: bold; margin-top: 0; margin-bottom: 14px; }
-.movie_search_block .filter_products { float: left; width: 219px; padding-left: 24px; margin: 0 0 36.2px; background: url(/id_id/compass/shared/img/mark_next01.png) no-repeat 9px 72%; }
+.movie_search_block .filter_products { float: left; width: 219px; padding-left: 24px; margin: 0 0 36.2px; background: url(/fa/id_id/compass/shared/img/mark_next01.png) no-repeat 9px 72%; }
 .movie_search_block .filter_products:first-child { padding-left: 0; background: none; }
 .movie_search_block .sp_accordion:last-child .filter_products { margin: 0; }
 .movie_search_block .filter_products dt { margin-bottom: 6px; }
@@ -32,7 +32,7 @@ movie
 .movie_search_block .filter_movie_category li.movie_category_green a { border-top: 2px solid #06325f; }
 .movie_search_block .filter_movie_category li.movie_category_blue a { border-top: 2px solid #2558a4; }
 .seaech_reset { font-size: 85.2%; line-height: 183.3%; text-align: right; margin-top: 3px; }
-.seaech_reset a { display: inline-block; width: 157px; color: #000; padding:0 15px 0 17px; background: url(/id_id/compass/movie/img/icon_reset.png); background-repeat: no-repeat; background-size: 13px 14px; background-position: 0 46%; }
+.seaech_reset a { display: inline-block; width: 157px; color: #000; padding:0 15px 0 17px; background: url(/fa/id_id/compass/movie/img/icon_reset.png); background-repeat: no-repeat; background-size: 13px 14px; background-position: 0 46%; }
 
 /** movie_result_pager **/
 .movie_result_pager { position: relative; }
@@ -52,26 +52,26 @@ movie
 .movie_result_pager .navipage li span.active, .movie_result_pager .number_display dd span.active { color: #000; background: #f0f0f0; }
 
 .movie_result_pager .navipage .prev_first { text-indent: -9999px; }
-.movie_result_pager .navipage .prev_first a { border-right: 1px solid #bebcbc; background: url(/id_id/compass/movie/img/btn_prev01_01.png) no-repeat 11px 8px #fff; background-size: 8px auto; }
-.movie_result_pager .navipage .prev_first a:hover { background: url(/id_id/compass/movie/img/btn_prev01_01.png) no-repeat 11px 8px #f0f0f0; background-size: 8px auto; }
-.movie_result_pager .navipage .prev_first.off span { text-indent: -9999px; border-right: 1px solid #bebcbc; background: url(/id_id/compass/movie/img/btn_prev02_01.png) no-repeat 11px 8px #fff; background-size: 8px auto; }
+.movie_result_pager .navipage .prev_first a { border-right: 1px solid #bebcbc; background: url(/fa/id_id/compass/movie/img/btn_prev01_01.png) no-repeat 11px 8px #fff; background-size: 8px auto; }
+.movie_result_pager .navipage .prev_first a:hover { background: url(/fa/id_id/compass/movie/img/btn_prev01_01.png) no-repeat 11px 8px #f0f0f0; background-size: 8px auto; }
+.movie_result_pager .navipage .prev_first.off span { text-indent: -9999px; border-right: 1px solid #bebcbc; background: url(/fa/id_id/compass/movie/img/btn_prev02_01.png) no-repeat 11px 8px #fff; background-size: 8px auto; }
 
 .movie_result_pager .navipage .prev { text-indent: -9999px; }
 .movie_result_pager .navipage .prev a,
-.movie_result_pager .navipage .prev span { margin-left: 20px; background: url(/id_id/compass/movie/img/btn_prev01.png) no-repeat 11px 8px #fff; background-size: 8px auto; }
-.movie_result_pager .navipage .prev a:hover { background: url(/id_id/compass/movie/img/btn_prev01.png) no-repeat 11px 8px #f0f0f0; background-size: 8px auto;  }
-.movie_result_pager .navipage .prev.off span { margin-left: 20px; border-right: none; background: url(/id_id/compass/movie/img/btn_prev02.png) no-repeat 11px 8px #fff; background-size: 8px auto; }
+.movie_result_pager .navipage .prev span { margin-left: 20px; background: url(/fa/id_id/compass/movie/img/btn_prev01.png) no-repeat 11px 8px #fff; background-size: 8px auto; }
+.movie_result_pager .navipage .prev a:hover { background: url(/fa/id_id/compass/movie/img/btn_prev01.png) no-repeat 11px 8px #f0f0f0; background-size: 8px auto;  }
+.movie_result_pager .navipage .prev.off span { margin-left: 20px; border-right: none; background: url(/fa/id_id/compass/movie/img/btn_prev02.png) no-repeat 11px 8px #fff; background-size: 8px auto; }
 
 .movie_result_pager .navipage .next { text-indent: -9999px; }
 .movie_result_pager .navipage .next a,
-.movie_result_pager .navipage .next span { border-right: 1px solid #bebcbc; background: url(/id_id/compass/movie/img/btn_next01.png) no-repeat 14px 8px #fff; background-size: 8px auto; margin-right: 20px; }
-.movie_result_pager .navipage .next a:hover { background: url(/id_id/compass/movie/img/btn_next01.png) no-repeat 14px 8px #f0f0f0; background-size: 8px auto; }
-.movie_result_pager .navipage .next.off span { background: url(/id_id/compass/movie/img/btn_next02.png) no-repeat 14px 8px #fff; background-size: 8px auto; }
+.movie_result_pager .navipage .next span { border-right: 1px solid #bebcbc; background: url(/fa/id_id/compass/movie/img/btn_next01.png) no-repeat 14px 8px #fff; background-size: 8px auto; margin-right: 20px; }
+.movie_result_pager .navipage .next a:hover { background: url(/fa/id_id/compass/movie/img/btn_next01.png) no-repeat 14px 8px #f0f0f0; background-size: 8px auto; }
+.movie_result_pager .navipage .next.off span { background: url(/fa/id_id/compass/movie/img/btn_next02.png) no-repeat 14px 8px #fff; background-size: 8px auto; }
 
 .movie_result_pager .navipage .next_last { text-indent: -9999px; }
-.movie_result_pager .navipage .next_last a { background: url(/id_id/compass/movie/img/btn_next01_01.png) no-repeat 14px 8px #fff; background-size: 8px auto; border-right: 1px solid #bebcbc; }
-.movie_result_pager .navipage .next_last a:hover { background: url(/id_id/compass/movie/img/btn_next02_01.png) no-repeat 14px 8px #f0f0f0; background-size: 8px auto; }
-.movie_result_pager .navipage .next_last.off span { border-right: 1px solid #bebcbc; background: url(/id_id/compass/movie/img/btn_next02_01.png) no-repeat 14px 8px #fff; background-size: 8px auto; }
+.movie_result_pager .navipage .next_last a { background: url(/fa/id_id/compass/movie/img/btn_next01_01.png) no-repeat 14px 8px #fff; background-size: 8px auto; border-right: 1px solid #bebcbc; }
+.movie_result_pager .navipage .next_last a:hover { background: url(/fa/id_id/compass/movie/img/btn_next02_01.png) no-repeat 14px 8px #f0f0f0; background-size: 8px auto; }
+.movie_result_pager .navipage .next_last.off span { border-right: 1px solid #bebcbc; background: url(/fa/id_id/compass/movie/img/btn_next02_01.png) no-repeat 14px 8px #fff; background-size: 8px auto; }
 
 /*number_display*/
 .movie_result_pager .number_display { position: absolute; top: 6px; right: 0; }
@@ -124,7 +124,7 @@ article
 /* common */
 .article_topic { margin-left :-16px; }
 .article_topic li { float: left; width: 100%; max-width: 482px; margin-left: 16px; margin-bottom: 16px; }
-.article_topic .topic_data { background-color: #1f1b1b; background-image: url(/id_id/compass/shared/img/icon_arrow_r_white.png); background-repeat: no-repeat; background-position: 98% 50%; background-size: 10px auto; }
+.article_topic .topic_data { background-color: #1f1b1b; background-image: url(/fa/id_id/compass/shared/img/icon_arrow_r_white.png); background-repeat: no-repeat; background-position: 98% 50%; background-size: 10px auto; }
 .article_topic a { min-height: 256px; color: #ffffff; display: block; }
 .article_topic a:hover { text-decoration: none; opacity: 0.7; }
 .article_topic .new_topic img, .article_topic .topic img { vertical-align: bottom; }
@@ -164,12 +164,12 @@ common
 ---------- */
 /* new */
 .eyecatch.new { position: relative; }
-.eyecatch.new:after { position: absolute; top: 0; left: 0; display: block; width: 58px; height: 50px; content: ''; background: url(/id_id/compass/shared/img/mark_new.png) no-repeat 0 0; }
+.eyecatch.new:after { position: absolute; top: 0; left: 0; display: block; width: 58px; height: 50px; content: ''; background: url(/fa/id_id/compass/shared/img/mark_new.png) no-repeat 0 0; }
 
 /* line_list */
 .compass_line_list { z-index: 0; }
 .compass_line_list li { border-bottom: 1px dotted #bebcbc; }
-.compass_line_list li a { display: block; padding: 24px 28px 24px 0; color: #000; background: url(/id_id/compass/shared/img/icon_list_arrow.png) no-repeat 98% 50%; background-size: 10px auto; }
+.compass_line_list li a { display: block; padding: 24px 28px 24px 0; color: #000; background: url(/fa/id_id/compass/shared/img/icon_list_arrow.png) no-repeat 98% 50%; background-size: 10px auto; }
 .compass_line_list li a:hover { text-decoration: none; background-color: #feeaea; }
 .compass_line_list li p { line-height: 150%; margin-top: 0; }
 .compass_line_list li .eyecatch { float: left; margin-right: 16px; }
@@ -181,7 +181,7 @@ common
 .compass_line_list li .list_data .txt { font-size: 86%; margin-top: 8px; }
 .compass_line_list li .list_data .body ul li { border: 0; }
 .compass_line_list li .list_data .body ul li:before { content: "•"; }
-.compass_line_list li .modal { background: url(/id_id/compass/shared/img/icon_modal.png) no-repeat 99% 50%; background-size: 16px auto; }
+.compass_line_list li .modal { background: url(/fa/id_id/compass/shared/img/icon_modal.png) no-repeat 99% 50%; background-size: 16px auto; }
 
 
 /* clm */
@@ -210,9 +210,9 @@ common
 
 .compass_clm .clm .link_more { margin-top: 8px; text-align: center; background-color: #615e5e; }
 .compass_clm .clm .link_more a { border: 2px solid #615e5e; padding: 8px 12px; color:#ffffff; display: block; position: relative; }
-.compass_clm .clm .link_more a::after { content: ""; display: block; position: absolute; top: 10px; right: 14px; width: 10px; height: 16px; background: url(/id_id/compass/shared/img/icon_arrow_r_white.png) no-repeat right 50%; background-size: 10px auto; }
+.compass_clm .clm .link_more a::after { content: ""; display: block; position: absolute; top: 10px; right: 14px; width: 10px; height: 16px; background: url(/fa/id_id/compass/shared/img/icon_arrow_r_white.png) no-repeat right 50%; background-size: 10px auto; }
 .compass_clm .clm .link_more a:hover { background: #ffffff; color:#615e5e; text-decoration: none; }
-.compass_clm .clm .link_more a:hover::after {  background: url(/id_id/compass/shared/img/icon_arrow_r_gray.png) no-repeat right 50%; background-size: 10px auto; }
+.compass_clm .clm .link_more a:hover::after {  background: url(/fa/id_id/compass/shared/img/icon_arrow_r_gray.png) no-repeat right 50%; background-size: 10px auto; }
 
 .compass_clm.clm3 { margin-top: -16px; margin-left: -16px; }
 .compass_clm.clm3 .clm { width: 31.7269%; margin-top: 16px; margin-left: 16px; }
@@ -233,13 +233,13 @@ common
 .compass_pager ul li span { border-color: #bebcbc; }
 .compass_pager ul li a span { border: none; }
 .compass_pager ul .prev { margin-right: 20px; text-indent: -9999px; }
-.compass_pager ul .prev a { margin-left: 0; background: url(/id_id/compass/shared/img/btn_prev.png) no-repeat 12px 9px #fff; background-size: 12px auto; }
-.compass_pager ul .prev a:hover { background: url(/id_id/compass/shared/img/btn_prev_ov.png) no-repeat 12px 9px #e60000; background-size: 12px auto; }
-.compass_pager ul .prev.off span { background: url(/id_id/compass/shared/img/btn_prev_off.png) no-repeat 12px 9px #fff; background-size: 12px auto; }
+.compass_pager ul .prev a { margin-left: 0; background: url(/fa/id_id/compass/shared/img/btn_prev.png) no-repeat 12px 9px #fff; background-size: 12px auto; }
+.compass_pager ul .prev a:hover { background: url(/fa/id_id/compass/shared/img/btn_prev_ov.png) no-repeat 12px 9px #e60000; background-size: 12px auto; }
+.compass_pager ul .prev.off span { background: url(/fa/id_id/compass/shared/img/btn_prev_off.png) no-repeat 12px 9px #fff; background-size: 12px auto; }
 .compass_pager ul .next { margin-left: 30px; text-indent: -9999px; }
-.compass_pager ul .next a { margin-left: 0; background: url(/id_id/compass/shared/img/btn_next.png) no-repeat 12px 9px #fff; background-size: 12px auto; }
-.compass_pager ul .next a:hover { background: url(/id_id/compass/shared/img/btn_next_ov.png) no-repeat 12px 9px #e60000; background-size: 12px auto; }
-.compass_pager ul .next.off span { background: url(/id_id/compass/shared/img/btn_next_off.png) no-repeat 12px 9px #fff; background-size: 12px auto; }
+.compass_pager ul .next a { margin-left: 0; background: url(/fa/id_id/compass/shared/img/btn_next.png) no-repeat 12px 9px #fff; background-size: 12px auto; }
+.compass_pager ul .next a:hover { background: url(/fa/id_id/compass/shared/img/btn_next_ov.png) no-repeat 12px 9px #e60000; background-size: 12px auto; }
+.compass_pager ul .next.off span { background: url(/fa/id_id/compass/shared/img/btn_next_off.png) no-repeat 12px 9px #fff; background-size: 12px auto; }
 .compass_pager ul li.current { width: 36px; height: 36px; border: 2px solid; background: #e60000; border-color: #e60000; color: #fff; }
 
 /* modal */
@@ -253,8 +253,8 @@ common
 #fancybox-wrap #fancybox-content .modal_close .modal_close_btn { padding-left: 0; background: none; cursor: pointer; }
 #fancybox-wrap #fancybox-content .modal_close .modal_close_btn:hover { color: #000; }
 #fancybox-wrap #fancybox-content .movie_detail_btn { width: 200px; height: 30px; margin: 18px auto 19px; }
-#fancybox-wrap #fancybox-content .movie_detail_btn a { display: block; font-weight: bold; color: #fff; line-height: 215%; text-align: center; text-decoration: none; background: url(/id_id/compass/shared/img/icon_arrow_r_white.png) no-repeat 95% center #615e5e; background-size: 9px auto; }
-#fancybox-wrap #fancybox-content .movie_detail_btn a:hover { background: url(/id_id/compass/shared/img/icon_arrow_r_white.png) no-repeat 95% center #bebcbc; }
+#fancybox-wrap #fancybox-content .movie_detail_btn a { display: block; font-weight: bold; color: #fff; line-height: 215%; text-align: center; text-decoration: none; background: url(/fa/id_id/compass/shared/img/icon_arrow_r_white.png) no-repeat 95% center #615e5e; background-size: 9px auto; }
+#fancybox-wrap #fancybox-content .movie_detail_btn a:hover { background: url(/fa/id_id/compass/shared/img/icon_arrow_r_white.png) no-repeat 95% center #bebcbc; }
 #fancybox-wrap #fancybox-content .modal_content { margin-top: 10px; }
 #fancybox-wrap #fancybox-content .tag_content { display: table; width: 100%; }
 #fancybox-wrap #fancybox-content .modal_content .tag_l { float: left; }
@@ -270,8 +270,8 @@ common
 .easy-select-box .esb-dropdown .esb-item { padding: 10px 8px; border-top: 1px solid #bebcbc; word-break:break-all; cursor: pointer; }
 .easy-select-box .esb-dropdown .esb-item:hover { background: #f0f0f0; }
 .easy-select-box .esb-displayer { width: 217px; height: 54px; padding: 0 33px 0 8px; word-break:break-all; word-wrap: break-word; cursor: pointer; display: table-cell; vertical-align: middle; }
-.easy-select-box .esb-displayer:after { position: absolute; top: -1px; right: -1px; display: block; width: 24px; height: 56px; content: ''; background: url(/id_id/compass/shared/img/icon_arrow_open.png) no-repeat 50% 50% #615e5e; background-size: 16px auto; }
-.easy-select-box .esb-displayer:hover:after { background: url(/id_id/compass/shared/img/icon_arrow_open.png) no-repeat 50% 50% #bebcbc; background-size: 16px auto; }
+.easy-select-box .esb-displayer:after { position: absolute; top: -1px; right: -1px; display: block; width: 24px; height: 56px; content: ''; background: url(/fa/id_id/compass/shared/img/icon_arrow_open.png) no-repeat 50% 50% #615e5e; background-size: 16px auto; }
+.easy-select-box .esb-displayer:hover:after { background: url(/fa/id_id/compass/shared/img/icon_arrow_open.png) no-repeat 50% 50% #bebcbc; background-size: 16px auto; }
 .compass_footer_link p { text-align: center; margin-top: 48px; }
 .compass_footer_link p .btn { margin-left: 14px; }
 
@@ -282,7 +282,7 @@ general
 .contents_wrap .note { font-size: 86%; margin-top: 0; }
 /* btn */
 .contents_wrap .btn { display: inline-block; padding: 10px 14px; color: #000; border: 1px solid #bebcbc; }
-.contents_wrap .btn .btn_inner { padding-right: 25px; background: url(/id_id/compass/shared/img/icon_arrow_r.png) no-repeat right 50%; background-size: 10px auto; }
+.contents_wrap .btn .btn_inner { padding-right: 25px; background: url(/fa/id_id/compass/shared/img/icon_arrow_r.png) no-repeat right 50%; background-size: 10px auto; }
 .contents_wrap .btn:hover { text-decoration: none; background-color: #f0f0f0; }
 /* align */
 .contents_wrap .align_c { text-align: center; }
@@ -339,12 +339,12 @@ individual SP
 	---------- */
 
 	.movie_search_block { margin: 14px -8px 0; padding: 14px 8px; background: #f0f0f0; }
-	.movie_search_block .sp_accordion .narrowing { line-height: 229%; background: url(/id_id/compass/movie/img/icon_open.png) no-repeat right center; background-size: 32px 32px; cursor: pointer; font-weight: normal; margin-bottom: 0; margin-top: 14px; font-size: 114%; }
-	.movie_search_block .sp_accordion.open .narrowing { background-image: url(/id_id/compass/movie/img/icon_close.png); }
+	.movie_search_block .sp_accordion .narrowing { line-height: 229%; background: url(/fa/id_id/compass/movie/img/icon_open.png) no-repeat right center; background-size: 32px 32px; cursor: pointer; font-weight: normal; margin-bottom: 0; margin-top: 14px; font-size: 114%; }
+	.movie_search_block .sp_accordion.open .narrowing { background-image: url(/fa/id_id/compass/movie/img/icon_close.png); }
 	.movie_search_block .sp_accordion:first-child .narrowing { margin-top: 0; }
 	.movie_search_block .sp_accordion .movie_search_contents { display: none; }
 	.movie_search_block .sp_accordion.open .movie_search_contents { display: block; }
-	.movie_search_block .filter_products { float: none; width: 100%; padding-top: 8px; padding-left: 0; margin-bottom: 0; background: url(/id_id/compass/movie/img/mark_next_down01.png) no-repeat 50% 10px; background-size: 10px 8px; }
+	.movie_search_block .filter_products { float: none; width: 100%; padding-top: 8px; padding-left: 0; margin-bottom: 0; background: url(/fa/id_id/compass/movie/img/mark_next_down01.png) no-repeat 50% 10px; background-size: 10px 8px; }
 	.movie_search_block .filter_products:first-child { padding-top: 0; }
 	.movie_search_block .filter_products:last-child { margin-bottom: 29.5px; }
 	.movie_search_block .filter_products dt { height: auto; padding-top: 10px; font-weight: normal; }
@@ -498,13 +498,13 @@ individual SP
 	.compass_pager ul li span { border-color: #bebcbc; }
 	.compass_pager ul li a span { border: none; }
 	.compass_pager ul .prev { margin-right: 8px; text-indent: -9999px; }
-	.compass_pager ul .prev a { margin-left: 0; background: url(/id_id/compass/shared/img/btn_prev.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
-	.compass_pager ul .prev a:hover { background: url(/id_id/compass/shared/img/btn_prev_ov.png) no-repeat 9px 6px #e60000; background-size: 11px 16px; }
-	.compass_pager ul .prev.off span { background: url(/id_id/compass/shared/img/btn_prev_off.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
+	.compass_pager ul .prev a { margin-left: 0; background: url(/fa/id_id/compass/shared/img/btn_prev.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
+	.compass_pager ul .prev a:hover { background: url(/fa/id_id/compass/shared/img/btn_prev_ov.png) no-repeat 9px 6px #e60000; background-size: 11px 16px; }
+	.compass_pager ul .prev.off span { background: url(/fa/id_id/compass/shared/img/btn_prev_off.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
 	.compass_pager ul .next { margin-left: 16px; text-indent: -9999px; }
-	.compass_pager ul .next a { margin-left: 0; background: url(/id_id/compass/shared/img/btn_next.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
-	.compass_pager ul .next a:hover { background: url(/id_id/compass/shared/img/btn_next_ov.png) no-repeat 9px 6px #e60000; background-size: 11px 16px; }
-	.compass_pager ul .next.off span { background: url(/id_id/compass/shared/img/btn_next_off.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
+	.compass_pager ul .next a { margin-left: 0; background: url(/fa/id_id/compass/shared/img/btn_next.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
+	.compass_pager ul .next a:hover { background: url(/fa/id_id/compass/shared/img/btn_next_ov.png) no-repeat 9px 6px #e60000; background-size: 11px 16px; }
+	.compass_pager ul .next.off span { background: url(/fa/id_id/compass/shared/img/btn_next_off.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
 	/* modal */
 	#fancybox-wrap { margin-left: 20px; padding: 0 !important; }
 	#fancybox-wrap .fancybox-bg { display: none; }
@@ -535,7 +535,7 @@ individual SP
 	/* btn */
 	.contents_wrap .btn { display: block; text-align: center; }
 	.contents_wrap .btn .btn_inner { background-size: 8px 12px; display: block; }
-	.contents_wrap .sp_link_pc { padding-right: 18px;  background: url(/id_id/shared_sp/img/icon_pc.png) no-repeat right 50%!important;  background-size: 15px 12px!important; }
+	.contents_wrap .sp_link_pc { padding-right: 18px;  background: url(/fa/id_id/shared_sp/img/icon_pc.png) no-repeat right 50%!important;  background-size: 15px 12px!important; }
 
 	/* ----------
 	old contents
@@ -741,13 +741,13 @@ SP
 	#content_compass .compass_pager ul li span { border-color: #bebcbc; }
 	#content_compass .compass_pager ul li a span { border: none; }
 	#content_compass .compass_pager ul .prev { margin-right: 8px; text-indent: -9999px; }
-	#content_compass .compass_pager ul .prev a { margin-left: 0; background: url(/id_id/compass/shared/img/btn_prev.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
-	#content_compass .compass_pager ul .prev a:hover { background: url(/id_id/compass/shared/img/btn_prev_ov.png) no-repeat 9px 6px #e60000; background-size: 11px 16px; }
-	#content_compass .compass_pager ul .prev.off span { background: url(/id_id/compass/shared/img/btn_prev_off.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
+	#content_compass .compass_pager ul .prev a { margin-left: 0; background: url(/fa/id_id/compass/shared/img/btn_prev.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
+	#content_compass .compass_pager ul .prev a:hover { background: url(/fa/id_id/compass/shared/img/btn_prev_ov.png) no-repeat 9px 6px #e60000; background-size: 11px 16px; }
+	#content_compass .compass_pager ul .prev.off span { background: url(/fa/id_id/compass/shared/img/btn_prev_off.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
 	#content_compass .compass_pager ul .next { margin-left: 16px; text-indent: -9999px; }
-	#content_compass .compass_pager ul .next a { margin-left: 0; background: url(/id_id/compass/shared/img/btn_next.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
-	#content_compass .compass_pager ul .next a:hover { background: url(/id_id/compass/shared/img/btn_next_ov.png) no-repeat 9px 6px #e60000; background-size: 11px 16px; }
-	#content_compass .compass_pager ul .next.off span { background: url(/id_id/compass/shared/img/btn_next_off.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
+	#content_compass .compass_pager ul .next a { margin-left: 0; background: url(/fa/id_id/compass/shared/img/btn_next.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
+	#content_compass .compass_pager ul .next a:hover { background: url(/fa/id_id/compass/shared/img/btn_next_ov.png) no-repeat 9px 6px #e60000; background-size: 11px 16px; }
+	#content_compass .compass_pager ul .next.off span { background: url(/fa/id_id/compass/shared/img/btn_next_off.png) no-repeat 9px 6px #fff; background-size: 11px 16px; }
 }
 
 .message_area {	display: -webkit-flex; display: -moz-flex; display: -ms-flex; display: -o-flex; display: flex; align-items: center; }

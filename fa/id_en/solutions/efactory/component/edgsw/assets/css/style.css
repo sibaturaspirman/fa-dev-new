@@ -230,10 +230,10 @@ sup {
   min-width: 52px;
 }
 #edgsw .edgsw-system .number-list li:nth-child(1)::before {
-  content: url(/id_en/solutions/efactory/component/edgsw/assets/img/txt_number_1.png);
+  content: url(/fa/id_en/solutions/efactory/component/edgsw/assets/img/txt_number_1.png);
 }
 #edgsw .edgsw-system .number-list li:nth-child(2)::before {
-  content: url(/id_en/solutions/efactory/component/edgsw/assets/img/txt_number_2.png);
+  content: url(/fa/id_en/solutions/efactory/component/edgsw/assets/img/txt_number_2.png);
 }
 @media only screen and (max-width: 767px) {
   #edgsw .edgsw-system .number-list {
@@ -261,7 +261,7 @@ sup {
   top: -58px;
   width: 30px;
   height: 58px;
-  background: url(/id_en/solutions/efactory/component/edgsw/assets/img/img_fukidashi.png) no-repeat 0 0 transparent;
+  background: url(/fa/id_en/solutions/efactory/component/edgsw/assets/img/img_fukidashi.png) no-repeat 0 0 transparent;
 }
 #edgsw .edgsw-system .speech-bubble-box .c-imgAuto.align-left {
   justify-content: flex-start;

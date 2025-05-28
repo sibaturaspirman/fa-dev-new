@@ -154,7 +154,7 @@
 .gs18-HeadingLv2{font-weight:700;line-height:1.2;margin:60px 0 0;word-wrap:break-word;overflow-wrap:break-word}
 body:not(.is-login) .after_login{display:none}
 body.is-login .before_login{display:none}
-@font-face{font-family:MelFaIcons;font-weight:400;font-style:normal;src:url(/id_en/shared/gws0001/font/MelFaIcons.woff2) format("woff2")}
+@font-face{font-family:MelFaIcons;font-weight:400;font-style:normal;src:url(/fa/id_en/shared/gws0001/font/MelFaIcons.woff2) format("woff2")}
 .u-icons.u-icons--bulletRight::before{font-family:MelFaIcons,"Material Icons";font-size:1em;display:inline-flex;width:1em;margin-right:.125em;content:"\f102";white-space:nowrap;text-decoration:none;word-wrap:normal;color:red}
 @media only screen and (min-width:1101px){
 /*! over Large */

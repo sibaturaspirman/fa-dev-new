@@ -8,26 +8,26 @@
   const $radioSearchType = $('input[name="radioSearchType"]');
   const $searchBoxes = $('.c-searchBox');
   
-  const $ourStoriesArticleDataURL = '/id_en/our-stories/data/article-data.json'
+  const $ourStoriesArticleDataURL = '/fa/id_en/our-stories/data/article-data.json'
   const $ourStoriesCards = $('[data-js-our-stories-cards]');
   const ourStoriesCardsMaxNumber = 4;
   
   // News Center
-  const newsPageHTML = '/id_en/news/index.html';
+  const newsPageHTML = '/fa/id_en/news/index.html';
   const $newsList = $('[data-js-news-list]');
   const newsListMaxNumber = $newsList.attr('data-js-news-list') || 5;
 
   // Update Information
-  const updateListDataURL = '/id_en/products/update/data/site-top.json';  
+  const updateListDataURL = '/fa/id_en/products/update/data/site-top.json';
   const $updateList = $('[data-js-update-list]');  
   
   // Media Library
-  const mediaLibraryDataURL = '/id_en/media-library/data/movie-data_master.json';  
+  const mediaLibraryDataURL = '/fa/id_en/media-library/data/movie-data_master.json';
   const $mediaLibraryList = $('[data-js-media-library-recommended]');
   const mediaLibraryMaxNumber = 4;
 
   // AoM
-  const AoMDataURL = '/id_en/the-art-of-manufacturing/data/article-data.json'
+  const AoMDataURL = '/fa/id_en/the-art-of-manufacturing/data/article-data.json'
   const $AoMList = $('[data-js-aom-result-latest]');
   const AoMListMaxNumber = 4;
   

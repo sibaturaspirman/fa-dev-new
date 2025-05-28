@@ -135,7 +135,7 @@
   > span {
     display: block;
     padding-left: 1.2em;
-    background-image: url(/id_id/products/cnt/cnc/pmerit/support/img/icon_open.png);
+    background-image: url(/fa/id_id/products/cnt/cnc/pmerit/support/img/icon_open.png);
     background-repeat: no-repeat;
     background-position: 0 center;
     font-weight: bold;
@@ -144,7 +144,7 @@
   }
   &.is-open {
     > span {
-      background-image: url(/id_id/products/cnt/cnc/pmerit/support/img/icon_close.png);
+      background-image: url(/fa/id_id/products/cnt/cnc/pmerit/support/img/icon_close.png);
     }
   }
 }
@@ -235,11 +235,11 @@
   > * {
     vertical-align: middle;
     padding-left: 15px;
-    background: url(/id_id/products/cnt/cnc/pmerit/support/img/icon_arrow_link.gif) no-repeat 0 0.5em;
+    background: url(/fa/id_id/products/cnt/cnc/pmerit/support/img/icon_arrow_link.gif) no-repeat 0 0.5em;
   }
   &.meswp-glNetwork__link--none {
     > * {
-      background: url(/id_id/products/cnt/cnc/pmerit/support/img/icon_arrow_link_none.gif) no-repeat 0 0.5em;
+      background: url(/fa/id_id/products/cnt/cnc/pmerit/support/img/icon_arrow_link_none.gif) no-repeat 0 0.5em;
     }
   }
 }
@@ -310,13 +310,13 @@
 
 .meswp-glNetwork__positive {
   > span {
-    background: url(/id_id/products/cnt/cnc/pmerit/support/img/icon_open.png) no-repeat left center;
+    background: url(/fa/id_id/products/cnt/cnc/pmerit/support/img/icon_open.png) no-repeat left center;
   }
 }
 
 .meswp-glNetwork__negative {
   > span {
-    background: url(/id_id/products/cnt/cnc/pmerit/support/img/icon_close.png) no-repeat left center;
+    background: url(/fa/id_id/products/cnt/cnc/pmerit/support/img/icon_close.png) no-repeat left center;
   }
 }
 

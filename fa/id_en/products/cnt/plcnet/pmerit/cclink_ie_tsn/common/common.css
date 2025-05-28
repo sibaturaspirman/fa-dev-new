@@ -177,7 +177,7 @@ border:1px solid #333;
 #melfa_main_area .txt175 {font-size:1.75rem}
 #melfa_main_area .txt2 {font-size:2rem}
 
-#melfa_main_area ul.linkList li { background: url(/id_en/shared/v0002/img/module/bullet_link.gif) no-repeat left 5px; _background: url(/id_en/shared/v0002/img/module/bullet_link.gif) no-repeat left 5px; padding:0 0 0 10px; }
+#melfa_main_area ul.linkList li { background: url(/fa/id_en/shared/v0002/img/module/bullet_link.gif) no-repeat left 5px; _background: url(/fa/id_en/shared/v0002/img/module/bullet_link.gif) no-repeat left 5px; padding:0 0 0 10px; }
 #melfa_main_area ul.linkList li a { margin:0 }
 
 /*------[ ネットワーク関連製品トビラ ]------------------------------------------------------------------------*/
@@ -206,7 +206,7 @@ border:1px solid #333;
 	background-position:0 0.3em;
 	display:inline-block;
 	height:1em;
-    background: url(/id_en/shared/v0002/img/module/bullet_link.gif) no-repeat left 0.5em; padding:0 0 0 0.5em; 
+    background: url(/fa/id_en/shared/v0002/img/module/bullet_link.gif) no-repeat left 0.5em; padding:0 0 0 0.5em;
 }
 
 #melfa_main_area  .concept_top .link_btn_s {

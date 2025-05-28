@@ -17,19 +17,19 @@
 					"child": [
 					{
 						"name": "For DC Special Voltages",
-						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_dc/index.html"
 					},
 					{
 						"name": "Mag-Only Circuit Breaker",
-						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_mag/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_mag/index.html"
 					},
 					{
 						"name": "DSN Switches",
-						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_dsn/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_dsn/index.html"
 					},
 					{
 						"name": "Corrosion Resistant Enhanced Type for Special Environments",
-						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_sp/index.html"					
+						"path": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_sp/index.html"
 					}
 				]
 				}

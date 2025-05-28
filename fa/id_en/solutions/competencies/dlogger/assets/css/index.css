@@ -89,7 +89,7 @@ img {max-width: 100%;height: auto;vertical-align: top;}
 .main_section .sec_block a.banner_catalog:hover{text-decoration:none;opacity:0.7;}
 
 .pdf_download{text-align:right;font-size: .88em;}
-.pdf_download a{background:url(/id_en/shared/v0002/img/local_nav/bg_support_a04.gif) left 8px no-repeat,url(../img/icon_pdf.png) right 2px no-repeat;padding:0 21px 0 12px;text-decoration:none;color:#025e8f;}
+.pdf_download a{background:url(/fa/id_en/shared/v0002/img/local_nav/bg_support_a04.gif) left 8px no-repeat,url(../img/icon_pdf.png) right 2px no-repeat;padding:0 21px 0 12px;text-decoration:none;color:#025e8f;}
 .c-mainVisual--lv2 {background-image: url(../img/img_mv-1.jpg);}
 .c-featureArea {background-color: #fff;}
 @media screen and (min-width:768px) {
@@ -145,7 +145,7 @@ img {max-width: 100%;height: auto;vertical-align: top;}
 .pagetop+.contents_nav{ margin-bottom: 40px; }
 .main_section+.line{ display: none; }
 .pdf_download{margin-right:2px;}
-.pdf_download a{background:url(/id_en/shared/v0002/img/local_nav/bg_support_a04.gif) left 6px no-repeat,url(/id_en/shared/v0002/img/module/bullet_pdf.gif) right 2px no-repeat;font-size:0.946em;background-size:auto,12px;padding:0 16px 0 12px;}
+.pdf_download a{background:url(/fa/id_en/shared/v0002/img/local_nav/bg_support_a04.gif) left 6px no-repeat,url(/fa/id_en/shared/v0002/img/module/bullet_pdf.gif) right 2px no-repeat;font-size:0.946em;background-size:auto,12px;padding:0 16px 0 12px;}
 }
 
 @media screen and (max-width:320px){

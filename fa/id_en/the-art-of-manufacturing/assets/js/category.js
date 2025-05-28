@@ -12,9 +12,9 @@
     wopen.focus();
   }
   
-  const aomSearchPath = '/id_en/the-art-of-manufacturing/search.html';
+  const aomSearchPath = '/fa/id_en/the-art-of-manufacturing/search.html';
   const $aomFooter = $('[data-js-aom-footer]');
-  const aomFooterPath = '/id_en/the-art-of-manufacturing/assets/include/aom_footer.html'
+  const aomFooterPath = '/fa/id_en/the-art-of-manufacturing/assets/include/aom_footer.html'
     
   /* 変数 */
   const allArticleObject = {};
@@ -389,9 +389,9 @@
   /* 初期設定 */
   // 設定ファイルからタグ一覧と全記事データオブジェクトを生成
   $.when(
-    $.getJSON('/id_en/the-art-of-manufacturing/data/filter-data.json'),
-    $.getJSON('/id_en/the-art-of-manufacturing/data/article-data.json'),
-    $.getJSON('/id_en/our-stories/data/article-data.json')
+    $.getJSON('/fa/id_en/the-art-of-manufacturing/data/filter-data.json'),
+    $.getJSON('/fa/id_en/the-art-of-manufacturing/data/article-data.json'),
+    $.getJSON('/fa/id_en/our-stories/data/article-data.json')
   )
   .done(function(filter_data, article_data, ourStories_data){
     // タグリスト生成

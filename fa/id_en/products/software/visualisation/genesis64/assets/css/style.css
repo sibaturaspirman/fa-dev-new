@@ -8,7 +8,7 @@
 .c-card--movie{margin:40px auto 0;max-width:700px}
 .u-square{display:inline-block;margin-right:.25em;width:.75em;height:.75em;vertical-align:baseline;background-color:#000;content:''}
 .l-grid+.c-note{margin-top:20px}
-.p-topSummary{overflow:hidden;display:flex;margin-bottom:40px;padding:50px 0;min-height:430px;background:url(/id_en/products/software/visualisation/genesis64/assets/img/summary_bg.jpg) no-repeat center center;background-size:cover;justify-content:center;align-items:center}
+.p-topSummary{overflow:hidden;display:flex;margin-bottom:40px;padding:50px 0;min-height:430px;background:url(/fa/id_en/products/software/visualisation/genesis64/assets/img/summary_bg.jpg) no-repeat center center;background-size:cover;justify-content:center;align-items:center}
 .p-topSummaryInner{position:relative;margin-right:0;margin-left:0;width:100%}
 .p-topSummaryImg{position:absolute;top:50%;right:0;width:58.780487804878049%;transform:translateY(-50%)}
 .p-topSummaryImg img{width:100%;vertical-align:top}
@@ -54,7 +54,7 @@
 .p-partnerSection__box .c-table__head th,.p-partnerSection__box .c-table__contentBody th,.p-partnerSection__box .c-table__contentBody td{height:50px}
 .p-partnerSection__box .c-table__contentBody th:first-child,.p-partnerSection__box .c-table__contentBody td:last-child{width:50%}
 @media only screen and (max-width:767px){
-.p-topSummary{position:relative;display:block;padding:40px 0 0;min-height:440px;background-image:url(/id_en/products/software/visualisation/genesis64/assets/img/summary_bg_sp.jpg)}
+.p-topSummary{position:relative;display:block;padding:40px 0 0;min-height:440px;background-image:url(/fa/id_en/products/software/visualisation/genesis64/assets/img/summary_bg_sp.jpg)}
 .p-topSummaryInner{position:static}
 .p-topSummaryImg{top:auto;left:0;bottom:15px;width:100%;transform:none}
 .p-topSummaryText{padding-right:0;padding-bottom:220px;text-shadow:0 0 10px #fff,0 0 10px #fff}

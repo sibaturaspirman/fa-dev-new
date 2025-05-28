@@ -87,17 +87,17 @@
 			current_directory: helper.getCurrentDirectory(),
 			current_directories: helper.getCurrentDirectories(),
 			// Header, Footer's external file path
-			footer_container_path: '/id_en/shared/gws0001/default/include/_footer.html',
-			footer_simple_container_path: '/id_en/shared/gws0001/default/include/_footer_simple.html',
+			footer_container_path: '/fa/id_en/shared/gws0001/default/include/_footer.html',
+			footer_simple_container_path: '/fa/id_en/shared/gws0001/default/include/_footer_simple.html',
 
 			// Header
-			header_path: '/id_en/shared/gws0001/include/me_header.html',
-			header_simple_path: '/id_en/shared/gws0001/include/me_header_simple.html',
+			header_path: '/fa/id_en/shared/gws0001/include/me_header.html',
+			header_simple_path: '/fa/id_en/shared/gws0001/include/me_header_simple.html',
 
 			// Footer
-			footer_main_path: '/id_en/shared/gws0001/include/me_footer.html',
-			footer_popup_path: '/id_en/shared/gws0001/include/me_footer_popup.html',
-			footer_sns_path: '/id_en/shared/gws0001/include/_footer_sns.html',
+			footer_main_path: '/fa/id_en/shared/gws0001/include/me_footer.html',
+			footer_popup_path: '/fa/id_en/shared/gws0001/include/me_footer_popup.html',
+			footer_sns_path: '/fa/id_en/shared/gws0001/include/_footer_sns.html',
 
 			helper: helper
 		},
@@ -408,18 +408,18 @@
 		var currentDirectory = window.MEL_SETTINGS.current_directory;
 		var currentDirectoryArray = window.MEL_SETTINGS.current_directories;
 		// FAサイト直下のページは、homeカテゴリーとして処理
-		if(!currentDirectoryArray[2]) {
-			currentDirectoryArray[2] = 'home';
+		if(!currentDirectoryArray[3]) {
+			currentDirectoryArray[3] = 'home';
 		}
 		// カテゴリートップにある設定ファイルパスを指定
-		var settingsJsonPath = currentDirectoryArray.slice(0, 3).join('/')  + '/data/settings.json';
-		var directoriesJsonPath = currentDirectoryArray.slice(0, 3).join('/')  + '/data/directories.json';
+		var settingsJsonPath = currentDirectoryArray.slice(0, 4).join('/')  + '/data/settings.json';
+		var directoriesJsonPath = currentDirectoryArray.slice(0, 4).join('/')  + '/data/directories.json';
 
 		// 製品情報の機種配下のページの場合は、機種配下用のディレクトリ設定ファイルを指定		
-		if(currentDirectoryArray[2].indexOf('products') !== -1 && currentDirectoryArray[3] === 'software' && currentDirectoryArray[5]) {
+		if(currentDirectoryArray[3].indexOf('products') !== -1 && currentDirectoryArray[4] === 'software' && currentDirectoryArray[6]) {
+			directoriesJsonPath = currentDirectoryArray.slice(0, 7).join('/')   + '/data/directories.json';
+		} else if(currentDirectoryArray[3].indexOf('products') !== -1 && currentDirectoryArray[6]) {
 			directoriesJsonPath = currentDirectoryArray.slice(0, 6).join('/')   + '/data/directories.json';
-		} else if(currentDirectoryArray[2].indexOf('products') !== -1 && currentDirectoryArray[5]) {
-			directoriesJsonPath = currentDirectoryArray.slice(0, 5).join('/')   + '/data/directories.json';
 		}
 		
 		// ディレクトリ設定ファイルを上書きするパラメータが設定されている場合
@@ -537,7 +537,7 @@
 			
 			// Floating Nav
 			// ブランドページではフローティングナビ非表示
-			if(window.MEL_SETTINGS.current_path !== '/id_en/about-us/automating-the-world/') {
+			if(window.MEL_SETTINGS.current_path !== '/fa/id_en/about-us/automating-the-world/') {
 				$('.c-mainVisual, .c-caseStudiyMainVisual').setFloatingNav(
 					{
 						"floatingMenu": {

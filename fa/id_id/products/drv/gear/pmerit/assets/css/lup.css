@@ -7,7 +7,7 @@
 Å@Å@Å@Å@Å@îwåi ògê¸
 ================================ */
 .bgline_w770{
-	background:#FFF url(/id_id/products/drv/gear/pmerit/lup/images/nl_bgline_w770.gif) repeat-y top left;
+	background:#FFF url(/fa/id_id/products/drv/gear/pmerit/lup/images/nl_bgline_w770.gif) repeat-y top left;
 	border-bottom:1px solid #d3d3d3;
 	padding-bottom:5px;
 	}
@@ -42,7 +42,7 @@
 	
 }
 .maintitle h1 {
-	background: url(/id_id/products/drv/gear/lineup/img/lineup/nl_maintit_bg01.gif) no-repeat 0 0;
+	background: url(/fa/id_id/products/drv/gear/lineup/img/lineup/nl_maintit_bg01.gif) no-repeat 0 0;
 	font-size: 13pt;
 	line-height: 17px;
 	margin-top: 0;
@@ -55,7 +55,7 @@
 #melfa_contents_2col_a #melfa_main_area h2 {
 
 	height: 30px;
-	background: url(/id_id/products/drv/gear/lineup/img/lineup/nl_tit_back02.gif) no-repeat;
+	background: url(/fa/id_id/products/drv/gear/lineup/img/lineup/nl_tit_back02.gif) no-repeat;
 	margin: 0 0 2px 0;
 	padding: 6px 0 0 15px;
 	font-size: 14pt;
@@ -95,7 +95,7 @@
 }
 
 .spec_all{
-	background:url(/id_id/products/drv/gear/pmerit/lup/images/nl_line.gif) no-repeat 0 0;
+	background:url(/fa/id_id/products/drv/gear/pmerit/lup/images/nl_line.gif) no-repeat 0 0;
 	padding-top:15px;
 	margin:5px 0 15px 0;
 	cursor:default;
@@ -196,7 +196,7 @@
 	border-collapse: separate;
 	margin-top:8px;
 	width:200px;
-	background:url(/id_id/products/drv/gear/pmerit/lup/images/nl_reduc_bg.gif) no-repeat top right;
+	background:url(/fa/id_id/products/drv/gear/pmerit/lup/images/nl_reduc_bg.gif) no-repeat top right;
 }
 .spec_out td {padding: 2px 0 !important; text-align: left!important}
 .spec_out_hed {

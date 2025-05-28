@@ -75,7 +75,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
 (function($) {
   'use strict';
   // ドキュメントリンク 新システム移行機種定義ファイル読み込み
-  $("<script src='/id_en/shared/js/ikouKisyu.js'></script>").appendTo("body");
+  $("<script src='/fa/id_en/shared/js/ikouKisyu.js'></script>").appendTo("body");
 
   const queryParametersObject = MEL_SETTINGS.helper.getCurrentQueries();
   
@@ -88,7 +88,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   // 製品検索初期化
   if($radioSearchType.length > 0) {
     $.ajax({
-      url: '/id_en/shared/suggest/jn/sdata.json',
+      url: '/fa/id_en/shared/suggest/jn/sdata.json',
       dataType: 'text'
     })
     .done(function(data) {
@@ -172,56 +172,56 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   const $productsLayerNav = $('[data-js-layer-nav]');
   const $productsProductsBreadcrumb = $('[data-js-products-breadcrumb]');
   const kisyuParameterRoot = {
-    '3dsim': '/id_en/products/software/simulation-tools/gemini/',
-    'melipc': '/id_en/products/edge/melipc/',
-    'plcr': '/id_en/products/cnt/plcr/items/',
-    'plcf': '/id_en/products/cnt/plcf/items/',
-    'plcq': '/id_en/products/cnt/plcq/items/',
-    'plcl': '/id_en/products/cnt/plcl/items/',
-    'plc_fx': '/id_en/products/cnt/plc_fx/items/',
-    'plcqsws': '/id_en/products/cnt/plcqsws/items/',
-    'plca': '/id_en/products/cnt/plca/items/',
-    'plcnet': '/id_en/products/cnt/plcnet/items/',
-    'ssc': '/id_en/products/cnt/ssc/',
-    'cnc': '/id_en/products/cnt/cnc/',
-    'sensor': '/id_en/products/snsr/sensor/',
-    'servo': '/id_en/products/drv/servo/',
-    'gear-reducer': '/id_en/products/drv/gear-reducer/',
-    'slsv': '/id_en/products/drv/slsv/',
-    'inv': '/id_en/products/drv/inv/',
-    'i_motor': '/id_en/products/drv/i_motor/',
-    'gear': '/id_en/products/drv/gear/',
-    'induction': '/id_en/products/drv/induction/',
-    'clutch': '/id_en/products/drv/clutch/',
-    'tencon': '/id_en/products/drv/tencon/',
+    '3dsim': '/fa/id_en/products/software/simulation-tools/gemini/',
+    'melipc': '/fa/id_en/products/edge/melipc/',
+    'plcr': '/fa/id_en/products/cnt/plcr/items/',
+    'plcf': '/fa/id_en/products/cnt/plcf/items/',
+    'plcq': '/fa/id_en/products/cnt/plcq/items/',
+    'plcl': '/fa/id_en/products/cnt/plcl/items/',
+    'plc_fx': '/fa/id_en/products/cnt/plc_fx/items/',
+    'plcqsws': '/fa/id_en/products/cnt/plcqsws/items/',
+    'plca': '/fa/id_en/products/cnt/plca/items/',
+    'plcnet': '/fa/id_en/products/cnt/plcnet/items/',
+    'ssc': '/fa/id_en/products/cnt/ssc/',
+    'cnc': '/fa/id_en/products/cnt/cnc/',
+    'sensor': '/fa/id_en/products/snsr/sensor/',
+    'servo': '/fa/id_en/products/drv/servo/',
+    'gear-reducer': '/fa/id_en/products/drv/gear-reducer/',
+    'slsv': '/fa/id_en/products/drv/slsv/',
+    'inv': '/fa/id_en/products/drv/inv/',
+    'i_motor': '/fa/id_en/products/drv/i_motor/',
+    'gear': '/fa/id_en/products/drv/gear/',
+    'induction': '/fa/id_en/products/drv/induction/',
+    'clutch': '/fa/id_en/products/drv/clutch/',
+    'tencon': '/fa/id_en/products/drv/tencon/',
     'got': 'https://www.mitsubishielectric.com/fa/products/hmi/got/',
     'got_soft': 'https://www.mitsubishielectric.com/fa/products/hmi/got/',
-    'robot': '/id_en/products/rbt/robot/',
-    'lvcb': '/id_en/products/lvd/lvcb/',
-    'lvsw': '/id_en/products/lvd/lvsw/',
-    'pmd': '/id_en/products/pmng/pmd/',
-    'trns': '/id_en/products/taca/trns/',
-    'capa': '/id_en/products/taca/capa/',
-    'vcbvmc': '/id_en/products/mvd/vcbvmc/',
+    'robot': '/fa/id_en/products/rbt/robot/',
+    'lvcb': '/fa/id_en/products/lvd/lvcb/',
+    'lvsw': '/fa/id_en/products/lvd/lvsw/',
+    'pmd': '/fa/id_en/products/pmng/pmd/',
+    'trns': '/fa/id_en/products/taca/trns/',
+    'capa': '/fa/id_en/products/taca/capa/',
+    'vcbvmc': '/fa/id_en/products/mvd/vcbvmc/',
     'pror': 'https://www.mitsubishielectric.com/fa/products/mvd/pror/',
-    'fuses': '/id_en/products/mvd/fuses/',
-    'mvsw': '/id_en/products/mvd/mvsw/',
-    'ems': '/id_en/products/pmng/ems/',
-    'pms': '/id_en/products/pmng/pms/',
-    'pven': '/id_en/products/psup/pven/',
-    'ups': '/id_en/products/psup/ups/',
-    'mcc': '/id_en/products/psup/mcc/',
-    'pven': '/id_en/products/psup/pven/',
-    'laser': '/id_en/products/mecha/laser/',
-    'edm': '/id_en/products/mecha/edm/',
-    'msc': '/id_en/products/mecha/msc/',
-    'am': '/id_en/products/mecha/am/',
-    'ebm': '/id_en/products/mecha/ebm/',
-    'ebm': '/id_en/products/mecha/ebm/',
-    'weldhead': '/id_en/products/mecha/weldhead/',
-    'ecoadviser': '/id_en/products/software/ems/eap/',
-    'ecomeasure': '/id_en/products/software/ems/eap/',
-    'lp2': '/id_en/products/lp1/lp2/'
+    'fuses': '/fa/id_en/products/mvd/fuses/',
+    'mvsw': '/fa/id_en/products/mvd/mvsw/',
+    'ems': '/fa/id_en/products/pmng/ems/',
+    'pms': '/fa/id_en/products/pmng/pms/',
+    'pven': '/fa/id_en/products/psup/pven/',
+    'ups': '/fa/id_en/products/psup/ups/',
+    'mcc': '/fa/id_en/products/psup/mcc/',
+    'pven': '/fa/id_en/products/psup/pven/',
+    'laser': '/fa/id_en/products/mecha/laser/',
+    'edm': '/fa/id_en/products/mecha/edm/',
+    'msc': '/fa/id_en/products/mecha/msc/',
+    'am': '/fa/id_en/products/mecha/am/',
+    'ebm': '/fa/id_en/products/mecha/ebm/',
+    'ebm': '/fa/id_en/products/mecha/ebm/',
+    'weldhead': '/fa/id_en/products/mecha/weldhead/',
+    'ecoadviser': '/fa/id_en/products/software/ems/eap/',
+    'ecomeasure': '/fa/id_en/products/software/ems/eap/',
+    'lp2': '/fa/id_en/products/lp1/lp2/'
   }
   
   let productsFloatingMenuHTML = '';
@@ -243,9 +243,9 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     pageRootPath = queryParametersObject.dir + '/';
   } else {
     // ソフトウェアのLP3はルートディレクトリを一段深い所を指定
-    pageRootPath = (window.MEL_SETTINGS.current_directories[3] === 'software' && window.MEL_SETTINGS.current_directories[5])
-    ? window.MEL_SETTINGS.current_directories.slice(0, 6).join('/') + '/'
-    : window.MEL_SETTINGS.current_directories.slice(0, 5).join('/') + '/';
+    pageRootPath = (window.MEL_SETTINGS.current_directories[4] === 'software' && window.MEL_SETTINGS.current_directories[6])
+    ? window.MEL_SETTINGS.current_directories.slice(0, 7).join('/') + '/'
+    : window.MEL_SETTINGS.current_directories.slice(0, 6).join('/') + '/';
   }
   // 機種共通設定ファイル
   const pageDirectoriesJsonPath = pageRootPath + 'data/directories.json';
@@ -738,31 +738,31 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     // ToDo: 仕様一覧・規格適合品・生産終了品の一覧ページ制作後にname・path修正
     if(Object.keys(currentPageFamily.parent).length === 0) {
       // 仕様一覧
-      if(currentPathWithQuery.indexOf('/id_en/products/faspec/search') !== -1) {
+      if(currentPathWithQuery.indexOf('/fa/id_en/products/faspec/search') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/id_en/products/index.html'
+          path: '/fa/id_en/products/index.html'
         }
       }
       // 規格適合品
       else if(currentPathWithQuery.indexOf('https://www.mitsubishielectric.com/fa/products/standard/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/id_en/products/index.html'
+          path: '/fa/id_en/products/index.html'
         }
       }
       // 生産終了品
       else if(currentPathWithQuery.indexOf('https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/id_en/products/index.html'
+          path: '/fa/id_en/products/index.html'
         }
       }
       // その他
       else {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/id_en/products/index.html'
+          path: '/fa/id_en/products/index.html'
         }
       }
     }
