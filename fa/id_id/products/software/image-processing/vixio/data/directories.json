@@ -1,0 +1,55 @@
+{
+  "directories": {
+    "name": "Beranda",
+    "path": "/id_id/index.html",
+    "child": [
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Image processing software",
+            "path": "/id_id/products/software/image-processing/index.html",
+            "child": [
+              {
+                "name": "Visual Inspection Software MELSOFT VIXIO",
+                "path": "/id_id/products/software/image-processing/vixio/index.html"
+              },
+              {
+                "name": "Apa itu MELSOFT VIXIO?",
+                "path": "/id_id/products/software/image-processing/vixio/about.html"
+              },
+              {
+                "name": "Cara menggunakan MELSOFT VIXIO",
+                "path": "/id_id/products/software/image-processing/vixio/operation.html"
+              },
+              {
+                "name": "Contoh aplikasi MELSOFT VIXIO",
+                "path": "/id_id/products/software/image-processing/vixio/example.html"
+              },
+              {
+                "name": "Lingkungan operasi",
+                "path": "/id_id/products/software/image-processing/vixio/spec.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "switchNav": {
+    "name": "Image processing software",
+    "path": "/id_id/products/software/image-processing/index.html",
+    "child": [
+      {
+        "group": "Perangkat Lunak Inspeksi Visual",
+        "name": "MELSOFT VIXIO",
+        "feature": "/id_id/products/software/image-processing/vixio/index.html",
+        "spec": "",
+        "standard": "",
+        "discon": ""
+      }
+    ]
+  }
+}

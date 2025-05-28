@@ -1,0 +1,124 @@
+{
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"name": "Unduh",
+				"icon": "download",
+				"link": "#",
+				"child": [
+					{
+						"name": "Katalog",
+						"icon": "catalog",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=catalog"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=manual"
+					}
+				]
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/1995"
+			}
+	  ],
+		"commonItems": [
+		]
+	},
+	"spotlight": {
+		"items": [
+			{
+				"name": "Spotlight1",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			},
+			{
+				"name": "Spotlight2",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			},
+			{
+				"name": "Spotlight3",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			}
+		]
+	},
+	"productsMenu": {
+		"items": [
+			{
+				"name": "Katalog Produk Umum",
+				"icon": "catalog",
+				"link": "/id_id/dctlg/index.html"
+			},
+			{
+				"name": "FA Integrated ",
+				"icon": "tree",
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
+			}
+		]
+	},
+	"optionItems": {
+		"items": [
+			{
+				"name": "Option menu1",
+				"link": "#"
+			},
+			{
+				"name": "Option menu2",
+				"link": "#"
+			},
+			{
+				"name": "Option menu3",
+				"link": "#"
+			}
+		]
+	},
+	"download": {
+		"recommended": [],
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=catalog"
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=manual"
+			}
+		]
+	},
+	"relatedLink": {
+		"items": [
+			{
+				"name": "FA e-Learning",
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
+			},
+			{
+				"name": "Kamus Terminologi FA",
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
+			}
+		]
+	},
+	"banner": {
+		"items": [
+		]
+	},
+	"contact": {
+		"items": [
+			{
+				"name": "Hubungi Kami",
+				"icon": "estimate",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/1995"
+			}
+		]
+	}
+}

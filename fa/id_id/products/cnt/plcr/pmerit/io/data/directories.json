@@ -1,0 +1,20 @@
+{
+	"layerNav": {
+		"name": "I/O",
+		"path": "/id_id/products/cnt/plcr/pmerit/io/index.html",
+		"firstLayer": [
+			{
+				"name": "Rangkaian Produk",
+				"path": "/id_id/products/cnt/plcr/pmerit/io/index.html"
+			},
+			{
+				"name": "Fitur",
+				"path": "/id_id/products/cnt/plcr/pmerit/io/merit.html"
+			},
+			{
+				"name": "Spesifikasi",
+				"path": "/id_id/products/cnt/plcr/pmerit/io/spec.html"
+			}
+		]
+	}
+}

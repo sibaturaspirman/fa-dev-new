@@ -1,0 +1,150 @@
+{
+	"layerNav": {
+		"name": "CC-Link IE",
+		"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/concept/",
+		"firstLayer": [
+			{
+				"name": "CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/concept/index.html"
+			},
+			{
+				"name": "Fitur CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/index.html",
+				"secondLayer": [
+					{
+						"name": "Komunikasi berkecepatan tinggi mewujudkan siklus operasi yang lebih pendek dan lebih stabil, sehingga memungkinkan produktivitas yang lebih tinggi",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/index.html"
+					},
+					{
+						"name": "Pengumpulan data lantai toko secara real-time",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat02.html"
+					},
+					{
+						"name": "Kurangi biaya instalasi dengan komponen Ethernet yang tersedia secara luas",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat03.html"
+					},
+					{
+						"name": "Modifikasi konfigurasi sistem kontrol yang ada dengan mudah",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat04.html"
+					},
+					{
+						"name": "Akses lancar ke CC-Link IE TSN dari CC-Link IE Field Network",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat15.html"
+					},
+					{
+						"name": "Performa sinkronisasi untuk kontrol gerakan tingkat lanjut",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat05.html"
+					},
+					{
+						"name": "Mengintegrasikan komunikasi keselamatan pada satu jaringan",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat06.html"
+					},
+					{
+						"name": "Meningkatkan keandalan dengan mengurangi kegagalan titik tunggal",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat13.html"
+					},
+					{
+						"name": "Waktu mulai yang dipersingkat memperpendek siklus produksi",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat14.html"
+					},
+					{
+						"name": "Ekstensi titik I/O yang fleksibel",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat08.html"
+					},
+					{
+						"name": "Komisioning jaringan sederhana",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat09.html"
+					},
+					{
+						"name": "Mengidentifikasi kesalahan pemasangan kabel dan modul dengan cepat",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat10.html"
+					},
+					{
+						"name": "Menghindari pemadaman seluruh jaringan",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat12.html"
+					},
+					{
+						"name": "Kabel optik loop ganda yang sangat toleran terhadap kesalahan",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/feature/feat11.html"
+					}
+				]
+			},
+			{
+				"name": "Aplikasi CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/case/index.html",
+				"secondLayer": [
+					{
+						"name": "Sistem produksi semikonduktor",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/case/index.html"
+					},
+					{
+						"name": "Bengkel cat otomotif",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/case/case02.html"
+					},
+					{
+						"name": "Proses Produksi Flat panel display (FPD)",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/case/case03.html"
+					},
+					{
+						"name": "Proses produksi baja",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/case/case04.html"
+					}
+				]
+			},
+			{
+				"name": "Produk CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/index.html",
+				"secondLayer": [
+					{
+						"name": "Pengontrol yang Dapat Diprogram",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/index.html"
+					},
+					{
+						"name": "Drive Products",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/drv.html"
+					},
+					{
+						"name": "Human-Machine Interfaces (HMIs)",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/hmi.html"
+					},
+					{
+						"name": "Modul Jarak Jauh Tipe Blok",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/block_type.html"
+					},
+					{
+						"name": "Modul Jarak Jauh Tipe Tahan Air/Tahan Debu (IP67)",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/ip67_io.html"
+					},
+					{
+						"name": "Modul I/O Jarak Jauh Keamanan",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/safety_io.html"
+					},
+					{
+						"name": "Modul Tautan IO Jarak Jauh",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/io_link.html"
+					},
+					{
+						"name": "Papan Antarmuka Jaringan",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/board.html"
+					},
+					{
+						"name": "Modul Bridge",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/lineup/adp_bridge.html"
+					}
+				]
+			},
+			{
+				"name": "Opsi CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/option/index.html"
+			},
+			{
+				"name": "Alat Pengembangan CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/tool/index.html"
+			},
+			{
+				"name": "Spesifikasi CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/spec/index.html"
+			}
+		]
+	}
+}

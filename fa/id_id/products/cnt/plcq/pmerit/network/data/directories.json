@@ -1,0 +1,56 @@
+{
+	"layerNav": {
+		"name": "Jaringan",
+		"path": "/id_id/products/cnt/plcq/pmerit/network/index.html",
+		"firstLayer": [
+			{
+				"name": "Konfigurasi Jaringan",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/index.html"
+			},
+			{
+				"name": "CC-Link IE Controller Network",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/ccie_c.html"
+			},
+			{
+				"name": "CC-Link IE Field Network",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/ccie_f.html"
+			},
+			{
+				"name": "AnyWire",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/anywire.html"
+			},
+			{
+				"name": "CC-Link",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/cclink.html"
+			},
+			{
+				"name": "MELSECNET/H",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/melsecnet_h.html"
+			},
+			{
+				"name": "Ethernet",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/ethernet.html"
+			},
+			{
+				"name": "MODBUS",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/modbus.html"
+			},
+			{
+				"name": "Serial communication",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/serial_com.html"
+			},
+			{
+				"name": "Antarmuka MES",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/mes.html"
+			},
+			{
+				"name": "Pencatat data berkecepatan tinggi",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/data_log.html"
+			},
+			{
+				"name": "Komunikasi data berkecepatan tinggi",
+				"path": "/id_id/products/cnt/plcq/pmerit/network/data_com.html"
+			}
+		]
+	}
+}

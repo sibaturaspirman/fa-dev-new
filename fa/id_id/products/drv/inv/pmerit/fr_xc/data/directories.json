@@ -1,0 +1,36 @@
+{
+  "layerNav": {
+    "name": "FREQROL-XC series",
+    "path": "/id_id/products/drv/inv/items/fr_xc/index.html",
+    "firstLayer": [
+      {
+        "name": "Gambaran Umum",
+        "path": "/id_id/products/drv/inv/pmerit/fr_xc/index.html"
+      },
+      {
+        "name": "Desain berpadu menawarkan solusi untuk masalah harmonik",
+        "path": "/id_id/products/drv/inv/pmerit/fr_xc/feature01.html"
+      },
+      {
+        "name": "Regenerasi daya berkontribusi pada penghematan energi",
+        "path": "/id_id/products/drv/inv/pmerit/fr_xc/feature02.html"
+      },
+      {
+        "name": "Fitur lainnya",
+        "path": "/id_id/products/drv/inv/pmerit/fr_xc/feature03.html"
+      },
+      {
+        "name": "Contoh Aplikasi",
+        "path": "/id_id/products/drv/inv/pmerit/fr_xc/feature04.html"
+      },
+      {
+        "name": "Konfigurasi model",
+        "path": "/id_id/products/drv/inv/pmerit/fr_xc/feature05.html"
+      },
+      {
+        "name": "Kombinasi",
+        "path": "/id_id/products/drv/inv/pmerit/fr_xc/feature06.html"
+      }
+    ]
+  }
+}

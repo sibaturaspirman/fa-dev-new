@@ -1,0 +1,178 @@
+{
+	"coment": "linkを設定する際は、/faからの相対パスで記述する",
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"comment": "linkは各機種のダウンロードページのURLに変更可",
+				"name": "Unduh",
+				"icon": "download",
+				"link": "#",
+				"child": [
+					{
+						"name": "Katalog",
+						"icon": "catalog",
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ems"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/ems"
+					},
+					{
+						"name": "Buletin<br>Teknis",
+						"icon": "techinfo",
+						"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/ems"
+					},
+					{
+						"name": "CAD Data",
+						"icon": "cad",
+						"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?mode=cad&kisyu=/ems"
+					},
+					{
+						"name": "Perangkat Lunak",
+						"icon": "software",
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ems"
+					},
+					{
+						"name": "Contoh<br>Library",
+						"icon": "library",
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=lib&kisyu=/ems"
+					}
+				]
+			}
+	  ],
+		"commonItems": [
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2304"
+			}
+        ]
+	},
+	"spotlight": {
+		"comment": "Spotlightに掲載したいページタイトル・画像・リンクを記入",
+		"items": []
+	},
+	"productsMenu": {
+		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
+		"items": [
+			{
+				"name": "Spesifikasi Produk",
+				"icon": "settings",
+				"link": "#",
+				"child": [
+					{
+						"name": "Energy Measuring Unit",
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems"
+					},
+					{
+						"name": "Energy Saving Data Collecting Server",
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=Energy%20Saving%20Data%20Collecting%20Server&search=B&word=Energy%20Saving%20Data%20Collecting%20Server"
+					},
+					{
+						"name": "Application Software",
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=Application%20Software&search=B&word=Application%20Software"
+					},
+					{
+						"name": "MELSEC iQ-R Series",
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=MELSEC%20iQ-R%20Series&search=B&word=MELSEC%20iQ-R%20Series"
+					},
+					{
+						"name": "MELSEC-Q Series",
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=MELSEC-Q%20Series&search=B&word=MELSEC-Q%20Series"
+					}
+				]
+			},
+			{
+				"name": "Produk bersertifikat/mematuhi standar",
+				"icon": "standard",
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems"
+			},
+			{
+				"name": "Produk yang Dihentikan",
+				"icon": "silver-line",
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon"
+			},
+			{
+				"name": "FA Integrated ",
+				"icon": "tree",
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
+			}
+		]
+	},
+	"optionItems": {
+		"comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
+		"items": []
+	},
+	"download": {
+		"comment": "おすすめカタログを掲載しない場合は、recommended内の中括弧ごと削除",
+		"recommended": [
+			{
+				"name": "javascript.toCatalogInfo('name','YM-C-Y-0766','ems','3')",
+				"img": "javascript.toCatalogInfo('img','YM-C-Y-0766','ems','5')",
+				"link": "javascript.toCatalogInfo('link','YM-C-Y-0766','ems','10')"
+			}
+		],
+		"comment": "linkは各機種のダウンロードページのURLに変更可",
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ems"
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/ems"
+			},
+			{
+				"name": "Buletin Teknis",
+				"icon": "technews",
+				"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/ems"
+			},
+			{
+				"name": "CAD Data",
+				"icon": "cad",
+				"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?mode=cad&kisyu=/ems"
+			},
+			{
+				"name": "Perangkat Lunak",
+				"icon": "software",
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ems"
+			},
+			{
+				"name": "Contoh Library",
+				"icon": "library",
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=lib&kisyu=/ems"
+			}
+		]
+	},
+	"relatedLink": {
+		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "e-learning FA",
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
+			}
+		]
+	},
+	"banner": {
+		"comment": "関連リンクバナーに掲載したいページタイトル・画像・リンクを追加可",
+		"items": []
+	},
+	"contact": {
+		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
+		"items": [
+			{
+				"name": "Hubungi Kami",
+				"icon": "contact",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2304"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "layerNav": {
+    "name": "Computerized Numerical Controllers(CNCs)",
+    "path": "/id_id/products/cnt/cnc/index.html",
+    "firstLayer": [
+      {
+        "name": "Dukungan Teknis",
+        "path": "/id_id/products/cnt/cnc/pmerit/support/index.html"
+      },
+      {
+        "name": "Jaringan Global",
+        "path": "/id_id/products/cnt/cnc/pmerit/support/gl_network.html"
+      }
+    ]
+  }
+}

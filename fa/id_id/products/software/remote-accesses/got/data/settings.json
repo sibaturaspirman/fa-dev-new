@@ -1,0 +1,97 @@
+{
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"name": "Unduh",
+				"icon": "download",
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/got&mode=catalog",
+				"child": [
+					{
+					"name": "Katalog",
+					"icon": "catalog",
+					"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/got&mode=catalog"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/got"
+					},
+					{
+						"name": "Perangkat Lunak",
+						"icon": "software",
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/got"
+					}
+				]
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2167"
+			}
+	  ],
+		"commonItems": [
+		]
+	},
+	"spotlight": {
+		"items": [
+		]
+	},
+	"productsMenu": {
+		"items": [
+		]
+	},
+	"optionItems": {
+		"items": [
+		]
+	},
+	"download": {
+		"recommended": [
+		],
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/got&mode=catalog"
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/got"
+			},
+			{
+				"name": "Perangkat Lunak",
+				"icon": "software",
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/got"
+			}
+		]
+	},
+	"relatedLink": {
+		"items": [{
+			"name": "FA e-Learning",
+			"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
+		},
+		{
+			"name": "Kamus Terminologi FA",
+			"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
+		}
+		]
+	},
+	"banner": {
+		"items": [
+		]
+	},
+	"contact": {
+		"items": [
+			{
+				"name": "Hubungi Kami",
+				"icon": "estimate",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2167"
+			}
+		]
+	}
+}

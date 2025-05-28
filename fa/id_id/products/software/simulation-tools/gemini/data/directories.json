@@ -1,0 +1,108 @@
+{
+	"directories": {
+		"name": "Beranda",
+		"path": "/id_id/index.html",
+		"child": [
+		  {
+			"name": "Katalog Produk",
+			"path": "/id_id/products/index.html",
+			"child": [
+			  {
+				"name": "Simulation tools",
+				"path": "/id_id/products/software/simulation-tools/index.html",
+				"child": [
+				  {
+					"name": "Simulator 3D MELSOFT Gemini",
+					"path": "/id_id/products/software/simulation-tools/gemini/index.html"
+				  },		  
+				  {
+					"name": "MELSOFT RT ToolBox3",
+					"path": "/id_id/products/rbt/robot/smerit/rt3/index.html"
+				  }		  
+				]
+			  }
+			]
+		  }
+		]
+  },
+  "switchNav": {
+    "name": "Simulation tools",
+    "path": "/id_id/products/software/simulation-tools/index.html",
+    "child": [
+      {
+        "group": "Simulation tools",
+        "name": "Simulator 3D MELSOFT Gemini",
+        "feature": "/id_id/products/software/simulation-tools/gemini/index.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/3dsim",
+        "standard": "",
+        "discon": ""
+      },
+	  {
+        "group": "Simulation tools",
+        "name": "MELSOFT RT ToolBox3",
+        "feature": "/id_id/products/rbt/robot/smerit/rt3/index.html",
+        "spec": "",
+        "standard": "",
+        "discon": ""
+      }
+    ]
+  },
+  "layerNav": {
+    "name": "Simulation tools",
+    "path": "/id_id/products/software/simulation-tools/gemini/index.html",
+    "firstLayer": [
+      {
+        "name": "Ringkasan",
+        "path": "/id_id/products/software/simulation-tools/gemini/index.html"
+	  },
+      {
+        "name": "Penggunaan",
+        "path": "/id_id/products/software/simulation-tools/gemini/usage.html"
+      },
+      {
+        "name": "Contoh Pendahuluan",
+        "path": "/id_id/products/software/simulation-tools/gemini/introductions.html"
+      },
+      {
+        "name": "Daftar Produk",
+        "path": "/id_id/products/software/simulation-tools/gemini/lineup.html"
+      },
+      {
+        "name": "Fitur",
+        "path": "/id_id/products/software/simulation-tools/gemini/function.html"
+      },
+      {
+        "name": "Layanan Pemeliharaan Berbasis Biaya",
+        "path": "/id_id/products/software/simulation-tools/gemini/service.html"
+      },
+      {
+        "name": "Tutorial",
+        "path": "/id_id/products/software/simulation-tools/gemini/trial.html"
+      },
+      {
+        "name": "Akademi",
+        "path": "/id_id/products/software/simulation-tools/gemini/howto.html",
+        "secondLayer": [
+		  {
+            "name": "Berdasarkan Kategori",
+            "path": "/id_id/products/software/simulation-tools/gemini/howto.html"
+          },
+          {
+            "name": "Berdasarkan Tujuan",
+            "path": "/id_id/products/software/simulation-tools/gemini/howto_2_2.html",
+            "thirdLayer": [
+              {
+                "name": "Cara Menggunakan Robot Seluler Manusia",
+                "path": "/id_id/products/software/simulation-tools/gemini/howto_2_2.html"
+              }					
+            ] 
+          }
+        ]
+      },
+      {
+        "name": "eCatalog",
+        "path": "/id_id/products/software/simulation-tools/gemini/library.html"
+      }
+    ]
+  }
+}

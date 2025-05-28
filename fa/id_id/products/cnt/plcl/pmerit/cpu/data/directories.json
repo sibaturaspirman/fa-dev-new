@@ -1,0 +1,36 @@
+{
+	"layerNav": {
+		"name": "CPU",
+		"path": "/id_id/products/cnt/plcl/pmerit/cpu/index.html",
+		"firstLayer": [
+			{
+				"name": "Rangkaian Produk",
+				"path": "/id_id/products/cnt/plcl/pmerit/cpu/index.html"
+			},
+			{
+				"name": "Fitur I/O Terintegrasi Seri L",
+				"path": "/id_id/products/cnt/plcl/pmerit/cpu/iofanction.html"
+			},
+			{
+				"name": "Pilihan komunikasi dan penyimpanan yang nyaman hadir sebagai standar",
+				"path": "/id_id/products/cnt/plcl/pmerit/cpu/interface.html"
+			},
+			{
+				"name": "Dapatkan lebih banyak fleksibilitas dengan struktur bus sistem terintegrasi",
+				"path": "/id_id/products/cnt/plcl/pmerit/cpu/baseless.html"
+			},
+			{
+				"name": "Tren historis dan umpan langsung produksi",
+				"path": "/id_id/products/cnt/plcl/pmerit/cpu/loging.html"
+			},
+			{
+				"name": "Tampilan kaya fitur dan mudah digunakan",
+				"path": "/id_id/products/cnt/plcl/pmerit/cpu/syscheck.html"
+			},
+			{
+				"name": "Desain modular yang mudah digunakan",
+				"path": "/id_id/products/cnt/plcl/pmerit/cpu/design.html"
+			}
+		]
+	}
+}

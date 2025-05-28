@@ -1,0 +1,241 @@
+{
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"name": "Unduh",
+				"icon": "download",
+				"link": "/id_id/download/"
+			}
+	  ],
+		"commonItems": [
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/1995"
+			}
+        ]
+	},
+	"spotlight": {
+		"comment": "Spotlightに掲載したいページタイトル・画像・リンクを記入",
+		"items": [
+			{
+				"name": "Spotlight1",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			}
+		]
+	},
+	"productsMenu": {
+		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
+		"items": [
+			{
+				"name": "Katalog Produk Umum",
+				"icon": "catalog",
+				"link": "/id_id/dctlg/index.html"
+			},
+			{
+				"name": "FA Integrated ",
+				"icon": "tree",
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
+			}
+		]
+	},
+	"optionItems": {
+		"comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "Option Menu1",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu2",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu3",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu4",
+				"link": "#"
+			}
+		]
+	},
+	"download": {
+		"comment": "おすすめカタログを掲載しない場合は、recommended内の中括弧ごと削除",
+		"recommended": [
+			{
+				"name": "javascript.toCatalogInfo('name','L08322ENG','plc','3')",
+				"img": "javascript.toCatalogInfo('img','L08322ENG','plc','5')",
+				"link": "javascript.toCatalogInfo('link','L08322ENG','plc','10')"
+			}
+		],
+		"comment": "linkは各機種のダウンロードページのURLに変更可",
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "#",
+                "child": [
+                {
+				    "name": "MELSEC iQ-R Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=catalog"
+                },
+                {
+				    "name": "MELSEC iQ-F Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcf&mode=catalog"
+                },
+                {
+				    "name": "MELSEC-Q Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcq&mode=catalog"
+                },
+                {
+				    "name": "MELSEC-L Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=catalog"
+                },
+                {
+				    "name": "MELSEC-F Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=catalog"
+                },
+                {
+				    "name": "MELSEC-QS/WS Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=catalog"
+                },
+                {
+				    "name": "Network-related products",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=catalog"
+                }
+                ]
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "#",
+                "child": [
+                {
+				    "name": "MELSEC iQ-R Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=manual"
+                },
+                {
+				    "name": "MELSEC iQ-F Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcf&mode=manual"
+                },
+                {
+				    "name": "MELSEC-Q Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcq&mode=manual"
+                },
+                {
+				    "name": "MELSEC-L Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=manual"
+                },
+                {
+				    "name": "MELSEC-F Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=manual"
+                },
+                {
+				    "name": "MELSEC-QS/WS Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=manual"
+                },
+                {
+				    "name": "Network-related products",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=manual"
+                }
+                ]
+			},
+			{
+				"name": "Buletin Teknis",
+				"icon": "technews",
+				"link": "#",
+                "child": [
+                {
+                    "name": "MELSEC iQ-R Series",
+                    "link":"https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=techinfo"
+                },
+                {
+                    "name": "MELSEC iQ-F Series",
+                    "link":"https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcf&mode=techinfo"
+                },
+                {
+				    "name": "MELSEC-Q Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcq&mode=techinfo"
+                },
+                {
+				    "name": "MELSEC-L Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=techinfo"
+                },
+                {
+				    "name": "MELSEC-F Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=techinfo"
+                },
+                {
+				    "name": "MELSEC-QS/WS Series",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=techinfo"
+                },
+                {
+				    "name": "Network-related products",
+				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=techinfo"
+                }
+                ]
+			},
+			{
+				"name": "CAD Data",
+				"icon": "cad",
+				"link": "/id_id/download/index.html?modal=cad"
+			},
+			{
+				"name": "Perangkat Lunak",
+				"icon": "software",
+				"link": "/id_id/download/index.html?modal=software"
+			},
+			{
+				"name": "Contoh Library",
+				"icon": "library",
+				"link": "/id_id/download/index.html?modal=lib"
+			}
+		]
+	},
+	"relatedLink": {
+		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "Related Link1",
+				"link": "#"
+			}
+		]
+	},
+	"banner": {
+    "comment": "関連リンクバナーに掲載したいページタイトル・画像・リンクを追加可",
+		"items": [
+			{
+				"name": "iQ Platform-compatible PAC System Recorder",
+				"image": "/id_id/products/cnt/plc/img/banner_system-recorder.jpg",
+				"link": "/id_id/products/software/visualisation/system-recorder/index.html"
+			},
+			{
+				"name": "FA Integrated ",
+				"image": "/id_id/products/assets/img/banner_integrated-selection-tool.jpg",
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
+			},
+			{
+				"name": "FA SPEC Search",
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
+			}
+        ]
+	},
+	"contact": {
+		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
+		"items": [
+			{
+				"name": "Hubungi Kami",
+				"icon": "contact",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/1995"
+			}
+		]
+	}
+}

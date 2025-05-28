@@ -1,0 +1,122 @@
+{
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"name": "Unduh",
+				"icon": "download",
+				"link": "",
+				"child":[
+					{
+						"name": "Katalog",
+						"icon": "catalog",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=catalog"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=manual"
+					},
+					{
+						"name": "Perangkat Lunak",
+						"icon": "software",
+						"link": "/id_id/download/software/index.html"
+					}
+				]
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/"
+			}
+		],
+		"commonItems": []
+	},
+	"spotlight": {
+		"items": [
+		]
+	},
+	"productsMenu": {
+		"items": [
+		]
+	},
+	"optionItems": {
+		"items": [
+		]
+	},
+	"download": {
+		"recommended": [],
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "",
+				"child": [
+					{
+						"name": "Human-Machine Interfaces(HMIs)-GOT",
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/got&mode=catalog"
+					},
+					{
+						"name": "SCADA",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/scada&mode=catalog"
+					}
+				]
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "",
+				"child": [
+					{
+						"name": "Human-Machine Interfaces(HMIs)-GOT",
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/got"
+					},
+					{
+						"name": "SCADA",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/scada&mode=manual"
+					}
+				]
+			},
+			{
+				"name": "Perangkat Lunak",
+				"icon": "software",
+				"link": "",
+				"child": [
+					{
+						"name": "Human-Machine Interfaces(HMIs)-GOT",
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/got"
+					}
+				]
+			}
+		]
+	},
+	"relatedLink": {
+		"items": [
+			{
+				"name": "e-Learning FA",
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
+			},
+			{
+				"name": "Daftar Istilah FA",
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
+			}
+		]
+	},
+	"banner": {
+		"items": [
+		]
+	},
+	"contact": {
+		"items": [
+			{
+				"name": "Hubungi kami",
+				"icon": "estimate",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/"
+			}
+		]
+	}
+}

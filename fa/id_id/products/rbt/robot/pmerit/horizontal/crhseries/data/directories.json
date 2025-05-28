@@ -1,0 +1,53 @@
+{
+  "layerNav": {
+    "name": "Industrial Robot MELFA",
+    "path": "/id_id/products/rbt/robot/items/horizontal/index.html",
+    "firstLayer": [
+      {
+        "name": "RH-FRH Series",
+        "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/index.html",
+        "secondLayer": [
+           {
+            "name": "Rangkaian Produk",
+            "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/index.html"
+          },
+           {
+            "name": "Fitur",
+            "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/features.html"
+          },
+           {
+            "name": "Opsi lengan robot",
+            "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/option.html"
+          },
+          {
+            "name": "Konfigurasi Sistem",
+            "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/config.html"
+          },
+          {
+            "name": "Spesifikasi",
+            "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/spec.html"
+          }
+        ]
+      },
+      {
+        "name": "RH-CRH Series",
+        "path": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/index.html",
+         "secondLayer": [
+           {
+            "name": "Fitur",
+            "path": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
+          },
+
+          {
+            "name": "Konfigurasi Sistem",
+            "path": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/config.html"
+          },
+          {
+            "name": "Spesifikasi",
+            "path": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/spec.html"
+          }
+        ]
+      }
+      ]
+  }
+}

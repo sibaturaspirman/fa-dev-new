@@ -1,0 +1,71 @@
+{
+  "directories": {
+    "name": "Beranda",
+    "path": "/id_id/index.html",
+    "child": [
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Low-voltage Circuit Breakers",
+            "path": "/id_id/products/lvd/lvcb/index.html",
+			"child": [
+				{
+					"name": "Circuit Breakers for Use in Particular Applications",
+					"path": "/id_id/products/lvd/lvcb/items/spcb/index.html",
+					"child": [
+					{
+						"name": "Untuk Tegangan Khusus DC",
+						"path": "/id_id/products/lvd/lvcb/pmerit/spcb_dc/index.html"
+					},
+					{
+						"name": "Pemutus Sirkuit Hanya Mag",
+						"path": "/id_id/products/lvd/lvcb/pmerit/spcb_mag/index.html"
+					},
+					{
+						"name": "Sakelar DSN",
+						"path": "/id_id/products/lvd/lvcb/pmerit/spcb_dsn/index.html"
+					},
+					{
+						"name": "Jenis Peningkatan Tahan Korosi untuk Lingkungan Khusus",
+						"path": "/id_id/products/lvd/lvcb/pmerit/spcb_sp/index.html"
+					}
+				]
+				}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "layerNav": {
+    "name": "Sakelar DSN",
+    "path": "/id_id/products/lvd/lvcb/pmerit/spcb_dsn/index.html",
+    "firstLayer": [
+      {
+        "name": "Fitur",
+        "path": "/id_id/products/lvd/lvcb/pmerit/spcb_dsn/index.html"
+     }
+    ]
+  },
+"switchNav": {
+	"name": "Circuit Breakers for Use in Particular Applications",
+	"path": "/id_id/products/lvd/lvcb/items/spcb/index.html",
+	"child": [
+		{
+			"group": "Circuit Breakers for Use in Particular Applications",
+			"name": "Sakelar DSN",
+			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_dsn/index.html",
+			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DSN",
+			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DSN",
+			"discon": "",
+            "return": {
+                "name": "Circuit Breakers for Use in Particular Applications",
+                "path": "/id_id/products/lvd/lvcb/items/spcb/index.html"
+			}
+		}
+	]
+}
+}
+  

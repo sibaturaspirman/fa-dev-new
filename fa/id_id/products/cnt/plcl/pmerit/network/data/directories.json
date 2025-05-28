@@ -1,0 +1,20 @@
+{
+	"layerNav": {
+		"name": "Jaringan",
+		"path": "/id_id/products/cnt/plcl/pmerit/network/index.html",
+		"firstLayer": [
+			{
+				"name": "Rangkaian Produk",
+				"path": "/id_id/products/cnt/plcl/pmerit/network/index.html"
+			},
+			{
+				"name": "Fitur",
+				"path": "/id_id/products/cnt/plcl/pmerit/network/point.html"
+			},
+			{
+				"name": "Diagram jaringan",
+				"path": "/id_id/products/cnt/plcl/pmerit/network/layer.html"
+			}
+		]
+	}
+}

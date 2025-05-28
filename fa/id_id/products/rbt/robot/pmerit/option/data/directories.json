@@ -1,0 +1,32 @@
+{
+  "layerNav": {
+    "name": "Intelligent Options",
+    "path": "/id_id/products/rbt/robot/items/option/index.html",
+    "firstLayer": [
+      {
+        "name": "High-performance teaching box",
+        "path": "/id_id/products/rbt/robot/pmerit/option/index.html"
+      },
+      {
+        "name": "Force sensor set",
+        "path": "/id_id/products/rbt/robot/pmerit/option/forcesensor.html"
+      },
+      {
+        "name": "MELFA-3D Vision 3.0",
+        "path": "/id_id/products/rbt/robot/pmerit/option/vision_3d.html"
+      },
+      {
+        "name": "FR series Robot safety solutions",
+        "path": "/id_id/products/rbt/robot/pmerit/option/safety_fr.html"
+      },
+      {
+        "name": "Gripper Listrik Multifungsi",
+        "path": "/id_id/products/rbt/robot/pmerit/option/handtool.html"
+      },
+      {
+        "name": "Wiring solution",
+        "path": "/id_id/products/rbt/robot/pmerit/option/wiring.html"
+      }
+      ]
+  }
+}

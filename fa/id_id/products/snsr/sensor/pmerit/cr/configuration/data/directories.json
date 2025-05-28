@@ -1,0 +1,50 @@
+{
+  "layerNav": {
+    "name": "Code Reader",
+    "path": "/id_id/products/snsr/sensor/pmerit/cr/index.html",
+    "firstLayer": [
+      {
+        "name": "Konsep",
+        "path": "/id_id/products/snsr/sensor/pmerit/cr/index.html"
+      },
+      {
+        "name": "Fitur",
+        "path": "/id_id/products/snsr/sensor/pmerit/cr/features/index.html",
+        "secondLayer": [
+          {
+            "name": "Pemasangan tetap code reader",
+            "path": "/id_id/products/snsr/sensor/pmerit/cr/features/index.html"
+          },
+          {
+            "name": "Kompatibel dengan produk otomasi pabrik Mitsubishi Electric",
+            "path": "/id_id/products/snsr/sensor/pmerit/cr/features/compatibility.html"
+          }
+        ]
+      },
+      {
+        "name": "Alat konfigurasi",
+        "path": "/id_id/products/snsr/sensor/pmerit/cr/soft/index.html"
+      },
+      {
+        "name": "Contoh Aplikasi",
+        "path": "/id_id/products/snsr/sensor/pmerit/cr/application/index.html"
+      },
+      {
+        "name": "Konfigurasi Sistem",
+        "path": "/id_id/products/snsr/sensor/pmerit/cr/configuration/index.html"
+      },
+      {
+        "name": "Product List",
+        "path": "/id_id/products/snsr/sensor/pmerit/cr/lineup/index.html"
+      },
+      {
+        "name": "Jarak kerja",
+        "path": "/id_id/products/snsr/sensor/pmerit/cr/working_distance/index.html"
+      },
+      {
+        "name": "Dimensi eksternal",
+        "path": "/id_id/products/snsr/sensor/pmerit/cr/dimensions/index.html"
+      }
+    ]
+  }
+}

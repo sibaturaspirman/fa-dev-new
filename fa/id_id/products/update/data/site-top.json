@@ -1,0 +1,54 @@
+{
+  "listLinkLabel": "Informasi Terbaru",
+  "listLink": "https://www.mitsubishielectric.com/fa/products/update/index.html",
+  "items": [
+    {
+      "pubDate": "Apr 9, 2025",
+      "category": "Catalog",
+      "title": "Updated catalog information for April 2025 has been added.",
+      "link": "https://www.mitsubishielectric.com/fa/products/update/catalog.html#202504"
+    },
+    {
+      "pubDate": "Apr 9, 2025",
+      "category": "Software",
+      "title": "Updated software information for April 2025 has been added.",
+      "link": "https://www.mitsubishielectric.com/fa/products/update/software.html#202504"
+    },
+    {
+      "pubDate": "Apr 8, 2025",
+      "category": "Manual",
+      "title": "Updated manual information for April 2025 has been added.",
+      "link": "https://www.mitsubishielectric.com/fa/products/update/manual.html#202504"
+    },
+    {
+      "pubDate": "Apr 7, 2025",
+      "category": "Technical bulletin",
+      "title": "Updated technical bulletin information for April 2025 has been added.",
+      "link": "https://www.mitsubishielectric.com/fa/products/update/techinfo.html#202504"
+    },
+    {
+      "pubDate": "Mar 26, 2025",
+      "category": "Products certified/compliant to standards",
+      "title": "Products certified/compliant to standards information for March 2025 has been added.",
+      "link": "https://www.mitsubishielectric.com/fa/products/update/standard.html#202503"
+    },
+    {
+      "pubDate": "Jun 26, 2024",
+      "category": "Discontinued products",
+      "title": "Discontinued products information for June 2024 has been added.",
+      "link": "https://www.mitsubishielectric.com/fa/products/update/renewal.html#202406"
+    },
+    {
+      "pubDate": "Feb 29, 2024",
+      "category": "Other",
+      "title": "other information for February 2024 has been added.",
+      "link": "https://www.mitsubishielectric.com/fa/products/update/other.html#202402"
+    },
+    {
+      "pubDate": "Nov 13, 2023",
+      "category": "New products",
+      "title": "New products information for November 2023 has been added.",
+      "link": "https://www.mitsubishielectric.com/fa/products/update/new-products.html#202311"
+    }
+  ]
+}

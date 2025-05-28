@@ -1,0 +1,84 @@
+{
+	"layerNav": {
+		"name": "CC-Link IE",
+		"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/concept/",
+		"firstLayer": [
+			{
+				"name": "CC-Link IE Field Basic",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/concept/index.html"
+			},
+			{
+				"name": "CC-Link IE Field Basic Features",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/index.html",
+				"secondLayer": [
+					{
+						"name": "Menggabungkan dengan komunikasi TCP/IP",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/index.html"
+					},
+					{
+						"name": "Berbagai macam produk yang dapat dihubungkan",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/feat02.html"
+					},
+					{
+						"name": "Konfigurasi sistem jaringan skala kecil",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/feat03.html"
+					},
+					{
+						"name": "Pengaturan sederhana dan pemecahan masalah yang mudah",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/feat04.html"
+					}
+				]
+			},
+			{
+				"name": "Aplikasi Dasar CC-Link IE Field",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/case/index.html"
+			},
+			{
+				"name": "Produk Dasar CC-Link IE Field",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/index.html",
+				"secondLayer": [
+					{
+						"name": "Pengontrol yang Dapat Diprogram",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/index.html"
+					},
+					{
+						"name": "Drive Products",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/drv.html"
+					},
+					{
+						"name": "Produk Robot",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/robot.html"
+					},
+					{
+						"name": "Human-Machine Interfaces (HMIs)",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/hmi.html"
+					},
+					{
+						"name": "Sensor FA",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/sensor.html"
+					},
+					{
+						"name": "Energy Measuring Units",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/emu.html"
+					},
+					{
+						"name": "Modul Jarak Jauh Tipe Blok",
+						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/block_type.html"
+					}
+				]
+			},
+			{
+				"name": "Opsi CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/option/index.html"
+			},
+			{
+				"name": "Alat Pengembangan CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/tool/index.html"
+			},
+			{
+				"name": "Spesifikasi CC-Link IE",
+				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/spec/index.html"
+			}
+		]
+	}
+}

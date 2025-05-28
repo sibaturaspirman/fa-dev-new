@@ -1,0 +1,46 @@
+{
+  "layerNav": {
+    "name": "FREQROLシリーズ",
+    "path": "/id_id/products/drv/inv/pmerit/index.html",
+    "firstLayer": [
+	     {
+        "name": "Fitur utama",
+        "path": "/id_id/products/drv/inv/pmerit/index.html"
+      },
+      {
+        "name": "Produk yang direkomendasikan",
+        "path": "/id_id/products/drv/inv/pmerit/new_products/index.html",
+        "secondLayer": [
+          {
+            "name": "Inverter FR-A800-GN dan Opsi Plug-in FR-A8NCG untuk Fungsi Komunikasi CC-Link IE TSN",
+            "path": "/id_id/products/drv/inv/pmerit/new_products/watch/1901e/"
+          },
+          {
+            "name": "Inverter FR-A800-E-R2R (Model Komunikasi Ethernet dari inverter khusus roll to roll)",
+            "path": "/id_id/products/drv/inv/pmerit/new_products/watch/1807e/"
+          },
+          {
+            "name": "Model Komunikasi Ethernet Inverter Tipe Pendingin Cair FR-A800-E-LC",
+            "path": "/id_id/products/drv/inv/pmerit/new_products/watch/1805e/"
+          },
+          {
+            "name": "Inverter FR-A870-B dengan fungsionalitas tinggi dan kinerja tinggi",
+            "path": "/id_id/products/drv/inv/pmerit/new_products/watch/1806e/"
+          },
+          {
+            "name": "Opsi untuk FR-A842 yang Berfungsi sebagai Konverter Faktor Daya Tinggi",
+            "path": "/id_id/products/drv/inv/pmerit/new_products/watch/1804e/"
+          }
+        ]
+      },
+      {
+        "name": "Perawatan peralatan",
+        "path": "/id_id/products/drv/inv/pmerit/prevention/index.html"
+      },
+      {
+        "name": "Katalog Digital",
+        "path": "/id_id/products/drv/inv/pmerit/catalog_jp.html"
+      }
+    ]
+  }
+}

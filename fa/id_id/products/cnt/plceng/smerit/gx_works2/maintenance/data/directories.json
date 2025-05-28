@@ -1,0 +1,74 @@
+{
+	"layerNav": {
+		"name": "MELSOFT GX Works2 Features",
+		"path": "/id_id/products/cnt/plceng/smerit/gx_works2/index.html",
+		"firstLayer": [
+			{
+				"name": "Konsep",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/index.html"
+			},
+			{
+				"name": "Meningkatkan efisiensi desain dan debug",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/debug/index.html",
+				"secondLayer": [
+					{
+						"name": "Input Ladder",
+						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/debug/index.html"
+					},
+					{
+						"name": "Komentar",
+						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/debug/comment.html"
+					},
+					{
+						"name": "Pengaturan parameter",
+						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/debug/parameters.html"
+					},
+					{
+						"name": "Debugging",
+						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/debug/debug.html"
+					}
+				]
+			},
+			{
+				"name": "Memberikan perawatan yang sesuai dengan kebutuhan Anda",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/maintenance/index.html",
+				"secondLayer": [
+					{
+						"name": "Operasi dan pemeliharaan",
+						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/maintenance/index.html"
+					},
+					{
+						"name": "Keamanan",
+						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/maintenance/security.html"
+					}
+				]
+			},
+			{
+				"name": "Memfasilitasi manajemen proyek",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/project/index.html"
+			},
+			{
+				"name": "Mempromosikan standarisasi program",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/program/index.html",
+				"secondLayer": [
+					{
+						"name": "Membuat bagian dalam program",
+						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/program/index.html"
+					},
+					{
+						"name": "Pemrograman label/pemrograman terstruktur",
+						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/program/programming.html"
+					},
+					{
+						"name": "Interaksi dengan iQ Works",
+						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/program/iq_works.html"
+					}
+				]
+			},
+			{
+				"name": "Peningkatan koordinasi dengan perangkat otomasi pabrik",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/support/index.html"
+			}
+		]
+	}
+}

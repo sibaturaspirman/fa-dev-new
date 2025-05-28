@@ -1,0 +1,74 @@
+{
+  "directories": {
+    "name": "Beranda",
+    "path": "/id_id/",
+    "child": [
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Energy Saving Supporting Devices",
+            "path": "/id_id/products/pmng/ems/index.html",
+			"child": [
+				{
+					"name": "Energy Measuring Units",
+					"path": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_1.html",
+					"child": [
+					{
+						"name": "EcoMonitorPlus",
+						"path": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_1.html"
+					},
+					{
+						"name": "EcoMonitorLight",
+						"path": "/id_id/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html"
+					}
+				]
+				}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+"layerNav": {
+    "name": "EcoMonitorPlus",
+    "path": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_1.html",
+    "firstLayer": [
+      {
+        "name": "Fitur",
+        "path": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_1.html"
+      },
+      {
+        "name": "Kombinasi Satuan",
+        "path": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_2.html"
+      },
+      {
+        "name": "Konfigurasi Sistem",
+        "path": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_3.html"
+      },
+      {
+        "name": "Rangkaian Produk",
+        "path": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_4.html"
+      }
+    ]
+  },
+ "switchNav": {
+    "name": "Energy Saving Supporting Devices",
+    "path": "/id_id/products/pmng/ems/index.html",
+    "child": [
+      {
+        "group": "Energy Measuring Units",
+        "name": "EcoMonitorPlus",
+        "feature": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_1.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&search=B@@K-01&word=Energy Measuring Units@@EcoMonitorPlus&current=EcoMonitorPlus",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorPlus",
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorPlus",
+		"return": {
+			"name": "Energy Measuring Units",
+			"path": "/id_id/products/pmng/ems/items/ecomonitor/index.html"
+		}
+      }
+        ]
+    }
+}

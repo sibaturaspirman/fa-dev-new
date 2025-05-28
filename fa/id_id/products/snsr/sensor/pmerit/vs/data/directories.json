@@ -1,0 +1,36 @@
+{
+  "layerNav": {
+    "name": "Vision sensor",
+    "path": "/id_id/products/snsr/sensor/pmerit/vs/index.html",
+    "firstLayer": [
+      {
+        "name": "Konsep",
+        "path": "/id_id/products/snsr/sensor/pmerit/vs/index.html"
+      },
+      {
+        "name": "Fitur",
+        "path": "/id_id/products/snsr/sensor/pmerit/vs/features/index.html"
+      },
+      {
+        "name": "Alat konfigurasi",
+        "path": "/id_id/products/snsr/sensor/pmerit/vs/soft/index.html"
+      },
+      {
+        "name": "Aplikasi",
+        "path": "/id_id/products/snsr/sensor/pmerit/vs/application/index.html"
+      },
+      {
+        "name": "Konfigurasi Sistem",
+        "path": "/id_id/products/snsr/sensor/pmerit/vs/configuration/index.html"
+      },
+      {
+        "name": "Daftar Produk",
+        "path": "/id_id/products/snsr/sensor/pmerit/vs/lineup/index.html"
+      },
+      {
+        "name": "Dimensi eksternal",
+        "path": "/id_id/products/snsr/sensor/pmerit/vs/dimensions/index.html"
+      }
+    ]
+  }
+}

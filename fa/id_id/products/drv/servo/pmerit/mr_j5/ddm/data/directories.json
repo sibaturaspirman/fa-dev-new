@@ -1,0 +1,32 @@
+{
+    "layerNav": {
+        "name": "Direct Drive Motor",
+        "path": "/id_id/products/drv/servo/pmerit/mr_j5/ddm/feature.html",
+        "firstLayer": [
+            {
+                "name": "Lini Produk",
+                "path": "/id_id/products/drv/servo/pmerit/mr_j5/ddm/feature.html"
+            },
+            {
+                "name": "Fitur",
+                "path": "/id_id/products/drv/servo/pmerit/mr_j5/ddm/feature_2.html"
+            },
+            {
+                "name": "Penunjukan Model",
+                "path": "/id_id/products/drv/servo/pmerit/mr_j5/ddm/ddm_model.html"
+            },
+            {
+                "name": "Kombinasi",
+                "path": "/id_id/products/drv/servo/pmerit/mr_j5/ddm/ddm_amplist.html"
+            },
+            {
+                "name": "Karakteristik Torsi",
+                "path": "/id_id/products/drv/servo/pmerit/mr_j5/ddm/torque.html"
+            },
+            {
+                "name": "Contoh Aplikasi",
+                "path": "/id_id/products/drv/servo/pmerit/mr_j5/case/ddm_case.html"
+            }
+        ]
+    }
+}

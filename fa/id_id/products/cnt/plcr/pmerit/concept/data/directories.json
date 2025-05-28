@@ -1,0 +1,28 @@
+{
+	"layerNav": {
+		"name": "MELSEC iQ-R Series Features",
+		"path": "/id_id/products/cnt/plcr/pmerit/concept/index.html",
+		"firstLayer": [
+			{
+				"name": "Konsep TOP",
+				"path": "/id_id/products/cnt/plcr/pmerit/concept/index.html"
+			},
+			{
+				"name": "Proses",
+				"path": "/id_id/products/cnt/plcr/pmerit/concept/process.html"
+			},
+			{
+				"name": "Keamanan",
+				"path": "/id_id/products/cnt/plcr/pmerit/concept/safety.html"
+			},
+			{
+				"name": "Kecerdasan",
+				"path": "/id_id/products/cnt/plcr/pmerit/concept/intelligence.html"
+			},
+			{
+				"name": "Lainnya",
+				"path": "/id_id/products/cnt/plcr/pmerit/concept/others.html"
+			}
+		]
+	}
+}

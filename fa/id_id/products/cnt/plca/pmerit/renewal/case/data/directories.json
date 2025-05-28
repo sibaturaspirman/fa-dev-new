@@ -1,0 +1,32 @@
+{
+  "layerNav": {
+    "name": "MELSEC-A Series renewal",
+    "path": "/id_id/products/cnt/plca/pmerit/renewal/index.html",
+    "firstLayer": [
+      {
+        "name": "Notice",
+        "path": "/id_id/products/cnt/plca/pmerit/renewal/index.html"
+      },
+      {
+        "name": "Produk yang dihentikan produksinya",
+        "path": "/id_id/products/cnt/plca/pmerit/renewal/discon.html"
+      },
+      {
+        "name": "Upgrade example",
+        "path": "/id_id/products/cnt/plca/pmerit/renewal/transition.html"
+      },
+      {
+        "name": "Products used for upgrade",
+        "path": "/id_id/products/cnt/plca/pmerit/renewal/lup.html"
+      },
+      {
+        "name": "Related documents",
+        "path": "/id_id/products/cnt/plca/pmerit/renewal/doc.html"
+      },
+      {
+        "name": "Dukungan",
+        "path": "/id_id/products/cnt/plca/pmerit/renewal/support.html"
+      }
+    ]
+  }
+}

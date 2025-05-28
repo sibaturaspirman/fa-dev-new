@@ -1,0 +1,20 @@
+{
+  "layerNav": {
+    "name": "FREQROL-CS series",
+    "path": "/id_id/products/drv/inv/items/fr_cs/index.html",
+    "firstLayer": [
+      {
+        "name": "Fitur",
+        "path": "/id_id/products/drv/inv/pmerit/fr_cs/index.html"
+      },
+      {
+        "name": "Contoh Aplikasi",
+        "path": "/id_id/products/drv/inv/pmerit/fr_cs/app.html"
+      },
+      {
+        "name": "Konfigurasi Model",
+        "path": "/id_id/products/drv/inv/pmerit/fr_cs/lup.html"
+      }
+    ]
+  }
+}

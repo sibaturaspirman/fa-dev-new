@@ -1,0 +1,36 @@
+{
+  "layerNav": {
+    "name": "Software Features",
+    "path": "/id_id/products/drv/inv/items/soft/index.html",
+    "firstLayer": [
+      {
+        "name": "FR Configurator2",
+        "path": "/id_id/products/drv/inv/smerit/fr_config2/index.html",
+        "secondLayer": [
+          {
+            "name": "Fitur",
+            "path": "/id_id/products/drv/inv/smerit/fr_config2/index.html"
+          },
+          {
+            "name": "Fungsi",
+            "path": "/id_id/products/drv/inv/smerit/fr_config2/function.html"
+          }
+        ]
+      },
+      {
+        "name": "FR Configurator",
+        "path": "/id_id/products/drv/inv/smerit/fr_config/index.html",
+        "secondLayer": [
+          {
+            "name": "Fitur",
+            "path": "/id_id/products/drv/inv/smerit/fr_config/index.html"
+          },
+          {
+            "name": "Fungsi",
+            "path": "/id_id/products/drv/inv/smerit/fr_config/function.html"
+          }
+        ]
+      }
+    ]
+  }
+}

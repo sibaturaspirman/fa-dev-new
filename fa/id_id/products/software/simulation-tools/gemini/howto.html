@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>3D Simulator MELSOFT Gemini | MITSUBISHI ELECTRIC,Factory Automation Systems</title>
+<meta name="keywords" content="MITSUBISHI ELECTRIC,FA,Factory Automation">
+<meta name="description" content="Academy, Pre-verification is performed in the digital space of a virtual factory or equipment line.This significantly reduces cost and time during the design phase.">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<link type="image/x-icon" href="/favicon.ico" rel="shortcut icon">
+<link rel="apple-touch-icon-precomposed" href="https://www.mitsubishielectric.com/m/common/img/apple-touch-icon-precomposed.png">
+
+<!-- facebook用メタ情報 -->
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.mitsubishielectric.com/fa/products/software/simulation-tools/gemini/howto.html">
+<meta property="og:title" content=">3D Simulator MELSOFT Gemini | MITSUBISHI ELECTRIC,Factory Automation Systems">
+<meta property="og:description" content="Academy, Pre-verification is performed in the digital space of a virtual factory or equipment line.This significantly reduces cost and time during the design phase.">
+<meta property="og:image" content="https://www.mitsubishielectric.com/fa/shared/img/ogp/thumb_01.jpg">
+<!-- /facebook用メタ情報 --> 
+
+<!-- Mel styles gws0001 -->
+<link rel="stylesheet" href="/id_id/shared/gws0001/default/libs/normalize.css/7.0.0/normalize.css">
+<link rel="stylesheet" href="/id_id/shared/gws0001/default/css/layouts.css">
+<link rel="stylesheet" href="/id_id/shared/gws0001/css/style.css">
+<link rel="stylesheet" href="/id_id/products/assets/css/category.css">
+<link rel="stylesheet" type="text/css" href="/id_id/products/software/simulation-tools/gemini/css/style.css" />
+<!-- Mel JS gws0001 --> 
+<script src="/id_id/shared/gws0001/default/libs/jquery/jquery-3.6.0.min.js"></script>
+<script>
+  window.jQuery3_6 = jQuery.noConflict();
+</script> 
+<script src="/id_id/shared/gws0001/default/js/libs.js"></script>
+<script src="/id_id/shared/gws0001/js/functions.js"></script>
+<script src="/common/js/head_include.js"></script>
+<script>
+$(function () {
+  searchWord = function(){
+    var searchText = $(this).val(); // 検索ボックスに入力された値
+    var targetText;
+
+    $('.targets li div figure').each(function() {
+		targetText = $(this).contents().text();
+
+      // 検索対象となるリストに入力された文字列が存在するかどうかを判断
+      if (targetText.toLowerCase().search(searchText.toLowerCase()) != -1) {
+        $(this).parents(".target").css('display', 'flex');
+      } else {
+        $(this).parents(".target").css('display', 'none');
+      }
+    });
+  };
+
+  // searchWordの実行
+  $('#search_text').on('input', searchWord);
+});	
+	
+$(function(){
+  var $filterList = $('.filters [data-filter]'),
+  $targetList = $('.targets .target[data-category]');
+   
+  $filterList.on('click', function() {
+     
+    var $filterTxt = $(this).attr('data-filter');
+     
+    if ($filterTxt == 'all'){
+      $targetList.fadeOut().promise().done(function() {
+        $targetList.css('display', 'flex').fadeIn();
+      });
+    } else {
+      $targetList.fadeOut().promise().done(function() {
+        $targetList.filter('[data-category = "' + $filterTxt + '"]').css('display', 'flex').fadeIn();
+      });
+    }
+  });
+});
+
+</script>
+</head>
+
+<body>
+<noscript>
+<div class="noscript">
+  <p class="noscript__msg">Please enable JavaScript before using this site.</p>
+</div>
+</noscript>
+<header class="gs18-Header gs18-Header--MinInteraction" role="banner" data-js-gs18-header> 
+  <!-- /.gs18-Header --></header>
+<main class="container-fluid">
+  <div id="modal" data-js-modal role="dialog" aria-hidden="true">
+    <div data-js-modal_bg>
+      <div class="c-modal c-modal--movie">
+        <div class="c-modal__inner">
+          <div class="c-modal__header">
+            <p class="c-modal__title c-titleText"></p>
+          </div>
+          <!-- /.c-modal__header -->
+          <div class="c-modal__body">
+            <div class="c-movie">
+              <div id="YTPlayer"></div>
+            </div>
+            <!-- /.c-movie -->
+            <p class="c-modal__description c-text"></p>
+          </div>
+          <!-- /.c-modal__body -->
+          <div class="c-modal__close"> <a href="#" class="u-icons u-icons--size-32 u-icons--close" data-js-modal-close>Close</a> </div>
+          <!-- /.c-modal__close --> 
+        </div>
+        <!-- /.c-modal__inner --> 
+      </div>
+      <!-- /.c-modal --> 
+    </div>
+  </div>
+  <!-- /[data-js-modal] -->
+  <div class="c-mainVisual">
+    <div class="c-mainVisual__main">
+      <div class="c-mainVisual__fa"><img src="/id_id/shared/gws0001/img/fa_logo.svg" alt="Factory Automation" width="315" height="35"></div>
+      <h1 class="c-mainVisual__title"> <span class="c-mainVisual__subTitle">Peralatan Simulasi</span> MELSOFT Gemini</h1>
+      <div class="c-mainVisual__background"><img src="/id_id/products/assets/img/img_mv-1_sm.jpg" alt="" width="1440" height="320" decoding="async"></div>
+    </div>
+  </div>
+  <!-- /.c-mainVisual -->
+  
+  <div class="c-localNav" data-js-products-local-nav="/id_id/products/software/simulation-tools/gemini/index.html">
+    <div class="c-localNav__inner">
+      <ul class="c-list c-list--float">
+        <li class="c-list__item"><a class="u-icons u-icons--bulletLeft" href="/id_id/products/index.html">Katalog Produk</a></li>
+      </ul>
+      <!-- /.c-list --> 
+    </div>
+    <!-- /.c-localNav__inner --> 
+  </div>
+  <!-- /.c-localNav --> 
+
+<div class="c-switchNav" data-js-switch-nav>
+</div>
+  <!-- /.c-switchNav -->
+  
+  <div class="c-layerNav" data-js-layer-nav="LP2_08_01"> </div>
+  <!-- /.c-layerNav -->
+  
+  <div class="l-inner--medium l-separator-x6"> 
+    
+    <!--	
+<ul class="c-anchorNav c-list c-list--float" data-js-anchor-nav="">
+</ul>--> 
+    <!-- /.c-anchorNav -->
+    
+    <section class="howto" id="section01">
+      <section id="howto">
+        <h4 class="sub_bg"><span>Pelajari dasar-dasar penggunaan MELSOFT Gemini.</span></h4>
+        <ol class="filters">
+          <li>
+            <label data-filter="all">Semua</label>
+          </li>
+          <li>
+            <label data-filter="category_1">Pemodelan Proses</label>
+          </li>
+          <li>
+            <label data-filter="category_2">Pemodelan Komponen</label>
+          </li>
+          <li>
+            <label data-filter="category_3">Pemrograman Robot</label>
+          </li>
+        </ol>
+        <form>
+          <input type="text" id="search_text" placeholder="Search">
+        </form>
+
+<ol class="targets">
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="Vcf-1ghgEbI" data-js-movie-title="How to Attach Multiple Components">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/Vcf-1ghgEbI/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Memasang Beberapa Komponen</h2>
+  <figcaption>Video petunjuk tentang cara menggunakan perintah Lampirkan untuk menyatukan beberapa komponen dan mengoperasikannya sebagai satu komponen.
+<a class="dl_link" href="sample/academy_en_135.zip">File latihan</a></figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="kGMMxRpZnvo" data-js-movie-title="How to Change the Priority of Transporting and Work">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/kGMMxRpZnvo/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Mengubah Prioritas Pengangkutan dan Pekerjaan</h2>
+  <figcaption>Video petunjuk tentang cara menetapkan tingkat prioritas untuk tugas pengangkutan dan tugas pekerjaan.
+<a class="dl_link" href="sample/academy_en_114.zip">File latihan</a></figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="HnGYY2Gk_so" data-js-movie-title="How to Connect Component">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/HnGYY2Gk_so/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Menghubungkan Komponen</h2>
+  <figcaption>Video petunjuk tentang Antarmuka Satu Arah, Antarmuka Dua Arah, dan PnP.</figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="4sExGKzgZSI" data-js-movie-title="How to Create a 2D Floor Plan">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/4sExGKzgZSI/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Membuat Denah Lantai 2D</h2>
+  <figcaption>Video petunjuk tentang cara menampilkan tata letak yang dibuat menggunakan Gemini ke berkas 2DCAD.</figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="2CuSze9JoDM" data-js-movie-title="How to Create Assemblies">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/2CuSze9JoDM/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Membuat Perakitan</h2>
+  <figcaption>Video petunjuk tentang cara mengatur perakitan di Editor Jenis Produk dan cara menggunakan Editor Perakitan.
+<a class="dl_link" href="sample/academy_en_061.zip">File latihan</a></figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="1YaypVJy9js" data-js-movie-title="How to Define a Process Modeling Flow">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/1YaypVJy9js/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Menentukan Alur Pemodelan Proses</h2>
+  <figcaption>Video petunjuk tentang cara mengatur alur pemodelan proses untuk simulasi lini (Editor Alur Proses, Langkah Alur, Tautan Transportasi, IsOptional, ProcessMode, Dapatkan Langkah Alur, Tetapkan Langkah Alur Berikutnya).<br>*Fungsi ini tersedia di Gemini versi 1.45 dan yang lebih baru.
+<a class="dl_link" href="sample/academy_en_138.zip">File latihan</a></figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="uWOMBOMc6Uk" data-js-movie-title="How to Detect Obstacles and Set Pathways">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/uWOMBOMc6Uk/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Mendeteksi Rintangan dan Menetapkan Jalur</h2>
+  <figcaption>Video petunjuk tentang cara membuat robot bergerak mendeteksi rintangan dan cara menetapkan jalur untuk membatasi jangkauan gerakan robot bergerak.
+<a class="dl_link" href="sample/academy_en_045.zip">File latihan</a></figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="uSrpznfL3xE" data-js-movie-title="How to generate and modify robot program in Process Modeling">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/uSrpznfL3xE/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara membuat dan memodifikasi program robot dalam Pemodelan Proses</h2>
+  <figcaption>Video petunjuk tentang cara merekam, memodifikasi, dan menjalankan program robot dengan pemodelan proses.
+<a class="dl_link" href="sample/academy_en_067.zip">File latihan</a></figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="Nbuq0jckNbI" data-js-movie-title="How to Install and Use Gemini">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/Nbuq0jckNbI/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Memasang dan Menggunakan Gemini</h2>
+  <figcaption>Video petunjuk tentang cara memasang MELSOFT Gemini beserta penjelasan tentang operasi dasarnya.</figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="BsLAtUoXviw" data-js-movie-title="How to Operate with Multiple Components">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/BsLAtUoXviw/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Beroperasi dengan Beberapa Komponen</h2>
+  <figcaption>Video petunjuk tentang cara membuat beberapa komponen, seperti robot dan peralatan, beroperasi bersama.
+<a class="dl_link" href="sample/academy_en_069.zip">File latihan</a></figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="23OlWRrN6Do" data-js-movie-title="How to Show/Hide Components">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/23OlWRrN6Do/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Menampilkan/Menyembunyikan Komponen</h2>
+  <figcaption>Video petunjuk tentang cara menampilkan dan menyembunyikan komponen seperti peralatan dari properti dan grafik sel.</figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="qZTuQkNZvZQ" data-js-movie-title="How to Transport Products by Human">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/qZTuQkNZvZQ/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Mengangkut Produk oleh Manusia</h2>
+  <figcaption>Video petunjuk tentang cara mengatur Manusia untuk mengangkut produk antar tempat tertentu.
+<a class="dl_link" href="sample/academy_en_046.zip">File latihan</a></figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+<li class="target" data-category="category_1">
+<div>
+<figure>
+<div class="c-card--movie">
+<a class="c-card__link" href="#modal_movie" data-js-modal-movie-open="" data-js-movie-id="GTZm3rK8kWE" data-js-movie-title="How to Visualize Objects in Gemini">
+<div class="c-card__img c-movie__playBtn"><img src="http://img.youtube.com/vi/GTZm3rK8kWE/sddefault.jpg" alt="" decoding="async"></div>
+</a>
+</div>
+  <h2 class="target_title">Cara Memvisualisasikan Objek di Gemini</h2>
+  <figcaption>Video petunjuk tentang cara mengubah pengaturan tampilan seperti warna latar belakang, garis kisi, dan mode render.
+<a class="dl_link" href="sample/academy_en_122.zip">File latihan</a></figcaption>
+</figure>
+</div>
+<ol class="target_categories">
+<li data-category="category_1"></li>
+</ol>
+</li>
+
+</ol>
+
+
+
+<script>
+$('.target_categories li').on('click',function(){
+	//クリックした要素に設定されているカテゴリーを取得
+	var $selectCategory = $(this).data('category');
+	
+	$('.targets .target[data-category]').fadeOut().promise().done(function() {
+        $('.targets .target[data-category]').filter('[data-category = "' + $selectCategory + '"]').css('display', 'flex').fadeIn();
+      });	
+});	
+</script> 
+      </section>
+    </section>
+  </div>
+  <!-- /.l-inner --> 
+</main>
+
+<div class="c-breadcrumb">
+<ul class="c-breadcrumb__list" data-js-products-breadcrumb>
+</ul><!-- /.c-breadcrumb__list -->
+</div><!-- /.c-breadcrumb -->
+
+<footer class="gs18-Footer" role="contentinfo" data-js-gs18-footer>
+<!-- /.gs18-Footer --></footer>
+
+<!-- Mel JS gws0001 -->
+<script src="/id_id/shared/gws0001/js/init.js"></script>
+<script src="/id_id/products/assets/js/category.js"></script>
+<script>
+  var gQueryParametersObject = MEL_SETTINGS.helper.getCurrentQueries();
+  var YTtag = document.createElement('script');
+  YTtag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(YTtag, firstScriptTag);
+
+  var player;
+
+  function onYouTubeIframeAPIReady() {
+    var targetMovieID = null;
+    if (gQueryParametersObject['movie']) {
+      targetMovieID = gQueryParametersObject['movie'];
+    }
+
+    player = new YT.Player('YTPlayer', {
+      playerVars: {
+        'rel': 0
+      },
+      videoId: targetMovieID,
+      events: {
+        'onStateChange': onPlayerStateChange
+      }
+    });
+  }
+
+  function onPlayerStateChange(event) {
+    if (event.data == YT.PlayerState.ENDED) {
+      player.stopVideo();
+    }
+  }
+
+</script> 
+<script src="/id_id/shared/js/modal_movie.js"></script>
+</body>
+</html>

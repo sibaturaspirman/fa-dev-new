@@ -1,0 +1,97 @@
+{
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"name": "Unduh",
+				"icon": "download",
+				"link": "",
+				"child":[
+					{
+						"name": "Katalog",
+						"icon": "catalog",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=catalog"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=manual"
+					}
+				]
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/"
+			}
+		],
+		"commonItems": []
+	},
+	"spotlight": {
+		"items": [
+		]
+	},
+	"productsMenu": {
+		"items": [
+		]
+	},
+	"optionItems": {
+		"items": [
+		]
+	},
+	"download": {
+		"recommended": [],
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "",
+				"child": [
+				]
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "",
+				"child": [
+				]
+			},
+			{
+				"name": "Perangkat Lunak",
+				"icon": "software",
+				"link": "",
+				"child": [
+				]
+			}
+		]
+	},
+	"relatedLink": {
+		"items": [
+			{
+				"name": "e-Learning FA",
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
+			},
+			{
+				"name": "Daftar Istilah FA",
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
+			}
+		]
+	},
+	"banner": {
+		"items": [
+		]
+	},
+	"contact": {
+		"items": [
+			{
+				"name": "Hubungi kami",
+				"icon": "estimate",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/"
+			}
+		]
+	}
+}

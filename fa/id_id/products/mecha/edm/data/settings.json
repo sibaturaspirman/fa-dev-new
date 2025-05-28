@@ -1,0 +1,94 @@
+{
+  "coment": "linkを設定する際は、/faからの相対パスで記述する",
+  "floatingMenu": {
+    "specificItems": [
+      {
+        "comment": "linkは各機種のダウンロードページのURLに変更可",
+        "name": "Unduh",
+        "icon": "download",
+        "link": "#",
+        "child": [
+          {
+            "name": "Buletin Teknis",
+            "icon": "techinfo",
+            "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/edm"
+          }
+        ]
+      }
+    ],
+    "commonItems": []
+  },
+  "spotlight": {
+    "comment": "Spotlightに掲載したいページタイトル・画像・リンクを記入",
+    "items": []
+  },
+  "productsMenu": {
+    "comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
+    "items": [
+      {
+        "name": "Spesifikasi Produk",
+        "icon": "settings",
+        "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm",
+        "child": [
+          {
+            "name": "Wire-cut Electrical Discharge Machines",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm&radio=Wire-cut%20Electrical%20Discharge%20Machines&search=B&word=Wire-cut%20Electrical%20Discharge%20Machines"
+          },
+          {
+            "name": "Die-sinking Electrical Discharge Machines",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm&radio=Die-sinker%20Electrical%20Discharge%20Machines&search=B&word=Die-sinker%20Electrical%20Discharge%20Machines"
+          }
+        ]
+      },
+      {
+        "name": "Produk yang Dihentikan",
+        "icon": "silver-line",
+        "link": "/id_id/products/renewal.html",
+        "child": [
+          {
+            "name": "Wire-cut Electrical Discharge Machines",
+            "link": "/id_id/products/mecha/edm/pmerit/wire/close/index.html"
+          },
+          {
+            "name": "Die-sinking Electrical Discharge Machines",
+            "link": "/id_id/products/mecha/edm/pmerit/die_sinking/close/index.html"
+          }
+        ]
+      }
+    ]
+  },
+  "optionItems": {
+    "comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
+    "items": []
+  },
+  "download": {
+    "comment": "おすすめカタログを掲載しない場合は、recommended内の中括弧ごと削除",
+    "recommended": [],
+    "comment": "linkは各機種のダウンロードページのURLに変更可",
+    "items": [
+      {
+        "name": "Buletin Teknis",
+        "icon": "techinfo",
+        "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/edm"
+      }
+    ]
+  },
+  "relatedLink": {
+    "comment": "関連リンクに掲載したいページタイトルとリンクを記入",
+    "items": []
+  },
+  "banner": {
+    "comment": "関連リンクバナーに掲載したいページタイトル・画像・リンクを追加可",
+    "items": []
+  },
+  "contact": {
+    "comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
+    "items": [
+      {
+        "name": "Hubungi Kami",
+        "icon": "contact",
+        "link": "/id_id/contact-us/index.html"
+      }
+    ]
+  }
+}

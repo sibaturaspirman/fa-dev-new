@@ -1,0 +1,20 @@
+{
+  "layerNav": {
+    "name": "Fitur Produk",
+    "path": "/id_id/products/drv/gear/pmerit/index.html",
+    "firstLayer": [
+      {
+        "name": "Ringkasan",
+        "path": "/id_id/products/drv/gear/pmerit/index.html"
+      },
+      {
+        "name": "Contoh",
+        "path": "/id_id/products/drv/gear/pmerit/cases.html"
+      },
+      {
+        "name": "Seri S-PM",
+        "path": "/id_id/products/drv/gear/pmerit/spm.html"
+      }
+    ]
+  }
+}

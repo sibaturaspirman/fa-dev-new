@@ -1,0 +1,16 @@
+{
+  "layerNav": {
+    "name": "MELIPC MI1000",
+    "path": "/id_id/products/edge/melipc/items/mi1000/index.html",
+    "firstLayer": [
+      {
+        "name": "Fitur Produk",
+        "path": "/id_id/products/edge/melipc/pmerit/mi1000/index.html"
+      },
+      {
+        "name": "Konfigurasi Sistem",
+        "path": "/id_id/products/edge/melipc/pmerit/mi1000/sysconfig.html"
+      }
+    ]
+  }
+}

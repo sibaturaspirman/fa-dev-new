@@ -1,0 +1,384 @@
+
+
+{
+  "directories": {
+    "name": "Beranda",
+    "path": "/id_id/",
+    "child": [
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Hardware Model Top",
+            "path": "/id_id/products/lp1/lp2/index.html"
+          },
+          {
+            "name": "Hardware Model Top2",
+            "path": "/id_id/products/lp1/lp2-2/index.html"
+          },
+          {
+            "name": "Hardware Model Top3",
+            "path": "/id_id/products/lp1/lp2-3/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Mitsubishi Electric Engineering",
+            "path": "/id_id/products/group/_company_name/index.html"
+          },
+          {
+            "name": "Mitsubishi Electric System & Service",
+            "path": "/id_id/products/group/_company_name/index2.html"
+          },
+          {
+            "name": "Anywire",
+            "path": "/id_id/products/group/_company_name/index3.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Industrial Computer MELIPC",
+            "path": "/id_id/products/edge/melipc/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Programmable Controllers MELSEC",
+            "path": "/id_id/products/cnt/plc/index.html",
+            "child": [
+              {
+                "name": "MELSEC iQ-R Series",
+                "path": "/id_id/products/cnt/plcr/items/index.html"
+              },
+              {
+                "name": "MELSEC iQ-F Series",
+                "path": "/id_id/products/cnt/plcf/items/index.html"
+              },
+              {
+                "name": "MELSEC-Q Series",
+                "path": "/id_id/products/cnt/plcq/items/index.html"
+              },
+              {
+                "name": "MELSEC-L Series",
+                "path": "/id_id/products/cnt/plcl/items/index.html"
+              },
+              {
+                "name": "MELSEC-F Series",
+                "path": "/id_id/products/cnt/plc_fx/items/index.html"
+              },
+              {
+                "name": "MELSEC-QS/WS Series",
+                "path": "/id_id/products/cnt/plcqsws/items/index.html"
+              },
+              {
+                "name": "MELSEC-A Series",
+                "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
+              },
+              {
+                "name": "Network-related products",
+                "path": "/id_id/products/cnt/plcnet/items/index.html"
+              }
+            ]
+          },
+          {
+            "name": "Simple Application Controllers",
+            "path": "https://www.mitsubishielectric.com/fa/id_id/products/cnt/sac/index.html"
+          },
+          {
+            "name": "Motion Controllers",
+            "path": "/id_id/products/cnt/ssc/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "CNC",
+            "path": "/id_id/products/cnt/cnc/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "FA Sensor MELSENSOR",
+            "path": "/id_id/products/snsr/sensor/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "AC Servos-MELSERVO",
+            "path": "/id_id/products/drv/servo/index.html"
+          },
+          {
+            "name": "Inverters-FREQROL",
+            "path": "https://www.mitsubishielectric.com/fa/products/drv/inv/index.html"
+          },
+          {
+            "name": "Geared Motors",
+            "path": "/id_id/products/drv/gear/index.html"
+          },
+          {
+            "name": "Induction Motor",
+            "path": "/id_id/products/drv/induction/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Human Machine Interfaces-GOT",
+            "path": "/id_id/products/hmi/got/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Industrial Robots-MELFA",
+            "path": "/id_id/products/rbt/robot/index.html"
+          },
+          {
+            "name": "Collaborative Robot-ASSISTA",
+            "path": "/id_id/products/rbt/assista/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Low-voltage Circuit Breakers",
+            "path": "/id_id/products/lvd/lvcb/index.html"
+          },
+          {
+            "name": "Contactors and Motor Starters",
+            "path": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/index.html"
+          },
+          {
+            "name": "Power Management Meters",
+            "path": "/id_id/products/pmng/pmd/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Protection Relays",
+            "path": "/id_id/products/mvd/pror/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Energy Saving Supporting Devices",
+            "path": "/id_id/products/pmng/ems/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Laser Processing Machines",
+            "path": "/id_id/products/mecha/laser/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Electrical Discharge Machines",
+            "path": "/id_id/products/mecha/edm/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Electron Beam Machines",
+            "path": "/id_id/products/mecha/ebm/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Mitsubishi Electric Engineering",
+            "path": "/id_id/products/group/mee/index.html"
+          },
+          {
+            "name": "Anywire",
+            "path": "/id_id/products/group/anywire/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Specifications list",
+            "path": "/id_id/products/spec.html"
+          },
+          {
+            "name": "Produk bersertifikat/mematuhi standar",
+            "path": "/id_id/products/standard.html"
+          },
+          {
+            "name": "Discontinued(alternative models) products",
+            "path": "/id_id/products/renewal.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Software Top1",
+            "path": "/id_id/products/software/lp2/index.html"
+          },
+          {
+            "name": "Software Top2",
+            "path": "/id_id/products/software/lp2-2/index.html"
+          },
+          {
+            "name": "Software Top3",
+            "path": "/id_id/products/software/lp2-3/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Visualization software",
+            "path": "/id_id/products/software/visualisation/index.html"
+          },
+          {
+            "name": "Remote access",
+            "path": "/id_id/products/software/remote-accesses/index.html"
+          },
+          {
+            "name": "Simulation tools",
+            "path": "/id_id/products/software/simulation-tools/index.html"
+          },
+          {
+            "name": "Data science tools",
+            "path": "/id_id/products/software/data-science-tools/index.html"
+          },
+          {
+            "name": "Data communication software",
+            "path": "https://www.mitsubishielectric.com/fa/products/software/data-sharing-software/index.html"
+          },
+          {
+            "name": "Energy Saving Support Software",
+            "path": "/id_id/products/software/ems/index.html"
+          },
+          {
+            "name": "Image Processing Software",
+            "path": "/id_id/products/software/image-processing/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Integrated engineering software",
+            "path": "https://www.mitsubishielectric.com/fa/sols/efactory/sft/index.html"
+          },
+          {
+            "name": "PLC engineering software (MELSEC)",
+            "path": "/id_id/products/software/plc/index.html"
+          },
+          {
+            "name": "Motion Controller engineering software",
+            "path": "/id_id/products/software/ssc/index.html"
+          },
+          {
+            "name": "AC Servo engineering software (MELSERVO)",
+            "path": "/id_id/products/software/servo/index.html"
+          },
+          {
+            "name": "Inverter engineering software (FREQROL)",
+            "path": "/id_id/products/software/inv/index.html"
+          },
+          {
+            "name": "HMI engineering software (GOT)",
+            "path": "/id_id/products/software/got/index.html"
+          },
+          {
+            "name": "Robot engineering software (MELFA)",
+            "path": "/id_id/products/software/robot/index.html"
+          },
+          {
+            "name": "NC Software Tools",
+            "path": "/id_id/products/software/cnc/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Cloud Metering Service",
+            "path": "/id_id/products/service/cloud-metering-service/index.html"
+          }
+        ]
+      },
+      {
+        "name": "Katalog Produk",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "FA Integrated ",
+            "path": "https://www.mitsubishielectric.com/fa/products/select/index.html"
+          }
+        ]
+      }
+    ]
+  }
+}

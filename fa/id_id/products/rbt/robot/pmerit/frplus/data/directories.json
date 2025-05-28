@@ -1,0 +1,16 @@
+{
+  "layerNav": {
+    "name": "MELFA FR PLUS",
+    "path": "/id_id/products/rbt/robot/items/frplus/index.html",
+    "firstLayer": [
+      {
+        "name": "Fitur",
+        "path": "/id_id/products/rbt/robot/pmerit/frplus/index.html"
+      },
+     {
+        "name": "Katalog",
+        "path": "/id_id/products/rbt/robot/pmerit/frplus/spec.html"
+      }
+      ]
+  }
+}

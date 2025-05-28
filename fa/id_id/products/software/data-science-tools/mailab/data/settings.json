@@ -1,0 +1,211 @@
+{
+	"coment": "linkを設定する際は、/faからの相対パスで記述する",
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"comment": "linkは各機種のダウンロードページのURLに変更可",
+				"name": "Unduh",
+				"icon": "download",
+				"link": "#",
+				"child": [
+					{
+						"name": "Katalog",
+						"icon": "catalog",
+						"link": "/id_id/download/?modal=catalog"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "/id_id/download/?modal=manual"
+					},
+					{
+						"name": "Buletin<br>Teknis",
+						"icon": "techinfo",
+						"link": "/id_id/download/?modal=technews"
+					},
+					{
+						"name": "CAD Data",
+						"icon": "cad",
+						"link": "/id_id/download/?modal=cad"
+					},
+					{
+						"name": "Perangkat Lunak",
+						"icon": "software",
+						"link": "/id_id/download/?modal=software"
+					},
+					{
+						"name": "Contoh<br>Library",
+						"icon": "library",
+						"link": "/id_id/download/?modal=lib"
+					}
+				]
+			}
+	  ],
+		"commonItems": []
+	},
+	"spotlight": {
+		"comment": "Spotlightに掲載したいページタイトル・画像・リンクを記入",
+		"items": [
+			{
+				"name": "Spotlight1_LP3",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			},
+			{
+				"name": "Spotlight2",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			},
+			{
+				"name": "Spotlight3",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			}
+		]
+	},
+	"productsMenu": {
+		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
+		"items": [
+			{
+				"name": "Produk Unggulan",
+				"icon": "announce",
+				"link": "#"
+			},
+			{
+				"name": "Spesifikasi Produk",
+				"icon": "settings",
+				"link": "/id_id/products/spec.html"
+			},
+			{
+				"name": "Produk bersertifikat/mematuhi standar",
+				"icon": "standard",
+				"link": "/id_id/products/standard.html"
+			},
+			{
+				"name": "Produk yang Dihentikan",
+				"icon": "silver-line",
+				"link": "/id_id/products/renewal.html"
+			},
+			{
+				"name": "Ganti Produk",
+				"icon": "replace",
+				"link": "/id_id/products/replace.html"
+			},
+			{
+				"name": "Katalog Produk Umum",
+				"icon": "catalog",
+				"link": "/id_id/dctlg/index.html"
+			},
+			{
+				"name": "FA Integrated ",
+				"icon": "tree",
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
+			}
+		]
+	},
+	"optionItems": {
+		"comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "Option Menu1",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu2",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu3",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu4",
+				"link": "#"
+			}
+		]
+	},
+	"download": {
+		"comment": "おすすめカタログを掲載しない場合は、recommended内の中括弧ごと削除",
+		"recommended": [
+			{
+				"name": "javascript.toCatalogInfo('name','資料No','機種ID','3')",
+				"img": "javascript.toCatalogInfo('img','資料No','機種ID','5')",
+				"link": "javascript.toCatalogInfo('link','資料No','機種ID','10')"
+			}
+		],
+		"comment": "linkは各機種のダウンロードページのURLに変更可",
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "/id_id/download/?modal=catalog"
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "/id_id/download/?modal=manual"
+			},
+			{
+				"name": "Buletin Teknis",
+				"icon": "technews",
+				"link": "/id_id/download/?modal=technews"
+			},
+			{
+				"name": "CAD Data",
+				"icon": "cad",
+				"link": "/id_id/download/?modal=cad"
+			},
+			{
+				"name": "Perangkat Lunak",
+				"icon": "software",
+				"link": "/id_id/download/?modal=software"
+			},
+			{
+				"name": "Contoh Library",
+				"icon": "library",
+				"link": "/id_id/download/?modal=lib"
+			}
+		]
+	},
+	"relatedLink": {
+		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "Related Link1",
+				"link": "#"
+			},
+			{
+				"name": "Related Link2",
+				"link": "#"
+			},
+			{
+				"name": "Related Link3",
+				"link": "#"
+			},
+			{
+				"name": "Related Link4",
+				"link": "#"
+			}
+		]
+	},
+	"banner": {
+		"comment": "関連リンクバナーに掲載したいページタイトル・画像・リンクを追加可",
+		"items": [
+		]
+	},
+	"contact": {
+		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
+		"items": [
+			{
+				"name": "Hubungi Kami",
+				"icon": "contact",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/"
+			}
+		]
+	}
+}

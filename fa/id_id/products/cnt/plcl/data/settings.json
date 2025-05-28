@@ -1,0 +1,308 @@
+{
+	"coment": "linkを設定する際は、/faからの相対パスで記述する",
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"comment": "linkは各機種のダウンロードページのURLに変更可",
+				"name": "Unduh",
+				"icon": "download",
+				"link": "#",
+				"child": [
+					{
+						"name": "Katalog",
+						"icon": "catalog",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=catalog"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=manual"
+					},
+					{
+						"name": "Buletin<br>Teknis",
+						"icon": "techinfo",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=techinfo"
+					},
+					{
+						"name": "CAD Data",
+						"icon": "cad",
+						"link": "/id_id/download/?modal=cad"
+					},
+					{
+						"name": "Perangkat Lunak",
+						"icon": "software",
+						"link": "/id_id/download/?modal=software"
+					},
+					{
+						"name": "Contoh<br>Library",
+						"icon": "library",
+						"link": "/id_id/download/?modal=lib"
+					}
+				]
+			}
+	  ],
+		"commonItems": [
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2003"
+			}
+        ]
+	},
+	"spotlight": {
+		"comment": "Spotlightに掲載したいページタイトル・画像・リンクを記入",
+		"items": [
+			{
+				"name": "Fitur baru membuat segala sesuatunya lebih mudah digunakan!",
+				"img": "/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
+			}
+		]
+	},
+	"productsMenu": {
+		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
+		"items": [
+			{
+				"name": "Spesifikasi Produk",
+				"icon": "settings",
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl",
+        "child": [
+          {
+            "name": "CPU",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=CPU&search=B&word=CPU"
+          },
+          {
+            "name": "Branch/extension",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Branch/extension&search=B&word=Branch/extension"
+          },
+          {
+            "name": "Power supply",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Power%20supply&search=B&word=Power%20supply"
+          },
+          {
+            "name": "I/O",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=I/O&search=B&word=I/O"
+          },
+          {
+            "name": "Analog",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Analog&search=B&word=Analog"
+          },
+          {
+            "name": "Simple motion/positioning",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
+          },
+          {
+            "name": "High-speed counter/flexible I/O",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O"
+          },
+          {
+            "name": "Jaringan",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Network&search=B&word=Network"
+          },
+          {
+            "name": "Option",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Option&search=B&word=Option"
+          }
+        ]
+			},
+			{
+				"name": "Produk bersertifikat/mematuhi standar",
+				"icon": "standard",
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcl",
+        "child": [
+          {
+            "name": "CPU",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=CPU&search=B&word=CPU"
+          },
+          {
+            "name": "Branch/extension",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Branch/extension&search=B&word=Branch/extension"
+          },
+          {
+            "name": "Power supply",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Power%20supply&search=B&word=Power%20supply"
+          },
+          {
+            "name": "I/O",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=I/O&search=B&word=I/O"
+          },
+          {
+            "name": "Analog",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Analog&search=B&word=Analog"
+          },
+          {
+            "name": "Simple motion/positioning",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
+          },
+          {
+            "name": "High-speed counter/flexible I/O",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O"
+          },
+          {
+            "name": "Jaringan",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Network&search=B&word=Network"
+          },
+          {
+            "name": "Option",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Option&search=B&word=Option"
+          }
+        ]
+			},
+			{
+				"name": "Produk yang Dihentikan",
+				"icon": "silver-line",
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon",
+        "child": [
+          {
+            "name": "CPU",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=CPU"
+          },
+          {
+            "name": "Branch/extension",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Branch/extension"
+          },
+          {
+            "name": "Power supply",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Power%20supply"
+          },
+          {
+            "name": "Analog",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Analog"
+          },
+          {
+            "name": "Simple motion/positioning",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Simple%20motion/positioning"
+          },
+          {
+            "name": "Jaringan",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Network"
+          },
+          {
+            "name": "Option",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Option"
+          }
+        ]
+			},
+			{
+				"name": "Ganti Produk",
+				"icon": "replace",
+				"link": "/id_id/products/cnt/plca/pmerit/renewal/"
+			},
+			{
+				"name": "FA Integrated ",
+				"icon": "tree",
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
+			}
+		]
+	},
+	"optionItems": {
+		"comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "Option Menu1",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu2",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu3",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu4",
+				"link": "#"
+			}
+		]
+	},
+	"download": {
+		"comment": "おすすめカタログを掲載しない場合は、recommended内の中括弧ごと削除",
+		"recommended": [
+			{
+				"name": "javascript.toCatalogInfo('name','L08159E','plcl','3')",
+				"img": "javascript.toCatalogInfo('img','L08159E','plcl','5')",
+				"link": "javascript.toCatalogInfo('link','L08159E','plcl','10')"
+			}
+		],
+		"comment": "linkは各機種のダウンロードページのURLに変更可",
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=catalog"
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=manual"
+			},
+			{
+				"name": "Buletin Teknis",
+				"icon": "technews",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=techinfo"
+			},
+			{
+				"name": "CAD Data",
+				"icon": "cad",
+				"link": "/id_id/download/?modal=cad"
+			},
+			{
+				"name": "Perangkat Lunak",
+				"icon": "software",
+				"link": "/id_id/download/?modal=software"
+			}
+		]
+	},
+	"relatedLink": {
+		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "Related Link1",
+				"link": "#"
+			},
+			{
+				"name": "Related Link2",
+				"link": "#"
+			},
+			{
+				"name": "Related Link3",
+				"link": "#"
+			},
+			{
+				"name": "Related Link4",
+				"link": "#"
+			}
+		]
+	},
+	"banner": {
+		"comment": "関連リンクバナーに掲載したいページタイトル・画像・リンクを追加可",
+		"items": [
+			{
+				"name": "FA Integrated ",
+				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
+			},
+			{
+				"name": "FA SPEC Search",
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
+            }
+		]
+	},
+	"contact": {
+		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
+		"items": [
+			{
+				"name": "Hubungi Kami",
+				"icon": "contact",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2003"
+			}
+		]
+	}
+}

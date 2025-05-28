@@ -1,0 +1,92 @@
+{
+  "layerNav": {
+    "name": "FREQROL-E series",
+    "path": "/id_id/products/drv/inv/items/fr_e/index.html",
+    "firstLayer": [
+      {
+        "name": "FR-E800",
+        "path": "/id_id/products/drv/inv/pmerit/fr_e/index.html",
+        "secondLayer": [
+          {
+            "name": "Konsep",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/index.html"
+          },
+          {
+            "name": "Menuju pabrik pintar",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e801.html"
+          },
+          {
+            "name": "Berbagai macam aplikasi",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e802.html"
+          },
+          {
+            "name": "Nilai tambah yang lebih tinggi",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e803.html"
+          },
+          {
+            "name": "Peningkatan keamanan",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e804.html"
+          },
+          {
+            "name": "Hemat energi",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e805.html"
+          },
+          {
+            "name": "Peningkatan pemeliharaan",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e806.html"
+          },
+          {
+            "name": "Pengurangan waktu henti",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e807.html"
+          },
+          {
+            "name": "Rekayasa perangkat lunak untuk kemudahan pengoperasian lebih lanjut",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e808.html"
+          },
+          {
+            "name": "Konfigurasi Model",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/model_name_configuration.html"
+          }
+        ]
+      },
+      {
+        "name": "FR-E700",
+        "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/index.html",
+        "secondLayer": [
+          {
+            "name": "Konsep",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/index.html"
+          },
+          {
+            "name": "Top level of driving performance in compact body",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e701.html"
+          },
+          {
+            "name": "Excellent usability",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e702.html"
+          },
+          {
+            "name": "Enhanced expandability",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e703.html"
+          },
+          {
+            "name": "Compact and space saving",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e704.html"
+          },
+          {
+            "name": "Easy servicing for peace of mind",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e705.html"
+          },
+          {
+            "name": "Full of useful functions",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e706.html"
+          },
+          {
+            "name": "Konfigurasi Model",
+            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e707.html"
+          }
+        ]
+      }
+    ]
+  }
+}

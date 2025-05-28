@@ -1,0 +1,238 @@
+{
+	"coment": "linkを設定する際は、/faからの相対パスで記述する",
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"comment": "linkは各機種のダウンロードページのURLに変更可",
+				"name": "Unduh",
+				"icon": "download",
+				"link": "#",
+				"child": [
+					{
+						"name": "Katalog",
+						"icon": "catalog",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=catalog"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=manual"
+					},
+					{
+						"name": "Buletin<br>Teknis",
+						"icon": "techinfo",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=techinfo"
+					},
+					{
+						"name": "CAD Data",
+						"icon": "cad",
+						"link": "/id_id/download/?modal=cad"
+					},
+					{
+						"name": "Perangkat Lunak",
+						"icon": "software",
+						"link": "/id_id/download/?modal=software"
+					},
+					{
+						"name": "Contoh<br>Library",
+						"icon": "library",
+						"link": "/id_id/download/?modal=lib"
+					}
+				]
+			}
+	  ],
+		"commonItems": []
+	},
+	"spotlight": {
+		"comment": "Spotlightに掲載したいページタイトル・画像・リンクを記入",
+		"items": [
+			{
+				"name": "Spotlight1",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			},
+			{
+				"name": "Spotlight2",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			},
+			{
+				"name": "Spotlight3",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"link": "#"
+			}
+		]
+	},
+	"productsMenu": {
+		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
+		"items": [
+			{
+				"name": "Spesifikasi Produk",
+				"icon": "settings",
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws",
+        "child": [
+          {
+            "name": "Safety programmable controller",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
+          },
+          {
+            "name": "Safety controller",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
+          },
+          {
+            "name": "Safety relay",
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
+          }
+        ]
+			},
+			{
+				"name": "Produk bersertifikat/mematuhi standar",
+				"icon": "standard",
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcqsws",
+        "child": [
+          {
+            "name": "Safety programmable controller",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
+          },
+          {
+            "name": "Safety controller",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
+          },
+          {
+            "name": "Safety relay",
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
+          }
+        ]
+			},
+			{
+				"name": "Produk yang Dihentikan",
+				"icon": "silver-line",
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon",
+        "child": [
+          {
+            "name": "Safety programmable controller",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20programmable%20controller"
+          },
+          {
+            "name": "Safety controller",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20controller"
+          },
+          {
+            "name": "Safety relay",
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20relay"
+          }
+        ]
+			},
+			{
+				"name": "Ganti Produk",
+				"icon": "replace",
+				"link": "/id_id/products/cnt/plca/ex/renew/renewal/index.html"
+			}
+		]
+	},
+	"optionItems": {
+		"comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "Option Menu1",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu2",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu3",
+				"link": "#"
+			},
+			{
+				"name": "Option Menu4",
+				"link": "#"
+			}
+		]
+	},
+	"download": {
+		"comment": "おすすめカタログを掲載しない場合は、recommended内の中括弧ごと削除",
+		"recommended": [
+			{
+				"name": "javascript.toCatalogInfo('name','L08192E','plcqsws','3')",
+				"img": "javascript.toCatalogInfo('img','L08192E','plcqsws','5')",
+				"link": "javascript.toCatalogInfo('link','L08192E','plcqsws','10')"
+			}
+		],
+		"comment": "linkは各機種のダウンロードページのURLに変更可",
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=catalog"
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=manual"
+			},
+			{
+				"name": "Buletin Teknis",
+				"icon": "technews",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=techinfo"
+			},
+			{
+				"name": "CAD Data",
+				"icon": "cad",
+				"link": "/id_id/download/?modal=cad"
+			},
+			{
+				"name": "Perangkat Lunak",
+				"icon": "software",
+				"link": "/id_id/download/?modal=software"
+			}
+		]
+	},
+	"relatedLink": {
+		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "Related Link1",
+				"link": "#"
+			},
+			{
+				"name": "Related Link2",
+				"link": "#"
+			},
+			{
+				"name": "Related Link3",
+				"link": "#"
+			},
+			{
+				"name": "Related Link4",
+				"link": "#"
+			}
+		]
+	},
+	"banner": {
+		"comment": "関連リンクバナーに掲載したいページタイトル・画像・リンクを追加可",
+		"items": [
+			{
+				"name": "FA SPEC Search",
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
+            }
+		]
+	},
+	"contact": {
+		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
+		"items": [
+			{
+				"name": "Hubungi Kami",
+				"icon": "contact",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/"
+			}
+		]
+	}
+}

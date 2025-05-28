@@ -1,0 +1,48 @@
+{
+	"layerNav": {
+		"name": "Jaringan",
+		"path": "/id_id/products/cnt/plcr/pmerit/network/index.html",
+		"firstLayer": [
+			{
+				"name": "Fitur",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/index.html"
+			},
+			{
+				"name": "CC-Link IE TSN",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/ie_tsn.html"
+			},
+			{
+				"name": "CC-Link IE Controller Network",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/ie_cont.html"
+			},
+			{
+				"name": "CC-Link IE Field Network",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/ie_field.html"
+			},
+			{
+				"name": "CC-Link",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/cclink.html"
+			},
+			{
+				"name": "AnyWireASLINK",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/aslink.html"
+			},
+			{
+				"name": "MELSECNET/H",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/melsecnet.html"
+			},
+			{
+				"name": "Ethernet",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/ethernet.html"
+			},
+			{
+				"name": "Serial communication",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/serial.html"
+			},
+			{
+				"name": "Jaringan terbuka lainnya",
+				"path": "/id_id/products/cnt/plcr/pmerit/network/others.html"
+			}
+		]
+	}
+}

@@ -1,0 +1,206 @@
+{
+	"coment": "linkを設定する際は、/faからの相対パスで記述する for Global Industrial Robot",
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"comment": "linkは各機種のダウンロードページのURLに変更可",
+				"name": "Unduh",
+				"icon": "download",
+				"link": "#",
+				"child": [
+					{
+						"name": "Katalog",
+						"icon": "catalog",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=catalog"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=manual"
+					},
+					{
+						"name": "Buletin<br>Teknis",
+						"icon": "techinfo",
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
+					},
+					{
+						"name": "CAD Data",
+						"icon": "cad",
+						"link": "/id_id/download/index.html?modal=cad"
+					},
+					{
+						"name": "Perangkat Lunak",
+						"icon": "software",
+						"link": "/id_id/download/index.html?modal=software"
+					},
+					{
+						"name": "Contoh<br>Library",
+						"icon": "library",
+						"link": "/id_id/download/index.html?modal=lib"
+					}
+				]
+			}
+	  ],
+		"commonItems": []
+	},
+	"spotlight": {
+		"comment": "Spotlightに掲載したいページタイトル・画像・リンクを記入",
+		"items": [
+			{
+				"name": "MELFA FR PLUS",
+				"img": "/id_id/products/rbt/robot/assets/img/spotlight_frplus.png",
+				"link": "/id_id/products/rbt/robot/pmerit/frplus/index.html"
+			},
+			{
+				"name": "MELFA RH-10CRH/20CRH",
+				"img": "/id_id/products/rbt/robot/assets/img/spotlight_1020crh_eng.png",
+				"link": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
+			},
+			{
+				"name": "MELFA RV-12CRL",
+				"img": "/id_id/products/rbt/robot/assets/img/spotlight_rv12crl_eng.png",
+				"link": "/id_id/products/rbt/robot/pmerit/vertical/crseries/index.html"
+			},
+			{
+				"name": "Collaborative robot ASSISA (Special Page)",
+				"img": "/id_id/products/rbt/robot/assets/img/spotlight_assista_pr.png",
+				"link": "/id_id/products/rbt/assista/pmerit/assista/index.html"
+			}
+		]
+	},
+	"productsMenu": {
+		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
+		"items": [
+			{
+				"name": "Spesifikasi Produk",
+				"icon": "settings",
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
+				"child": [
+					{
+						"name": "Robot",
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot"
+					},
+					{
+						"name": "Controller",
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Controller&search=B&word=Controller"
+					},
+					{
+						"name": "Option",
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Option&search=B&word=Option"
+					}
+					]
+				},
+			{
+				"name": "Produk bersertifikat/mematuhi standar",
+				"icon": "standard",
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
+				"child": [
+					{
+						"name": "Robot",
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot"
+					},
+					{
+						"name": "Standard certification contents",
+						"link": "https://www.mitsubishielectric.com/fa/products/rbt/robot/ex/stand/index.html"
+					}
+					]
+				},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2187"
+			},
+			{
+				"name": "Jaringan",
+				"icon": "tree",
+				"link": "/id_id/products/index.html#section_network"
+			}
+		]
+	},
+	"optionItems": {
+		"comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "Produk yang dihentikan produksinya",
+				"link": "https://www.mitsubishielectric.com/fa/products/rbt/robot/items/discon/index.html"
+			}
+		]
+	},
+	"download": {
+		"comment": "おすすめカタログを掲載しない場合は、recommended内の中括弧ごと削除",
+		"recommended": [
+			{
+				"name": "javascript.toCatalogInfo('name','L-09091ENG','robot','3')",
+				"img": "javascript.toCatalogInfo('img','L-09091ENG','robot','5')",
+				"link": "javascript.toCatalogInfo('link','L-09091ENG','robot','10')"
+			}
+		],
+		"comment": "linkは各機種のダウンロードページのURLに変更可",
+		"items": [
+			{
+				"name": "Katalog",
+				"icon": "catalog",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=catalog"
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=manual"
+			},
+			{
+				"name": "Buletin Teknis",
+				"icon": "technews",
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
+			},
+			{
+				"name": "CAD Data",
+				"icon": "cad",
+				"link": "/id_id/download/index.html?modal=cad"
+			},
+			{
+				"name": "Perangkat Lunak",
+				"icon": "software",
+				"link": "/id_id/download/index.html?modal=software"
+			},
+			{
+				"name": "Contoh Library",
+				"icon": "library",
+				"link": "/id_id/download/index.html?modal=lib"
+			}
+		]
+	},
+	"relatedLink": {
+		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
+		"items": [
+			{
+				"name": "e-learning FA",
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
+			}
+		]
+	},
+	"banner": {
+		"comment": "関連リンクバナーに掲載したいページタイトル・画像・リンクを追加可",
+		"items": [
+				{
+				"name": "FA SPEC Search - It is available an App.",
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
+			}
+		]
+	},
+	"contact": {
+		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
+		"items": [
+			{
+				"name": "Hubungi Kami",
+				"icon": "contact",
+				"link": "/id_id/contact-us/index.html"
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2187"
+			}
+		]
+	}
+}

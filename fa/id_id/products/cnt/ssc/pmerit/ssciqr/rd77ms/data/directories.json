@@ -1,0 +1,35 @@
+{
+  "layerNav": {
+    "name": "Simple Motion module",
+    "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd77ms/point.html",
+    "firstLayer": [
+          {
+            "name": "Fitur-RD77MS",
+            "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd77ms/point.html"
+          },
+          {
+            "name": "Konfigurasi Sistem-RD77MS",
+            "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd77ms/index.html"
+          },
+          {
+            "name": "Fitur-RD77GF",
+            "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd77gf/point.html"
+          },
+          {
+            "name": "Konfigurasi Sistem-RD77GF",
+            "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd77gf/index.html"
+          },
+          {
+            "name": "Panduan Memulai Cepat RD77MS（Video）",
+            "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/ssciqr/rd77ms/movie.html"
+          },
+          {
+            "name": "Contoh Aplikasi",
+            "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/ssciqr/rd77ms/use_example.html"
+          }
+        ]
+  }
+}
+
+
+

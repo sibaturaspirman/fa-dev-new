@@ -1,0 +1,32 @@
+{
+	"layerNav": {
+		"name": "MELSOFT GX Works3 Features",
+		"path": "/id_id/products/cnt/plceng/smerit/gx_works3/index.html",
+		"firstLayer": [
+			{
+				"name": "Konsep",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works3/index.html"
+			},
+			{
+				"name": "Desain Sistem",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works3/design.html"
+			},
+			{
+				"name": "Pemrograman",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works3/programming.html"
+			},
+			{
+				"name": "Debug",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works3/debug.html"
+			},
+			{
+				"name": "Pemeliharaan",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works3/maintenance.html"
+			},
+			{
+				"name": "Cara Penggunaan/Prosedur",
+				"path": "/id_id/products/cnt/plceng/smerit/gx_works3/movie.html"
+			}
+		]
+	}
+}

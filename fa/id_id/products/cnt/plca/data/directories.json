@@ -1,0 +1,68 @@
+{
+  "directories": {
+    "name": "Beranda",
+    "path": "/id_id/",
+    "child": [
+      {
+        "name": "Programmable Controllers MELSEC",
+        "path": "/id_id/products/cnt/plc/index.html",
+        "child": [
+          {
+            "name": "MELSEC iQ-R Series",
+            "path": "/id_id/products/cnt/plcr/items/index.html"
+          },
+          {
+            "name": "MELSEC iQ-F Series",
+            "path": "/id_id/products/cnt/plcf/items/index.html"
+          },
+          {
+            "name": "MELSEC-Q Series",
+            "path": "/id_id/products/cnt/plcq/items/index.html"
+          },
+          {
+            "name": "MELSEC-L Series",
+            "path": "/id_id/products/cnt/plcl/items/index.html"
+          },
+          {
+            "name": "MELSEC-F Series",
+            "path": "/id_id/products/cnt/plc_fx/items/index.html"
+          },
+          {
+            "name": "MELSEC-QS/WS Series",
+            "path": "/id_id/products/cnt/plcqsws/items/index.html"
+          },
+          {
+            "name": "MELSEC-A Series",
+            "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
+          },
+          {
+            "name": "Network-related products",
+            "path": "/id_id/products/cnt/plcnet/items/index.html"
+          }
+            ]
+        }
+    ]
+  },
+  "switchNav": {
+    "name": "Programmable Controllers MELSEC",
+    "path": "/id_id/products/cnt/plc/index.html",
+    "child": [
+      {
+        "group": "LP3",
+        "name": "Fitur Seri MELSEC-A",
+        "path": "/id_id/products/cnt/plca/pmerit/concept/",
+        "spec": "",
+        "standard": "",
+        "discon": ""
+      },
+      {
+        "group": "LP3",
+        "name": "Pembaruan Seri MELSEC-A",
+        "path": "/id_id/products/cnt/plca/pmerit/renewal/",
+        "spec": "",
+        "standard": "",
+        "discon": ""
+      }
+    ]
+  }
+}
