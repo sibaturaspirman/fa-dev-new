@@ -1,0 +1,22 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/index.html",
+    "child": [
+      {
+        "name": "The Art of Manufacturing - monozukuri",
+        "path": "/id_en/the-art-of-manufacturing/index.html",
+        "child": [
+          {
+            "name": "Search",
+            "path": "/id_en/the-art-of-manufacturing/search.html"
+          },
+          {
+            "name": "Previous Issue",
+            "path": "/id_en/the-art-of-manufacturing/archive.html"
+          }
+        ]
+      }
+    ]
+  }
+}

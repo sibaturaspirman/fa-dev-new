@@ -1,0 +1,38 @@
+{
+  "directories": {
+    "name": "FAトップ",
+    "path": "/fa/",
+    "child": [
+      {
+        "name": "お問い合わせ",
+        "path": "/fa/contact-us/",
+        "child": [
+          {
+            "name": "仕様・機能に関するお問い合わせ",
+            "path": "/fa/contact-us/spec/",
+            "child": [
+              {
+                "name": "電話技術相談　平日混雑状況",
+                "path": "/fa/contact-us/spec/congestion.html"
+              },
+              {
+              "name": "休業日一覧",
+              "path": "/fa/contact-us/spec/holidays.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "お問い合わせ",
+        "path": "/fa/contact-us/",
+        "child": [
+          {
+            "name": "テストラボ（iQスクエア）に関するお問い合わせ",
+            "path": "/fa/contact-us/iqsquare/"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+	"layerNav": {
+		"name": "MELSEC Process Control/Redundant System",
+		"path": "/id_en/solutions/competencies/process/index.html",
+		"firstLayer": [
+			{
+				"name": "Fine chemicals",
+				"path": "/id_en/solutions/competencies/process/application/index.html"
+			},
+			{
+				"name": "Waste treatment plant",
+				"path": "/id_en/solutions/competencies/process/application/app02.html"
+			},
+			{
+				"name": "Steel industry",
+				"path": "/id_en/solutions/competencies/process/application/app03.html"
+			},
+			{
+				"name": "Material handling",
+				"path": "/id_en/solutions/competencies/process/application/app04.html"
+			},
+			{
+				"name": "Data Center",
+				"path": "/id_en/solutions/industries/datacenter/index.html"
+			},
+			{
+				"name": "Water",
+				"path": "/id_en/solutions/industries/water/index.html"
+			},
+			{
+				"name": "Oil and Gas",
+				"path": "/id_en/solutions/industries/oilandgas/index.html"
+			},
+			{
+				"name": "HVAC (Heating, Ventilation and Air-Conditioning)",
+				"path": "/id_en/solutions/industries/hvac/index.html"
+			}
+		]
+	}
+}

@@ -1,0 +1,40 @@
+.docLinkSiryo {
+	text-align:center;
+	color:#000000;
+	padding:2px;
+	font-size:10px;
+}
+
+.docLinkDate {
+	text-align:center;
+	font-size:10px;
+	color:#000000;
+	padding:2px;
+}
+.docLinkImage {
+	font-size:10px;
+	text-align:center;
+	padding:2px;
+}
+.docLinkImage img{
+	border: 1px solid #D3D3D3;
+	max-width: 100%;
+	height: auto;
+}
+.docLinkTitle {
+	text-align:center;
+	font-size:10px;
+	color:#000000;
+	padding:2px;
+}
+.docLinkStatus {
+	text-align:center;
+	font-size:10px;
+	color:#FF0000;
+}
+.docLinkDel {
+	text-align:center;
+	font-size:10px;
+	color:#FF0000;
+	font-weight: bold;
+}

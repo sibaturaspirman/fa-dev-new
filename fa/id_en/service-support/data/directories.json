@@ -1,0 +1,18 @@
+{
+  "directories": {
+    "name": "FAトップ",
+    "path": "/id_en/",
+    "child": [
+      {
+        "name": "サービス・サポート",
+        "path": "/id_en/service-support/",
+        "child": [
+          {
+            "name": "修理・アフターサービス",
+            "path": "/id_en/service-support/service/repair/"
+          }
+        ]
+      }
+    ]
+  }
+}

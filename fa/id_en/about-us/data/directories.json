@@ -1,0 +1,110 @@
+{
+  "directories": {
+    "name": "HOME",
+    "path": "/id_en/",
+    "child": [
+      {
+        "name": "About Us",
+        "path": "/id_en/about-us/",
+        "child": [
+          {
+            "name": "Leading-edge Development and Production",
+            "path": "/id_en/about-us/core-competencies/manufacturing/"
+          },
+          {
+            "name": "Extensive Product Line-up",
+            "path": "/id_en/about-us/core-competencies/products/"
+          },
+          {
+            "name": "Providing Integrated Solutions",
+            "path": "/id_en/about-us/core-competencies/solutions/"
+          },
+          {
+            "name": "Global Service Network",
+            "path": "/id_en/about-us/core-competencies/global-network/"
+          }
+        ]
+      },
+      {
+        "name": "About Us",
+        "path": "/id_en/about-us/",
+        "child": [
+          {
+            "name": "Our Commitment to Sustainability",
+            "path": "/id_en/about-us/sustainability/",
+            "child": [
+              {
+                "name": "Contribution through improved efficiency and productivity",
+                "path": "/id_en/about-us/sustainability/increase-efficiency.html"
+              },
+              {
+                "name": "Contribution through visual insights",
+                "path": "/id_en/about-us/sustainability/visualization.html"
+              },
+              {
+                "name": "Contribution through automation technology",
+                "path": "/id_en/about-us/sustainability/automation.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "About Us",
+        "path": "/id_en/about-us/",
+        "child": [
+          {
+            "name": "FA Products Security",
+            "path": "/id_en/about-us/security/"
+          },
+          {
+            "name": "Vulnerability Information",
+            "path": "/id_en/about-us/security/vulnerability/"
+          }
+        ]
+      },
+      {
+        "name": "About Us",
+        "path": "/id_en/about-us/",
+        "child": [
+          {
+            "name": "Locations Worldwide",
+            "path": "/id_en/about-us/overseas/index.html",
+            "child": [
+              {
+                "name": "Americas",
+                "path": "/id_en/about-us/overseas/americas/index.html"
+              },
+              {
+                "name": "Asia-Pacific",
+                "path": "/id_en/about-us/overseas/apac/index.html"
+              },
+              {
+                "name": "Europe, the Middle East and Africa",
+                "path": "/id_en/about-us/overseas/emea/index.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "About Us",
+        "path": "/id_en/about-us/",
+        "child": [
+          {
+            "name": "FA’s contribution over the years",
+            "path": "/id_en/about-us/history/contribution/"
+          },
+          {
+            "name": "FA innovations, firsts and vision",
+            "path": "/id_en/about-us/history/innovation/"
+          },
+          {
+            "name": "MEIN History",
+            "path": "/id_en/about-us/about-mein"
+          }
+        ]
+      }
+    ]
+  }
+}

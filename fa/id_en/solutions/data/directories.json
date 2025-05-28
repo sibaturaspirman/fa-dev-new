@@ -1,0 +1,592 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/index.html",
+    "child": [
+      {
+        "name": "Solutions",
+        "path": "/id_en/solutions/index.html",
+        "child": [
+          {
+            "name": "Introduction of e-F@ctory",
+            "path": "/id_en/solutions/efactory/index.html",
+            "child": [
+              {
+                "name": "Edgecross-supporting Software",
+                "path": "/id_en/solutions/efactory/component/edgsw/index.html",
+                "child": [
+                  {
+                    "name": "Edge Application",
+                    "path": "/id_en/solutions/efactory/component/edgsw/edgeapp/index.html"
+                  },
+                  {
+                    "name": "Data Collector",
+                    "path": "/id_en/solutions/efactory/component/edgsw/dc/index.html"
+                  },
+                  {
+                    "name": "IT Gateway",
+                    "path": "/id_en/solutions/efactory/component/edgsw/itgw/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "Solutions for IoT",
+                "path": "/id_en/solutions/efactory/iot-solutions/index.html",
+                "child": [
+                  {
+                    "name": "Data Collection of Installations and Workers",
+                    "path": "/id_en/solutions/efactory/iot-solutions/1a/index.html"
+                  },
+                  {
+                    "name": "Visualization of Workers or Installations",
+                    "path": "/id_en/solutions/efactory/iot-solutions/1b/index.html"
+                  },
+                  {
+                    "name": "Data Analysis of Workers or Installations",
+                    "path": "/id_en/solutions/efactory/iot-solutions/2c/index.html"
+                  },
+                  {
+                    "name": "Optimization of Workers or Installations",
+                    "path": "/id_en/solutions/efactory/iot-solutions/1d/index.html"
+                  },
+                  {
+                    "name": "Data Collection of Workstations",
+                    "path": "/id_en/solutions/efactory/iot-solutions/2a/index.html"
+                  },
+                  {
+                    "name": "Visualization of Workstations",
+                    "path": "/id_en/solutions/efactory/iot-solutions/2b/index.html"
+                  },
+                  {
+                    "name": "Analysis of Workstations",
+                    "path": "/id_en/solutions/efactory/iot-solutions/2c/index.html"
+                  },
+                  {
+                    "name": "Optimization of Workstations",
+                    "path": "/id_en/solutions/efactory/iot-solutions/2d/index.html"
+                  },
+                  {
+                    "name": "Data Collection of Factories",
+                    "path": "/id_en/solutions/efactory/iot-solutions/3a/index.html"
+                  },
+                  {
+                    "name": "Visualization of Factories",
+                    "path": "/id_en/solutions/efactory/iot-solutions/3b/index.html"
+                  },
+                  {
+                    "name": "Analysis of Factories",
+                    "path": "/id_en/solutions/efactory/iot-solutions/3c/index.html"
+                  },
+                  {
+                    "name": "Optimization of Factories",
+                    "path": "/id_en/solutions/efactory/iot-solutions/3d/index.html"
+                  },
+                  {
+                    "name": "Data Collection of Supply Chain",
+                    "path": "/id_en/solutions/efactory/iot-solutions/4a/index.html"
+                  },
+                  {
+                    "name": "Visualization of Supply Chain",
+                    "path": "/id_en/solutions/efactory/iot-solutions/4b/index.html"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Industries",
+            "path": "/id_en/solutions/index.html#section01",
+            "child": [
+              {
+                "name": "Automotive Manufacturing",
+                "path": "/id_en/solutions/industries/automotive/index.html",
+                "child": [
+                  {
+                    "name": "Press",
+                    "path": "/id_en/solutions/industries/automotive/press/index.html"
+                  },
+                  {
+                    "name": "Resin Molding",
+                    "path": "/id_en/solutions/industries/automotive/resin-molding/index.html"
+                  },
+                  {
+                    "name": "Welding",
+                    "path": "/id_en/solutions/industries/automotive/welding/index.html"
+                  },
+                  {
+                    "name": "Painting",
+                    "path": "/id_en/solutions/industries/automotive/painting/index.html"
+                  },
+                  {
+                    "name": "Vehicle Assembly",
+                    "path": "/id_en/solutions/industries/automotive/vehicle-assembly/index.html"
+                  },
+                  {
+                    "name": "Casting",
+                    "path": "/id_en/solutions/industries/automotive/casting/index.html"
+                  },
+                  {
+                    "name": "Engine Machining",
+                    "path": "/id_en/solutions/industries/automotive/engine-machining/index.html"
+                  },
+                  {
+                    "name": "Engine Assembly",
+                    "path": "/id_en/solutions/industries/automotive/engine-assembly/index.html"
+                  },
+                  {
+                    "name": "HV Motor Assembly",
+                    "path": "/id_en/solutions/industries/automotive/hv-motor-assembly/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "Electrical & Electronic",
+                "path": "/id_en/solutions/industries/electronics/index.html",
+                "child": [
+                  {
+                    "name": "Precise screw tightening",
+                    "path": "/id_en/solutions/industries/electronics/screw/index.html"
+                  },
+                  {
+                    "name": "Precision assembly of parts (memory) through",
+                    "path": "/id_en/solutions/industries/electronics/memory/index.html"
+                  },
+                  {
+                    "name": "Precision assembly of parts (HDD) through",
+                    "path": "/id_en/solutions/industries/electronics/server/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "Lithium-Ion Battery",
+                "path": "/id_en/solutions/industries/lithiumion/index.html",
+                "child": [
+                  {
+                    "name": "Coating",
+                    "path": "/id_en/solutions/industries/lithiumion/coating/index.html"
+                  },
+                  {
+                    "name": "Roll press",
+                    "path": "/id_en/solutions/industries/lithiumion/roll-press/index.html"
+                  },
+                  {
+                    "name": "Slitter, Trimming",
+                    "path": "/id_en/solutions/industries/lithiumion/slitter-trimming/index.html"
+                  },
+                  {
+                    "name": "Winding machine",
+                    "path": "/id_en/solutions/industries/lithiumion/winding-machine/index.html"
+                  },
+                  {
+                    "name": "Stacking machine",
+                    "path": "/id_en/solutions/industries/lithiumion/stacking-machine/index.html"
+                  },
+                  {
+                    "name": "Formation, cell testing",
+                    "path": "/id_en/solutions/industries/lithiumion/formation-cell-testing/index.html"
+                  },
+                  {
+                    "name": "Module, PACK line",
+                    "path": "/id_en/solutions/industries/lithiumion/module-pack-line/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "Logistics",
+                "path": "/id_en/solutions/industries/logistics/index.html",
+                "child": [
+                  {
+                    "name": "Distribution warehouse",
+                    "path": "/id_en/solutions/industries/logistics/distribution-warehouse/index.html"
+                  },
+                  {
+                    "name": "Stacker crane",
+                    "path": "/id_en/solutions/industries/logistics/stacker-crane/index.html"
+                  },
+                  {
+                    "name": "Conveyor",
+                    "path": "/id_en/solutions/industries/logistics/conveyor/index.html"
+                  },
+                  {
+                    "name": "Sorter",
+                    "path": "/id_en/solutions/industries/logistics/sorter/index.html"
+                  },
+                  {
+                    "name": "RGV/AGV",
+                    "path": "/id_en/solutions/industries/logistics/rgv-agv/index.html"
+                  },
+                  {
+                    "name": "Robot",
+                    "path": "/id_en/solutions/industries/logistics/robot/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "Data Center",
+                "path": "/id_en/solutions/industries/datacenter/index.html",
+                "child": [
+                  {
+                    "name": "Monitoring systems",
+                    "path": "/id_en/solutions/industries/datacenter/monitoring/index.html"
+                  },
+                  {
+                    "name": "Air conditioning systems",
+                    "path": "/id_en/solutions/industries/datacenter/air-conditioning/index.html"
+                  },
+                  {
+                    "name": "Energysaving support and countermeasures",
+                    "path": "/id_en/solutions/industries/datacenter/saving/index.html"
+                  },
+                  {
+                    "name": "Power distribution and server room power supply",
+                    "path": "/id_en/solutions/industries/datacenter/electric-power/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "Water",
+                "path": "/id_en/solutions/industries/water/index.html"
+              },
+              {
+                "name": "Oil and Gas",
+                "path": "/id_en/solutions/industries/oilandgas/index.html"
+              },
+              {
+                "name": "HVAC (Heating, Ventilation and Air-Conditioning)",
+                "path": "/id_en/solutions/industries/hvac/index.html"
+              },
+              {
+                "name": "Food & Beverage",
+                "path": "/id_en/solutions/industries/food-beverage/index.html",
+                "child": [
+                  {
+                    "name": "Complex Production Processes",
+                    "path": "/id_en/solutions/industries/food-beverage/production-processes/index.html"
+                  },
+                  {
+                    "name": "Customization and Product Variation",
+                    "path": "/id_en/solutions/industries/food-beverage/variation/index.html"
+                  },
+                  {
+                    "name": "Ensuring Return on Investment",
+                    "path": "/id_en/solutions/industries/food-beverage/ensuring-return/index.html"
+                  },
+                  {
+                    "name": "Skilled Workforce Shortage",
+                    "path": "/id_en/solutions/industries/food-beverage/shortage/index.html"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Competencies",
+            "path": "/id_en/solutions/index.html#section02",
+            "child": [
+              {
+                "name": "Carbon neutral",
+                "path": "/id_en/solutions/competencies/carbon-neutral/index.html",
+                "child": [
+                  {
+                    "name": "Case 01",
+                    "path": "/id_en/solutions/competencies/carbon-neutral/case/01/index.html"
+                  },
+                  {
+                    "name": "Case 02",
+                    "path": "/id_en/solutions/competencies/carbon-neutral/case/02/index.html"
+                  },
+                  {
+                    "name": "Case 03",
+                    "path": "/id_en/solutions/competencies/carbon-neutral/case/03/index.html"
+                  },
+                  {
+                    "name": "Case 04",
+                    "path": "/id_en/solutions/competencies/carbon-neutral/case/04/index.html"
+                  },
+                  {
+                    "name": "Case 05",
+                    "path": "/id_en/solutions/competencies/carbon-neutral/case/05/index.html"
+                  },
+                  {
+                    "name": "Case 06",
+                    "path": "/id_en/solutions/competencies/carbon-neutral/case/06/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "FA Remote",
+                "path": "/id_en/solutions/competencies/remote/index.html",
+                "child": [
+                  {
+                    "name": "Case.01",
+                    "path": "/id_en/solutions/competencies/remote/case/01/index.html"
+                  },
+                  {
+                    "name": "Case.02",
+                    "path": "/id_en/solutions/competencies/remote/case/02/index.html"
+                  },
+                  {
+                    "name": "Case.03",
+                    "path": "/id_en/solutions/competencies/remote/case/03/index.html"
+                  },
+                  {
+                    "name": "Case.04",
+                    "path": "/id_en/solutions/competencies/remote/case/04/index.html"
+                  },
+                  {
+                    "name": "Case.05",
+                    "path": "/id_en/solutions/competencies/remote/case/05/index.html"
+                  },
+                  {
+                    "name": "Case.06",
+                    "path": "/id_en/solutions/competencies/remote/case/06/index.html"
+                  },
+                  {
+                    "name": "Case.07",
+                    "path": "/id_en/solutions/competencies/remote/case/07/index.html"
+                  },
+                  {
+                    "name": "Case.08",
+                    "path": "/id_en/solutions/competencies/remote/case/08/index.html"
+                  },
+                  {
+                    "name": "Case.09",
+                    "path": "/id_en/solutions/competencies/remote/case/09/index.html"
+                  },
+                  {
+                    "name": "Case.10",
+                    "path": "/id_en/solutions/competencies/remote/case/10/index.html"
+                  },
+                  {
+                    "name": "Case.11",
+                    "path": "/id_en/solutions/competencies/remote/case/11/index.html"
+                  },
+                  {
+                    "name": "Case.12",
+                    "path": "/id_en/solutions/competencies/remote/case/12/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "Data Collection/Analysis",
+                "path": "/id_en/solutions/competencies/dlogger/index.html",
+                "child": [
+                  {
+                    "name": "Case.01",
+                    "path": "/id_en/solutions/competencies/dlogger/case/01/index.html"
+                  },
+                  {
+                    "name": "Case.02",
+                    "path": "/id_en/solutions/competencies/dlogger/case/02/index.html"
+                  },
+                  {
+                    "name": "Case.03",
+                    "path": "/id_en/solutions/competencies/dlogger/case/03/index.html"
+                  },
+                  {
+                    "name": "Case.04",
+                    "path": "/id_en/solutions/competencies/dlogger/case/04/index.html"
+                  },
+                  {
+                    "name": "Case.05",
+                    "path": "/id_en/solutions/competencies/dlogger/case/05/index.html"
+                  },
+                  {
+                    "name": "Case.06",
+                    "path": "/id_en/solutions/competencies/dlogger/case/06/index.html"
+                  },
+                  {
+                    "name": "Case.07",
+                    "path": "/id_en/solutions/competencies/dlogger/case/07/index.html"
+                  },
+                  {
+                    "name": "Case.08",
+                    "path": "/id_en/solutions/competencies/dlogger/case/08/index.html"
+                  },
+                  {
+                    "name": "Case.09",
+                    "path": "/id_en/solutions/competencies/dlogger/case/09/index.html"
+                  },
+                  {
+                    "name": "Case.10",
+                    "path": "/id_en/solutions/competencies/dlogger/case/10/index.html"
+                  },
+                  {
+                    "name": "Case.11",
+                    "path": "/id_en/solutions/competencies/dlogger/case/11/index.html"
+                  },
+                  {
+                    "name": "Case.12",
+                    "path": "/id_en/solutions/competencies/dlogger/case/12/index.html"
+                  },
+                  {
+                    "name": "Case.13",
+                    "path": "/id_en/solutions/competencies/dlogger/case/13/index.html"
+                  },
+                  {
+                    "name": "Case.14",
+                    "path": "/id_en/solutions/competencies/dlogger/case/14/index.html"
+                  },
+                  {
+                    "name": "Case.15",
+                    "path": "/id_en/solutions/competencies/dlogger/case/15/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "Total Maintenance",
+                "path": "/id_en/solutions/competencies/total-maintenance/index.html",
+                "child": [
+                  {
+                    "name": "Case 01",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/01/index.html"
+                  },
+                  {
+                    "name": "Case 02",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/02/index.html"
+                  },
+                  {
+                    "name": "Case 03",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/03/index.html"
+                  },
+                  {
+                    "name": "Case 04",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/04/index.html"
+                  },
+                  {
+                    "name": "Case 05",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/05/index.html"
+                  },
+                  {
+                    "name": "Case 06",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/06/index.html"
+                  },
+                  {
+                    "name": "Case 07",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/07/index.html"
+                  },
+                  {
+                    "name": "Case 08",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/08/index.html"
+                  },
+                  {
+                    "name": "Case 09",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/09/index.html"
+                  },
+                  {
+                    "name": "Case 10",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/10/index.html"
+                  },
+                  {
+                    "name": "Case 11",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/11/index.html"
+                  },
+                  {
+                    "name": "Case 12",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/12/index.html"
+                  },
+                  {
+                    "name": "Case 13",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/13/index.html"
+                  },
+                  {
+                    "name": "Case 14",
+                    "path": "/id_en/solutions/competencies/total-maintenance/case/14/index.html"
+                  }
+                ]
+              },
+              {
+                "name": "IoT Solutions for Machining Lines",
+                "path": "/id_en/solutions/competencies/machining/index.html",
+                "child": [
+                  {
+                    "name": "Case.01",
+                    "path": "/id_en/solutions/competencies/machining/case01.html"
+                  },
+                  {
+                    "name": "Case.02",
+                    "path": "/id_en/solutions/competencies/machining/case02.html"
+                  },
+                  {
+                    "name": "Case.03",
+                    "path": "/id_en/solutions/competencies/machining/case03.html"
+                  },
+                  {
+                    "name": "Case.04",
+                    "path": "/id_en/solutions/competencies/machining/case04.html"
+                  },
+                  {
+                    "name": "Case.05",
+                    "path": "/id_en/solutions/competencies/machining/case05.html"
+                  },
+                  {
+                    "name": "Case.06",
+                    "path": "/id_en/solutions/competencies/machining/case06.html"
+                  }
+                ]
+              },
+              {
+                "name": "Process Control/Redundant",
+                "path": "/id_en/solutions/competencies/process/index.html",
+                "child": [
+                    {
+                    "name": "Concept",
+                    "path": "/id_en/solutions/competencies/process/index.html"
+                    },
+                    {
+                    "name": "Lineup",
+                    "path": "/id_en/solutions/competencies/process/lineup/index.html"
+                    },
+                    {
+                    "name": "Supported products",
+                    "path": "/id_en/solutions/competencies/process/features/index.html"
+                    },
+                    {
+                    "name": "Monitoring solution",
+                    "path": "/id_en/solutions/competencies/process/monitoring/index.html"
+                    },
+                    {
+                    "name": "Engineering",
+                    "path": "/id_en/solutions/competencies/process/development/index.html"
+                    },
+                    {
+                    "name": "Partner products",
+                    "path": "/id_en/solutions/competencies/process/partners/index.html"
+                    },
+                    {
+                    "name": "Application examples",
+                    "path": "/id_en/solutions/competencies/process/application/index.html"
+                    },
+                    {
+                    "name": "Support/Download",
+                    "path": "/id_en/solutions/competencies/process/support/index.html"
+                    }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Our Stories",
+            "path": "/id_en/our-stories/index.html"
+          },
+          {
+            "name": "IoT-based Solution Examples",
+            "path": "https://www.mitsubishielectric.com/fa/solutions/iot-case-study/index.html"
+          },
+          {
+            "name": "Solution Guidebook",
+            "path": "https://www.mitsubishielectric.com/fa/solutions/tips/index.html"
+          },
+          {
+            "name": "e-F@ctory Alliance",
+            "path": "/id_en/solutions/alliance/index.html"
+          },
+          {
+            "name": "Digital Manufacturing",
+            "path": "https://www.mitsubishielectric.com/fa/sols/digital-manufacturing/en/index.html"
+          }
+        ]
+      }
+    ]
+  }
+}
