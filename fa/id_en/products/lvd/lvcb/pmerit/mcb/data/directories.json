@@ -1,0 +1,53 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/index.html",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_en/products/index.html",
+        "child": [
+          {
+            "name": "Low-voltage Circuit Breakers",
+            "path": "/id_en/products/lvd/lvcb/index.html",
+            "child": [
+				{
+					"name": "Miniature Circuit Breakers",
+					"path": "/id_en/products/lvd/lvcb/pmerit/mcb/index.html"
+				}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "layerNav": {
+    "name": "Miniature Circuit Breakers",
+    "path": "/id_en/products/lvd/lvcb/pmerit/mcb/index.html",
+    "firstLayer": [
+      {
+        "name": "Features",
+        "path": "/id_en/products/lvd/lvcb/pmerit/mcb/index.html"
+      }
+    ]
+  },
+"switchNav": {
+	"name": "Miniature Circuit Breakers",
+	"path": "/id_en/products/lvd/lvcb/items/mcb/index.html",
+	"child": [
+		{
+			"group": "Miniature Circuit Breakers",
+			"name": "Miniature Circuit Breakers",
+			"feature": "/id_en/products/lvd/lvcb/pmerit/mcb/index.html",
+			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MCB",
+			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCB",
+			"discon": "",
+            "return": {
+                "name": "Miniature Circuit Breakers",
+                "path": "/id_en/products/lvd/lvcb/items/mcb/index.html"
+		}
+		}
+	]
+}
+}
+  

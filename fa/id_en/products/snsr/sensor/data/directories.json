@@ -1,0 +1,58 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/index.html",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_en/products/index.html",
+        "child": [
+          {
+            "name": "FA Sensor MELSENSOR",
+            "path": "/id_en/products/snsr/sensor/index.html",
+            "child": [
+              {
+                "name": "Vision Sensor",
+                "path": "/id_en/products/snsr/sensor/items/vs/index.html"
+              },
+              {
+                "name": "Code Reader",
+                "path": "/id_en/products/snsr/sensor/items/cr/index.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "switchNav": {
+    "name": "FA Sensor MELSENSOR",
+    "path": "/id_en/products/snsr/sensor/index.html",
+    "child": [
+      {
+        "group": "MELSENSOR",
+        "name": "Features top",
+        "feature": "/id_en/products/snsr/sensor/pmerit/",
+        "spec": "",
+        "standard": "",
+        "discon": ""
+      },
+      {
+        "group": "MELSENSOR",
+        "name": "Vision Sensor",
+        "feature": "/id_en/products/snsr/sensor/pmerit/vs/index.html",
+        "spec": "",
+        "standard": "",
+        "discon": ""
+      },
+      {
+        "group": "MELSENSOR",
+        "name": "Code Reader",
+        "feature": "/id_en/products/snsr/sensor/pmerit/cr/index.html",
+        "spec": "",
+        "standard": "",
+        "discon": ""
+      }
+    ]
+  }
+}

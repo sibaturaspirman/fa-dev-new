@@ -1,0 +1,39 @@
+{
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"name": "Download",
+				"icon": "download",
+				"link": "#",
+				"child": [
+					{
+						"name": "Catalog",
+						"icon": "catalog",
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/vixio"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/vixio"
+					},
+					{
+						"name": "Technical<br>Bulletin",
+						"icon": "techinfo",
+						"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/vixio"
+					},
+					{
+						"name": "Software",
+						"icon": "software",
+						"link": "https://www.mitsubishielectric.com/fa/download/?modal=software"
+					},
+					{
+						"name": "Sample<br>Library",
+						"icon": "library",
+						"link": "https://www.mitsubishielectric.com/fa/download/?modal=lib"
+					}
+				]
+			}
+	  ],
+		"commonItems": []
+	}
+}

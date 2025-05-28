@@ -1,0 +1,44 @@
+{
+  "layerNav": {
+    "name": "Robot Engeneering Software (MELFA)",
+    "path": "/id_en/products/software/robot/index.html",
+    "firstLayer": [
+      {
+        "name": "MELSOFT RT VisualBox",
+        "path": "/id_en/products/rbt/assista/smerit/vb/index.html",
+        "secondLayer": [
+           {
+            "name": "Features",
+            "path": "/id_en/products/rbt/assista/smerit/vb/index.html"
+          },
+          {
+            "name": "Catalog",
+           "path": "/id_en/products/rbt/assista/smerit/vb/dl.html"
+          }
+        ]
+      },
+      {
+     "name": "MELSOFT RT3 ToolBox3",
+        "path": "/id_en/products/rbt/assista/smerit/rt3/index.html",
+        "secondLayer": [
+           {
+            "name": "Features",
+            "path": "/id_en/products/rbt/assista/smerit/rt3/index.html"
+          },
+           {
+            "name": "Programming, Simulation",
+           "path": "/id_en/products/rbt/assista/smerit/rt3/simulation.html"
+          },
+           {
+            "name": "Monitor, Maintenance",
+           "path": "/id_en/products/rbt/assista/smerit/rt3/monitor.html"
+          },
+          {
+            "name": "Catalog",
+           "path": "/id_en/products/rbt/assista/smerit/rt3/dl.html"
+          }
+        ]
+      }
+      ]
+  }
+}

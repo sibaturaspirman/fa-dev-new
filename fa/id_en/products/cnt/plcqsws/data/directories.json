@@ -1,0 +1,118 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/index.html",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_en/products/index.html",
+        "child": [
+          {
+            "name": "Programmable<br>Controllers<br>MELSEC",
+            "path": "/id_en/products/cnt/plc/index.html",
+            "child": [
+              {
+                "name": "MELSEC iQ-R Series",
+                "path": "/id_en/products/cnt/plcr/items/index.html"
+              },
+              {
+                "name": "MELSEC iQ-F Series",
+                "path": "/id_en/products/cnt/plcf/items/index.html"
+              },
+              {
+                "name": "MELSEC-Q Series",
+                "path": "/id_en/products/cnt/plcq/items/index.html"
+              },
+              {
+                "name": "MELSEC-L Series",
+                "path": "/id_en/products/cnt/plcl/items/index.html"
+              },
+              {
+                "name": "MELSEC-F Series",
+                "path": "/id_en/products/cnt/plc_fx/items/index.html"
+              },
+              {
+                "name": "MELSEC-QS/WS Series",
+                "path": "/id_en/products/cnt/plcqsws/items/index.html"
+              },
+              {
+                "name": "MELSEC-A Series",
+                "path": "/id_en/products/cnt/plca/pmerit/concept/index.html"
+              },
+              {
+                "name": "Network-related products",
+                "path": "/id_en/products/cnt/plcnet/items/index.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "switchNav": {
+    "name": "MELSEC-QS/WS Series",
+    "path": "/id_en/products/cnt/plcqsws/items/index.html",
+    "child": [
+      {
+        "group": "Standard",
+        "name": "Safety standards",
+        "feature": "/id_en/products/cnt/plcqsws/ex/stand/description.html",
+        "return":{
+          "name": "Return to standard compatibility list",
+          "path": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcqsws"
+        }
+      },
+      {
+        "group": "Standard",
+        "name": "Various certification systems",
+        "feature": "https://www.mitsubishielectric.com/fa/products/standard.html#anc_05"
+      },
+      {
+        "group": "Standard",
+        "name": "Amendment China RoHS Support",
+        "feature": "/id_en/document/technews/plc/fa-a-0211/faa0211.pdf"
+      },
+      {
+        "group": "Standard",
+        "name": "IEC61508 PFDd/PFHd value, ISO13849-1 MTTFd value",
+        "feature": "/id_en/products/cnt/plcqsws/ex/stand/standard.html",
+        "return":{
+          "name": "Return to standard compatibility list",
+          "path": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcqsws"
+        }
+       },
+      {
+        "group": "LP3-1",
+        "name": "Concept",
+        "feature": "/id_en/products/cnt/plcqsws/pmerit/concept/index.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcqsws",
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon"
+      },
+      {
+        "group": "LP3-1",
+        "name": "Safety Programmable Controllers",
+        "feature": "/id_en/products/cnt/plcqsws/pmerit/concept/safetyplc.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller",
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20programmable%20controller"
+      },
+      {
+        "group": "LP3-1",
+        "name": "Safety Controllers",
+        "feature": "/id_en/products/cnt/plcqsws/pmerit/concept/safetycontroller.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller",
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20controller"
+      },
+      {
+        "group": "LP3-1",
+        "name": "Safety Relay Modules",
+        "feature": "/id_en/products/cnt/plcqsws/pmerit/concept/safetyrelay.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay",
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20relay"
+      }
+    ]
+  }
+}

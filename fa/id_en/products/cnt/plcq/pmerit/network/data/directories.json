@@ -1,0 +1,56 @@
+{
+	"layerNav": {
+		"name": "Network",
+		"path": "/id_en/products/cnt/plcq/pmerit/network/index.html",
+		"firstLayer": [
+			{
+				"name": "Network Configurations",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/index.html"
+			},
+			{
+				"name": "CC-Link IE Controller Network",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/ccie_c.html"
+			},
+			{
+				"name": "CC-Link IE Field Network",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/ccie_f.html"
+			},
+			{
+				"name": "AnyWire",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/anywire.html"
+			},
+			{
+				"name": "CC-Link",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/cclink.html"
+			},
+			{
+				"name": "MELSECNET/H",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/melsecnet_h.html"
+			},
+			{
+				"name": "Ethernet",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/ethernet.html"
+			},
+			{
+				"name": "MODBUS",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/modbus.html"
+			},
+			{
+				"name": "Serial communication",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/serial_com.html"
+			},
+			{
+				"name": "MES interface",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/mes.html"
+			},
+			{
+				"name": "High speed data logger",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/data_log.html"
+			},
+			{
+				"name": "High speed data communication",
+				"path": "/id_en/products/cnt/plcq/pmerit/network/data_com.html"
+			}
+		]
+	}
+}

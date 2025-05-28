@@ -1,0 +1,28 @@
+{
+	"layerNav": {
+		"name": "Advanced information",
+		"path": "/id_en/products/cnt/plcr/pmerit/it_connect/index.html",
+		"firstLayer": [
+			{
+				"name": "Lineup",
+				"path": "/id_en/products/cnt/plcr/pmerit/it_connect/index.html"
+			},
+			{
+				"name": "Recorder, Camera recorder",
+				"path": "/id_en/products/cnt/plcr/pmerit/it_connect/recorder.html"
+			},
+			{
+				"name": "MES interface",
+				"path": "/id_en/products/cnt/plcr/pmerit/it_connect/mes.html"
+			},
+			{
+				"name": "OPC UA server",
+				"path": "/id_en/products/cnt/plcr/pmerit/it_connect/opc.html"
+			},
+			{
+				"name": "High-speed data logger, High-speed data communication",
+				"path": "/id_en/products/cnt/plcr/pmerit/it_connect/log.html"
+			}
+		]
+	}
+}

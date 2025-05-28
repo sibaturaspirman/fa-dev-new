@@ -1,0 +1,61 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/index.html",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_en/products/index.html",
+        "child": [
+          {
+            "name": "Low-voltage Circuit Breakers",
+            "path": "/id_en/products/lvd/lvcb/index.html",
+            "child": [
+				{
+					"name": "Circuit Breakers with Spring Clamp Terminals",
+					"path": "/id_en/products/lvd/lvcb/pmerit/sq/index.html"
+				}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "layerNav": {
+    "name": "Circuit Breakers with Spring Clamp Terminals",
+    "path": "/id_en/products/lvd/lvcb/pmerit/sq/index.html",
+    "firstLayer": [
+      {
+        "name": "Features",
+        "path": "/id_en/products/lvd/lvcb/pmerit/sq/index.html"
+      },
+      {
+        "name": "Accessories",
+        "path": "/id_en/products/lvd/lvcb/pmerit/sq/index_2.html"
+      },
+      {
+        "name": "Product Lineup",
+        "path": "/id_en/products/lvd/lvcb/pmerit/sq/index_3.html"
+      }
+    ]
+  },
+"switchNav": {
+	"name": "Circuit Breakers with Spring Clamp Terminals",
+	"path": "/id_en/products/lvd/lvcb/items/sq/index.html",
+	"child": [
+		{
+			"group": "Circuit Breakers with Spring Clamp Terminals",
+			"name": "Circuit Breakers with Spring Clamp Terminals",
+			"feature": "/id_en/products/lvd/lvcb/pmerit/sq/index.html",
+			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SQ",
+			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SQ",
+			"discon": "",
+            "return": {
+                "name": "Circuit Breakers with Spring Clamp Terminals",
+                "path": "/id_en/products/lvd/lvcb/items/sq/index.html"
+			}
+		}
+	]
+}
+}
+  

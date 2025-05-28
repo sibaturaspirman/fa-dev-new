@@ -1,0 +1,64 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_en/products/index.html",
+        "child": [
+          {
+            "name": "Energy Saving Supporting Devices",
+            "path": "/id_en/products/pmng/ems/index.html",
+			"child": [
+				{
+					"name": "Energy Saving Data Collecting Servers",
+					"path": "/id_en/products/pmng/ems/pmerit/ecoserver/index.html"
+				}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+"layerNav": {
+    "name": "Energy Saving Data Collecting Servers",
+    "path": "/id_en/products/pmng/ems/pmerit/ecoserver/index.html",
+    "firstLayer": [
+      {
+        "name": "Features",
+        "path": "/id_en/products/pmng/ems/pmerit/ecoserver/index.html"
+      },
+      {
+        "name": "System Configuration",
+        "path": "/id_en/products/pmng/ems/pmerit/ecoserver/ecoserver_2.html"
+      },
+      {
+        "name": "Product Lineup",
+        "path": "/id_en/products/pmng/ems/pmerit/ecoserver/ecoserver_3.html"
+      },
+      {
+        "name": "Case Studies",
+        "path": "/id_en/products/pmng/ems/pmerit/ecoserver/ecoserver_4.html"
+      }
+    ]
+  },
+ "switchNav": {
+    "name": "Energy Saving Supporting Devices",
+    "path": "/id_en/products/pmng/ems/index.html",
+    "child": [
+      {
+        "group": "Energy Saving Data Collecting Servers",
+        "name": "Energy Saving Data Collecting Servers",
+        "feature": "/id_en/products/pmng/ems/pmerit/ecoserver/index.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=Energy Saving Data Collecting Server&search=B&word=Energy Saving Data Collecting Server&current=MES3",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/ems&radio=Energy Saving Data Collecting Server&search=B&word=Energy Saving Data Collecting Server&current=MES3",
+        "discon": "",
+		"return": {
+			"name": "Energy Saving Data Collecting Servers",
+			"path": "/id_en/products/pmng/ems/items/ecoserver/index.html"
+		}
+      }
+        ]
+    }
+}

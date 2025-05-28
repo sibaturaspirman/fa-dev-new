@@ -1,0 +1,16 @@
+{
+  "layerNav": {
+    "name": "MELSEC-F Series",
+    "path": "/id_en/products/cnt/plc_fx/items/index.html",
+    "firstLayer": [
+     {
+        "name": "FX PLC Main Unit",
+        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/plc/index.html"
+      },
+      {
+        "name": "Application instructions",
+        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/plc/instruction.html"
+      }
+    ]
+  }
+}

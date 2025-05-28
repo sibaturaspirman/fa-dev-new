@@ -1,0 +1,74 @@
+{
+	"layerNav": {
+		"name": "MELSOFT GX Works2 Features",
+		"path": "/id_en/products/cnt/plceng/smerit/gx_works2/index.html",
+		"firstLayer": [
+			{
+				"name": "Concept",
+				"path": "/id_en/products/cnt/plceng/smerit/gx_works2/index.html"
+			},
+			{
+				"name": "Improving design and debug efficiency",
+				"path": "/id_en/products/cnt/plceng/smerit/gx_works2/debug/index.html",
+				"secondLayer": [
+					{
+						"name": "Ladder input",
+						"path": "/id_en/products/cnt/plceng/smerit/gx_works2/debug/index.html"
+					},
+					{
+						"name": "Comment",
+						"path": "/id_en/products/cnt/plceng/smerit/gx_works2/debug/comment.html"
+					},
+					{
+						"name": "Parameter setting",
+						"path": "/id_en/products/cnt/plceng/smerit/gx_works2/debug/parameters.html"
+					},
+					{
+						"name": "Debugging",
+						"path": "/id_en/products/cnt/plceng/smerit/gx_works2/debug/debug.html"
+					}
+				]
+			},
+			{
+				"name": "Providing maintenance that meet your needs",
+				"path": "/id_en/products/cnt/plceng/smerit/gx_works2/maintenance/index.html",
+				"secondLayer": [
+					{
+						"name": "Operation and maintenance",
+						"path": "/id_en/products/cnt/plceng/smerit/gx_works2/maintenance/index.html"
+					},
+					{
+						"name": "Security",
+						"path": "/id_en/products/cnt/plceng/smerit/gx_works2/maintenance/security.html"
+					}
+				]
+			},
+			{
+				"name": "Facilitating project management",
+				"path": "/id_en/products/cnt/plceng/smerit/gx_works2/project/index.html"
+			},
+			{
+				"name": "Promoting program standardization",
+				"path": "/id_en/products/cnt/plceng/smerit/gx_works2/program/index.html",
+				"secondLayer": [
+					{
+						"name": "Making parts in program",
+						"path": "/id_en/products/cnt/plceng/smerit/gx_works2/program/index.html"
+					},
+					{
+						"name": "Label programming/structured programming",
+						"path": "/id_en/products/cnt/plceng/smerit/gx_works2/program/programming.html"
+					},
+					{
+						"name": "Interaction with iQ Works",
+						"path": "/id_en/products/cnt/plceng/smerit/gx_works2/program/iq_works.html"
+					}
+				]
+			},
+			{
+				"name": "Enhanced coordination with factory automation devices",
+				"path": "/id_en/products/cnt/plceng/smerit/gx_works2/support/index.html"
+			}
+		]
+	}
+}

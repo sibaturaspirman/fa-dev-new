@@ -1,0 +1,40 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/index.html",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_en/products/index.html",
+        "child": [
+          {
+            "name": "Laser Processing Machines",
+            "path": "/id_en/products/mecha/laser/index.html",
+            "child": [
+              {
+                "name": "2D Laser Processing Machines",
+                "path": "/id_en/products/mecha/laser/items/2d/index.html"
+              },
+              {
+                "name": "3D Laser Processing Machines",
+                "path": "/id_en/products/mecha/laser/items/3d/index.html"
+              },
+              {
+                "name": "Laser Drilling Machines",
+                "path": "/id_en/products/mecha/laser/items/drilling/index.html"
+              },
+              {
+                "name": "Automation for Laser",
+                "path": "/id_en/products/mecha/laser/items/cuttingl/index.html"
+              },
+              {
+                "name": "CAD/CAM , S/W",
+                "path": "/id_en/products/mecha/laser/items/cadcam/index.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "layerNav": {
+    "name": "Industrial Robot MELFA",
+    "path": "/id_en/products/rbt/robot/items/horizontal/index.html",
+    "firstLayer": [
+      {
+        "name": "RH-FRH series",
+        "path": "/id_en/products/rbt/robot/pmerit/horizontal/frseries/index.html",
+        "secondLayer": [
+           {
+            "name": "Lineup",
+            "path": "/id_en/products/rbt/robot/pmerit/horizontal/frseries/index.html"
+          },
+           {
+            "name": "Features",
+            "path": "/id_en/products/rbt/robot/pmerit/horizontal/frseries/features.html"
+          },
+           {
+            "name": "Robot arm options",
+            "path": "/id_en/products/rbt/robot/pmerit/horizontal/frseries/option.html"
+          },
+          {
+            "name": "System configuration",
+            "path": "/id_en/products/rbt/robot/pmerit/horizontal/frseries/config.html"
+          },
+          {
+            "name": "Specifications",
+            "path": "/id_en/products/rbt/robot/pmerit/horizontal/frseries/spec.html"
+          }
+        ]
+      },
+      {
+        "name": "RH-CRH series",
+        "path": "/id_en/products/rbt/robot/pmerit/horizontal/crhseries/index.html",
+         "secondLayer": [
+           {
+            "name": "Features",
+            "path": "/id_en/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
+          },
+
+          {
+            "name": "System configuration",
+            "path": "/id_en/products/rbt/robot/pmerit/horizontal/crhseries/config.html"
+          },
+          {
+            "name": "Specifications",
+            "path": "/id_en/products/rbt/robot/pmerit/horizontal/crhseries/spec.html"
+          }
+        ]
+      }
+      ]
+  }
+}

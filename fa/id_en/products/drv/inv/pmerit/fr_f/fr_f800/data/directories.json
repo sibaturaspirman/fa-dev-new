@@ -1,0 +1,58 @@
+{
+  "layerNav": {
+    "name": "FREQROL-F series",
+    "path": "/id_en/products/drv/inv/items/fr_f/index.html",
+    "firstLayer": [
+      {
+        "name": "Outline",
+        "path": "/id_en/products/drv/inv/pmerit/fr_f/index.html"
+      },
+      {
+        "name": "FREQROL-F800",
+        "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/index.html",
+        "secondLayer": [
+          {
+            "name": "Concept",
+            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/index.html"
+          },
+          {
+            "name": "Energy Saving",
+            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/f801.html"
+          },
+          {
+            "name": "Functions Ideal for Fans and Pumps",
+            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/f802.html"
+          },
+          {
+            "name": "Security &amp; Safety",
+            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/f803.html"
+          },
+          {
+            "name": "Compatibility with the Environment",
+            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/f804.html"
+          },
+          {
+            "name": "Easy Setup &amp; Operation",
+            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/f805.html"
+          },
+          {
+            "name": "Trial Calculation Example of Energy Saving Effect",
+            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/f806.html"
+          },
+          {
+            "name": "Model Configuration",
+            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/f807.html"
+          },
+          {
+            "name": "Protective Functions",
+            "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f800/fault.html"
+          }
+        ]
+      },
+      {
+        "name": "FREQROL-F700PJ",
+        "path": "/id_en/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html"
+      }
+    ]
+  }
+}

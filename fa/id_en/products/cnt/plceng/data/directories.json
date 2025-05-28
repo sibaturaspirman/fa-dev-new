@@ -1,0 +1,160 @@
+{
+    "directories": {
+        "name": "Home",
+        "path": "/id_en/",
+        "child": [
+            {
+                "name": "Programmable Controllers MELSEC",
+                "path": "/id_en/products/cnt/plc/index.html",
+                "child": [
+                    {
+                        "name": "MELSEC iQ-R Series",
+                        "path": "/id_en/products/cnt/plcr/items/index.html"
+                    },
+                    {
+                        "name": "MELSEC iQ-F Series",
+                        "path": "/id_en/products/cnt/plcf/items/index.html"
+                    },
+                    {
+                        "name": "MELSEC-Q Series",
+                        "path": "/id_en/products/cnt/plcq/items/index.html"
+                    },
+                    {
+                        "name": "MELSEC-L Series",
+                        "path": "/id_en/products/cnt/plcl/items/index.html"
+                    },
+                    {
+                        "name": "MELSEC-F Series",
+                        "path": "/id_en/products/cnt/plc_fx/items/index.html"
+                    },
+                    {
+                        "name": "MELSEC-QS/WS Series",
+                        "path": "/id_en/products/cnt/plcqsws/items/index.html"
+                    },
+                    {
+                        "name": "MELSEC-A Series",
+                        "path": "/id_en/products/cnt/plca/pmerit/concept/index.html"
+                    },
+                    {
+                        "name": "Network-related products",
+                        "path": "/id_en/products/cnt/plcnet/items/index.html"
+                    },
+                    {
+                        "name": "Engineering software",
+                        "path": "/id_en/products/cnt/plceng/items/index.html"
+                    }
+                ]
+            }
+        ]
+    },
+    "switchNav": {
+        "name": "Engineering software",
+        "path": "/id_en/products/cnt/plceng/items/index.html",
+        "child": [
+            {
+                "group": "ENG_SOFT",
+                "name": "iQ Works",
+                "feature": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/iq_works/",
+                "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melsoft",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_SOFT",
+                "name": "GX Works3",
+                "feature": "/id_en/products/cnt/plceng/smerit/gx_works3/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_SOFT",
+                "name": "GX Works2",
+                "feature": "/id_en/products/cnt/plceng/smerit/gx_works2/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_SOFT",
+                "name": "PX Developer",
+                "feature": "/id_en/products/cnt/plceng/smerit/px_developer/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_SOFT",
+                "name": "MX Component",
+                "feature": "/id_en/products/cnt/plceng/smerit/mx_component/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_SOFT",
+                "name": "MX Sheet",
+                "feature": "/id_en/products/cnt/plceng/smerit/mx_sheet/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_SOFT",
+                "name": "iQ AppPortal",
+                "feature": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/iq_app_portal/index.html?menu=kisyu&mid=plc",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_SOFT",
+                "name": "FieldDeviceConfigurator",
+                "feature": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/fdc/index.html?menu=kisyu&plc",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_SOFT",
+                "name": "Other engineering softwares",
+                "feature": "/id_en/products/cnt/plceng/smerit/other_eng/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_SOFT",
+                "name": "Peripheral equipment support tools",
+                "feature": "/id_en/products/cnt/plceng/smerit/support_tools/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_EMANUAL",
+                "name": "e-Manual",
+                "feature": "/id_en/products/cnt/plceng/smerit/e-manual/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_EMANUAL",
+                "name": "e-Manual Viewer",
+                "feature": "/id_en/products/cnt/plceng/smerit/e-manual/viewer/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            },
+            {
+                "group": "ENG_EMANUAL",
+                "name": "e-Manual Create",
+                "feature": "/id_en/products/cnt/plceng/smerit/e-manual/create/",
+                "spec": "",
+                "standard": "",
+                "discon": ""
+            }
+        ]
+    }
+}

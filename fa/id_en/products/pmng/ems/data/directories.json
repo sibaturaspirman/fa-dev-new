@@ -1,0 +1,78 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/index.html",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_en/products/index.html",
+        "child": [
+          {
+            "name": "Energy Saving Supporting Devices",
+            "path": "/id_en/products/pmng/ems/index.html",
+			"child": [
+				{
+					"name": "Energy Measuring Units",
+					"path": "/id_en/products/pmng/ems/items/ecomonitor/index.html"
+				},
+				{
+					"name": "Energy Saving Data Collecting Servers",
+					"path": "/id_en/products/pmng/ems/items/ecoserver/index.html"
+				},
+				{
+					"name": "MELSEC iQ-R Series",
+					"path": "/id_en/products/cnt/plcr/pmerit/measuring/index.html"
+				},
+				{
+					"name": "MELSEC-Q Series",
+					"path": "/id_en/products/cnt/plcq/pmerit/energy/index.html"
+				}
+			]
+          }
+        ]
+      }
+    ]
+  },
+ "switchNav": {
+    "name": "Energy Saving Supporting Devices",
+    "path": "/id_en/products/pmng/ems/index.html",
+    "child": [
+      {
+        "group": "Energy Measuring Units",
+        "name": "EcoMonitorPlus",
+        "feature": "/id_en/products/pmng/ems/pmerit/ecomonitor/emplus_1.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&search=B@@K-01&word=Energy Measuring Units@@EcoMonitorPlus&current=EcoMonitorPlus",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorPlus",
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorPlus",
+		"return": {
+			"name": "Energy Measuring Units",
+			"path": "/id_en/products/pmng/ems/items/ecomonitor/index.html"
+		}
+      },
+      {
+        "group": "Energy Measuring Units",
+        "name": "EcoMonitorLight",
+        "feature": "/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&search=B@@K-01&word=Energy Measuring Units@@EcoMonitorLight&current=EcoMonitorLight",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorLight",
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorLight",
+		"return": {
+			"name": "Energy Measuring Units",
+			"path": "/id_en/products/pmng/ems/items/ecomonitor/index.html"
+		}
+      },
+      {
+        "group": "Energy Saving Data Collecting Servers",
+        "name": "Energy Saving Data Collecting Servers",
+        "feature": "/id_en/products/pmng/ems/pmerit/ecoserver/index.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=Energy Saving Data Collecting Server&search=B&word=Energy Saving Data Collecting Server&current=MES3",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/ems&radio=Energy Saving Data Collecting Server&search=B&word=Energy Saving Data Collecting Server&current=MES3",
+        "discon": "",
+		"return": {
+			"name": "Energy Saving Data Collecting Servers",
+			"path": "/id_en/products/pmng/ems/items/ecoserver/index.html"
+		}
+      }
+        ]
+    }
+}

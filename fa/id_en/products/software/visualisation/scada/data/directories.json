@@ -1,0 +1,36 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_en/products/index.html",
+        "child": [
+          {
+            "name": "Visualization software",
+            "path": "/id_en/products/software/visualisation/index.html",
+            "child": [
+              {
+                "name": "SCADA",
+                "path": "/id_en/products/software/visualisation/scada/index.html"
+              },
+              {
+                "name": "HMI software (GOT)",
+                "path": "/id_en/products/software/visualisation/got/index.html"
+              },
+              {
+                "name": "System recorder related software",
+                "path": "/id_en/products/software/visualisation/system-recorder/index.html"
+              },
+              {
+                "name": "e-F@ctory Support Module",
+                "path": "https://dl.mitsubishielectric.comhttps://www.mitsubishielectric.com/dl/fa/document/catalog/sol/efactory/e001eng/e001engc.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

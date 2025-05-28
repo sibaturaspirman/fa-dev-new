@@ -1,0 +1,16 @@
+{
+  "layerNav": {
+    "name": "S-PM Geared Motors Right angle shaft type",
+    "path": "/id_en/products/drv/gear/pmerit/spm_right_angle/index.html",
+    "firstLayer": [
+      {
+        "name": "Features",
+        "path": "/id_en/products/drv/gear/pmerit/spm_right_angle/index.html"
+      },
+      {
+        "name": "Model name configurations",
+        "path": "/id_en/products/drv/gear/pmerit/spm_right_angle/comp.html"
+      }
+    ]
+  }
+}

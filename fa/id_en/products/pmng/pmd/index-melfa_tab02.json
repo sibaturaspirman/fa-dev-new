@@ -1,0 +1,36 @@
+{
+  "listLinkLabel": "Update information",
+  "listLink": "https://www.mitsubishielectric.com/fa/products/pmng/pmd/update_index.html",
+  "items": [
+    {
+      "pubDate": "May 20, 2025",
+      "title": "Power Management Meters：Sales and Service is added.",
+      "category": "Discontinued products",
+      "description": "<a href=\"https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&kisyu=/pmd#YAMA500\">Production discontinuation of measuring instrument and energy saving supporting devices</a>"
+    },
+    {
+      "pubDate": "Mar 31, 2025",
+      "title": "Power Management Meters：Sales and Service is added.",
+      "category": "Technical bulletin",
+      "description": "<a href=\"https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&kisyu=/pmd#YAMA493\">Production discontinuation of instrument transformers</a>"
+    },
+    {
+      "pubDate": "Dec 24, 2024",
+      "title": "Power Management Meters：Technical bulletin is added.",
+      "category": "Technical bulletin",
+      "description": "<a href=\"https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=techinfo&kisyu=/pmd#PMM-YE-0002\">Regarding the handling of products containing Dechlorane Plus</a>"
+    },
+    {
+      "pubDate": "Dec 16, 2024",
+      "title": "Power Management Meters：Manual is updated.",
+      "category": "Manual",
+      "description": "<a href=\"https://www.mitsubishielectric.com/dl/fa/document/manual/pmd/ib63e77/ib63e77c.pdf\" target=\"_blank\">Electronic Multi-Measuring Instrument User's Manual : Detailed Edition (MODEL:ME96SSEB-MB)</a><br>&nbsp;&nbsp; IB63E77C (5.39MB)"
+    },
+    {
+      "pubDate": "Dec 12, 2024",
+      "title": "Power Management Meters：Technical bulletin is added.",
+      "category": "Technical bulletin",
+      "description": "<a href=\"https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=techinfo&kisyu=/pmd#PMM-YE-0001\">Notice of Change in Display Viewing Angle (ME96 Series)</a>"
+    }
+  ]
+}

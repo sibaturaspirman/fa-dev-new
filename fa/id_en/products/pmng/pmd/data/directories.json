@@ -1,0 +1,50 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_en/index.html",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_en/products/index.html",
+        "child": [
+          {
+            "name": "Low-voltage Circuit Breakers",
+            "path": "/id_en/products/lvd/lvcb/index.html"
+          },
+          {
+            "name": "Contactors and Motor Starters",
+            "path": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/index.html"
+          },
+          {
+            "name": "Power Management Meters",
+            "path": "/id_en/products/pmng/pmd/index.html",
+            "child": [
+				{
+					"name": "Electrical Indicators",
+					"path": "/id_en/products/pmng/pmd/items/eim/index.html"
+				}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+"switchNav": {
+	"name": "Power Management Meters",
+	"path": "/id_en/products/pmng/pmd/index.html",
+	"child": [
+		{
+        "group": "Electrical Indicators",
+        "name": "Electronic Multi Measuring Instruments (ME96 Series)",
+        "feature": "/id_en/products/pmng/pmd/pmerit/eim/index.html",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon&bunrui1=Meters&current=Meters",
+		"return": {
+			"name": "Electrical Indicators",
+			"path": "/id_en/products/pmng/pmd/items/eim/index.html"
+		}
+		}
+	]
+}
+}

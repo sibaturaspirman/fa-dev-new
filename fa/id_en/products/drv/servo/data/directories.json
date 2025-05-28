@@ -1,0 +1,156 @@
+{
+	"directories": {
+		"name": "Home",
+		"path": "/id_en/index.html",
+		"child": [
+			{
+				"name": "Products",
+				"path": "/id_en/products/index.html",
+				"child": [
+					{
+						"name": "AC Servos-MELSERVO",
+						"path": "/id_en/products/drv/servo/index.html",
+						"child": [
+							{
+								"name": "MELSERVO-J5",
+								"path": "/id_en/products/drv/servo/items/mr_j5/index.html"
+							},
+							{
+								"name": "MELSERVO-JET",
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
+							},
+							{
+								"name": "MELSERVO-J4",
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_j4/index.html"
+							},
+							{
+								"name": "MELSERVO-JE",
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_je/index.html"
+							},
+							{
+								"name": "MELSERVO-JN",
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jn/index.html"
+							},
+							{
+								"name": "Servo Support Software",
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/soft/index.html"
+							}
+						]
+					}
+
+				]
+			}
+		]
+	},
+	"switchNav": {
+		"name": "AC Servos-MELSERVO",
+		"path": "/id_en/products/drv/servo/index.html",
+		"child": [
+			{
+				"group": "MELSERVO-J5-00",
+				"name": "Concept",
+				"feature": "/id_en/products/drv/servo/pmerit/mr_j5/amp/concept.html",
+				"return": {
+					"name": "MELSERVO-J5",
+					"path": "/id_en/products/drv/servo/items/mr_j5/index.html"
+				}
+			},
+			{
+				"group": "MELSERVO-J5-00",
+				"name": "Servo Amplifier",
+				"feature": "/id_en/products/drv/servo/pmerit/mr_j5/amp/feature.html",
+				"spec": "",
+				"standard": "",
+				"discon": "",
+				"return": {
+					"name": "MELSERVO-J5",
+					"path": "/id_en/products/drv/servo/items/mr_j5/index.html"
+				}
+			},
+			{
+				"group": "MELSERVO-J5-00",
+				"name": "Rotary Servo Motor",
+				"feature": "/id_en/products/drv/servo/pmerit/mr_j5/motor/feature.html",
+				"spec": "",
+				"standard": "",
+				"discon": "",
+				"return": {
+					"name": "MELSERVO-J5",
+					"path": "/id_en/products/drv/servo/items/mr_j5/index.html"
+				}
+			},
+			{
+				"group": "MELSERVO-J5-00",
+				"name": "Linear Servo Motor",
+				"feature": "/id_en/products/drv/servo/pmerit/mr_j5/linear/feature.html",
+				"spec": "",
+				"standard": "",
+				"discon": "",
+				"return": {
+					"name": "MELSERVO-J5",
+					"path": "/id_en/products/drv/servo/items/mr_j5/index.html"
+				}
+			},
+			{
+				"group": "MELSERVO-J5-00",
+				"name": "Direct Drive Motor",
+				"feature": "/id_en/products/drv/servo/pmerit/mr_j5/ddm/feature.html",
+				"spec": "",
+				"standard": "",
+				"discon": "",
+				"return": {
+					"name": "MELSERVO-J5",
+					"path": "/id_en/products/drv/servo/items/mr_j5/index.html"
+				}
+			},
+			{
+				"group": "MELSERVO-JET-00",
+				"name": "Concept",
+				"feature": "/id_en/products/drv/servo/pmerit/mr_jet/amp/index.html",
+				"spec": "",
+				"standard": "",
+				"discon": "",
+				"return": {
+					"name": "MELSERVO-JET",
+					"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
+				}
+			},
+			{
+				"group": "MELSERVO-JET-00",
+				"name": "Servo Amplifier",
+				"feature": "/id_en/products/drv/servo/pmerit/mr_jet/amp/feature.html",
+				"spec": "",
+				"standard": "",
+				"discon": "",
+				"return": {
+					"name": "MELSERVO-JET",
+					"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
+				}
+			},
+			{
+				"group": "MELSERVO-JET-00",
+				"name": "Rotary Servo Motor",
+				"feature": "/id_en/products/drv/servo/pmerit/mr_jet/motor/index.html",
+				"spec": "",
+				"standard": "",
+				"discon": "",
+				"return": {
+					"name": "MELSERVO-JET",
+					"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
+				}
+			},
+			{
+				"group": "MELSERVO-JET-00",
+				"name": "Linear Servo Motor",
+				"feature": "/id_en/products/drv/servo/pmerit/mr_jet/linear/index.html",
+				"spec": "",
+				"standard": "",
+				"discon": "",
+				"return": {
+					"name": "MELSERVO-JET",
+					"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
+				}
+			}
+		]
+	}
+}

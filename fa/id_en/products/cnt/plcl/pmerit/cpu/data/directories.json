@@ -1,0 +1,36 @@
+{
+	"layerNav": {
+		"name": "CPU",
+		"path": "/id_en/products/cnt/plcl/pmerit/cpu/index.html",
+		"firstLayer": [
+			{
+				"name": "Lineup",
+				"path": "/id_en/products/cnt/plcl/pmerit/cpu/index.html"
+			},
+			{
+				"name": "L Series Built-in I/O Features",
+				"path": "/id_en/products/cnt/plcl/pmerit/cpu/iofanction.html"
+			},
+			{
+				"name": "Convenient communication and storage options come as standard",
+				"path": "/id_en/products/cnt/plcl/pmerit/cpu/interface.html"
+			},
+			{
+				"name": "Gain more flexibility with an integrated system bus structure",
+				"path": "/id_en/products/cnt/plcl/pmerit/cpu/baseless.html"
+			},
+			{
+				"name": "Historical trend and live feeds of production",
+				"path": "/id_en/products/cnt/plcl/pmerit/cpu/loging.html"
+			},
+			{
+				"name": "Feature rich and easy to use display",
+				"path": "/id_en/products/cnt/plcl/pmerit/cpu/syscheck.html"
+			},
+			{
+				"name": "An easy-to-use modular design",
+				"path": "/id_en/products/cnt/plcl/pmerit/cpu/design.html"
+			}
+		]
+	}
+}

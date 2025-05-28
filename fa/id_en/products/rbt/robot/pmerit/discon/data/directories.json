@@ -1,0 +1,38 @@
+{
+  "layerNav": {
+    "name": "Discontinued products",
+    "path": "/id_en/products/rbt/robot/items/discon/index.html",
+    "firstLayer": [
+      {
+        "name": "F series",
+        "path": "/id_en/products/rbt/robot/pmerit/discon/index.html",
+        "secondLayer": [
+           {
+            "name": "RV-F/RH-FH series",
+            "path": "/id_en/products/rbt/robot/pmerit/discon/index.html"
+          },
+          {
+            "name": "The environment-resistant specifications",
+            "path": "/id_en/products/rbt/robot/pmerit/discon/fmseries.html"
+          }
+        ]
+      },
+       {
+            "name": "FA Application Package",
+            "path": "/id_en/products/rbt/robot/pmerit/discon/apppack.html"
+          },
+       {
+            "name": "RH-CH series",
+            "path": "/id_en/products/rbt/robot/pmerit/discon/chseries.html"
+          },
+        {
+            "name": "MELFA-Works",
+            "path": "/id_en/products/rbt/robot/pmerit/discon/melfaworks.html"
+          },
+       {
+        "name": "RP series",
+            "path": "/id_en/products/rbt/robot/pmerit/discon/rpseries.html"
+        }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "layerNav": {
+    "name": "MELSEC-F Series",
+    "path": "/id_en/products/cnt/plc_fx/items/index.html",
+    "firstLayer": [
+     {
+        "name": "Positioning Control",
+        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/positioning/index.html"
+      },
+      {
+        "name": "PLC built-in pulse output functions and positioning functions",
+        "path": "/id_en/products/cnt/plc_fx/pmerit/contents/positioning/plc01.html"
+      }
+    ]
+  }
+}
