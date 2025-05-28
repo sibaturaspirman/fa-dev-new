@@ -53,11 +53,11 @@
 		"items": [
 			{
 				"name": "Katalog Digital",
-				"link": "/id_id/products/cnt/cnc/pmerit/catalog_en.html"
+				"link": "/fa/id_id/products/cnt/cnc/pmerit/catalog_en.html"
 			},
 			{
 				"name": "Acara",
-				"link": "/id_id/products/cnt/cnc/evt/index.html"
+				"link": "/fa/id_id/products/cnt/cnc/evt/index.html"
 			},
 			{
 				"name": "Berita CNC",
@@ -125,12 +125,12 @@
 		"items": [
 			{
 				"name": "YouTube MECHATRO PLUS",
-				"image": "/id_id/products/cnt/cnc/img/banner_youtube_mecha.jpg",
+				"image": "/fa/id_id/products/cnt/cnc/img/banner_youtube_mecha.jpg",
 				"link": "https://www.youtube.com/c/MITSUBISHIELECTRICMECHATRONICS"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -141,7 +141,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

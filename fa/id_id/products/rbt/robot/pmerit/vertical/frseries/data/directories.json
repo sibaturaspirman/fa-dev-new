@@ -1,57 +1,57 @@
 {
   "layerNav": {
     "name": "Industrial Robot MELFA",
-    "path": "/id_id/products/rbt/robot/items/vertical/index.html",
+    "path": "/fa/id_id/products/rbt/robot/items/vertical/index.html",
     "firstLayer": [
       {
         "name": "RV-FR Series",
-        "path": "/id_id/products/rbt/robot/pmerit/frseries/index.html",
+        "path": "/fa/id_id/products/rbt/robot/pmerit/frseries/index.html",
         "secondLayer": [
            {
             "name": "Rangkaian Produk",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/frseries/index.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/frseries/index.html"
           },
            {
             "name": "Fitur",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/frseries/features.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/frseries/features.html"
           },
            {
             "name": "Opsi lengan robot",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/frseries/option.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/frseries/option.html"
           },
           {
             "name": "Konfigurasi Sistem",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/frseries/config.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/frseries/config.html"
           },
           {
             "name": "Katalog dan Spesifikasi",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/frseries/spec.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/frseries/spec.html"
           }
         ]
       },
       {
         "name": "RV-CR Series",
-        "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/index.html",
+        "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/crseries/index.html",
          "secondLayer": [
             {
             "name": "Rangkaian Produk",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/index.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/crseries/index.html"
           },
            {
             "name": "Fitur",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/features.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/crseries/features.html"
           },
            {
             "name": "Opsi lengan robot",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/option.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/crseries/option.html"
           },
           {
             "name": "Konfigurasi Sistem",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/config.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/crseries/config.html"
           },
           {
             "name": "Katalog dan Spesifikasi",
-            "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/spec.html"
+            "path": "/fa/id_id/products/rbt/robot/pmerit/vertical/crseries/spec.html"
           }
         ]
       }

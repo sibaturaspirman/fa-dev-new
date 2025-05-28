@@ -26,17 +26,17 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_id/download/index.html?modal=cad"
+						"link": "/fa/id_id/download/index.html?modal=cad"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/index.html?modal=software"
+						"link": "/fa/id_id/download/index.html?modal=software"
 					},
 					{
 						"name": "Contoh<br>Library",
 						"icon": "library",
-						"link": "/id_id/download/index.html?modal=lib"
+						"link": "/fa/id_id/download/index.html?modal=lib"
 					}
 				]
 			}
@@ -58,7 +58,7 @@
 			{
 				"name": "Katalog Produk Umum",
 				"icon": "catalog",
-				"link": "/id_id/dctlg/index.html"
+				"link": "/fa/id_id/dctlg/index.html"
 			}
 		]
 	},
@@ -95,12 +95,12 @@
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/index.html?modal=software"
+				"link": "/fa/id_id/download/index.html?modal=software"
 			},
 			{
 				"name": "Contoh Library",
 				"icon": "library",
-				"link": "/id_id/download/index.html?modal=lib"
+				"link": "/fa/id_id/download/index.html?modal=lib"
 			}
 		]
 	},
@@ -118,7 +118,7 @@
 		"items": [
 				{
 				"name": "FA SPEC Search - It is available an App.",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -129,7 +129,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

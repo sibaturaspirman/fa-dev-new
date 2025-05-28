@@ -1,35 +1,35 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Laser Processing Machines",
-            "path": "/id_id/products/mecha/laser/index.html",
+            "path": "/fa/id_id/products/mecha/laser/index.html",
             "child": [
               {
                 "name": "2D Laser Processing Machines",
-                "path": "/id_id/products/mecha/laser/items/2d/index.html"
+                "path": "/fa/id_id/products/mecha/laser/items/2d/index.html"
               },
               {
                 "name": "3D Laser Processing Machines",
-                "path": "/id_id/products/mecha/laser/items/3d/index.html"
+                "path": "/fa/id_id/products/mecha/laser/items/3d/index.html"
               },
               {
                 "name": "Laser Drilling Machines",
-                "path": "/id_id/products/mecha/laser/items/drilling/index.html"
+                "path": "/fa/id_id/products/mecha/laser/items/drilling/index.html"
               },
               {
                 "name": "Automation for Laser",
-                "path": "/id_id/products/mecha/laser/items/cuttingl/index.html"
+                "path": "/fa/id_id/products/mecha/laser/items/cuttingl/index.html"
               },
               {
                 "name": "CAD/CAM , S/W",
-                "path": "/id_id/products/mecha/laser/items/cadcam/index.html"
+                "path": "/fa/id_id/products/mecha/laser/items/cadcam/index.html"
               }
             ]
           }

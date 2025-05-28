@@ -1,37 +1,37 @@
 [
 	{
 		"name": "Molded Case Circuit Breakers with MDU",
-		"url": "/id_id/products/lvd/lvcb/items/mdu/index.html",
+		"url": "/fa/id_id/products/lvd/lvcb/items/mdu/index.html",
 		"number": "01",
 		"target": "_self"
 	},
 	{
 		"name": "Energy Measuring Unit EcoMonitorLight",
-		"url": "/id_id/products/pmng/ems/pmerit/ecomonitor/ecomonitor_Light_2.html",
+		"url": "/fa/id_id/products/pmng/ems/pmerit/ecomonitor/ecomonitor_Light_2.html",
 		"number": "02",
 		"target": "_self"
 	},
 	{
 		"name": "Energy Measuring Unit EcoMonitorPlus",
-		"url": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_2.html",
+		"url": "/fa/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_2.html",
 		"number": "03",
 		"target": "_self"
 	},
 	{
 		"name": "Energy Saving Data Collecting Server EcoWebServerIII",
-		"url": "/id_id/products/pmng/ems/items/ecoserver/index.html",
+		"url": "/fa/id_id/products/pmng/ems/items/ecoserver/index.html",
 		"number": "04",
 		"target": "_self"
 	},
 	{
 		"name": "Energy Saving Support Software EcoAdviser",
-		"url": "/id_id/products/software/ems/eap/index.html",
+		"url": "/fa/id_id/products/software/ems/eap/index.html",
 		"number": "05",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-R Series Energy Measuring Module",
-		"url": "/id_id/products/cnt/plcr/pmerit/measuring/index.html",
+		"url": "/fa/id_id/products/cnt/plcr/pmerit/measuring/index.html",
 		"number": "06",
 		"target": "_self"
 	},
@@ -43,13 +43,13 @@
 	},
 	{
 		"name": "MELSEC iQ-R Series",
-		"url": "/id_id/products/cnt/plcr/items/index.html",
+		"url": "/fa/id_id/products/cnt/plcr/items/index.html",
 		"number": "08",
 		"target": "_self"
 	},
 	{
 		"name": "MELSEC iQ-F Series",
-		"url": "/id_id/products/cnt/plcf/items/index.html",
+		"url": "/fa/id_id/products/cnt/plcf/items/index.html",
 		"number": "09",
 		"target": "_self"
 	},
@@ -61,19 +61,19 @@
 	},
 	{
 		"name": "Industrial Computer MELIPC Series",
-		"url": "/id_id/products/edge/melipc/index.html",
+		"url": "/fa/id_id/products/edge/melipc/index.html",
 		"number": "11",
 		"target": "_self"
 	},
 	{
 		"name": "Edgecross-supporting Software",
-		"url": "/id_id/solutions/efactory/component/edgsw/index.html",
+		"url": "/fa/id_id/solutions/efactory/component/edgsw/index.html",
 		"number": "12",
 		"target": "_self"
 	},
 	{
 		"name": "SCADA software-ICONICS Suite&#8482;",
-		"url": "/id_id/products/software/visualisation/genesis64/index.html",
+		"url": "/fa/id_id/products/software/visualisation/genesis64/index.html",
 		"number": "13",
 		"target": "_self"
 	}

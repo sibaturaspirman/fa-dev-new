@@ -1,19 +1,19 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/id_id/products/lvd/lvcb/index.html",
+            "path": "/fa/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
 					"name": "Molded Case Circuit Breakers",
-					"path": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html"
+					"path": "/fa/id_id/products/lvd/lvcb/pmerit/mccb/index.html"
 				}
             ]
           }
@@ -23,28 +23,28 @@
   },
   "layerNav": {
     "name": "Molded Case Circuit Breakers",
-    "path": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html",
+    "path": "/fa/id_id/products/lvd/lvcb/pmerit/mccb/index.html",
     "firstLayer": [
       {
         "name": "Fitur",
-        "path": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html"
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/mccb/index.html"
       }
     ]
   },
 "switchNav": {
 	"name": "Molded Case Circuit Breakers",
-	"path": "/id_id/products/lvd/lvcb/items/mccb/index.html",
+	"path": "/fa/id_id/products/lvd/lvcb/items/mccb/index.html",
 	"child": [
 		{
 			"group": "Molded Case Circuit Breakers",
 			"name": "Molded Case Circuit Breakers",
-			"feature": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html",
+			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/mccb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MCCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCCB",
 			"discon": "",
             "return": {
                 "name": "Molded Case Circuit Breakers",
-                "path": "/id_id/products/lvd/lvcb/items/mccb/index.html"
+                "path": "/fa/id_id/products/lvd/lvcb/items/mccb/index.html"
 			}
 		}
 	]

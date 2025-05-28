@@ -11,22 +11,22 @@
 					{
 						"name": "Katalog",
 						"icon": "catalog",
-						"link": "/id_id/download/?modal=catalog"
+						"link": "/fa/id_id/download/?modal=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/id_id/download/?modal=manual"
+						"link": "/fa/id_id/download/?modal=manual"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/?modal=software"
+						"link": "/fa/id_id/download/?modal=software"
 					},
 					{
 						"name": "Contoh<br>Library",
 						"icon": "library",
-						"link": "/id_id/download/?modal=lib"
+						"link": "/fa/id_id/download/?modal=lib"
 					}
 				]
 			}
@@ -38,17 +38,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -64,22 +64,22 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/id_id/products/spec.html"
+				"link": "/fa/id_id/products/spec.html"
 			},
 			{
 				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
-				"link": "/id_id/products/standard.html"
+				"link": "/fa/id_id/products/standard.html"
 			},
 			{
 				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
-				"link": "/id_id/products/renewal.html"
+				"link": "/fa/id_id/products/renewal.html"
 			},
 			{
 				"name": "Ganti Produk",
 				"icon": "replace",
-				"link": "/id_id/products/replace.html"
+				"link": "/fa/id_id/products/replace.html"
 			},
 			{
 				"name": "FA Integrated ",
@@ -123,22 +123,22 @@
 			{
 				"name": "Katalog",
 				"icon": "catalog",
-				"link": "/id_id/download/?modal=catalog"
+				"link": "/fa/id_id/download/?modal=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/id_id/download/?modal=manual"
+				"link": "/fa/id_id/download/?modal=manual"
 			},
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/?modal=software"
+				"link": "/fa/id_id/download/?modal=software"
 			},
 			{
 				"name": "Contoh Library",
 				"icon": "library",
-				"link": "/id_id/download/?modal=lib"
+				"link": "/fa/id_id/download/?modal=lib"
 			}
 		]
 	},
@@ -166,7 +166,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

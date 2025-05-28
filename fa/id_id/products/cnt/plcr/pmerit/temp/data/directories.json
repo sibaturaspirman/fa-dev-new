@@ -1,19 +1,19 @@
 {
 	"layerNav": {
 		"name": "Temperature input, Temperature control",
-		"path": "/id_id/products/cnt/plcr/pmerit/temp/index.html",
+		"path": "/fa/id_id/products/cnt/plcr/pmerit/temp/index.html",
 		"firstLayer": [
 			{
 				"name": "Rangkaian Produk",
-				"path": "/id_id/products/cnt/plcr/pmerit/temp/index.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/temp/index.html"
 			},
 			{
 				"name": "Fitur",
-				"path": "/id_id/products/cnt/plcr/pmerit/temp/merit.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/temp/merit.html"
 			},
 			{
 				"name": "Spesifikasi",
-				"path": "/id_id/products/cnt/plcr/pmerit/temp/spec.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/temp/spec.html"
 			}
 		]
 	}

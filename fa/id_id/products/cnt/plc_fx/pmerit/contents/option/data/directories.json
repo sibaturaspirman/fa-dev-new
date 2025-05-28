@@ -1,15 +1,15 @@
 {
   "layerNav": {
     "name": "MELSEC-F Series",
-    "path": "/id_id/products/cnt/plc_fx/items/index.html",
+    "path": "/fa/id_id/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
      {
         "name": "Pilihan",
-        "path": "/id_id/products/cnt/plc_fx/pmerit/contents/option/index.html"
+        "path": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/option/index.html"
       },
       {
         "name": "Pelatihan",
-        "path": "/id_id/products/cnt/plc_fx/pmerit/contents/option/training.html"
+        "path": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/option/training.html"
       }
     ]
   }

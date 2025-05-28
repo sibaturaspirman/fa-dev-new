@@ -1,27 +1,27 @@
 {
   "layerNav": {
     "name": "Motion module",
-    "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index.html",
+    "path": "/fa/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index.html",
     "firstLayer": [
           {
             "name": "Garis Besar Produk",
-            "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index.html"
+            "path": "/fa/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index.html"
           },
           {
             "name": "Fitur (Mode Gerakan Sederhana)",
-            "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index_s.html"
+            "path": "/fa/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index_s.html"
           },
           {
             "name": "Konfigurasi Sistem (Mode Gerakan Sederhana)",
-            "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/system_s.html"
+            "path": "/fa/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/system_s.html"
           },
           {
             "name": "Fitur (Mode FB Kontrol Gerak PLCopen®)",
-            "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index_p.html"
+            "path": "/fa/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index_p.html"
           },
           {
             "name": "Konfigurasi Sistem (Mode FB Kontrol Gerak PLCopen®)",
-            "path": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/system_p.html"
+            "path": "/fa/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/system_p.html"
           }
         ]
   }

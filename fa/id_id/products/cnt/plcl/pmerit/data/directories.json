@@ -1,35 +1,35 @@
 {
 	"layerNav": {
 		"name": "MELSEC-L Series",
-		"path": "/id_id/products/cnt/plcl/pmerit/concept/index.html",
+		"path": "/fa/id_id/products/cnt/plcl/pmerit/concept/index.html",
 		"firstLayer": [
 			{
 				"name": "Fitur Seri L",
-				"path": "/id_id/products/cnt/plcl/pmerit/concept/index.html"
+				"path": "/fa/id_id/products/cnt/plcl/pmerit/concept/index.html"
 			},
 			{
 				"name": "CPU",
-				"path": "/id_id/products/cnt/plcl/pmerit/cpu/index.html"
+				"path": "/fa/id_id/products/cnt/plcl/pmerit/cpu/index.html"
 			},
 			{
 				"name": "I/O",
-				"path": "/id_id/products/cnt/plcl/pmerit/io/index.html"
+				"path": "/fa/id_id/products/cnt/plcl/pmerit/io/index.html"
 			},
 			{
 				"name": "Analog/Temperature Control",
-				"path": "/id_id/products/cnt/plcl/pmerit/analog/index.html"
+				"path": "/fa/id_id/products/cnt/plcl/pmerit/analog/index.html"
 			},
 			{
 				"name": "Simple Motion/Positioning",
-				"path": "/id_id/products/cnt/plcl/pmerit/motion/index.html"
+				"path": "/fa/id_id/products/cnt/plcl/pmerit/motion/index.html"
 			},
 			{
 				"name": "Flexible I/O/High-Speed Counter",
-				"path": "/id_id/products/cnt/plcl/pmerit/counter/index.html"
+				"path": "/fa/id_id/products/cnt/plcl/pmerit/counter/index.html"
 			},
 			{
 				"name": "Jaringan",
-				"path": "/id_id/products/cnt/plcl/pmerit/network/index.html"
+				"path": "/fa/id_id/products/cnt/plcl/pmerit/network/index.html"
 			}
 		]
 	}

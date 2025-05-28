@@ -1,31 +1,31 @@
 {
 	"layerNav": {
 		"name": "Solusi",
-		"path": "/id_id/products/cnt/plcr/pmerit/solution/index.html",
+		"path": "/fa/id_id/products/cnt/plcr/pmerit/solution/index.html",
 		"firstLayer": [
 			{
 				"name": "Solution TOP",
-				"path": "/id_id/products/cnt/plcr/pmerit/solution/index.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/solution/index.html"
 			},
 			{
 				"name": "Meningkatkan performa dan kemampuan peralatan",
-				"path": "/id_id/products/cnt/plcr/pmerit/solution/machine.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/solution/machine.html"
 			},
 			{
 				"name": "Mengurangi waktu rekayasa",
-				"path": "/id_id/products/cnt/plcr/pmerit/solution/development.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/solution/development.html"
 			},
 			{
 				"name": "Pabrik cerdas",
-				"path": "/id_id/products/cnt/plcr/pmerit/solution/smart.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/solution/smart.html"
 			},
 			{
 				"name": "Meningkatkan keamanan pabrik",
-				"path": "/id_id/products/cnt/plcr/pmerit/solution/safety.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/solution/safety.html"
 			},
 			{
 				"name": "Meningkatkan keandalan pabrik dan sistem infrastruktur",
-				"path": "/id_id/products/cnt/plcr/pmerit/solution/reliability.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/solution/reliability.html"
 			}
 		]
 	}

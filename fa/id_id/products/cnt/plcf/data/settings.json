@@ -26,12 +26,12 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_id/download/?modal=cad"
+						"link": "/fa/id_id/download/?modal=cad"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/?modal=software"
+						"link": "/fa/id_id/download/?modal=software"
 					}
 				]
 			}
@@ -49,7 +49,7 @@
 		"items": [
 			{
 				"name": "&lt;New features&gt; New sample configurations make things even easier!",
-				"img": "/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
+				"img": "/fa/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
         ]
@@ -60,7 +60,7 @@
 			{
 				"name": "Produk Unggulan",
 				"icon": "announce",
-				"link": "/id_id/products/cnt/plcf/pmerit/concept/index.html"
+				"link": "/fa/id_id/products/cnt/plcf/pmerit/concept/index.html"
 			},
 			{
 				"name": "Spesifikasi Produk",
@@ -188,12 +188,12 @@
 		"items": [
 			{
 				"name": "FA Integrated ",
-				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/fa/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
             }
         ]
@@ -204,7 +204,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

@@ -1,19 +1,19 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/id_id/products/lvd/lvcb/index.html",
+            "path": "/fa/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
 					"name": "Circuit Breakers with Spring Clamp Terminals",
-					"path": "/id_id/products/lvd/lvcb/pmerit/sq/index.html"
+					"path": "/fa/id_id/products/lvd/lvcb/pmerit/sq/index.html"
 				}
             ]
           }
@@ -23,36 +23,36 @@
   },
   "layerNav": {
     "name": "Circuit Breakers with Spring Clamp Terminals",
-    "path": "/id_id/products/lvd/lvcb/pmerit/sq/index.html",
+    "path": "/fa/id_id/products/lvd/lvcb/pmerit/sq/index.html",
     "firstLayer": [
       {
         "name": "Fitur",
-        "path": "/id_id/products/lvd/lvcb/pmerit/sq/index.html"
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/sq/index.html"
       },
       {
         "name": "Aksesoris",
-        "path": "/id_id/products/lvd/lvcb/pmerit/sq/index_2.html"
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/sq/index_2.html"
       },
       {
         "name": "Rangkaian Produk",
-        "path": "/id_id/products/lvd/lvcb/pmerit/sq/index_3.html"
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/sq/index_3.html"
       }
     ]
   },
 "switchNav": {
 	"name": "Circuit Breakers with Spring Clamp Terminals",
-	"path": "/id_id/products/lvd/lvcb/items/sq/index.html",
+	"path": "/fa/id_id/products/lvd/lvcb/items/sq/index.html",
 	"child": [
 		{
 			"group": "Circuit Breakers with Spring Clamp Terminals",
 			"name": "Circuit Breakers with Spring Clamp Terminals",
-			"feature": "/id_id/products/lvd/lvcb/pmerit/sq/index.html",
+			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/sq/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SQ",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SQ",
 			"discon": "",
             "return": {
                 "name": "Circuit Breakers with Spring Clamp Terminals",
-                "path": "/id_id/products/lvd/lvcb/items/sq/index.html"
+                "path": "/fa/id_id/products/lvd/lvcb/items/sq/index.html"
 			}
 		}
 	]

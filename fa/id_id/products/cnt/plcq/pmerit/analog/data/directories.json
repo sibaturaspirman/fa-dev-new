@@ -1,31 +1,31 @@
 {
 	"layerNav": {
 		"name": "Analog",
-		"path": "/id_id/products/cnt/plcq/pmerit/analog/index.html",
+		"path": "/fa/id_id/products/cnt/plcq/pmerit/analog/index.html",
 		"firstLayer": [
 			{
 				"name": "Analog I/O",
-				"path": "/id_id/products/cnt/plcq/pmerit/analog/index.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/analog/index.html"
 			},
 			{
 				"name": "Suhu I/O",
-				"path": "/id_id/products/cnt/plcq/pmerit/analog/ti.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/analog/ti.html"
 			},
 			{
 				"name": "Kontrol suhu",
-				"path": "/id_id/products/cnt/plcq/pmerit/analog/tc.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/analog/tc.html"
 			},
 			{
 				"name": "Kontrol loop",
-				"path": "/id_id/products/cnt/plcq/pmerit/analog/lc.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/analog/lc.html"
 			},
 			{
 				"name": "Sel beban",
-				"path": "/id_id/products/cnt/plcq/pmerit/analog/loadcell.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/analog/loadcell.html"
 			},
 			{
 				"name": "Masukan CT",
-				"path": "/id_id/products/cnt/plcq/pmerit/analog/ct.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/analog/ct.html"
 			}
 		]
 	}

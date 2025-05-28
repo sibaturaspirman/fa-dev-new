@@ -24,12 +24,12 @@
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/?modal=software"
+						"link": "/fa/id_id/download/?modal=software"
 					},
 					{
 						"name": "Contoh<br>Library",
 						"icon": "library",
-						"link": "/id_id/download/?modal=lib"
+						"link": "/fa/id_id/download/?modal=lib"
 					}
 				]
 			}

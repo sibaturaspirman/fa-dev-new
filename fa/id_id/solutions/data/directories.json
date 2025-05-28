@@ -1,93 +1,93 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Solusi",
-        "path": "/id_id/solutions/index.html",
+        "path": "/fa/id_id/solutions/index.html",
         "child": [
           {
             "name": "Pengenalan e-F@ctory",
-            "path": "/id_id/solutions/efactory/index.html",
+            "path": "/fa/id_id/solutions/efactory/index.html",
             "child": [
               {
                 "name": "Perangkat Lunak Pendukung Edgecross",
-                "path": "/id_id/solutions/efactory/component/edgsw/index.html",
+                "path": "/fa/id_id/solutions/efactory/component/edgsw/index.html",
                 "child": [
                   {
                     "name": "Aplikasi Edge",
-                    "path": "/id_id/solutions/efactory/component/edgsw/edgeapp/index.html"
+                    "path": "/fa/id_id/solutions/efactory/component/edgsw/edgeapp/index.html"
                   },
                   {
                     "name": "Pengumpul Data",
-                    "path": "/id_id/solutions/efactory/component/edgsw/dc/index.html"
+                    "path": "/fa/id_id/solutions/efactory/component/edgsw/dc/index.html"
                   },
                   {
                     "name": "Gerbang TI",
-                    "path": "/id_id/solutions/efactory/component/edgsw/itgw/index.html"
+                    "path": "/fa/id_id/solutions/efactory/component/edgsw/itgw/index.html"
                   }
                 ]
               },
               {
                 "name": "Solusi untuk IoT",
-                "path": "/id_id/solutions/efactory/iot-solutions/index.html",
+                "path": "/fa/id_id/solutions/efactory/iot-solutions/index.html",
                 "child": [
                   {
                     "name": "Pengumpulan Data Instalasi dan Pekerja",
-                    "path": "/id_id/solutions/efactory/iot-solutions/1a/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/1a/index.html"
                   },
                   {
                     "name": "Visualisasi Pekerja atau Instalasi",
-                    "path": "/id_id/solutions/efactory/iot-solutions/1b/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/1b/index.html"
                   },
                   {
                     "name": "Data Analysis of Workers or Installations",
-                    "path": "/id_id/solutions/efactory/iot-solutions/2c/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/2c/index.html"
                   },
                   {
                     "name": "Optimalisasi Pekerja atau Instalasi",
-                    "path": "/id_id/solutions/efactory/iot-solutions/1d/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/1d/index.html"
                   },
                   {
                     "name": "Pengumpulan Data Stasiun Kerja",
-                    "path": "/id_id/solutions/efactory/iot-solutions/2a/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/2a/index.html"
                   },
                   {
                     "name": "Visualisasi Stasiun Kerja",
-                    "path": "/id_id/solutions/efactory/iot-solutions/2b/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/2b/index.html"
                   },
                   {
                     "name": "Analisis Stasiun Kerja",
-                    "path": "/id_id/solutions/efactory/iot-solutions/2c/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/2c/index.html"
                   },
                   {
                     "name": "Optimasi Stasiun Kerja",
-                    "path": "/id_id/solutions/efactory/iot-solutions/2d/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/2d/index.html"
                   },
                   {
                     "name": "Pengumpulan Data Pabrik",
-                    "path": "/id_id/solutions/efactory/iot-solutions/3a/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/3a/index.html"
                   },
                   {
                     "name": "Visualisasi Pabrik",
-                    "path": "/id_id/solutions/efactory/iot-solutions/3b/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/3b/index.html"
                   },
                   {
                     "name": "Analisis Pabrik",
-                    "path": "/id_id/solutions/efactory/iot-solutions/3c/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/3c/index.html"
                   },
                   {
                     "name": "Optimasi Pabrik",
-                    "path": "/id_id/solutions/efactory/iot-solutions/3d/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/3d/index.html"
                   },
                   {
                     "name": "Pengumpulan Data Rantai Pasokan",
-                    "path": "/id_id/solutions/efactory/iot-solutions/4a/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/4a/index.html"
                   },
                   {
                     "name": "Visualisasi Rantai Pasokan",
-                    "path": "/id_id/solutions/efactory/iot-solutions/4b/index.html"
+                    "path": "/fa/id_id/solutions/efactory/iot-solutions/4b/index.html"
                   }
                 ]
               }
@@ -95,185 +95,185 @@
           },
           {
             "name": "Industri",
-            "path": "/id_id/solutions/index.html#section01",
+            "path": "/fa/id_id/solutions/index.html#section01",
             "child": [
               {
                 "name": "Manufaktur Otomotif",
-                "path": "/id_id/solutions/industries/automotive/index.html",
+                "path": "/fa/id_id/solutions/industries/automotive/index.html",
                 "child": [
                   {
                     "name": "Pengepresan",
-                    "path": "/id_id/solutions/industries/automotive/press/index.html"
+                    "path": "/fa/id_id/solutions/industries/automotive/press/index.html"
                   },
                   {
                     "name": "Pencetakan Resin",
-                    "path": "/id_id/solutions/industries/automotive/resin-molding/index.html"
+                    "path": "/fa/id_id/solutions/industries/automotive/resin-molding/index.html"
                   },
                   {
                     "name": "Pengelasan",
-                    "path": "/id_id/solutions/industries/automotive/welding/index.html"
+                    "path": "/fa/id_id/solutions/industries/automotive/welding/index.html"
                   },
                   {
                     "name": "Pengecatan",
-                    "path": "/id_id/solutions/industries/automotive/painting/index.html"
+                    "path": "/fa/id_id/solutions/industries/automotive/painting/index.html"
                   },
                   {
                     "name": "Perakitan Kendaraan",
-                    "path": "/id_id/solutions/industries/automotive/vehicle-assembly/index.html"
+                    "path": "/fa/id_id/solutions/industries/automotive/vehicle-assembly/index.html"
                   },
                   {
                     "name": "Pengecoran",
-                    "path": "/id_id/solutions/industries/automotive/casting/index.html"
+                    "path": "/fa/id_id/solutions/industries/automotive/casting/index.html"
                   },
                   {
                     "name": "Pemesinan Mesin",
-                    "path": "/id_id/solutions/industries/automotive/engine-machining/index.html"
+                    "path": "/fa/id_id/solutions/industries/automotive/engine-machining/index.html"
                   },
                   {
                     "name": "Perakitan Mesin",
-                    "path": "/id_id/solutions/industries/automotive/engine-assembly/index.html"
+                    "path": "/fa/id_id/solutions/industries/automotive/engine-assembly/index.html"
                   },
                   {
                     "name": "Perakitan Motor HV",
-                    "path": "/id_id/solutions/industries/automotive/hv-motor-assembly/index.html"
+                    "path": "/fa/id_id/solutions/industries/automotive/hv-motor-assembly/index.html"
                   }
                 ]
               },
               {
                 "name": "Elektrikal & Elektronik",
-                "path": "/id_id/solutions/industries/electronics/index.html",
+                "path": "/fa/id_id/solutions/industries/electronics/index.html",
                 "child": [
                   {
                     "name": "Pengencangan sekrup presisi",
-                    "path": "/id_id/solutions/industries/electronics/screw/index.html"
+                    "path": "/fa/id_id/solutions/industries/electronics/screw/index.html"
                   },
                   {
                     "name": "Perakitan presisi komponen (memori)",
-                    "path": "/id_id/solutions/industries/electronics/memory/index.html"
+                    "path": "/fa/id_id/solutions/industries/electronics/memory/index.html"
                   },
                   {
                     "name": "Perakitan presisi komponen (HDD)",
-                    "path": "/id_id/solutions/industries/electronics/server/index.html"
+                    "path": "/fa/id_id/solutions/industries/electronics/server/index.html"
                   }
                 ]
               },
               {
                 "name": "Baterai Lithium-Ion",
-                "path": "/id_id/solutions/industries/lithiumion/index.html",
+                "path": "/fa/id_id/solutions/industries/lithiumion/index.html",
                 "child": [
                   {
                     "name": "Pelapisan",
-                    "path": "/id_id/solutions/industries/lithiumion/coating/index.html"
+                    "path": "/fa/id_id/solutions/industries/lithiumion/coating/index.html"
                   },
                   {
                     "name": "Pengepresan rol",
-                    "path": "/id_id/solutions/industries/lithiumion/roll-press/index.html"
+                    "path": "/fa/id_id/solutions/industries/lithiumion/roll-press/index.html"
                   },
                   {
                     "name": "Slitter, Pemangkasan",
-                    "path": "/id_id/solutions/industries/lithiumion/slitter-trimming/index.html"
+                    "path": "/fa/id_id/solutions/industries/lithiumion/slitter-trimming/index.html"
                   },
                   {
                     "name": "Mesin penggulung",
-                    "path": "/id_id/solutions/industries/lithiumion/winding-machine/index.html"
+                    "path": "/fa/id_id/solutions/industries/lithiumion/winding-machine/index.html"
                   },
                   {
                     "name": "Mesin penumpuk",
-                    "path": "/id_id/solutions/industries/lithiumion/stacking-machine/index.html"
+                    "path": "/fa/id_id/solutions/industries/lithiumion/stacking-machine/index.html"
                   },
                   {
                     "name": "Pembentukan, pengujian sel",
-                    "path": "/id_id/solutions/industries/lithiumion/formation-cell-testing/index.html"
+                    "path": "/fa/id_id/solutions/industries/lithiumion/formation-cell-testing/index.html"
                   },
                   {
                     "name": "Modul, lini PACK",
-                    "path": "/id_id/solutions/industries/lithiumion/module-pack-line/index.html"
+                    "path": "/fa/id_id/solutions/industries/lithiumion/module-pack-line/index.html"
                   }
                 ]
               },
               {
                 "name": "Logistik",
-                "path": "/id_id/solutions/industries/logistics/index.html",
+                "path": "/fa/id_id/solutions/industries/logistics/index.html",
                 "child": [
                   {
                     "name": "Gudang distribusi",
-                    "path": "/id_id/solutions/industries/logistics/distribution-warehouse/index.html"
+                    "path": "/fa/id_id/solutions/industries/logistics/distribution-warehouse/index.html"
                   },
                   {
                     "name": "Crane penumpuk",
-                    "path": "/id_id/solutions/industries/logistics/stacker-crane/index.html"
+                    "path": "/fa/id_id/solutions/industries/logistics/stacker-crane/index.html"
                   },
                   {
                     "name": "Konveyor",
-                    "path": "/id_id/solutions/industries/logistics/conveyor/index.html"
+                    "path": "/fa/id_id/solutions/industries/logistics/conveyor/index.html"
                   },
                   {
                     "name": "Sorter",
-                    "path": "/id_id/solutions/industries/logistics/sorter/index.html"
+                    "path": "/fa/id_id/solutions/industries/logistics/sorter/index.html"
                   },
                   {
                     "name": "RGV/AGV",
-                    "path": "/id_id/solutions/industries/logistics/rgv-agv/index.html"
+                    "path": "/fa/id_id/solutions/industries/logistics/rgv-agv/index.html"
                   },
                   {
                     "name": "Robot",
-                    "path": "/id_id/solutions/industries/logistics/robot/index.html"
+                    "path": "/fa/id_id/solutions/industries/logistics/robot/index.html"
                   }
                 ]
               },
               {
                 "name": "Pusat Data",
-                "path": "/id_id/solutions/industries/datacenter/index.html",
+                "path": "/fa/id_id/solutions/industries/datacenter/index.html",
                 "child": [
                   {
                     "name": "Sistem pemantauan",
-                    "path": "/id_id/solutions/industries/datacenter/monitoring/index.html"
+                    "path": "/fa/id_id/solutions/industries/datacenter/monitoring/index.html"
                   },
                   {
                     "name": "Sistem pendingin udara",
-                    "path": "/id_id/solutions/industries/datacenter/air-conditioning/index.html"
+                    "path": "/fa/id_id/solutions/industries/datacenter/air-conditioning/index.html"
                   },
                   {
                     "name": "Dukungan hemat energi dan penanggulangan",
-                    "path": "/id_id/solutions/industries/datacenter/saving/index.html"
+                    "path": "/fa/id_id/solutions/industries/datacenter/saving/index.html"
                   },
                   {
                     "name": "Distribusi daya dan pasokan daya ruang server",
-                    "path": "/id_id/solutions/industries/datacenter/electric-power/index.html"
+                    "path": "/fa/id_id/solutions/industries/datacenter/electric-power/index.html"
                   }
                 ]
               },
               {
                 "name": "Air",
-                "path": "/id_id/solutions/industries/water/index.html"
+                "path": "/fa/id_id/solutions/industries/water/index.html"
               },
               {
                 "name": "Minyak dan Gas",
-                "path": "/id_id/solutions/industries/oilandgas/index.html"
+                "path": "/fa/id_id/solutions/industries/oilandgas/index.html"
               },
               {
                 "name": "HVAC (Pemanas, Ventilasi dan Pendingin Udara)",
-                "path": "/id_id/solutions/industries/hvac/index.html"
+                "path": "/fa/id_id/solutions/industries/hvac/index.html"
               },
               {
                 "name": "Makanan & Minuman",
-                "path": "/id_id/solutions/industries/food-beverage/index.html",
+                "path": "/fa/id_id/solutions/industries/food-beverage/index.html",
                 "child": [
                   {
                     "name": "Proses Produksi yang Kompleks",
-                    "path": "/id_id/solutions/industries/food-beverage/production-processes/index.html"
+                    "path": "/fa/id_id/solutions/industries/food-beverage/production-processes/index.html"
                   },
                   {
                     "name": "Kustomisasi dan Variasi Produk",
-                    "path": "/id_id/solutions/industries/food-beverage/variation/index.html"
+                    "path": "/fa/id_id/solutions/industries/food-beverage/variation/index.html"
                   },
                   {
                     "name": "Memastikan Pengembalian Investasi",
-                    "path": "/id_id/solutions/industries/food-beverage/ensuring-return/index.html"
+                    "path": "/fa/id_id/solutions/industries/food-beverage/ensuring-return/index.html"
                   },
                   {
                     "name": "Kekurangan Tenaga Kerja Terampil",
-                    "path": "/id_id/solutions/industries/food-beverage/shortage/index.html"
+                    "path": "/fa/id_id/solutions/industries/food-beverage/shortage/index.html"
                   }
                 ]
               }
@@ -281,285 +281,285 @@
           },
           {
             "name": "Kompetensi",
-            "path": "/id_id/solutions/index.html#section02",
+            "path": "/fa/id_id/solutions/index.html#section02",
             "child": [
               {
                 "name": "Karbon Netral",
-                "path": "/id_id/solutions/competencies/carbon-neutral/index.html",
+                "path": "/fa/id_id/solutions/competencies/carbon-neutral/index.html",
                 "child": [
                   {
                     "name": "Kasus 01",
-                    "path": "/id_id/solutions/competencies/carbon-neutral/case/01/index.html"
+                    "path": "/fa/id_id/solutions/competencies/carbon-neutral/case/01/index.html"
                   },
                   {
                     "name": "Kasus 02",
-                    "path": "/id_id/solutions/competencies/carbon-neutral/case/02/index.html"
+                    "path": "/fa/id_id/solutions/competencies/carbon-neutral/case/02/index.html"
                   },
                   {
                     "name": "Kasus 03",
-                    "path": "/id_id/solutions/competencies/carbon-neutral/case/03/index.html"
+                    "path": "/fa/id_id/solutions/competencies/carbon-neutral/case/03/index.html"
                   },
                   {
                     "name": "Kasus 04",
-                    "path": "/id_id/solutions/competencies/carbon-neutral/case/04/index.html"
+                    "path": "/fa/id_id/solutions/competencies/carbon-neutral/case/04/index.html"
                   },
                   {
                     "name": "Kasus 05",
-                    "path": "/id_id/solutions/competencies/carbon-neutral/case/05/index.html"
+                    "path": "/fa/id_id/solutions/competencies/carbon-neutral/case/05/index.html"
                   },
                   {
                     "name": "Kasus 06",
-                    "path": "/id_id/solutions/competencies/carbon-neutral/case/06/index.html"
+                    "path": "/fa/id_id/solutions/competencies/carbon-neutral/case/06/index.html"
                   }
                 ]
               },
               {
                 "name": "Remote FA",
-                "path": "/id_id/solutions/competencies/remote/index.html",
+                "path": "/fa/id_id/solutions/competencies/remote/index.html",
                 "child": [
                   {
                     "name": "Kasus.01",
-                    "path": "/id_id/solutions/competencies/remote/case/01/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/01/index.html"
                   },
                   {
                     "name": "Kasus.02",
-                    "path": "/id_id/solutions/competencies/remote/case/02/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/02/index.html"
                   },
                   {
                     "name": "Kasus.03",
-                    "path": "/id_id/solutions/competencies/remote/case/03/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/03/index.html"
                   },
                   {
                     "name": "Kasus.04",
-                    "path": "/id_id/solutions/competencies/remote/case/04/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/04/index.html"
                   },
                   {
                     "name": "Kasus.05",
-                    "path": "/id_id/solutions/competencies/remote/case/05/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/05/index.html"
                   },
                   {
                     "name": "Kasus.06",
-                    "path": "/id_id/solutions/competencies/remote/case/06/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/06/index.html"
                   },
                   {
                     "name": "Kasus.07",
-                    "path": "/id_id/solutions/competencies/remote/case/07/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/07/index.html"
                   },
                   {
                     "name": "Kasus.08",
-                    "path": "/id_id/solutions/competencies/remote/case/08/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/08/index.html"
                   },
                   {
                     "name": "Kasus.09",
-                    "path": "/id_id/solutions/competencies/remote/case/09/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/09/index.html"
                   },
                   {
                     "name": "Kasus.10",
-                    "path": "/id_id/solutions/competencies/remote/case/10/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/10/index.html"
                   },
                   {
                     "name": "Kasus.11",
-                    "path": "/id_id/solutions/competencies/remote/case/11/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/11/index.html"
                   },
                   {
                     "name": "Kasus.12",
-                    "path": "/id_id/solutions/competencies/remote/case/12/index.html"
+                    "path": "/fa/id_id/solutions/competencies/remote/case/12/index.html"
                   }
                 ]
               },
               {
                 "name": "Koleksi dan Analisis Data",
-                "path": "/id_id/solutions/competencies/dlogger/index.html",
+                "path": "/fa/id_id/solutions/competencies/dlogger/index.html",
                 "child": [
                   {
                     "name": "Kasus.01",
-                    "path": "/id_id/solutions/competencies/dlogger/case/01/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/01/index.html"
                   },
                   {
                     "name": "Kasus.02",
-                    "path": "/id_id/solutions/competencies/dlogger/case/02/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/02/index.html"
                   },
                   {
                     "name": "Kasus.03",
-                    "path": "/id_id/solutions/competencies/dlogger/case/03/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/03/index.html"
                   },
                   {
                     "name": "Kasus.04",
-                    "path": "/id_id/solutions/competencies/dlogger/case/04/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/04/index.html"
                   },
                   {
                     "name": "Kasus.05",
-                    "path": "/id_id/solutions/competencies/dlogger/case/05/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/05/index.html"
                   },
                   {
                     "name": "Kasus.06",
-                    "path": "/id_id/solutions/competencies/dlogger/case/06/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/06/index.html"
                   },
                   {
                     "name": "Kasus.07",
-                    "path": "/id_id/solutions/competencies/dlogger/case/07/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/07/index.html"
                   },
                   {
                     "name": "Kasus.08",
-                    "path": "/id_id/solutions/competencies/dlogger/case/08/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/08/index.html"
                   },
                   {
                     "name": "Kasus.09",
-                    "path": "/id_id/solutions/competencies/dlogger/case/09/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/09/index.html"
                   },
                   {
                     "name": "Kasus.10",
-                    "path": "/id_id/solutions/competencies/dlogger/case/10/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/10/index.html"
                   },
                   {
                     "name": "Kasus.11",
-                    "path": "/id_id/solutions/competencies/dlogger/case/11/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/11/index.html"
                   },
                   {
                     "name": "Kasus.12",
-                    "path": "/id_id/solutions/competencies/dlogger/case/12/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/12/index.html"
                   },
                   {
                     "name": "Kasus.13",
-                    "path": "/id_id/solutions/competencies/dlogger/case/13/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/13/index.html"
                   },
                   {
                     "name": "Kasus.14",
-                    "path": "/id_id/solutions/competencies/dlogger/case/14/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/14/index.html"
                   },
                   {
                     "name": "Kasus.15",
-                    "path": "/id_id/solutions/competencies/dlogger/case/15/index.html"
+                    "path": "/fa/id_id/solutions/competencies/dlogger/case/15/index.html"
                   }
                 ]
               },
               {
                 "name": "Perawatan Menyeluruh",
-                "path": "/id_id/solutions/competencies/total-maintenance/index.html",
+                "path": "/fa/id_id/solutions/competencies/total-maintenance/index.html",
                 "child": [
                   {
                     "name": "Kasus 01",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/01/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/01/index.html"
                   },
                   {
                     "name": "Kasus 02",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/02/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/02/index.html"
                   },
                   {
                     "name": "Kasus 03",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/03/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/03/index.html"
                   },
                   {
                     "name": "Kasus 04",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/04/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/04/index.html"
                   },
                   {
                     "name": "Kasus 05",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/05/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/05/index.html"
                   },
                   {
                     "name": "Kasus 06",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/06/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/06/index.html"
                   },
                   {
                     "name": "Kasus 07",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/07/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/07/index.html"
                   },
                   {
                     "name": "Kasus 08",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/08/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/08/index.html"
                   },
                   {
                     "name": "Kasus 09",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/09/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/09/index.html"
                   },
                   {
                     "name": "Kasus 10",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/10/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/10/index.html"
                   },
                   {
                     "name": "Kasus 11",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/11/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/11/index.html"
                   },
                   {
                     "name": "Kasus 12",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/12/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/12/index.html"
                   },
                   {
                     "name": "Kasus 13",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/13/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/13/index.html"
                   },
                   {
                     "name": "Kasus 14",
-                    "path": "/id_id/solutions/competencies/total-maintenance/case/14/index.html"
+                    "path": "/fa/id_id/solutions/competencies/total-maintenance/case/14/index.html"
                   }
                 ]
               },
               {
                 "name": "Solusi IoT untuk Line Pemesinan",
-                "path": "/id_id/solutions/competencies/machining/index.html",
+                "path": "/fa/id_id/solutions/competencies/machining/index.html",
                 "child": [
                   {
                     "name": "Kasus.01",
-                    "path": "/id_id/solutions/competencies/machining/case01.html"
+                    "path": "/fa/id_id/solutions/competencies/machining/case01.html"
                   },
                   {
                     "name": "Kasus.02",
-                    "path": "/id_id/solutions/competencies/machining/case02.html"
+                    "path": "/fa/id_id/solutions/competencies/machining/case02.html"
                   },
                   {
                     "name": "Kasus.03",
-                    "path": "/id_id/solutions/competencies/machining/case03.html"
+                    "path": "/fa/id_id/solutions/competencies/machining/case03.html"
                   },
                   {
                     "name": "Kasus.04",
-                    "path": "/id_id/solutions/competencies/machining/case04.html"
+                    "path": "/fa/id_id/solutions/competencies/machining/case04.html"
                   },
                   {
                     "name": "Kasus.05",
-                    "path": "/id_id/solutions/competencies/machining/case05.html"
+                    "path": "/fa/id_id/solutions/competencies/machining/case05.html"
                   },
                   {
                     "name": "Kasus.06",
-                    "path": "/id_id/solutions/competencies/machining/case06.html"
+                    "path": "/fa/id_id/solutions/competencies/machining/case06.html"
                   }
                 ]
               },
               {
                 "name": "Kontrol Proses/Redundan",
-                "path": "/id_id/solutions/competencies/process/index.html",
+                "path": "/fa/id_id/solutions/competencies/process/index.html",
                 "child": [
                     {
                     "name": "Konsep",
-                    "path": "/id_id/solutions/competencies/process/index.html"
+                    "path": "/fa/id_id/solutions/competencies/process/index.html"
                     },
                     {
                     "name": "Rangkaian Produk",
-                    "path": "/id_id/solutions/competencies/process/lineup/index.html"
+                    "path": "/fa/id_id/solutions/competencies/process/lineup/index.html"
                     },
                     {
                     "name": "Produk yang Didukung",
-                    "path": "/id_id/solutions/competencies/process/features/index.html"
+                    "path": "/fa/id_id/solutions/competencies/process/features/index.html"
                     },
                     {
                     "name": "Solusi Pemantauan",
-                    "path": "/id_id/solutions/competencies/process/monitoring/index.html"
+                    "path": "/fa/id_id/solutions/competencies/process/monitoring/index.html"
                     },
                     {
                     "name": "Rekayasa",
-                    "path": "/id_id/solutions/competencies/process/development/index.html"
+                    "path": "/fa/id_id/solutions/competencies/process/development/index.html"
                     },
                     {
                     "name": "Produk Mitra",
-                    "path": "/id_id/solutions/competencies/process/partners/index.html"
+                    "path": "/fa/id_id/solutions/competencies/process/partners/index.html"
                     },
                     {
                     "name": "Contoh Aplikasi",
-                    "path": "/id_id/solutions/competencies/process/application/index.html"
+                    "path": "/fa/id_id/solutions/competencies/process/application/index.html"
                     },
                     {
                     "name": "Dukungan/Unduhan",
-                    "path": "/id_id/solutions/competencies/process/support/index.html"
+                    "path": "/fa/id_id/solutions/competencies/process/support/index.html"
                     }
                 ]
               }
@@ -567,7 +567,7 @@
           },
           {
             "name": "Pengalaman Kami",
-            "path": "/id_id/our-stories/index.html"
+            "path": "/fa/id_id/our-stories/index.html"
           },
           {
             "name": "IoT-based Solution Examples",
@@ -579,7 +579,7 @@
           },
           {
             "name": "e-F@ctory Alliance",
-            "path": "/id_id/solutions/alliance/index.html"
+            "path": "/fa/id_id/solutions/alliance/index.html"
           },
           {
             "name": "Digital Manufacturing",

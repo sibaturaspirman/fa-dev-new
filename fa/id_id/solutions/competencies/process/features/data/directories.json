@@ -1,19 +1,19 @@
 {
 	"layerNav": {
 		"name": "MELSEC Process Control/Redundant System",
-		"path": "/id_id/solutions/competencies/process/index.html",
+		"path": "/fa/id_id/solutions/competencies/process/index.html",
 		"firstLayer": [
 			{
 				"name": "Process CPU module, SIL2 process CPU module, Redundant function module",
-				"path": "/id_id/solutions/competencies/process/features/index.html"
+				"path": "/fa/id_id/solutions/competencies/process/features/index.html"
 			},
 			{
 				"name": "Functional modules for process control",
-				"path": "/id_id/solutions/competencies/process/features/process_control_unit.html"
+				"path": "/fa/id_id/solutions/competencies/process/features/process_control_unit.html"
 			},
 			{
 				"name": "Network module",
-				"path": "/id_id/solutions/competencies/process/features/network_unit.html"
+				"path": "/fa/id_id/solutions/competencies/process/features/network_unit.html"
 			}
 		]
 	}

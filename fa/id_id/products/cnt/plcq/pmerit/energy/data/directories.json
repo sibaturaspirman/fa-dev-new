@@ -1,15 +1,15 @@
 {
 	"layerNav": {
 		"name": "Energy measuring, Insulation monitoring",
-		"path": "/id_id/products/cnt/plcq/pmerit/energy/index.html",
+		"path": "/fa/id_id/products/cnt/plcq/pmerit/energy/index.html",
 		"firstLayer": [
 			{
 				"name": "Pengukuran energi",
-				"path": "/id_id/products/cnt/plcq/pmerit/energy/index.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/energy/index.html"
 			},
 			{
 				"name": "Pemantauan isolasi",
-				"path": "/id_id/products/cnt/plcq/pmerit/energy/insulation.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/energy/insulation.html"
 			}
 		]
 	}

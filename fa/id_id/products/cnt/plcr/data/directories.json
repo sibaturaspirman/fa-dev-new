@@ -1,47 +1,47 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Programmable<br>Controllers<br>MELSEC",
-            "path": "/id_id/products/cnt/plc/index.html",
+            "path": "/fa/id_id/products/cnt/plc/index.html",
             "child": [
               {
                 "name": "MELSEC iQ-R Series",
-                "path": "/id_id/products/cnt/plcr/items/index.html"
+                "path": "/fa/id_id/products/cnt/plcr/items/index.html"
               },
               {
                 "name": "MELSEC iQ-F Series",
-                "path": "/id_id/products/cnt/plcf/items/index.html"
+                "path": "/fa/id_id/products/cnt/plcf/items/index.html"
               },
               {
                 "name": "MELSEC-Q Series",
-                "path": "/id_id/products/cnt/plcq/items/index.html"
+                "path": "/fa/id_id/products/cnt/plcq/items/index.html"
               },
               {
                 "name": "MELSEC-L Series",
-                "path": "/id_id/products/cnt/plcl/items/index.html"
+                "path": "/fa/id_id/products/cnt/plcl/items/index.html"
               },
               {
                 "name": "MELSEC-F Series",
-                "path": "/id_id/products/cnt/plc_fx/items/index.html"
+                "path": "/fa/id_id/products/cnt/plc_fx/items/index.html"
               },
               {
                 "name": "MELSEC-QS/WS Series",
-                "path": "/id_id/products/cnt/plcqsws/items/index.html"
+                "path": "/fa/id_id/products/cnt/plcqsws/items/index.html"
               },
               {
                 "name": "MELSEC-A Series",
-                "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
+                "path": "/fa/id_id/products/cnt/plca/pmerit/concept/index.html"
               },
               {
                 "name": "Network-related products",
-                "path": "/id_id/products/cnt/plcnet/items/index.html"
+                "path": "/fa/id_id/products/cnt/plcnet/items/index.html"
               }
             ]
           }
@@ -51,12 +51,12 @@
   },
   "switchNav": {
     "name": "MELSEC iQ-R Series",
-    "path": "/id_id/products/cnt/plcr/items/index.html",
+    "path": "/fa/id_id/products/cnt/plcr/items/index.html",
     "child": [
       {
         "group": "Standard",
         "name": "Ship class standards",
-        "feature": "/id_id/products/cnt/plcr/ex/stand/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/ex/stand/index.html",
         "return":{
           "name": "Return to standard compatibility list",
           "path": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr"
@@ -65,17 +65,17 @@
       {
         "group": "Standard",
         "name": "Various certification systems",
-        "feature": "/id_id/products/standard.html#anc_05"
+        "feature": "/fa/id_id/products/standard.html#anc_05"
       },
       {
         "group": "Standard",
         "name": "Amendment China RoHS Support",
-        "feature": "/id_id/document/technews/plc/fa-a-0211/faa0211.pdf"
+        "feature": "/fa/id_id/document/technews/plc/fa-a-0211/faa0211.pdf"
       },
         {
         "group": "LP3-1",
         "name": "Konsep",
-        "feature": "/id_id/products/cnt/plcr/pmerit/concept/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/concept/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
         "standard": "",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon"
@@ -83,7 +83,7 @@
         {
         "group": "LP3-1",
         "name": "Solusi",
-        "feature": "/id_id/products/cnt/plcr/pmerit/solution/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/solution/index.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -91,7 +91,7 @@
         {
         "group": "LP3-1",
         "name": "System recorder",
-        "feature": "/id_id/products/cnt/plcr/pmerit/sysrecorder/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/sysrecorder/index.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -99,7 +99,7 @@
         {
         "group": "LP3-1",
         "name": "Konfigurasi sistem dasar",
-        "feature": "/id_id/products/cnt/plcr/pmerit/sysconfig/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/sysconfig/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Base&search=B&word=Base",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Base&search=B&word=Base",
         "discon": ""
@@ -107,7 +107,7 @@
         {
         "group": "LP3-1",
         "name": "Rangkaian Produk",
-        "feature": "/id_id/products/cnt/plcr/pmerit/lup/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/lup/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon"
@@ -115,7 +115,7 @@
         {
         "group": "LP3-1",
         "name": "CPU",
-        "feature": "/id_id/products/cnt/plcr/pmerit/cpu/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/cpu/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=CPU&search=B&word=CPU",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=CPU&search=B&word=CPU",
         "discon": ""
@@ -123,7 +123,7 @@
         {
         "group": "LP3-1",
         "name": "I/O",
-        "feature": "/id_id/products/cnt/plcr/pmerit/io/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/io/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=I/O&search=B&word=I/O",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=I/O&search=B&word=I/O",
         "discon": ""
@@ -131,7 +131,7 @@
         {
         "group": "LP3-1",
         "name": "Analog",
-        "feature": "/id_id/products/cnt/plcr/pmerit/analog/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/analog/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Analog&search=B&word=Analog",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Analog&search=B&word=Analog",
         "discon": ""
@@ -139,7 +139,7 @@
         {
         "group": "LP3-1",
         "name": "Temperature input module, Temperature control module",
-        "feature": "/id_id/products/cnt/plcr/pmerit/temp/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/temp/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Analog&search=B&word=Analog",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Analog&search=B&word=Analog",
         "discon": ""
@@ -147,7 +147,7 @@
         {
         "group": "LP3-1",
         "name": "Gerakan, Posisi",
-        "feature": "/id_id/products/cnt/plcr/pmerit/motion/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/motion/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Motion/positioning&search=B&word=Motion/positioning",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Motion/positioning&search=B&word=Motion/positioning",
         "discon": ""
@@ -155,7 +155,7 @@
         {
         "group": "LP3-1",
         "name": "High-speed counter, Channel isolated pulse input, Flexible high-speed I/O control",
-        "feature": "/id_id/products/cnt/plcr/pmerit/high-speed/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/high-speed/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=High-speed%20counter/pulse%20input/flexible%20I/O&search=B&word=High-speed%20counter/pulse%20input/flexible%20I/O",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=High-speed%20counter/pulse%20input/flexible%20I/O&search=B&word=High-speed%20counter/pulse%20input/flexible%20I/O",
         "discon": ""
@@ -163,7 +163,7 @@
         {
         "group": "LP3-1",
         "name": "Jaringan",
-        "feature": "/id_id/products/cnt/plcr/pmerit/network/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/network/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"
@@ -171,7 +171,7 @@
         {
         "group": "LP3-1",
         "name": "Informasi lanjutan",
-        "feature": "/id_id/products/cnt/plcr/pmerit/it_connect/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/it_connect/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"
@@ -179,7 +179,7 @@
         {
         "group": "LP3-1",
         "name": "Pengukuran energi",
-        "feature": "/id_id/products/cnt/plcr/pmerit/measuring/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/measuring/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Energy%20measuring&search=B&word=Energy%20measuring",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Energy%20measuring&search=B&word=Energy%20measuring",
         "discon": ""
@@ -187,7 +187,7 @@
         {
         "group": "LP3-1",
         "name": "Perangkat Lunak",
-        "feature": "/id_id/products/cnt/plcr/pmerit/software/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/software/index.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -195,7 +195,7 @@
         {
         "group": "LP3-1",
         "name": "Produk mitra otomatisasi pabrik",
-        "feature": "/id_id/products/cnt/plcr/pmerit/partner/index.html",
+        "feature": "/fa/id_id/products/cnt/plcr/pmerit/partner/index.html",
         "spec": "",
         "standard": "",
         "discon": ""

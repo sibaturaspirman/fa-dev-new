@@ -1,27 +1,27 @@
 {
   "layerNav": {
     "name": "CPU",
-    "path": "/id_id/products/cnt/plcq/pmerit/cpu/index.html",
+    "path": "/fa/id_id/products/cnt/plcq/pmerit/cpu/index.html",
     "firstLayer": [
       {
         "name": "Model QCPU universal",
-        "path": "/id_id/products/cnt/plcq/pmerit/cpu/index.html"
+        "path": "/fa/id_id/products/cnt/plcq/pmerit/cpu/index.html"
       },
       {
         "name": "Produktivitas",
-        "path": "/id_id/products/cnt/plcq/pmerit/cpu/productivity.html"
+        "path": "/fa/id_id/products/cnt/plcq/pmerit/cpu/productivity.html"
       },
       {
         "name": "Mudah digunakan",
-        "path": "/id_id/products/cnt/plcq/pmerit/cpu/friendly.html"
+        "path": "/fa/id_id/products/cnt/plcq/pmerit/cpu/friendly.html"
       },
       {
         "name": "Biaya pemeliharaan",
-        "path": "/id_id/products/cnt/plcq/pmerit/cpu/maintenance.html"
+        "path": "/fa/id_id/products/cnt/plcq/pmerit/cpu/maintenance.html"
       },
       {
         "name": "Jajaran CPU",
-        "path": "/id_id/products/cnt/plcq/pmerit/cpu/cpu.html"
+        "path": "/fa/id_id/products/cnt/plcq/pmerit/cpu/cpu.html"
       }
     ]
   }

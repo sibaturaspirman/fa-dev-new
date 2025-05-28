@@ -1,35 +1,35 @@
 {
 	"layerNav": {
 		"name": "CPU",
-		"path": "/id_id/products/cnt/plcr/pmerit/cpu/index.html",
+		"path": "/fa/id_id/products/cnt/plcr/pmerit/cpu/index.html",
 		"firstLayer": [
 			{
 				"name": "Fitur",
-				"path": "/id_id/products/cnt/plcr/pmerit/cpu/index.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/cpu/index.html"
 			},
 			{
 				"name": "CPU Pengontrol Terprogram",
-				"path": "/id_id/products/cnt/plcr/pmerit/cpu/cpu.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/cpu/cpu.html"
 			},
 			{
 				"name": "CPU Gerak",
-				"path": "/id_id/products/cnt/plcr/pmerit/cpu/motion.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/cpu/motion.html"
 			},
 			{
 				"name": "CPU Keamanan",
-				"path": "/id_id/products/cnt/plcr/pmerit/cpu/safety.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/cpu/safety.html"
 			},
 			{
 				"name": "CPU Proses, CPU proses SIL2, Fungsi redundan",
-				"path": "/id_id/products/cnt/plcr/pmerit/cpu/process.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/cpu/process.html"
 			},
 			{
 				"name": "Pengontrol C, fungsi cerdas C",
-				"path": "/id_id/products/cnt/plcr/pmerit/cpu/c_cont.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/cpu/c_cont.html"
 			},
 			{
 				"name": "MELSECWinCPU",
-				"path": "/id_id/products/cnt/plcr/pmerit/cpu/wincpu.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/cpu/wincpu.html"
 			}
 		]
 	}

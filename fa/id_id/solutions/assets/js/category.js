@@ -37,7 +37,7 @@
     var tagElement = '';
     if(tags.length > 0) {
       tags.forEach(function(value, index) {
-        tagElement += `<a href="/id_id/our-stories/index.html?tag[]=${value}" class="c-filter__tag">#${value}</a>`;
+        tagElement += `<a href="/fa/id_id/our-stories/index.html?tag[]=${value}" class="c-filter__tag">#${value}</a>`;
       }); 
     }
     return tagElement;    
@@ -69,7 +69,7 @@
       return `
         <div class="l-tile__item">
         <div class="c-card ${newFlag}">
-        <a class="c-card__link" href="/id_id/our-stories/${data.articleID}/index.html">
+        <a class="c-card__link" href="/fa/id_id/our-stories/${data.articleID}/index.html">
         <div class="c-card__head">
         <div class="c-card__img">
         <img src="${data.image}" alt="" decoding="async">

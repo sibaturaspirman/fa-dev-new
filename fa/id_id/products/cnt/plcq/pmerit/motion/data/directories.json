@@ -1,15 +1,15 @@
 {
 	"layerNav": {
 		"name": "Simple motion, Positioning",
-		"path": "/id_id/products/cnt/plcq/pmerit/motion/index.html",
+		"path": "/fa/id_id/products/cnt/plcq/pmerit/motion/index.html",
 		"firstLayer": [
 			{
 				"name": "Gerakan sederhana",
-				"path": "/id_id/products/cnt/plcq/pmerit/motion/index.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/motion/index.html"
 			},
 			{
 				"name": "Penempatan",
-				"path": "/id_id/products/cnt/plcq/pmerit/motion/positioning.html"
+				"path": "/fa/id_id/products/cnt/plcq/pmerit/motion/positioning.html"
 			}
 		]
 	}

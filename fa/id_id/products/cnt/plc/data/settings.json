@@ -4,7 +4,7 @@
 			{
 				"name": "Unduh",
 				"icon": "download",
-				"link": "/id_id/download/"
+				"link": "/fa/id_id/download/"
 			}
 	  ],
 		"commonItems": [
@@ -20,7 +20,7 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -31,7 +31,7 @@
 			{
 				"name": "Katalog Produk Umum",
 				"icon": "catalog",
-				"link": "/id_id/dctlg/index.html"
+				"link": "/fa/id_id/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated ",
@@ -180,17 +180,17 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_id/download/index.html?modal=cad"
+				"link": "/fa/id_id/download/index.html?modal=cad"
 			},
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/index.html?modal=software"
+				"link": "/fa/id_id/download/index.html?modal=software"
 			},
 			{
 				"name": "Contoh Library",
 				"icon": "library",
-				"link": "/id_id/download/index.html?modal=lib"
+				"link": "/fa/id_id/download/index.html?modal=lib"
 			}
 		]
 	},
@@ -208,17 +208,17 @@
 		"items": [
 			{
 				"name": "iQ Platform-compatible PAC System Recorder",
-				"image": "/id_id/products/cnt/plc/img/banner_system-recorder.jpg",
-				"link": "/id_id/products/software/visualisation/system-recorder/index.html"
+				"image": "/fa/id_id/products/cnt/plc/img/banner_system-recorder.jpg",
+				"link": "/fa/id_id/products/software/visualisation/system-recorder/index.html"
 			},
 			{
 				"name": "FA Integrated ",
-				"image": "/id_id/products/assets/img/banner_integrated-selection-tool.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_integrated-selection-tool.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
         ]
@@ -229,7 +229,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

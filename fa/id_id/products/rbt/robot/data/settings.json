@@ -26,17 +26,17 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_id/download/index.html?modal=cad"
+						"link": "/fa/id_id/download/index.html?modal=cad"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/index.html?modal=software"
+						"link": "/fa/id_id/download/index.html?modal=software"
 					},
 					{
 						"name": "Contoh<br>Library",
 						"icon": "library",
-						"link": "/id_id/download/index.html?modal=lib"
+						"link": "/fa/id_id/download/index.html?modal=lib"
 					}
 				]
 			}
@@ -48,23 +48,23 @@
 		"items": [
 			{
 				"name": "MELFA FR PLUS",
-				"img": "/id_id/products/rbt/robot/assets/img/spotlight_frplus.png",
-				"link": "/id_id/products/rbt/robot/pmerit/frplus/index.html"
+				"img": "/fa/id_id/products/rbt/robot/assets/img/spotlight_frplus.png",
+				"link": "/fa/id_id/products/rbt/robot/pmerit/frplus/index.html"
 			},
 			{
 				"name": "MELFA RH-10CRH/20CRH",
-				"img": "/id_id/products/rbt/robot/assets/img/spotlight_1020crh_eng.png",
-				"link": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
+				"img": "/fa/id_id/products/rbt/robot/assets/img/spotlight_1020crh_eng.png",
+				"link": "/fa/id_id/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
 			},
 			{
 				"name": "MELFA RV-12CRL",
-				"img": "/id_id/products/rbt/robot/assets/img/spotlight_rv12crl_eng.png",
-				"link": "/id_id/products/rbt/robot/pmerit/vertical/crseries/index.html"
+				"img": "/fa/id_id/products/rbt/robot/assets/img/spotlight_rv12crl_eng.png",
+				"link": "/fa/id_id/products/rbt/robot/pmerit/vertical/crseries/index.html"
 			},
 			{
 				"name": "Collaborative robot ASSISA (Special Page)",
-				"img": "/id_id/products/rbt/robot/assets/img/spotlight_assista_pr.png",
-				"link": "/id_id/products/rbt/assista/pmerit/assista/index.html"
+				"img": "/fa/id_id/products/rbt/robot/assets/img/spotlight_assista_pr.png",
+				"link": "/fa/id_id/products/rbt/assista/pmerit/assista/index.html"
 			}
 		]
 	},
@@ -113,7 +113,7 @@
 			{
 				"name": "Jaringan",
 				"icon": "tree",
-				"link": "/id_id/products/index.html#section_network"
+				"link": "/fa/id_id/products/index.html#section_network"
 			}
 		]
 	},
@@ -155,17 +155,17 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_id/download/index.html?modal=cad"
+				"link": "/fa/id_id/download/index.html?modal=cad"
 			},
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/index.html?modal=software"
+				"link": "/fa/id_id/download/index.html?modal=software"
 			},
 			{
 				"name": "Contoh Library",
 				"icon": "library",
-				"link": "/id_id/download/index.html?modal=lib"
+				"link": "/fa/id_id/download/index.html?modal=lib"
 			}
 		]
 	},
@@ -183,7 +183,7 @@
 		"items": [
 				{
 				"name": "FA SPEC Search - It is available an App.",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -194,7 +194,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

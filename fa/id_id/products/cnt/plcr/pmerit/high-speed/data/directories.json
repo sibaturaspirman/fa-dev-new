@@ -1,19 +1,19 @@
 {
 	"layerNav": {
 		"name": "High-speed counter, Channel isolated pulse input, Flexible high-speed I/O control",
-		"path": "/id_id/products/cnt/plcr/pmerit/high-speed/index.html",
+		"path": "/fa/id_id/products/cnt/plcr/pmerit/high-speed/index.html",
 		"firstLayer": [
 			{
 				"name": "Penghitung kecepatan tinggi",
-				"path": "/id_id/products/cnt/plcr/pmerit/high-speed/index.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/high-speed/index.html"
 			},
 			{
 				"name": "Saluran masukan pulsa terisolasi",
-				"path": "/id_id/products/cnt/plcr/pmerit/high-speed/isolated.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/high-speed/isolated.html"
 			},
 			{
 				"name": "Kontrol I/O kecepatan tinggi yang fleksibel",
-				"path": "/id_id/products/cnt/plcr/pmerit/high-speed/flexi.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/high-speed/flexi.html"
 			}
 		]
 	}

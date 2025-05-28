@@ -1,19 +1,19 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/id_id/products/lvd/lvcb/index.html",
+            "path": "/fa/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
 					"name": "UL 489 Listed Circuit Breakers",
-					"path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index.html"
+					"path": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index.html"
 				}
             ]
           }
@@ -23,54 +23,54 @@
   },
   "layerNav": {
     "name": "UL 489 Listed Circuit Breakers",
-    "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index.html",
+    "path": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index.html",
     "firstLayer": [
       {
         "name": "Standar UL",
-        "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index.html"
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index.html"
 	  },
       {
         "name": "Produk untuk 50 hingga 250AF",
-        "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index_2.html",
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index_2.html",
         "secondLayer": [
         {
           "name": "Seri WS-V",
-          "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index_2.html"
+          "path": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index_2.html"
         },
         {
           "name": "Seri SRU/HRU",
-          "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index_3.html"
+          "path": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index_3.html"
         },
         {
           "name": "Seri SMU",
-          "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index_4.html"
+          "path": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index_4.html"
         }
         ]
       },
       {
         "name": "Produk untuk 400/630AF",
-        "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index_5.html"
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index_5.html"
 	  },
       {
         "name": "Rangkaian Produk",
-        "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index_6.html"
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index_6.html"
 	  }
     ]
   },
 "switchNav": {
 	"name": "UL 489 Listed Circuit Breakers",
-	"path": "/id_id/products/lvd/lvcb/items/ulcb/index.html",
+	"path": "/fa/id_id/products/lvd/lvcb/items/ulcb/index.html",
 	"child": [
 		{
 			"group": "UL 489 Listed Circuit Breakers",
 			"name": "UL 489 Listed Circuit Breakers",
-			"feature": "/id_id/products/lvd/lvcb/pmerit/ulcb/index.html",
+			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ULCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ULCB",
 			"discon": "",
             "return": {
                 "name": "UL 489 Listed Circuit Breakers",
-                "path": "/id_id/products/lvd/lvcb/items/ulcb/index.html"
+                "path": "/fa/id_id/products/lvd/lvcb/items/ulcb/index.html"
 			}
 		}
 	]

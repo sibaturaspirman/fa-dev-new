@@ -38,7 +38,7 @@
 		"items": [
 			{
 				"name": "Perangkat Lunak Kontrol Gerak SWM-G",
-				"img": "/id_id/products/cnt/ssc/img/spotlight_swmg_gl.jpg",
+				"img": "/fa/id_id/products/cnt/ssc/img/spotlight_swmg_gl.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscemb/swmg/index.html"
 			}
 			
@@ -55,27 +55,27 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/id_id/products/spec.html"
+				"link": "/fa/id_id/products/spec.html"
 			},
 			{
 				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
-				"link": "/id_id/products/standard.html"
+				"link": "/fa/id_id/products/standard.html"
 			},
 			{
 				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
-				"link": "/id_id/products/renewal.html"
+				"link": "/fa/id_id/products/renewal.html"
 			},
 			{
 				"name": "Ganti Produk",
 				"icon": "replace",
-				"link": "/id_id/products/replace.html"
+				"link": "/fa/id_id/products/replace.html"
 			},
 			{
 				"name": "Katalog Produk Umum",
 				"icon": "catalog",
-				"link": "/id_id/dctlg/index.html"
+				"link": "/fa/id_id/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated ",
@@ -93,7 +93,7 @@
 			},
 			{
 				"name": "GX Works2",
-				"link": "/id_id/products/cnt/plceng/smerit/gx_works2/index.html"
+				"link": "/fa/id_id/products/cnt/plceng/smerit/gx_works2/index.html"
 			}
 		]
 	},
@@ -144,22 +144,22 @@
 		"items": [
 			{
 				"name": "MELSERVO-J5",
-				"image": "/id_id/products/cnt/ssc/img/bnr_J5_gl.jpg",
-				"link": "/id_id/products/drv/servo/pmerit/mr_j5/amp/concept.html"
+				"image": "/fa/id_id/products/cnt/ssc/img/bnr_J5_gl.jpg",
+				"link": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/concept.html"
 			},
 			{
 				"name": "Fitur baru membuat segala sesuatunya lebih mudah digunakan!",
-				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/fa/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
 				"name": "FAQ",
-				"image": "/id_id/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
+				"image": "/fa/id_id/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2435"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -170,7 +170,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

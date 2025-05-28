@@ -1,39 +1,39 @@
 {
 	"layerNav": {
 		"name": "Process Control/Redundant",
-		"path": "/id_id/solutions/competencies/process/index.html",
+		"path": "/fa/id_id/solutions/competencies/process/index.html",
 		"firstLayer": [
 			{
 				"name": "Konsep",
-				"path": "/id_id/solutions/competencies/process/index.html"
+				"path": "/fa/id_id/solutions/competencies/process/index.html"
 			},
 			{
 				"name": "Rangkaian Produk",
-				"path": "/id_id/solutions/competencies/process/lineup/index.html"
+				"path": "/fa/id_id/solutions/competencies/process/lineup/index.html"
 			},
 			{
 				"name": "Produk yang Didukung",
-				"path": "/id_id/solutions/competencies/process/features/index.html"
+				"path": "/fa/id_id/solutions/competencies/process/features/index.html"
 			},
 			{
 				"name": "Solusi Pemantauan",
-				"path": "/id_id/solutions/competencies/process/monitoring/index.html"
+				"path": "/fa/id_id/solutions/competencies/process/monitoring/index.html"
 			},
 			{
 				"name": "Rekayasa",
-				"path": "/id_id/solutions/competencies/process/development/index.html"
+				"path": "/fa/id_id/solutions/competencies/process/development/index.html"
 			},
 			{
 				"name": "Produk Mitra",
-				"path": "/id_id/solutions/competencies/process/partners/index.html"
+				"path": "/fa/id_id/solutions/competencies/process/partners/index.html"
 			},
 			{
 				"name": "Contoh Aplikasi",
-				"path": "/id_id/solutions/competencies/process/application/index.html"
+				"path": "/fa/id_id/solutions/competencies/process/application/index.html"
 			},
 			{
 				"name": "Dukungan/Unduhan",
-				"path": "/id_id/solutions/competencies/process/support/index.html"
+				"path": "/fa/id_id/solutions/competencies/process/support/index.html"
 			}
 		]
 	}

@@ -1,15 +1,15 @@
 {
   "layerNav": {
     "name": "MELSEC-F Series",
-    "path": "/id_id/products/cnt/plc_fx/items/index.html",
+    "path": "/fa/id_id/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
       {
         "name": "Analog Control",
-        "path": "/id_id/products/cnt/plc_fx/pmerit/contents/analog/index.html"
+        "path": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/analog/index.html"
       },
       {
         "name": "Perangkat input untuk sensor suhu",
-        "path": "/id_id/products/cnt/plc_fx/pmerit/contents/analog/temperature.html"
+        "path": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/analog/temperature.html"
       }
     ]
   }

@@ -1,15 +1,15 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/id_id/products/lvd/lvcb/index.html"
+            "path": "/fa/id_id/products/lvd/lvcb/index.html"
           },
           {
             "name": "Contactors and Motor Starters",
@@ -17,11 +17,11 @@
           },
           {
             "name": "Power Management Meters",
-            "path": "/id_id/products/pmng/pmd/index.html",
+            "path": "/fa/id_id/products/pmng/pmd/index.html",
             "child": [
 				{
 					"name": "Electrical Indicators",
-					"path": "/id_id/products/pmng/pmd/items/eim/index.html"
+					"path": "/fa/id_id/products/pmng/pmd/items/eim/index.html"
 				}
             ]
           }
@@ -31,18 +31,18 @@
   },
 "switchNav": {
 	"name": "Power Management Meters",
-	"path": "/id_id/products/pmng/pmd/index.html",
+	"path": "/fa/id_id/products/pmng/pmd/index.html",
 	"child": [
 		{
         "group": "Electrical Indicators",
         "name": "Electronic Multi Measuring Instruments (ME96 Series)",
-        "feature": "/id_id/products/pmng/pmd/pmerit/eim/index.html",
+        "feature": "/fa/id_id/products/pmng/pmd/pmerit/eim/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon&bunrui1=Meters&current=Meters",
 		"return": {
 			"name": "Electrical Indicators",
-			"path": "/id_id/products/pmng/pmd/items/eim/index.html"
+			"path": "/fa/id_id/products/pmng/pmd/items/eim/index.html"
 		}
 		}
 	]

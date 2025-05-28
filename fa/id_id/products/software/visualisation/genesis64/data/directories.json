@@ -1,27 +1,27 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/",
+    "path": "/fa/id_id/",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Visualization software",
-            "path": "/id_id/products/software/visualisation/index.html",
+            "path": "/fa/id_id/products/software/visualisation/index.html",
             "child": [
               {
                 "name": "SCADA software GENESIS64&trade;",
-                "path": "/id_id/products/software/visualisation/genesis64/index.html"
+                "path": "/fa/id_id/products/software/visualisation/genesis64/index.html"
               },
               {
                 "name": "HMI software (GOT)",
-                "path": "/id_id/products/software/visualisation/got/index.html"
+                "path": "/fa/id_id/products/software/visualisation/got/index.html"
               },
               {
                 "name": "System recorder related software",
-                "path": "/id_id/products/software/visualisation/system-recorder/index.html"
+                "path": "/fa/id_id/products/software/visualisation/system-recorder/index.html"
               },
               {
                 "name": "Modul Dukungan e-F@ctory",
@@ -35,12 +35,12 @@
   },
   "switchNav": {
     "name": "Visualization software",
-    "path": "/id_id/products/software/visualisation/index.html",
+    "path": "/fa/id_id/products/software/visualisation/index.html",
     "child": [
       {
         "group": "Vidualization software",
         "name": "SCADA software GENESIS64&trade;",
-        "feature": "/id_id/products/software/visualisation/genesis64/index.html",
+        "feature": "/fa/id_id/products/software/visualisation/genesis64/index.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -48,7 +48,7 @@
       {
         "group": "Vidualization software",
         "name": "SCADA software GENESIS64&trade;",
-        "feature": "/id_id/products/software/visualisation/genesis64/our-stories.html",
+        "feature": "/fa/id_id/products/software/visualisation/genesis64/our-stories.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -56,7 +56,7 @@
       {
         "group": "Vidualization software",
         "name": "SCADA software GENESIS64&trade;",
-        "feature": "/id_id/products/software/visualisation/genesis64/lineup.html",
+        "feature": "/fa/id_id/products/software/visualisation/genesis64/lineup.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -64,7 +64,7 @@
       {
         "group": "Vidualization software",
         "name": "SCADA software GENESIS64&trade;",
-        "feature": "/id_id/products/software/visualisation/genesis64/download.html",
+        "feature": "/fa/id_id/products/software/visualisation/genesis64/download.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -73,23 +73,23 @@
   },
   "layerNav": {
     "name": "Visualization software",
-    "path": "/id_id/products/software/visualisation/genesis64/index.html",
+    "path": "/fa/id_id/products/software/visualisation/genesis64/index.html",
     "firstLayer": [
       {
         "name": "Konsep",
-        "path": "/id_id/products/software/visualisation/genesis64/index.html"
+        "path": "/fa/id_id/products/software/visualisation/genesis64/index.html"
       },
       {
         "name": "Contoh Pengenalan",
-        "path": "/id_id/products/software/visualisation/genesis64/our-stories.html"
+        "path": "/fa/id_id/products/software/visualisation/genesis64/our-stories.html"
       },
       {
         "name": "Rangkaian Produk",
-        "path": "/id_id/products/software/visualisation/genesis64/lineup.html"
+        "path": "/fa/id_id/products/software/visualisation/genesis64/lineup.html"
       },
       {
         "name": "Unduh",
-        "path": "/id_id/products/software/visualisation/genesis64/download.html"
+        "path": "/fa/id_id/products/software/visualisation/genesis64/download.html"
       }
     ]
   }

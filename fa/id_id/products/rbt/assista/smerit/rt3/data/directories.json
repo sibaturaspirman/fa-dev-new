@@ -1,41 +1,41 @@
 {
   "layerNav": {
     "name": "Robot engineering software (MELFA)",
-    "path": "/id_id/products/software/robot/index.html",
+    "path": "/fa/id_id/products/software/robot/index.html",
     "firstLayer": [
       {
         "name": "MELSOFT RT VisualBox",
-        "path": "/id_id/products/rbt/assista/smerit/vb/index.html",
+        "path": "/fa/id_id/products/rbt/assista/smerit/vb/index.html",
         "secondLayer": [
            {
             "name": "Fitur",
-            "path": "/id_id/products/rbt/assista/smerit/vb/index.html"
+            "path": "/fa/id_id/products/rbt/assista/smerit/vb/index.html"
           },
           {
             "name": "Katalog",
-           "path": "/id_id/products/rbt/assista/smerit/vb/dl.html"
+           "path": "/fa/id_id/products/rbt/assista/smerit/vb/dl.html"
           }
         ]
       },
       {
      "name": "MELSOFT RT3 ToolBox3",
-        "path": "/id_id/products/rbt/assista/smerit/rt3/index.html",
+        "path": "/fa/id_id/products/rbt/assista/smerit/rt3/index.html",
         "secondLayer": [
            {
             "name": "Fitur",
-            "path": "/id_id/products/rbt/assista/smerit/rt3/index.html"
+            "path": "/fa/id_id/products/rbt/assista/smerit/rt3/index.html"
           },
            {
             "name": "Pemrograman, Simulasi",
-           "path": "/id_id/products/rbt/assista/smerit/rt3/simulation.html"
+           "path": "/fa/id_id/products/rbt/assista/smerit/rt3/simulation.html"
           },
            {
             "name": "Monitor, Pemeliharaan",
-           "path": "/id_id/products/rbt/assista/smerit/rt3/monitor.html"
+           "path": "/fa/id_id/products/rbt/assista/smerit/rt3/monitor.html"
           },
           {
             "name": "Katalog",
-           "path": "/id_id/products/rbt/assista/smerit/rt3/dl.html"
+           "path": "/fa/id_id/products/rbt/assista/smerit/rt3/dl.html"
           }
         ]
       }

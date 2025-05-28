@@ -33,17 +33,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -59,27 +59,27 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/id_id/products/spec.html"
+				"link": "/fa/id_id/products/spec.html"
 			},
 			{
 				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
-				"link": "/id_id/products/standard.html"
+				"link": "/fa/id_id/products/standard.html"
 			},
 			{
 				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
-				"link": "/id_id/products/renewal.html"
+				"link": "/fa/id_id/products/renewal.html"
 			},
 			{
 				"name": "Ganti Produk",
 				"icon": "replace",
-				"link": "/id_id/products/replace.html"
+				"link": "/fa/id_id/products/replace.html"
 			},
 			{
 				"name": "Katalog Produk Umum",
 				"icon": "catalog",
-				"link": "/id_id/dctlg/index.html"
+				"link": "/fa/id_id/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated ",
@@ -163,7 +163,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			}
 		]
 	}

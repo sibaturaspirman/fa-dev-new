@@ -1,47 +1,47 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
 	    "child": [
    		   {
         	"name": "Programmable<br>Controllers<br>MELSEC",
-	        "path": "/id_id/products/cnt/plc/index.html",
+	        "path": "/fa/id_id/products/cnt/plc/index.html",
 	        "child": [
 	          {
 	            "name": "MELSEC iQ-R Series",
-	            "path": "/id_id/products/cnt/plcr/items/index.html"
+	            "path": "/fa/id_id/products/cnt/plcr/items/index.html"
 	          },
 	          {
 	            "name": "MELSEC iQ-F Series",
-	            "path": "/id_id/products/cnt/plcf/items/index.html"
+	            "path": "/fa/id_id/products/cnt/plcf/items/index.html"
 	          },
 	          {
 	            "name": "MELSEC-Q Series",
-	            "path": "/id_id/products/cnt/plcq/items/index.html"
+	            "path": "/fa/id_id/products/cnt/plcq/items/index.html"
 	          },
 	          {
 	            "name": "MELSEC-L Series",
-	            "path": "/id_id/products/cnt/plcl/items/index.html"
+	            "path": "/fa/id_id/products/cnt/plcl/items/index.html"
 	          },
 	          {
 	            "name": "MELSEC-F Series",
-	            "path": "/id_id/products/cnt/plc_fx/items/index.html"
+	            "path": "/fa/id_id/products/cnt/plc_fx/items/index.html"
 	          },
 	          {
 	            "name": "MELSEC-QS/WS Series",
-	            "path": "/id_id/products/cnt/plcqsws/items/index.html"
+	            "path": "/fa/id_id/products/cnt/plcqsws/items/index.html"
 	          },
 	          {
 	            "name": "MELSEC-A Series",
-	            "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
+	            "path": "/fa/id_id/products/cnt/plca/pmerit/concept/index.html"
 	          },
 	          {
 	            "name": "Network-related products",
-	            "path": "/id_id/products/cnt/plcnet/items/index.html"
+	            "path": "/fa/id_id/products/cnt/plcnet/items/index.html"
 	          }
 	        ]
 	      }
@@ -51,12 +51,12 @@
   },
 	"switchNav": {
 		"name": "MELSEC-F Series",
-		"path": "/id_id/products/cnt/plc_fx/items/index.html",
+		"path": "/fa/id_id/products/cnt/plc_fx/items/index.html",
 		"child": [
 			{
 				"group": "FX",
 				"name": "Fitur Produk seri MELSEC-F",
-				"feature": "/id_id/products/cnt/plc_fx/pmerit/contents/index.html",
+				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/index.html",
 				"spec": "",
 				"standard": "",
 				"discon": ""
@@ -64,7 +64,7 @@
 			{
 				"group": "FX",
 				"name": "Main Unit",
-				"feature": "/id_id/products/cnt/plc_fx/pmerit/contents/plc/index.html",
+				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/plc/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Main%20Unit",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Main%20Unit&search=B&word=Main%20Unit",
 				"discon": ""
@@ -72,7 +72,7 @@
 			{
 				"group": "FX",
 				"name": "I/O Extension",
-				"feature": "/id_id/products/cnt/plc_fx/pmerit/contents/extension/index.html",
+				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/extension/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Input/output%20extension",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Input/output%20extension&search=B&word=Input/output%20extension",
 				"discon": ""
@@ -80,7 +80,7 @@
 			{
 				"group": "FX",
 				"name": "Analog Control",
-				"feature": "/id_id/products/cnt/plc_fx/pmerit/contents/analog/index.html",
+				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/analog/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Analog",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Analog&search=B&word=Analog",
 				"discon": ""
@@ -88,7 +88,7 @@
 			{
 				"group": "FX",
 				"name": "High-Speed Counting",
-				"feature": "/id_id/products/cnt/plc_fx/pmerit/contents/hc/index.html",
+				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/hc/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plc_fx&search=B&word=High-Speed%20Counter",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=High-Speed%20Counter&search=B&word=High-Speed%20Counter",
 				"discon": ""
@@ -96,7 +96,7 @@
 			{
 				"group": "FX",
 				"name": "Positioning Control",
-				"feature": "/id_id/products/cnt/plc_fx/pmerit/contents/positioning/index.html",
+				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/positioning/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Positioning",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Positioning&search=B&word=Positioning",
 				"discon": ""
@@ -104,7 +104,7 @@
 			{
 				"group": "FX",
 				"name": "Network/Communication",
-				"feature": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/index.html",
+				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/communication/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Data%20link/Communication",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Data%20link/Communication&search=B&word=Data%20link/Communication",
 				"discon": ""
@@ -112,7 +112,7 @@
 			{
 				"group": "FX",
 				"name": "Option",
-				"feature": "/id_id/products/cnt/plc_fx/pmerit/contents/option/index.html",
+				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/option/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Option/Training",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Option/Training&search=B&word=Option/Training",
 				"discon": ""
@@ -120,7 +120,7 @@
 			{
 				"group": "fx_select",
 				"name": "Model selection tool",
-				"feature": "/id_id/products/cnt/plcf/ex/select/index.html",
+				"feature": "/fa/id_id/products/cnt/plcf/ex/select/index.html",
 				"spec": "",
 				"standard": "",
 				"discon": ""

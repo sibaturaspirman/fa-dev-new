@@ -1,23 +1,23 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/",
+    "path": "/fa/id_id/",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Remote accesses",
-            "path": "/id_id/products/software/remote-accesses/index.html",
+            "path": "/fa/id_id/products/software/remote-accesses/index.html",
             "child": [
               {
                 "name": "HMI software (GOT)",
-                "path": "/id_id/products/software/remote-accesses/got/index.html"
+                "path": "/fa/id_id/products/software/remote-accesses/got/index.html"
               },
               {
                 "name": "SCADA",
-                "path": "/id_id/products/software/visualisation/scada/index.html"
+                "path": "/fa/id_id/products/software/visualisation/scada/index.html"
               }
             ]
           }

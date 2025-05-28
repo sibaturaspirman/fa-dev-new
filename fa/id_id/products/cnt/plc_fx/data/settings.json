@@ -26,12 +26,12 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_id/download/?modal=cad"
+						"link": "/fa/id_id/download/?modal=cad"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/?modal=software"
+						"link": "/fa/id_id/download/?modal=software"
 					}
 				]
 			}
@@ -49,17 +49,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -70,7 +70,7 @@
 			{
 				"name": "Produk Unggulan",
 				"icon": "announce",
-				"link": "/id_id/products/cnt/plc_fx/pmerit/contents/index.html"
+				"link": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/index.html"
 			},
 			{
 				"name": "Spesifikasi Produk",
@@ -188,7 +188,7 @@
 		"items": [
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -199,7 +199,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

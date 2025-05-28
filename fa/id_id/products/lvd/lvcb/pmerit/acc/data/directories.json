@@ -1,19 +1,19 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/id_id/products/lvd/lvcb/index.html",
+            "path": "/fa/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
 					"name": "Accessories and Related Components",
-					"path": "/id_id/products/lvd/lvcb/pmerit/acc/index.html"
+					"path": "/fa/id_id/products/lvd/lvcb/pmerit/acc/index.html"
 				}
             ]
           }
@@ -23,32 +23,32 @@
   },
   "layerNav": {
     "name": "Accessories and Related Components",
-    "path": "/id_id/products/lvd/lvcb/pmerit/acc/index.html",
+    "path": "/fa/id_id/products/lvd/lvcb/pmerit/acc/index.html",
     "firstLayer": [
       {
         "name": "Aksesori Internal",
-        "path": "/id_id/products/lvd/lvcb/pmerit/acc/index.html"
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/acc/index.html"
       },
       {
         "name": "Aksesori Eksternal",
-        "path": "/id_id/products/lvd/lvcb/pmerit/acc/index_2.html"
+        "path": "/fa/id_id/products/lvd/lvcb/pmerit/acc/index_2.html"
       }
     ]
   },
 "switchNav": {
 	"name": "Accessories and Related Components",
-	"path": "/id_id/products/lvd/lvcb/items/acc/index.html",
+	"path": "/fa/id_id/products/lvd/lvcb/items/acc/index.html",
 	"child": [
 		{
 			"group": "Accessories and Related Components",
 			"name": "Accessories and Related Components",
-			"feature": "/id_id/products/lvd/lvcb/pmerit/acc/index.html",
+			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/acc/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ACC",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ACC",
 			"discon": "",
             "return": {
                 "name": "Accessories and Related Components",
-                "path": "/id_id/products/lvd/lvcb/items/acc/index.html"
+                "path": "/fa/id_id/products/lvd/lvcb/items/acc/index.html"
 			}
 		}
 	]

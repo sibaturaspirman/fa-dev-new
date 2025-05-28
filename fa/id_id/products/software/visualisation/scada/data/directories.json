@@ -1,27 +1,27 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/",
+    "path": "/fa/id_id/",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Visualization software",
-            "path": "/id_id/products/software/visualisation/index.html",
+            "path": "/fa/id_id/products/software/visualisation/index.html",
             "child": [
               {
                 "name": "SCADA",
-                "path": "/id_id/products/software/visualisation/scada/index.html"
+                "path": "/fa/id_id/products/software/visualisation/scada/index.html"
               },
               {
                 "name": "HMI software (GOT)",
-                "path": "/id_id/products/software/visualisation/got/index.html"
+                "path": "/fa/id_id/products/software/visualisation/got/index.html"
               },
               {
                 "name": "System recorder related software",
-                "path": "/id_id/products/software/visualisation/system-recorder/index.html"
+                "path": "/fa/id_id/products/software/visualisation/system-recorder/index.html"
               },
               {
                 "name": "Modul Dukungan e-F@ctory",

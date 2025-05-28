@@ -142,17 +142,17 @@
 		"items": [
 				{
 					"name": "Fitur baru membuat segala sesuatunya lebih mudah digunakan!",
-					"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+					"image": "/fa/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
 					"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 				},
 				{
 					"name": "FAQ",
-					"image": "/id_id/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
+					"image": "/fa/id_id/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
 					"link": "https://fa-faq.mitsubishielectric.com/category/show/1997"
 				},
 				{
 					"name": "FA SPEC Search",
-					"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+					"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 					"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 				}
 		]
@@ -163,7 +163,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

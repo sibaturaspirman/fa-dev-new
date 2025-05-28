@@ -26,17 +26,17 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_id/download/index.html?modal=cad"
+						"link": "/fa/id_id/download/index.html?modal=cad"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/index.html?modal=software"
+						"link": "/fa/id_id/download/index.html?modal=software"
 					},
 					{
 						"name": "Contoh<br>Library",
 						"icon": "library",
-						"link": "/id_id/download/index.html?modal=lib"
+						"link": "/fa/id_id/download/index.html?modal=lib"
 					}
 				]
 			}
@@ -48,8 +48,8 @@
 		"items": [
 			{
 				"name": "Collaborative robot ASSISA (Special Page)",
-				"img": "/id_id/products/rbt/assista/assets/img/spotlight_assista_pr.png",
-				"link": "/id_id/products/rbt/assista/pmerit/assista/assista_pr.html"
+				"img": "/fa/id_id/products/rbt/assista/assets/img/spotlight_assista_pr.png",
+				"link": "/fa/id_id/products/rbt/assista/pmerit/assista/assista_pr.html"
 			}
 		]
 	},
@@ -86,7 +86,7 @@
 					},
 					{
 						"name": "Standard certification contents",
-						"link": "/id_id/products/rbt/robot/ex/stand/index.html"
+						"link": "/fa/id_id/products/rbt/robot/ex/stand/index.html"
 					}
 					]
 				},
@@ -98,7 +98,7 @@
 			{
 				"name": "Jaringan",
 				"icon": "tree",
-				"link": "/id_id/products/index.html#section_network"
+				"link": "/fa/id_id/products/index.html#section_network"
 			}
 		]
 	},
@@ -136,17 +136,17 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_id/download/index.html?modal=cad"
+				"link": "/fa/id_id/download/index.html?modal=cad"
 			},
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/index.html?modal=software"
+				"link": "/fa/id_id/download/index.html?modal=software"
 			},
 			{
 				"name": "Contoh Library",
 				"icon": "library",
-				"link": "/id_id/download/index.html?modal=lib"
+				"link": "/fa/id_id/download/index.html?modal=lib"
 			}
 		]
 	},
@@ -164,7 +164,7 @@
 		"items": [
 				{
 				"name": "FA SPEC Search - This is available an App.",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -175,7 +175,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

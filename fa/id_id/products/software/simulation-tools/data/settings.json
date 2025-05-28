@@ -9,17 +9,17 @@
 					{
 						"name": "Katalog",
 						"icon": "catalog",
-						"link": "/id_id/download/index.html?modal=catalog"
+						"link": "/fa/id_id/download/index.html?modal=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/id_id/download/index.html?modal=manual"
+						"link": "/fa/id_id/download/index.html?modal=manual"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/index.html?modal=software"
+						"link": "/fa/id_id/download/index.html?modal=software"
 					}
 				]
 			},
@@ -36,17 +36,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -56,7 +56,7 @@
 			{
 				"name": "Katalog Produk Umum",
 				"icon": "catalog",
-				"link": "/id_id/dctlg/index.html"
+				"link": "/fa/id_id/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated ",
@@ -109,7 +109,7 @@
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/index.html?modal=software"
+				"link": "/fa/id_id/download/index.html?modal=software"
 			}
 		]
 	},
@@ -134,7 +134,7 @@
 			{
 				"name": "Hubungki kami",
 				"icon": "estimate",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

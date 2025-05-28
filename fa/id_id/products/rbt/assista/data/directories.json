@@ -1,23 +1,23 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Collaborative Robot-ASSISTA",
-            "path": "/id_id/products/rbt/assista/index.html",
+            "path": "/fa/id_id/products/rbt/assista/index.html",
             "child": [
               {
                 "name": "MELFA ASSISTA",
-                "path": "/id_id/products/rbt/assista/items/assista/index.html"
+                "path": "/fa/id_id/products/rbt/assista/items/assista/index.html"
               },
               {
                 "name": "Intelligent Options",
-                "path": "/id_id/products/rbt/assista/items/option/index.html"
+                "path": "/fa/id_id/products/rbt/assista/items/option/index.html"
               }
             ]
           }
@@ -27,42 +27,42 @@
   },
   "switchNav": {
     "name": "Collaborative Robot",
-    "path": "/id_id/products/rbt/assista/index.html",
+    "path": "/fa/id_id/products/rbt/assista/index.html",
     "child": [
       {
         "group": "Collaborative Robot",
         "name": "Collaborative Robot MELFA ASSISTA",
-        "feature": "/id_id/products/rbt/assista/pmerit/assista/index.html",
+        "feature": "/fa/id_id/products/rbt/assista/pmerit/assista/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
-        "discon": "/id_id/products/rbt/robot/ex/renew/close/index.html",
+        "discon": "/fa/id_id/products/rbt/robot/ex/renew/close/index.html",
           "return": {
           "name": "Collaborative Robot MELFA ASSISTA",
-          "path": "/id_id/products/rbt/assista/items/assista/index.html"
+          "path": "/fa/id_id/products/rbt/assista/items/assista/index.html"
         }
       },
       {
         "group": "Collaborative Robot",
          "name": "Intelligent Options",
-        "feature": "/id_id/products/rbt/assista/pmerit/option/index.html",
+        "feature": "/fa/id_id/products/rbt/assista/pmerit/option/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
           "return": {
           "name": "Intelligent Options",
-          "path": "/id_id/products/rbt/assista/items/option/index.html"
+          "path": "/fa/id_id/products/rbt/assista/items/option/index.html"
   	    }
       },
       {
         "group": "Robot Engeneering Software (MELFA)",
         "name": "Robot Kolaboratif ASISTEN Rekayasa Perangkat Lunak",
-        "feature": "/id_id/products/rbt/assista/smerit/vb/index.html",
+        "feature": "/fa/id_id/products/rbt/assista/smerit/vb/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
           "return": {
           "name": "Robot engineering software (MELFA)",
-          "path": "/id_id/products/software/robot/index.html"
+          "path": "/fa/id_id/products/software/robot/index.html"
   	    }
       }
     ]

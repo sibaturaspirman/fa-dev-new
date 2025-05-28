@@ -1,15 +1,15 @@
 {
   "layerNav": {
     "name": "MELSEC-F Series",
-    "path": "/id_id/products/cnt/plc_fx/items/index.html",
+    "path": "/fa/id_id/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
      {
         "name": "Positioning Control",
-        "path": "/id_id/products/cnt/plc_fx/pmerit/contents/positioning/index.html"
+        "path": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/positioning/index.html"
       },
       {
         "name": "Fungsi keluaran pulsa internal PLC dan fungsi pemosisian",
-        "path": "/id_id/products/cnt/plc_fx/pmerit/contents/positioning/plc01.html"
+        "path": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/positioning/plc01.html"
       }
     ]
   }

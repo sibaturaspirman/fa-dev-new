@@ -26,17 +26,17 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_id/download/?modal=cad"
+						"link": "/fa/id_id/download/?modal=cad"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/?modal=software"
+						"link": "/fa/id_id/download/?modal=software"
 					},
 					{
 						"name": "Contoh<br>Library",
 						"icon": "library",
-						"link": "/id_id/download/?modal=lib"
+						"link": "/fa/id_id/download/?modal=lib"
 					}
 				]
 			}
@@ -54,7 +54,7 @@
 		"items": [
 			{
 				"name": "Fitur baru membuat segala sesuatunya lebih mudah digunakan!",
-				"img": "/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
+				"img": "/fa/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
@@ -174,7 +174,7 @@
 			{
 				"name": "Ganti Produk",
 				"icon": "replace",
-				"link": "/id_id/products/cnt/plca/pmerit/renewal/"
+				"link": "/fa/id_id/products/cnt/plca/pmerit/renewal/"
 			},
 			{
 				"name": "FA Integrated ",
@@ -233,12 +233,12 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_id/download/?modal=cad"
+				"link": "/fa/id_id/download/?modal=cad"
 			},
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/?modal=software"
+				"link": "/fa/id_id/download/?modal=software"
 			}
 		]
 	},
@@ -268,17 +268,17 @@
 		"items": [
 			{
 				"name": "iQ Platform-compatible PAC System Recorder",
-				"image": "/id_id/products/cnt/plcr/items/img/banner_system-recorder.jpg",
-				"link": "/id_id/products/software/visualisation/system-recorder/index.html"
+				"image": "/fa/id_id/products/cnt/plcr/items/img/banner_system-recorder.jpg",
+				"link": "/fa/id_id/products/software/visualisation/system-recorder/index.html"
 			},
 			{
 				"name": "FA Integrated ",
-				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/fa/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -289,7 +289,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

@@ -55,10 +55,10 @@ var videoObj = null;
 })(jQuery);
 
 //蜍慕判繝ｪ繝ｳ繧ｯ
-var GET_MOVIE_LINK_INFO = "/id_id/MovieSearchService/GetMovieLinkInfo.do?";
+var GET_MOVIE_LINK_INFO = "/fa/id_id/MovieSearchService/GetMovieLinkInfo.do?";
 var MOVIE_NO = "movieNO1";
 var MOVIE_KISYU_NO = "kisyuNO";
-var POPUP_URL = "/id_id/media/html/module_popup.html?"
+var POPUP_URL = "/fa/id_id/media/html/module_popup.html?"
 //---------------------------------------------
 //蠢懃ｭ嚢ML繝��繧ｿ繧貞､画焚縺ｫ譬ｼ邏阪＠縺ｾ縺�
 //蠑墓焚 xmlData�壼ｿ懃ｭ嚢ML繝��繧ｿ
@@ -237,8 +237,8 @@ function makeLinkPageMovie(docNo, kisyuNo, dispPattern, anchorType) {
 								chtm.push(datas.mvFile0);
 								chtm.push("\" />");
 							}
-							// chtm.push("<object width=\"480\" height=\"270\" type=\"application/x-shockwave-flash\" data=\"/id_id/shared/lib/mediaelement/flashmediaelement.swf\">");
-							// chtm.push("<param name=\"movie\" value=\"/id_id/shared/lib/mediaelement/flashmediaelement.swf\" />");
+							// chtm.push("<object width=\"480\" height=\"270\" type=\"application/x-shockwave-flash\" data=\"/fa/id_id/shared/lib/mediaelement/flashmediaelement.swf\">");
+							// chtm.push("<param name=\"movie\" value=\"/fa/id_id/shared/lib/mediaelement/flashmediaelement.swf\" />");
 							// chtm.push("<param name=\"flashvars\" value=\"controls=true&file=");
 							// chtm.push(datas.mvFile0);
 							// chtm.push("\" />");
@@ -312,8 +312,8 @@ function makeLinkPageMovie(docNo, kisyuNo, dispPattern, anchorType) {
 								chtm.push(datas.mvFile0);
 								chtm.push("\" />");
 							}
-							// chtm.push("<object width=\"480\" height=\"270\" type=\"application/x-shockwave-flash\" data=\"/id_id/shared/lib/mediaelement/flashmediaelement.swf\">");
-							// chtm.push("<param name=\"movie\" value=\"/id_id/shared/lib/mediaelement/flashmediaelement.swf\" />");
+							// chtm.push("<object width=\"480\" height=\"270\" type=\"application/x-shockwave-flash\" data=\"/fa/id_id/shared/lib/mediaelement/flashmediaelement.swf\">");
+							// chtm.push("<param name=\"movie\" value=\"/fa/id_id/shared/lib/mediaelement/flashmediaelement.swf\" />");
 							// chtm.push("<param name=\"flashvars\" value=\"controls=true&file=");
 							// chtm.push(datas.mvFile0);
 							// chtm.push("\" />");
@@ -351,8 +351,8 @@ function makeLinkPageMovie(docNo, kisyuNo, dispPattern, anchorType) {
 								chtm.push(datas.mvFile0);
 								chtm.push("\" />");
 							}
-							// chtm.push("<object width=\"480\" height=\"270\" type=\"application/x-shockwave-flash\" data=\"/id_id/shared/lib/mediaelement/flashmediaelement.swf\">");
-							// chtm.push("<param name=\"movie\" value=\"/id_id/shared/lib/mediaelement/flashmediaelement.swf\" />");
+							// chtm.push("<object width=\"480\" height=\"270\" type=\"application/x-shockwave-flash\" data=\"/fa/id_id/shared/lib/mediaelement/flashmediaelement.swf\">");
+							// chtm.push("<param name=\"movie\" value=\"/fa/id_id/shared/lib/mediaelement/flashmediaelement.swf\" />");
 							// chtm.push("<param name=\"flashvars\" value=\"controls=true&file=");
 							// chtm.push(datas.mvFile0);
 							// chtm.push("\" />");
@@ -440,8 +440,8 @@ function makePopUpPage() {
 						chtm.push(datas.mvFile0);
 						chtm.push("\" />");
 					}
-					chtm.push("<object width=\"480\" height=\"270\" type=\"application/x-shockwave-flash\" data=\"/id_id/shared/lib/mediaelement/flashmediaelement.swf\">");
-					chtm.push("<param name=\"movie\" value=\"/id_id/shared/lib/mediaelement/flashmediaelement.swf\" />");
+					chtm.push("<object width=\"480\" height=\"270\" type=\"application/x-shockwave-flash\" data=\"/fa/id_id/shared/lib/mediaelement/flashmediaelement.swf\">");
+					chtm.push("<param name=\"movie\" value=\"/fa/id_id/shared/lib/mediaelement/flashmediaelement.swf\" />");
 					chtm.push("<param name=\"flashvars\" value=\"controls=true&file=");
 					chtm.push(datas.mvFile0);
 					chtm.push("\" />");
@@ -481,7 +481,7 @@ function makePopUpPage() {
 //------------------------------------------------------------------------------------------
 function membersLink(chtm, datas, pattern) {
     hostName = "https://" + location.hostname;
-	sendUrl = hostName + "/id_id/ssl/php/members/b_login.php?moto=" + location.href;
+	sendUrl = hostName + "/fa/id_id/ssl/php/members/b_login.php?moto=" + location.href;
 	if (pattern == "1" || pattern == 2) {
 		chtm.push("<dl class=\"movie_list\"><dt>");
 		chtm.push(datas.docTitle);

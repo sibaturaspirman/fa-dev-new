@@ -1,27 +1,27 @@
 {
 	"layerNav": {
 		"name": "Informasi lanjutan",
-		"path": "/id_id/products/cnt/plcr/pmerit/it_connect/index.html",
+		"path": "/fa/id_id/products/cnt/plcr/pmerit/it_connect/index.html",
 		"firstLayer": [
 			{
 				"name": "Rangkaian Produk",
-				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/index.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/it_connect/index.html"
 			},
 			{
 				"name": "Perekam, Kamera perekam",
-				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/recorder.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/it_connect/recorder.html"
 			},
 			{
 				"name": "Antarmuka MES",
-				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/mes.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/it_connect/mes.html"
 			},
 			{
 				"name": "Server OPC UA",
-				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/opc.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/it_connect/opc.html"
 			},
 			{
 				"name": "Perekam data berkecepatan tinggi, Komunikasi data berkecepatan tinggi",
-				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/log.html"
+				"path": "/fa/id_id/products/cnt/plcr/pmerit/it_connect/log.html"
 			}
 		]
 	}

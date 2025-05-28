@@ -1,19 +1,19 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "The Art of Manufacturing - monozukuri",
-        "path": "/id_id/the-art-of-manufacturing/index.html",
+        "path": "/fa/id_id/the-art-of-manufacturing/index.html",
         "child": [
           {
             "name": "Search",
-            "path": "/id_id/the-art-of-manufacturing/search.html"
+            "path": "/fa/id_id/the-art-of-manufacturing/search.html"
           },
           {
             "name": "Previous Issue",
-            "path": "/id_id/the-art-of-manufacturing/archive.html"
+            "path": "/fa/id_id/the-art-of-manufacturing/archive.html"
           }
         ]
       }

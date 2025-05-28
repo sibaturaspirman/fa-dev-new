@@ -1,67 +1,67 @@
 {
 	"layerNav": {
 		"name": "CC-Link IE TSN",
-		"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/concept/",
+		"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/concept/",
 		"firstLayer": [
 			{
 				"name": "CC-Link IE TSN",
-				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/concept/index.html"
+				"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/concept/index.html"
 			},
 			{
 				"name": "Fitur",
-				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/features/performance.html",
+				"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/features/performance.html",
 				"secondLayer": [
 					{
 						"name": "Performa",
-						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/features/performance.html"
+						"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/features/performance.html"
 					},
 					{
 						"name": "Kecerdasan",
-						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/features/intelligence.html"
+						"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/features/intelligence.html"
 					},
 					{
 						"name": "Konektifitas",
-						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/features/connectivity.html"
+						"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/features/connectivity.html"
 					}
 				]
 			},
 			{
 				"name": "Konfigurasi Sistem",
-				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/sysconfig/index.html"
+				"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/sysconfig/index.html"
 			},
 			{
 				"name": "Produk CC-Link IE TSN",
-				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/master.html",
+				"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/master.html",
 				"secondLayer": [
 					{
 						"name": "Master stations",
-						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/master.html"
+						"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/master.html"
 					},
 					{
 						"name": "Drives/GOT (HMI)",
-						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/drv_hmi.html"
+						"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/drv_hmi.html"
 					},
 					{
 						"name": "Modul jarak jauh tipe blok",
-						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/block_type_rio.html"
+						"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/block_type_rio.html"
 					},
 					{
 						"name": "Modul jembatan/switch Ethernet yang dikelola",
-						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/hub_bridge.html"
+						"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/hub_bridge.html"
 					},
 					{
 						"name": "Produk Mitra",
-						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/partner.html"
+						"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/partner.html"
 					},
 					{
 						"name": "Kit pengembangan/perangkat lunak komunikasi",
-						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/dev_tool.html"
+						"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/dev_tool.html"
 					}
 				]
 			},
 			{
 				"name": "Spesifikasi",
-				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/spec/index.html"
+				"path": "/fa/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/spec/index.html"
 			},
 			{
 				"name": "Temukan Selengkapnya",
