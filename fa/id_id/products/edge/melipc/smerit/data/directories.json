@@ -1,23 +1,23 @@
 {
   "layerNav": {
     "name": "Industrial Computer MELIPC",
-    "path": "/id_id/products/edge/melipc/index.html",
+    "path": "/fa/id_id/products/edge/melipc/index.html",
     "firstLayer": [
       {
         "name": "Pengaturan/Pemograman Perangkat lunak",
-        "path": "/id_id/products/edge/melipc/smerit/index.html"
+        "path": "/fa/id_id/products/edge/melipc/smerit/index.html"
       },
       {
         "name": "MI Konfigurator",
-        "path": "/id_id/products/edge/melipc/smerit/mic.html"
+        "path": "/fa/id_id/products/edge/melipc/smerit/mic.html"
       },
       {
         "name": "CW Workbench 4",
-        "path": "/id_id/products/edge/melipc/smerit/cww.html"
+        "path": "/fa/id_id/products/edge/melipc/smerit/cww.html"
       },
       {
         "name": "Template solusi",
-        "path": "/id_id/products/edge/melipc/smerit/soltemp.html"
+        "path": "/fa/id_id/products/edge/melipc/smerit/soltemp.html"
       }
     ]
   }

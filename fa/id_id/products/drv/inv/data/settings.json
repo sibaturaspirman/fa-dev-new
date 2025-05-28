@@ -39,17 +39,17 @@
 		"items": [
 			{
 				"name": "New product FREQROL-D800 Series",
-				"img": "/id_id/products/drv/inv/img/spotlight_d800.jpg",
+				"img": "/fa/id_id/products/drv/inv/img/spotlight_d800.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_d/d800/index.html"
 			},
 			{
 				"name": "Selected by application",
-				"img": "/id_id/products/drv/inv/img/spotlight_lup.jpg",
-				"link": "/id_id/products/drv/inv/pmerit/lup/index.html"
+				"img": "/fa/id_id/products/drv/inv/img/spotlight_lup.jpg",
+				"link": "/fa/id_id/products/drv/inv/pmerit/lup/index.html"
 			},
 			{
 				"name": "Fitur baru membuat segala sesuatunya lebih mudah digunakan!",
-				"img": "/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
+				"img": "/fa/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
@@ -60,7 +60,7 @@
 			{
 				"name": "Produk Unggulan",
 				"icon": "announce",
-				"link": "/id_id/products/drv/inv/pmerit/new_products/watch/index.html"
+				"link": "/fa/id_id/products/drv/inv/pmerit/new_products/watch/index.html"
 			},
 			{
 				"name": "Spesifikasi Produk",
@@ -129,17 +129,17 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_id/download/?modal=cad"
+				"link": "/fa/id_id/download/?modal=cad"
 			},
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/?modal=software"
+				"link": "/fa/id_id/download/?modal=software"
 			},
 			{
 				"name": "Contoh Library",
 				"icon": "library",
-				"link": "/id_id/download/?modal=lib"
+				"link": "/fa/id_id/download/?modal=lib"
 			}
 		]
 	},
@@ -161,17 +161,17 @@
 		"items": [
             {
 				"name": "The energy saving calculation system",
-				"image": "/id_id/products/drv/inv/img/banner_simulation.jpg",
-				"link": "/id_id/products/drv/inv/pmerit/select/index.html"
+				"image": "/fa/id_id/products/drv/inv/img/banner_simulation.jpg",
+				"link": "/fa/id_id/products/drv/inv/pmerit/select/index.html"
             },
             {
 				"name": "Katalog Digital",
-				"image": "/id_id/products/drv/inv/img/banner_web-catalog.jpg",
+				"image": "/fa/id_id/products/drv/inv/img/banner_web-catalog.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/catalog_en.html"
             },
             {
 				"name": "Fitur baru membuat segala sesuatunya lebih mudah digunakan!",
-				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/fa/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
             }
 		]
@@ -182,7 +182,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

@@ -1,23 +1,23 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Acara &amp; Seminar",
-        "path": "/id_id/events-seminars/index.html",
+        "path": "/fa/id_id/events-seminars/index.html",
         "child": [
           {
             "name": "Ruang Pameran Virtual",
-            "path": "/id_id/events-seminars/virtual-space/index.html"
+            "path": "/fa/id_id/events-seminars/virtual-space/index.html"
           },
           {
             "name": "Showroom",
-            "path": "/id_id/events-seminars/index.html#section03",
+            "path": "/fa/id_id/events-seminars/index.html#section03",
             "child": [
               {
                 "name": "Pabrik Shinshiro Nagoya Works",
-                "path": "/id_id/events-seminars/factories/nagoya_shinshiro/index.html"
+                "path": "/fa/id_id/events-seminars/factories/nagoya_shinshiro/index.html"
               }
             ]
           },
@@ -30,15 +30,15 @@
       },
       {
         "name": "Acara &amp; Seminar",
-        "path": "/id_id/events-seminars/index.html",
+        "path": "/fa/id_id/events-seminars/index.html",
         "child": [
           {
             "name": "Acara &amp; Seminar",
-            "path": "/id_id/events-seminars/index.html#section01",
+            "path": "/fa/id_id/events-seminars/index.html#section01",
             "child": [
               {
                 "name": "IIFES 2024 &#65374;Major Exhibition of Cutting-Edge Technologies for Automation and Measurement&#65374;",
-                "path": "/id_id/events-seminars/exhibitions/2024/iifes2024/index.html"
+                "path": "/fa/id_id/events-seminars/exhibitions/2024/iifes2024/index.html"
               }
             ]
           }

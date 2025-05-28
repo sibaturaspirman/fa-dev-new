@@ -1,19 +1,19 @@
 {
   "layerNav": {
     "name": "FREQROL",
-    "path": "/id_id/products/drv/inv/pmerit/index.html",
+    "path": "/fa/id_id/products/drv/inv/pmerit/index.html",
     "firstLayer": [
       {
         "name": "Fitur utama",
-        "path": "/id_id/products/drv/inv/pmerit/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/index.html"
       },
       {
         "name": "Produk yang direkomendasikan",
-        "path": "/id_id/products/drv/inv/pmerit/new_products/watch/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/new_products/watch/index.html"
       },
       {
         "name": "Perawatan peralatan",
-        "path": "/id_id/products/drv/inv/pmerit/prevention/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/prevention/index.html"
       },
       {
         "name": "Katalog Digital",

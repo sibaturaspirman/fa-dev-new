@@ -1,31 +1,31 @@
 {
     "layerNav": {
         "name": "Rotary Servo Motor",
-        "path": "/id_id/products/drv/servo/pmerit/mr_j5/motor/feature.html",
+        "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/motor/feature.html",
         "firstLayer": [
             {
                 "name": "Lini Produk",
-                "path": "/id_id/products/drv/servo/pmerit/mr_j5/motor/feature.html"
+                "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/motor/feature.html"
             },
             {
                 "name": "Fitur",
-                "path": "/id_id/products/drv/servo/pmerit/mr_j5/motor/feature_2.html"
+                "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/motor/feature_2.html"
             },
             {
                 "name": "Penunjukan Model",
-                "path": "/id_id/products/drv/servo/pmerit/mr_j5/motor/motormodel.html"
+                "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/motor/motormodel.html"
             },
             {
                 "name": "Kombinasi",
-                "path": "/id_id/products/drv/servo/pmerit/mr_j5/motor/amplist.html"
+                "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/motor/amplist.html"
             },
             {
                 "name": "Karakteristik Torsi",
-                "path": "/id_id/products/drv/servo/pmerit/mr_j5/motor/torque.html"
+                "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/motor/torque.html"
             },
             {
                 "name": "Contoh Aplikasi",
-                "path": "/id_id/products/drv/servo/pmerit/mr_j5/motor/case.html"
+                "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/motor/case.html"
             }
         ]
     }

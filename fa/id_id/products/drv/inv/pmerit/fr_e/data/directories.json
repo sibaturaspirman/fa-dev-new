@@ -1,89 +1,89 @@
 {
   "layerNav": {
     "name": "FREQROL-E series",
-    "path": "/id_id/products/drv/inv/items/fr_e/index.html",
+    "path": "/fa/id_id/products/drv/inv/items/fr_e/index.html",
     "firstLayer": [
       {
         "name": "FR-E800",
-        "path": "/id_id/products/drv/inv/pmerit/fr_e/index.html",
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/index.html",
         "secondLayer": [
           {
             "name": "Konsep",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/index.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/index.html"
           },
           {
             "name": "Menuju pabrik pintar",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e801.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e800/e801.html"
           },
           {
             "name": "Berbagai macam aplikasi",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e802.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e800/e802.html"
           },
           {
             "name": "Nilai tambah yang lebih tinggi",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e803.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e800/e803.html"
           },
           {
             "name": "Peningkatan keamanan",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e804.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e800/e804.html"
           },
           {
             "name": "Hemat energi",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e805.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e800/e805.html"
           },
           {
             "name": "Peningkatan pemeliharaan",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e806.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e800/e806.html"
           },
           {
             "name": "Pengurangan waktu henti",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e807.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e800/e807.html"
           },
           {
             "name": "Rekayasa perangkat lunak untuk kemudahan pengoperasian lebih lanjut",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/e808.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e800/e808.html"
           },
           {
             "name": "Konfigurasi Model",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e800/model_name_configuration.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e800/model_name_configuration.html"
           }
         ]
       },
       {
         "name": "FR-E700",
-        "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/index.html",
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e700/index.html",
         "secondLayer": [
           {
             "name": "Konsep",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/index.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e700/index.html"
           },
           {
             "name": "Cocok untuk berbagai crane untuk mencapai operasi yang cepat, kuat, dan lancar",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e801.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e700/e801.html"
           },
           {
             "name": "Perawatan lebih mudah",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e802.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e700/e802.html"
           },
           {
             "name": "Mengejar kinerja drive terdepan",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e803.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e700/e803.html"
           },
           {
             "name": "Dukungan sistem",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e804.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e700/e804.html"
           },
           {
             "name": "Kontrol mesin sesuai keinginan Anda",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e805.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e700/e805.html"
           },
           {
             "name": "Memberikan lingkungan operasi inverter yang nyaman",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e806.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e700/e806.html"
           },
           {
             "name": "Konfigurasi model",
-            "path": "/id_id/products/drv/inv/pmerit/fr_e/e700/e807.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_e/e700/e807.html"
           }
         ]
       }

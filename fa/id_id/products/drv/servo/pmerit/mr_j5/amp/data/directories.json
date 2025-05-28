@@ -1,31 +1,31 @@
 {
   "layerNav": {
     "name": "Servo Amplifier",
-    "path": "/id_id/products/drv/servo/pmerit/mr_j5/amp/feature.html",
+    "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/feature.html",
     "firstLayer": [
       {
         "name": "Lini Produk",
-        "path": "/id_id/products/drv/servo/pmerit/mr_j5/amp/feature.html"
+        "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/feature.html"
       },
       {
         "name": "Progresivitas/Kegunaan",
-        "path": "/id_id/products/drv/servo/pmerit/mr_j5/amp/f_advanc.html"
+        "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/f_advanc.html"
       },
       {
         "name": "Konektifitas",
-        "path": "/id_id/products/drv/servo/pmerit/mr_j5/amp/f_connectivity.html"
+        "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/f_connectivity.html"
       },
       {
         "name": "Pemeliharaan",
-        "path": "/id_id/products/drv/servo/pmerit/mr_j5/amp/f_maintainability.html"
+        "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/f_maintainability.html"
       },
       {
         "name": "Warisan",
-        "path": "/id_id/products/drv/servo/pmerit/mr_j5/amp/progressiveness.html"
+        "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/progressiveness.html"
       },
       {
         "name": "Penunjukan Model",
-        "path": "/id_id/products/drv/servo/pmerit/mr_j5/amp/ampmodel.html"
+        "path": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/ampmodel.html"
       }
 
     ]

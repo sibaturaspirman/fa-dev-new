@@ -1,31 +1,31 @@
 {
   "layerNav": {
       "name": "Linear Servo Motor",
-      "path": "/id_id/products/drv/servo/pmerit/mr_jet/linear/index.html",
+      "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/linear/index.html",
       "firstLayer": [
          {
              "name": "Lini Produk",
-             "path": "/id_id/products/drv/servo/pmerit/mr_jet/linear/index.html"
+             "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/linear/index.html"
          },
           {
               "name": "Fitur",
-              "path": "/id_id/products/drv/servo/pmerit/mr_jet/linear/index2.html"
+              "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/linear/index2.html"
           },
           {
               "name": "Penunjukan Model",
-              "path": "/id_id/products/drv/servo/pmerit/mr_jet/linear/lm_model.html"
+              "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/linear/lm_model.html"
           },
           {
               "name": "Kombinasi",
-              "path": "/id_id/products/drv/servo/pmerit/mr_jet/linear/lm_amplist.html"
+              "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/linear/lm_amplist.html"
           },
           {
               "name": "Karakteristik Dorongan",
-              "path": "/id_id/products/drv/servo/pmerit/mr_jet/linear/thrust.html"
+              "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/linear/thrust.html"
           },
           {
             "name": "Contoh Aplikasi",
-            "path": "/id_id/products/drv/servo/pmerit/mr_jet/linear/case.html"
+            "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/linear/case.html"
          }
       ]
   }

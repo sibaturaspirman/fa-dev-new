@@ -39,17 +39,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_id/shared/gws0001/img/dummy_index.png",
+				"img": "/fa/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -119,17 +119,17 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_id/download/?modal=cad"
+				"link": "/fa/id_id/download/?modal=cad"
 			},
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/?modal=software"
+				"link": "/fa/id_id/download/?modal=software"
 			},
 			{
 				"name": "Contoh Library",
 				"icon": "library",
-				"link": "/id_id/download/?modal=lib"
+				"link": "/fa/id_id/download/?modal=lib"
 			}
 		]
 	},
@@ -151,17 +151,17 @@
 		"items": [
             {
 				"name": "The energy saving calculation system",
-				"image": "/id_id/products/drv/inv/img/banner_simulation.jpg",
-				"link": "/id_id/products/drv/inv/pmerit/select/index.html"
+				"image": "/fa/id_id/products/drv/inv/img/banner_simulation.jpg",
+				"link": "/fa/id_id/products/drv/inv/pmerit/select/index.html"
             },
             {
 				"name": "Katalog Digital",
-				"image": "/id_id/products/drv/inv/img/banner_web-catalog.jpg",
+				"image": "/fa/id_id/products/drv/inv/img/banner_web-catalog.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/catalog_en.html"
             },
             {
 				"name": "Fitur baru membuat segala sesuatunya lebih mudah digunakan!",
-				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/fa/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
             }
 		]
@@ -172,7 +172,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

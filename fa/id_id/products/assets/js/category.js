@@ -99,8 +99,8 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       Products = productsSearchSuggetJSON.Products;
       Kisyus = $.extend(true, [], productsSearchSuggetJSON.Products);
       
-      $('body').append('<script src="/id_id/shared/suggest/SGSTSearch.js"><\/script>');
-      $('body').append('<script src="/id_id/shared/suggest/SGSTCore.js"><\/script>');
+      $('body').append('<script src="/fa/id_id/shared/suggest/SGSTSearch.js"><\/script>');
+      $('body').append('<script src="/fa/id_id/shared/suggest/SGSTCore.js"><\/script>');
 
     })
     .fail(function(jqXHR, textStatus, errorThrown){
@@ -137,7 +137,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       }
     });
     // 制限文字数を満たない状態でサブミットされた場合はアラート表示
-    $('form[action="/id_id/products/typename/search.do"]').each(function() {
+    $('form[action="/fa/id_id/products/typename/search.do"]').each(function() {
       const $this = $(this);
       const $thisTextField = $this.find('input[type="text"]');
       $this.submit(function() {
@@ -660,11 +660,11 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       ancestors: [
         {
           "name": "Beranda",
-          "path": "/id_id/"
+          "path": "/fa/id_id/"
         },
         {
           "name": "Katalog Produk",
-          "path": "/id_id/products/index.html"
+          "path": "/fa/id_id/products/index.html"
         }
       ],
       parent: {},

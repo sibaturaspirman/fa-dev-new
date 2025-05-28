@@ -1,19 +1,19 @@
 {
 	"directories": {
 		"name": "Beranda",
-		"path": "/id_id/index.html",
+		"path": "/fa/id_id/index.html",
 		"child": [
 			{
 				"name": "Katalog Produk",
-				"path": "/id_id/products/index.html",
+				"path": "/fa/id_id/products/index.html",
 				"child": [
 					{
 						"name": "AC Servos-MELSERVO",
-						"path": "/id_id/products/drv/servo/index.html",
+						"path": "/fa/id_id/products/drv/servo/index.html",
 						"child": [
 							{
 								"name": "MELSERVO-J5",
-								"path": "/id_id/products/drv/servo/items/mr_j5/index.html"
+								"path": "/fa/id_id/products/drv/servo/items/mr_j5/index.html"
 							},
 							{
 								"name": "MELSERVO-JET",
@@ -44,69 +44,69 @@
 	},
 	"switchNav": {
 		"name": "AC Servos-MELSERVO",
-		"path": "/id_id/products/drv/servo/index.html",
+		"path": "/fa/id_id/products/drv/servo/index.html",
 		"child": [
 			{
 				"group": "MELSERVO-J5-00",
 				"name": "Konsep",
-				"feature": "/id_id/products/drv/servo/pmerit/mr_j5/amp/concept.html",
+				"feature": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/concept.html",
 				"return": {
 					"name": "MELSERVO-J5",
-					"path": "/id_id/products/drv/servo/items/mr_j5/index.html"
+					"path": "/fa/id_id/products/drv/servo/items/mr_j5/index.html"
 				}
 			},
 			{
 				"group": "MELSERVO-J5-00",
 				"name": "Servo Amplifier",
-				"feature": "/id_id/products/drv/servo/pmerit/mr_j5/amp/feature.html",
+				"feature": "/fa/id_id/products/drv/servo/pmerit/mr_j5/amp/feature.html",
 				"spec": "",
 				"standard": "",
 				"discon": "",
 				"return": {
 					"name": "MELSERVO-J5",
-					"path": "/id_id/products/drv/servo/items/mr_j5/index.html"
+					"path": "/fa/id_id/products/drv/servo/items/mr_j5/index.html"
 				}
 			},
 			{
 				"group": "MELSERVO-J5-00",
 				"name": "Rotary Servo Motor",
-				"feature": "/id_id/products/drv/servo/pmerit/mr_j5/motor/feature.html",
+				"feature": "/fa/id_id/products/drv/servo/pmerit/mr_j5/motor/feature.html",
 				"spec": "",
 				"standard": "",
 				"discon": "",
 				"return": {
 					"name": "MELSERVO-J5",
-					"path": "/id_id/products/drv/servo/items/mr_j5/index.html"
+					"path": "/fa/id_id/products/drv/servo/items/mr_j5/index.html"
 				}
 			},
 			{
 				"group": "MELSERVO-J5-00",
 				"name": "Linear Servo Motor",
-				"feature": "/id_id/products/drv/servo/pmerit/mr_j5/linear/feature.html",
+				"feature": "/fa/id_id/products/drv/servo/pmerit/mr_j5/linear/feature.html",
 				"spec": "",
 				"standard": "",
 				"discon": "",
 				"return": {
 					"name": "MELSERVO-J5",
-					"path": "/id_id/products/drv/servo/items/mr_j5/index.html"
+					"path": "/fa/id_id/products/drv/servo/items/mr_j5/index.html"
 				}
 			},
 			{
 				"group": "MELSERVO-J5-00",
 				"name": "Direct Drive Motor",
-				"feature": "/id_id/products/drv/servo/pmerit/mr_j5/ddm/feature.html",
+				"feature": "/fa/id_id/products/drv/servo/pmerit/mr_j5/ddm/feature.html",
 				"spec": "",
 				"standard": "",
 				"discon": "",
 				"return": {
 					"name": "MELSERVO-J5",
-					"path": "/id_id/products/drv/servo/items/mr_j5/index.html"
+					"path": "/fa/id_id/products/drv/servo/items/mr_j5/index.html"
 				}
 			},
 			{
 				"group": "MELSERVO-JET-00",
 				"name": "Konsep",
-				"feature": "/id_id/products/drv/servo/pmerit/mr_jet/amp/index.html",
+				"feature": "/fa/id_id/products/drv/servo/pmerit/mr_jet/amp/index.html",
 				"spec": "",
 				"standard": "",
 				"discon": "",
@@ -118,7 +118,7 @@
 			{
 				"group": "MELSERVO-JET-00",
 				"name": "Servo Amplifier",
-				"feature": "/id_id/products/drv/servo/pmerit/mr_jet/amp/feature.html",
+				"feature": "/fa/id_id/products/drv/servo/pmerit/mr_jet/amp/feature.html",
 				"spec": "",
 				"standard": "",
 				"discon": "",
@@ -130,7 +130,7 @@
 			{
 				"group": "MELSERVO-JET-00",
 				"name": "Rotary Servo Motor",
-				"feature": "/id_id/products/drv/servo/pmerit/mr_jet/motor/index.html",
+				"feature": "/fa/id_id/products/drv/servo/pmerit/mr_jet/motor/index.html",
 				"spec": "",
 				"standard": "",
 				"discon": "",
@@ -142,7 +142,7 @@
 			{
 				"group": "MELSERVO-JET-00",
 				"name": "Linear Servo Motor",
-				"feature": "/id_id/products/drv/servo/pmerit/mr_jet/linear/index.html",
+				"feature": "/fa/id_id/products/drv/servo/pmerit/mr_jet/linear/index.html",
 				"spec": "",
 				"standard": "",
 				"discon": "",

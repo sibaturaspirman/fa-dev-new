@@ -43,18 +43,18 @@
 		"items": [
 			{
 				"name": "Masa Depan Mitsubishi Electric CNC",
-				"img": "/id_id/products/cnt/cnc/img/spotlight_difference.jpg",
-				"link": "/id_id/products/cnt/cnc/pr/difference/index.html"
+				"img": "/fa/id_id/products/cnt/cnc/img/spotlight_difference.jpg",
+				"link": "/fa/id_id/products/cnt/cnc/pr/difference/index.html"
 			},
 			{
 				"name": "M800V/M80V Series",
-				"img": "/id_id/products/cnt/cnc/img/spotlight_web_m800v_m80v.jpg",
-				"link": "/id_id/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html"
+				"img": "/fa/id_id/products/cnt/cnc/img/spotlight_web_m800v_m80v.jpg",
+				"link": "/fa/id_id/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html"
 			},
 			{
 				"name": "NC Virtual Simulator",
-				"img": "/id_id/products/cnt/cnc/img/spotlight_nc_virtual_simulator.jpg",
-				"link": "/id_id/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html"
+				"img": "/fa/id_id/products/cnt/cnc/img/spotlight_nc_virtual_simulator.jpg",
+				"link": "/fa/id_id/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html"
 			}
 		]
 	},
@@ -81,7 +81,7 @@
 			},
 			{
 				"name": "Acara",
-				"link": "/id_id/products/cnt/cnc/evt/index.html"
+				"link": "/fa/id_id/products/cnt/cnc/evt/index.html"
 			},
 			{
 				"name": "Berita CNC",
@@ -136,12 +136,12 @@
 		"items": [
 			{
 				"name": "YouTube MECHATRO PLUS",
-				"image": "/id_id/products/cnt/cnc/img/banner_youtube_mecha.jpg",
+				"image": "/fa/id_id/products/cnt/cnc/img/banner_youtube_mecha.jpg",
 				"link": "https://www.youtube.com/c/MITSUBISHIELECTRICMECHATRONICS"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/fa/id_id/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -152,7 +152,7 @@
 			{
 				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_id/contact-us/index.html"
+				"link": "/fa/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

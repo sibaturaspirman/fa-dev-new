@@ -1,33 +1,33 @@
 {
   "directories": {
     "name": "HOME",
-    "path": "/id_id/",
+    "path": "/fa/id_id/",
     "child": [
       {
         "name": "Tentang Kami",
-        "path": "/id_id/about-us/",
+        "path": "/fa/id_id/about-us/",
         "child": [
           {
             "name": "Pengembangan dan Produksi Terdepan",
-            "path": "/id_id/about-us/core-competencies/manufacturing/"
+            "path": "/fa/id_id/about-us/core-competencies/manufacturing/"
           },
           {
             "name": "Jajaran Produk yang Luas",
-            "path": "/id_id/about-us/core-competencies/products/"
+            "path": "/fa/id_id/about-us/core-competencies/products/"
           },
           {
             "name": "Menyediakan Solusi Terintegrasi",
-            "path": "/id_id/about-us/core-competencies/solutions/"
+            "path": "/fa/id_id/about-us/core-competencies/solutions/"
           },
           {
             "name": "Jaringan Layanan Global",
-            "path": "/id_id/about-us/core-competencies/global-network/"
+            "path": "/fa/id_id/about-us/core-competencies/global-network/"
           }
         ]
       },
       {
         "name": "Tentang Kami",
-        "path": "/id_id/about-us/",
+        "path": "/fa/id_id/about-us/",
         "child": [
           {
             "name": "Komitmen Kami terhadap Keberlanjutan",
@@ -51,7 +51,7 @@
       },
       {
         "name": "Tentang Kami",
-        "path": "/id_id/about-us/",
+        "path": "/fa/id_id/about-us/",
         "child": [
           {
             "name": "Keamanan Produk FA",
@@ -65,7 +65,7 @@
       },
       {
         "name": "Tentang Kami",
-        "path": "/id_id/about-us/",
+        "path": "/fa/id_id/about-us/",
         "child": [
           {
             "name": "Lokasi di seluruh dunia",
@@ -89,15 +89,15 @@
       },
       {
         "name": "Tentang Kami",
-        "path": "/id_id/about-us/",
+        "path": "/fa/id_id/about-us/",
         "child": [
           {
             "name": "Kontribusi FA selama bertahun-tahun",
-            "path": "/id_id/about-us/history/contribution/"
+            "path": "/fa/id_id/about-us/history/contribution/"
           },
           {
             "name": "Inovasi FA, yang pertama dan visi",
-            "path": "/id_id/about-us/history/innovation/"
+            "path": "/fa/id_id/about-us/history/innovation/"
           }
         ]
       }

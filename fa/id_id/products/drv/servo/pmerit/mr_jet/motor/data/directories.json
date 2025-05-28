@@ -1,31 +1,31 @@
 {
   "layerNav": {
       "name": "Rotary Servo Motor",
-      "path": "/id_id/products/drv/servo/pmerit/mr_jet/motor/index.html",
+      "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/motor/index.html",
       "firstLayer": [
          {
              "name": "Lini Produk",
-             "path": "/id_id/products/drv/servo/pmerit/mr_jet/motor/index.html"
+             "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/motor/index.html"
          },
          {
               "name": "Fitur",
-              "path": "/id_id/products/drv/servo/pmerit/mr_jet/motor/index2.html"
+              "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/motor/index2.html"
           },
           {
               "name": "Penunjukan Model",
-              "path": "/id_id/products/drv/servo/pmerit/mr_jet/motor/motormodel.html"
+              "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/motor/motormodel.html"
           },
           {
               "name": "Kombinasi",
-              "path": "/id_id/products/drv/servo/pmerit/mr_jet/motor/amplist.html"
+              "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/motor/amplist.html"
           },
           {
               "name": "Karakteristik Torsi",
-              "path": "/id_id/products/drv/servo/pmerit/mr_jet/motor/torque.html"
+              "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/motor/torque.html"
           },
           {
             "name": "Contoh Aplikasi",
-            "path": "/id_id/products/drv/servo/pmerit/mr_jet/motor/case.html"
+            "path": "/fa/id_id/products/drv/servo/pmerit/mr_jet/motor/case.html"
           }
       ]
   }

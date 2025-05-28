@@ -1,57 +1,57 @@
 {
   "layerNav": {
     "name": "FREQROL-F series",
-    "path": "/id_id/products/drv/inv/items/fr_f/index.html",
+    "path": "/fa/id_id/products/drv/inv/items/fr_f/index.html",
     "firstLayer": [
       {
         "name": "Gambaran Umum",
-        "path": "/id_id/products/drv/inv/pmerit/fr_f/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/index.html"
       },
       {
         "name": "FREQROL-F800",
-        "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html",
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html",
         "secondLayer": [
           {
             "name": "Konsep",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html"
           },
           {
             "name": "Hemat Energi",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f801.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f801.html"
           },
           {
             "name": "Fungsi Ideal untuk Kipas dan Pompa",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f802.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f802.html"
           },
           {
             "name": "Keamanan &amp; Keselamatan",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f803.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f803.html"
           },
           {
             "name": "Kesesuaian dengan Lingkungan",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f804.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f804.html"
           },
           {
             "name": "Pengaturan Mudah &amp; Operasi",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f805.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f805.html"
           },
           {
             "name": "Contoh Perhitungan Percobaan Efek Penghematan Energi",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f806.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f806.html"
           },
           {
             "name": "Konfigurasi Model",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f807.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/f807.html"
           },
           {
             "name": "Fungsi Perlindungan",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/fault.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/fault.html"
           }
         ]
       },
       {
         "name": "FREQROL-F700PJ",
-        "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html"
       }
     ]
   }

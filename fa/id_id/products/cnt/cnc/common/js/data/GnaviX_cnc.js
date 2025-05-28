@@ -4,4 +4,4 @@
 //  (4)style  :ddタグに付与するスタイル定義
 //  (5)ddclass  :ddタグに付与するクラス名称
 var naviDataX = new Array;
-naviDataX.push(new texts("Events","/id_id/products/cnt/cnc/evt/index.html?menu=kisyu&mid=cnc","","",""));
+naviDataX.push(new texts("Events","/fa/id_id/products/cnt/cnc/evt/index.html?menu=kisyu&mid=cnc","","",""));

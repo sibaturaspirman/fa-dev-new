@@ -60,7 +60,7 @@
 }
 
 #melfa_contents_2col_a #main_area h3.blue {
-	/*background:url("/id_id/business/img/header_blue.jpg") 0 0 no-repeat #FFF;
+	/*background:url("/fa/id_id/business/img/header_blue.jpg") 0 0 no-repeat #FFF;
 	color:#FFF;*/
 	font-size:75%;
 	padding-bottom:2px;
@@ -175,7 +175,7 @@ ul#coretile li h4 {
 /*
 ul#coretile li h4 a {
 	padding-left:13px;
-	background:url("/id_id/business/img/circle.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/circle.gif") 0 50% no-repeat transparent;
 	color:#0083db;
 	display:block;
 }
@@ -309,7 +309,7 @@ ul#solution li h4 {
 }
 
 #melfa_contents_2col_b #main_area ul.list_img li h3, #melfa_contents_2col_a #main_area ul.list_img li h3 {
-	/*background:url("/id_id/business/img/header_blue250.jpg") 0 0 no-repeat transparent;
+	/*background:url("/fa/id_id/business/img/header_blue250.jpg") 0 0 no-repeat transparent;
 	color:#FFF;*/
 	font-size:100%;	
 	line-height:18px;
@@ -423,37 +423,37 @@ ul#solution li h4 {
 #main_area ul.icon_list li.gijutsu {
 	/*background-color:#c65204;*/
 	/*border-left:10px solid #c65204;*/
-	background:url("/id_id/business/img/orange_bullet.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/orange_bullet.gif") 0 50% no-repeat transparent;
 }
 
 #main_area ul.icon_list li.training {
 	/*background-color:#ffce3b;*/
 	/*border-left:10px solid #ffce3b;*/
-	background:url("/id_id/business/img/yellow_bullet.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/yellow_bullet.gif") 0 50% no-repeat transparent;
 }
 
 #main_area ul.icon_list li.sample {
 	/*background-color:#136b6b;*/
 	/*border-left:10px solid #136b6b;*/
-	background:url("/id_id/business/img/green_bullet.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/green_bullet.gif") 0 50% no-repeat transparent;
 }
 
 #main_area ul.icon_list li.finance {
 	/*background-color:#00dbb4;*/
 	/*border-left:10px solid #00dbb4;*/
-	background:url("/id_id/business/img/turquoise_bullet.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/turquoise_bullet.gif") 0 50% no-repeat transparent;
 }
 
 #main_area ul.icon_list li.after {
 	/*background-color:#008bdb;*/
 	/*border-left:10px solid #008bdb;*/
-	background:url("/id_id/business/img/blue_bullet.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/blue_bullet.gif") 0 50% no-repeat transparent;
 }
 
 #main_area ul.icon_list li.show {
 	/*background-color:#2049be;*/
 	/*border-left:10px solid #2049be;*/
-	background:url("/id_id/business/img/navy_bullet.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/navy_bullet.gif") 0 50% no-repeat transparent;
 }
 
 ul#products {
@@ -663,7 +663,7 @@ ul#products li.lastItem {
 
 #main_area .place_box dl a {
 	padding-right:17px;
-	background:url("/id_id/business/img/new_window.gif") right 4px no-repeat transparent;
+	background:url("/fa/id_id/business/img/new_window.gif") right 4px no-repeat transparent;
 }
 
 
@@ -886,7 +886,7 @@ ul#products li.lastItem {
 }
 
 #main_area div.an_bottom {
-	background:url("/id_id/shared/img/module/bg_pagelinik01.gif") left bottom repeat-x transparent;
+	background:url("/fa/id_id/shared/img/module/bg_pagelinik01.gif") left bottom repeat-x transparent;
 }
 
 #main_area ul.an_list {
@@ -894,14 +894,14 @@ ul#products li.lastItem {
 	padding:20px 0 20px 0;
 	list-style: none;
 
-	background:url("/id_id/shared/img/module/bg_pagelinik01.gif") 0 0 repeat-x transparent;
+	background:url("/fa/id_id/shared/img/module/bg_pagelinik01.gif") 0 0 repeat-x transparent;
 }
 
 #main_area ul.an_list li {
 	float:left;
 	padding:0 10px 0 12px;
 	margin:0 20px 10px 0;
-	background:url("/id_id/shared/img/module/bg_pagelinik02.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/shared/img/module/bg_pagelinik02.gif") 0 50% no-repeat transparent;
 	white-space:nowrap;
 }
 
@@ -915,11 +915,11 @@ ul#products li.lastItem {
 }
 
 #melfa_contents_2col_a #main_area div.col2 h2 {
-	background:url("/id_id/shared/img/module/h_type2_col3_bottom.gif") no-repeat bottom;
+	background:url("/fa/id_id/shared/img/module/h_type2_col3_bottom.gif") no-repeat bottom;
 }	
 
 #melfa_contents_2col_a #main_area div.col2 h2 span {
-	/*background:url("/id_id/business/img/h_type2_col3_530top.gif") no-repeat;*/
+	/*background:url("/fa/id_id/business/img/h_type2_col3_530top.gif") no-repeat;*/
 	padding:5px 0 3px 20px;
 	display:block;
 }
@@ -962,7 +962,7 @@ ul#products li.lastItem {
 
 
 #main_area div#map {
-	background:url("/id_id/business/img/map.jpg") 0 0 no-repeat #FFF;
+	background:url("/fa/id_id/business/img/map.jpg") 0 0 no-repeat #FFF;
 	width:780px;
 	height:420px;
 	position:relative;
@@ -1026,7 +1026,7 @@ ul#products li.lastItem {
 #melfa_contents_2col_a #main_area h2.area_lang,
 #melfa_contents_2col_b #melfa_main_area h2.area_lang, 
 #melfa_contents_2col_a #melfa_main_area h2.area_lang {
-	/*background:url("/id_id/business/img/blue_area.jpg") 0 0 no-repeat #FFF;*/
+	/*background:url("/fa/id_id/business/img/blue_area.jpg") 0 0 no-repeat #FFF;*/
 	color:#FFF;
 	font-size:75%;
 	height:28px;
@@ -1050,26 +1050,26 @@ ul#products li.lastItem {
 /*--------------- added 20120914 red --------------*/
 
 #melfa_contents_2col_b #melfa_main_area h2 span, #melfa_contents_2col_a #melfa_main_area h2 span {
-    background: url("/id_id/business/img/red/h_type2_col3_top.gif") no-repeat scroll 0 0 transparent;
+    background: url("/fa/id_id/business/img/red/h_type2_col3_top.gif") no-repeat scroll 0 0 transparent;
 }
 
 #melfa_contents_2col_b #melfa_main_area h2, #melfa_contents_2col_a #melfa_main_area h2 {
-    background: url("/id_id/business/img/red/h_type2_col3_bottom.gif") no-repeat scroll center bottom transparent;
+    background: url("/fa/id_id/business/img/red/h_type2_col3_bottom.gif") no-repeat scroll center bottom transparent;
 }   
 
 ul#coretile li h4 a {
 	padding-left:13px;
-	background:url("/id_id/business/img/red/shortcut_link.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/red/shortcut_link.gif") 0 50% no-repeat transparent;
 	display:block;
 } 
 /*
 ul#solution li h4 {
-	background:url("/id_id/business/img/red/red_square.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/red/red_square.gif") 0 50% no-repeat transparent;
 }
 */
 
 #melfa_contents_2col_b #main_area ul.list_img li h3, #melfa_contents_2col_a #main_area ul.list_img li h3 {
-	background:url("/id_id/business/img/red/red_header.gif") 0 0 no-repeat transparent;
+	background:url("/fa/id_id/business/img/red/red_header.gif") 0 0 no-repeat transparent;
 	padding-top:9px;
 }
 
@@ -1080,11 +1080,11 @@ ul#solution li h4 {
 
 #main_area h4 {
 	color:#333333;
-	background:url("/id_id/business/img/red/red_square.gif") 0 50% no-repeat transparent;
+	background:url("/fa/id_id/business/img/red/red_square.gif") 0 50% no-repeat transparent;
 }
 
 #melfa_contents_2col_a #main_area h3.blue {
-	background:url("/id_id/business/img/red/red_header_780.gif") 0 0 no-repeat #FFF;
+	background:url("/fa/id_id/business/img/red/red_header_780.gif") 0 0 no-repeat #FFF;
 	color:#333333;
 	padding:0 0 0 5px;
 	height:50px;
@@ -1092,7 +1092,7 @@ ul#solution li h4 {
 }
 /*
 ul#products li {
-	background:url("/id_id/business/img/red/box.png") 0 0 no-repeat #FFF;
+	background:url("/fa/id_id/business/img/red/box.png") 0 0 no-repeat #FFF;
 	width:190px;
 	height:120px;
 	float:left;
@@ -1144,7 +1144,7 @@ ul#products li.lastItem {
 }
 
 #melfa_contents_2col_a #main_area div.col2 h2 {
-    background: url("/id_id/shared/img/module/h_type2_col3_bottom.gif") no-repeat scroll center bottom transparent;
+    background: url("/fa/id_id/shared/img/module/h_type2_col3_bottom.gif") no-repeat scroll center bottom transparent;
 }
 
 #main_area .place_box {
@@ -1153,7 +1153,7 @@ ul#products li.lastItem {
 }
 
 #melfa_contents_2col_b #main_area h2.area_lang, #melfa_contents_2col_a #main_area h2.area_lang, #melfa_contents_2col_b #melfa_main_area h2.area_lang, #melfa_contents_2col_a #melfa_main_area h2.area_lang {
-    background: url("/id_id/business/img/red/area_red.png") no-repeat scroll 0 0 #FFFFFF;
+    background: url("/fa/id_id/business/img/red/area_red.png") no-repeat scroll 0 0 #FFFFFF;
     color: #FFFFFF;
 }
 

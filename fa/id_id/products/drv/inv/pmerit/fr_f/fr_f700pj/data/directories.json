@@ -1,43 +1,43 @@
 {
   "layerNav": {
     "name": "FREQROL-F series",
-    "path": "/id_id/products/drv/inv/items/fr_f/index.html",
+    "path": "/fa/id_id/products/drv/inv/items/fr_f/index.html",
     "firstLayer": [
       {
         "name": "Gambaran Umum",
-        "path": "/id_id/products/drv/inv/pmerit/fr_f/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/index.html"
       },
       {
         "name": "FREQROL-F800",
-        "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html"
       },
       {
         "name": "FREQROL-F700PJ",
-        "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html",
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html",
         "secondLayer": [
           {
             "name": "Konsep",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html"
           },
           {
             "name": "Kontrol Inverter untuk Penghematan Energi",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj01.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj01.html"
           },
           {
             "name": "Kawat dan Hemat Ruang",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj02.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj02.html"
           },
           {
             "name": "Pengoperasian dan Perawatan Mudah",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj03.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj03.html"
           },
           {
             "name": "Optimal untuk Aplikasi Kipas dan Pompa",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj04.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj04.html"
           },
           {
             "name": "Konfigurasi Model",
-            "path": "/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj05.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_f/fr_f700pj/f7pj05.html"
           }
         ]
       }

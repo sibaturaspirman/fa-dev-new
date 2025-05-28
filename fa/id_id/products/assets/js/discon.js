@@ -22,8 +22,8 @@
 				'link': $searchPankuzuListItems.eq(3).find('a').attr('href')
 			}
 			const $breadcrumbListHTML = `
-				<li class="c-breadcrumb__list-item"><a href="/id_id/">${productsLabels.top}</a></li>
-				<li class="c-breadcrumb__list-item"><a href="/id_id/products/index.html">${productsLabels.products}</a></li>
+				<li class="c-breadcrumb__list-item"><a href="/fa/id_id/">${productsLabels.top}</a></li>
+				<li class="c-breadcrumb__list-item"><a href="/fa/id_id/products/index.html">${productsLabels.products}</a></li>
 				<li class="c-breadcrumb__list-item"><a href="${kisyuTopObject.link}">${kisyuTopObject.name}</a></li>
 				<li class="c-breadcrumb__list-item"><span>${productsLabels.discon}</span></li>
 			`;
@@ -145,7 +145,7 @@ function imgSizeChange() {
 			$(this).attr('height', imgHeight);
 			$(this).wrap('<p><a href="javascript:tablePicture(\'' + filePath + "\')\"></a></p>");
 			var parent = $(this).parent().parent();
-			parent.after('<p><a href="javascript:tablePicture(\'' + filePath + "\')\"><img class=\"icon\" src=\"/id_id/shared/common/img/icon/icon_zoom_txt.svg\" width=\"40\" height=\"12\" alt=\"Zoom\"></img></a></p>");
+			parent.after('<p><a href="javascript:tablePicture(\'' + filePath + "\')\"><img class=\"icon\" src=\"/fa/id_id/shared/common/img/icon/icon_zoom_txt.svg\" width=\"40\" height=\"12\" alt=\"Zoom\"></img></a></p>");
 			parent.parent().children('p').wrapAll('<div class="outlineimg"></div>');
 		}
 	});
@@ -184,7 +184,7 @@ function tablePicture(src) {
 	new_window.document
 			.write("<a href=\"#\" onClick=\"window.close(); return false;\">");
 	new_window.document
-			.write("<img src=\"/id_id/shared/img/module/btn_close.gif\" width=\"58\" height=\"18\" alt=\"Close\" title='Close' />\n");
+			.write("<img src=\"/fa/id_id/shared/img/module/btn_close.gif\" width=\"58\" height=\"18\" alt=\"Close\" title='Close' />\n");
 	new_window.document.write("</div>");
 	new_window.document.write("<" + "/body>");
 	new_window.document.write("<" + "/html>");

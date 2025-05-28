@@ -1,31 +1,31 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Geared Motors",
-            "path": "/id_id/products/drv/gear/index.html",
+            "path": "/fa/id_id/products/drv/gear/index.html",
             "child": [
               {
                 "name": "Geared Motors Parallel shaft type",
-                "path": "/id_id/products/drv/gear/items/gm_parallel/index.html"
+                "path": "/fa/id_id/products/drv/gear/items/gm_parallel/index.html"
               },
               {
                 "name": "Geared Motors Right angle shaft type",
-                "path": "/id_id/products/drv/gear/items/gm_right_angle/index.html"
+                "path": "/fa/id_id/products/drv/gear/items/gm_right_angle/index.html"
               },
               {
                 "name": "S-PM Geared Motors Parallel shaft type",
-                "path": "/id_id/products/drv/gear/items/spm_parallel/index.html"
+                "path": "/fa/id_id/products/drv/gear/items/spm_parallel/index.html"
               },
               {
                 "name": "S-PM Geared Motors Right angle shaft type",
-                "path": "/id_id/products/drv/gear/items/spm_right_angle/index.html"
+                "path": "/fa/id_id/products/drv/gear/items/spm_right_angle/index.html"
               }
             ]
           }
@@ -35,52 +35,52 @@
   },
   "switchNav": {
     "name": "Geared Motors",
-    "path": "/id_id/products/drv/gear/index.html",
+    "path": "/fa/id_id/products/drv/gear/index.html",
     "child": [
       {
         "group": "gear",
         "name": "Fitur Produk",
-        "feature": "/id_id/products/drv/gear/pmerit/",
+        "feature": "/fa/id_id/products/drv/gear/pmerit/",
         "spec": "",
         "standard": "",
-        "discon": "/id_id/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_id/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "gear",
         "name": "Daftar Produk",
-        "feature": "/id_id/products/drv/gear/pmerit/lup/",
+        "feature": "/fa/id_id/products/drv/gear/pmerit/lup/",
         "spec": "",
         "standard": "",
-        "discon": "/id_id/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_id/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "gear",
         "name": "Geared Motors Parallel shaft type",
-        "feature": "/id_id/products/drv/gear/pmerit/gm_parallel/",
+        "feature": "/fa/id_id/products/drv/gear/pmerit/gm_parallel/",
         "spec": "",
         "standard": "",
-        "discon": "/id_id/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_id/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "gear",
         "name": "Geared Motors Right angle shaft type",
-        "feature": "/id_id/products/drv/gear/pmerit/gm_right_angle/",
+        "feature": "/fa/id_id/products/drv/gear/pmerit/gm_right_angle/",
         "spec": "",
         "standard": "",
-        "discon": "/id_id/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_id/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "gear",
         "name": "S-PM Geared Motors Parallel shaft type",
-        "feature": "/id_id/products/drv/gear/pmerit/spm_parallel/",
+        "feature": "/fa/id_id/products/drv/gear/pmerit/spm_parallel/",
         "spec": "",
         "standard": "",
-        "discon": "/id_id/products/drv/gear/ex/renew/renewal/index.html"
+        "discon": "/fa/id_id/products/drv/gear/ex/renew/renewal/index.html"
       },
       {
         "group": "gear",
         "name": "S-PM Geared Motors Right angle shaft type",
-        "feature": "/id_id/products/drv/gear/pmerit/spm_right_angle/index.html",
+        "feature": "/fa/id_id/products/drv/gear/pmerit/spm_right_angle/index.html",
         "spec": "",
         "standard": "",
         "discon": ""

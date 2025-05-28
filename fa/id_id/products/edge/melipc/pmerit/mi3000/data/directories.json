@@ -1,19 +1,19 @@
 {
     "layerNav": {
         "name": "MELIPC MI3000",
-        "path": "/id_id/products/edge/melipc/items/mi3000/index.html",
+        "path": "/fa/id_id/products/edge/melipc/items/mi3000/index.html",
         "firstLayer": [
             {
                 "name": "Fitur Produk MI3000",
-                "path": "/id_id/products/edge/melipc/pmerit/mi3000/index.html"
+                "path": "/fa/id_id/products/edge/melipc/pmerit/mi3000/index.html"
             },
             {
                 "name": "Konfigurasi Sistem",
-                "path": "/id_id/products/edge/melipc/pmerit/mi3000/sysconfig.html"
+                "path": "/fa/id_id/products/edge/melipc/pmerit/mi3000/sysconfig.html"
             },
             {
                 "name": "Perangkat Lunak",
-                "path": "/id_id/products/edge/melipc/pmerit/mi3000/softgot.html"
+                "path": "/fa/id_id/products/edge/melipc/pmerit/mi3000/softgot.html"
             }
         ]
     }

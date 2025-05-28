@@ -1,43 +1,43 @@
 {
   "layerNav": {
     "name": "Acara",
-    "path": "/id_id/products/cnt/cnc/evt/index.html",
+    "path": "/fa/id_id/products/cnt/cnc/evt/index.html",
     "firstLayer": [
       {
         "name": "Latest",
-        "path": "/id_id/products/cnt/cnc/evt/index.html"
+        "path": "/fa/id_id/products/cnt/cnc/evt/index.html"
       },
       {
         "name": "2024",
-        "path": "/id_id/products/cnt/cnc/evt/bn2024.html"
+        "path": "/fa/id_id/products/cnt/cnc/evt/bn2024.html"
       },
       {
         "name": "2023",
-        "path": "/id_id/products/cnt/cnc/evt/bn2023.html"
+        "path": "/fa/id_id/products/cnt/cnc/evt/bn2023.html"
       },
       {
         "name": "2022",
-        "path": "/id_id/products/cnt/cnc/evt/bn2022.html"
+        "path": "/fa/id_id/products/cnt/cnc/evt/bn2022.html"
       },
       {
         "name": "2021",
-        "path": "/id_id/products/cnt/cnc/evt/bn2021.html"
+        "path": "/fa/id_id/products/cnt/cnc/evt/bn2021.html"
       },
       {
         "name": "2020",
-        "path": "/id_id/products/cnt/cnc/evt/bn2020.html"
+        "path": "/fa/id_id/products/cnt/cnc/evt/bn2020.html"
       },
       {
         "name": "2019",
-        "path": "/id_id/products/cnt/cnc/evt/bn2019.html"
+        "path": "/fa/id_id/products/cnt/cnc/evt/bn2019.html"
       },
       {
         "name": "2018",
-        "path": "/id_id/products/cnt/cnc/evt/bn2018.html"
+        "path": "/fa/id_id/products/cnt/cnc/evt/bn2018.html"
       },
       {
         "name": "2017",
-        "path": "/id_id/products/cnt/cnc/evt/bn2017.html"
+        "path": "/fa/id_id/products/cnt/cnc/evt/bn2017.html"
       }
     ]
   }

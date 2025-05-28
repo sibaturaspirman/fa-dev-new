@@ -1,11 +1,11 @@
 {
   "directories": {
     "name": "Beranda",
-    "path": "/id_id/index.html",
+    "path": "/fa/id_id/index.html",
     "child": [
       {
         "name": "Katalog Produk",
-        "path": "/id_id/products/index.html",
+        "path": "/fa/id_id/products/index.html",
         "child": [
           {
             "name": "Inverters-FREQROL",
@@ -13,31 +13,31 @@
             "child": [
               {
                 "name": "FR-A800 Series",
-                "path": "/id_id/products/drv/inv/items/fr_a/index.html"
+                "path": "/fa/id_id/products/drv/inv/items/fr_a/index.html"
               },
               {
                 "name": "FR-A800 Plus Series",
-                "path": "/id_id/products/drv/inv/items/fr_a800_plus/index.html"
+                "path": "/fa/id_id/products/drv/inv/items/fr_a800_plus/index.html"
               },
               {
                 "name": "FR-F Series",
-                "path": "/id_id/products/drv/inv/items/fr_f/index.html"
+                "path": "/fa/id_id/products/drv/inv/items/fr_f/index.html"
               },
               {
                 "name": "FR-E Series",
-                "path": "/id_id/products/drv/inv/items/fr_e/index.html"
+                "path": "/fa/id_id/products/drv/inv/items/fr_e/index.html"
               },
               {
                 "name": "FR-D Series",
-                "path": "/id_id/products/drv/inv/items/fr_d/index.html"
+                "path": "/fa/id_id/products/drv/inv/items/fr_d/index.html"
               },
               {
                 "name": "FR-CS Series",
-                "path": "/id_id/products/drv/inv/items/fr_cs/index.html"
+                "path": "/fa/id_id/products/drv/inv/items/fr_cs/index.html"
               },
               {
                 "name": "FR-XC Series",
-                "path": "/id_id/products/drv/inv/items/conv/index.html"
+                "path": "/fa/id_id/products/drv/inv/items/conv/index.html"
               }
             ]
           }
@@ -52,7 +52,7 @@
         {
         "group": "FREQROL",
         "name": "Fitur",
-        "feature": "/id_id/products/drv/inv/pmerit/index.html",
+        "feature": "/fa/id_id/products/drv/inv/pmerit/index.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -60,7 +60,7 @@
         {
         "group": "FREQROL",
         "name": "Rangkaian Produk",
-        "feature": "/id_id/products/drv/inv/pmerit/lup/index.html",
+        "feature": "/fa/id_id/products/drv/inv/pmerit/lup/index.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -68,7 +68,7 @@
         {
         "group": "FREQROL",
         "name": "FR-A800 Series",
-        "feature": "/id_id/products/drv/inv/pmerit/fr_a/fr_a800/",
+        "feature": "/fa/id_id/products/drv/inv/pmerit/fr_a/fr_a800/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-A800&current=FR-A800 series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/inv&search=B&word=FREQROL-A800&current=FR-A800 series",
         "discon": ""
@@ -76,7 +76,7 @@
        {
         "group": "FREQROL",
         "name": "FR-A800 Plus Series",
-        "feature": "/id_id/products/drv/inv/pmerit/fr_a800_plus/",
+        "feature": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus/",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -84,7 +84,7 @@
       {
         "group": "FREQROL",
         "name": "FR-F Series",
-        "feature": "/id_id/products/drv/inv/pmerit/fr_f/",
+        "feature": "/fa/id_id/products/drv/inv/pmerit/fr_f/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-F800&current=FR-F series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/inv&search=B&word=FREQROL-F800&current=FR-F series",
         "discon": ""
@@ -92,7 +92,7 @@
       {
         "group": "FREQROL",
         "name": "FR-E Series",
-        "feature": "/id_id/products/drv/inv/pmerit/fr_e/",
+        "feature": "/fa/id_id/products/drv/inv/pmerit/fr_e/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-E800&current=FR-E series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/inv&search=B&word=FREQROL-E800&current=FR-E series",
         "discon": ""
@@ -108,7 +108,7 @@
       {
         "group": "FREQROL",
         "name": "FR-CS Series",
-        "feature": "/id_id/products/drv/inv/pmerit/fr_cs/",
+        "feature": "/fa/id_id/products/drv/inv/pmerit/fr_cs/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-CS80&current=FR-CS series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/inv&search=B&word=FREQROL-CS80&current=FR-CS series",
         "discon": ""
@@ -116,7 +116,7 @@
       {
         "group": "FREQROL",
         "name": "FR-XC Series",
-        "feature": "/id_id/products/drv/inv/pmerit/fr_xc/",
+        "feature": "/fa/id_id/products/drv/inv/pmerit/fr_xc/",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -124,7 +124,7 @@
       {
         "group": "FR-SOFT",
         "name": "FR Configurator2",
-        "feature": "/id_id/products/drv/inv/smerit/fr_config2/index.html",
+        "feature": "/fa/id_id/products/drv/inv/smerit/fr_config2/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv_soft",
         "standard": "",
         "discon": ""
@@ -132,7 +132,7 @@
       {
         "group": "FR-SOFT",
         "name": "FR Configurator Mobile",
-        "feature": "/id_id/products/drv/inv/smerit/fr_cm/index.html",
+        "feature": "/fa/id_id/products/drv/inv/smerit/fr_cm/index.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -140,7 +140,7 @@
       {
         "group": "calculation",
         "name": "Sistem perhitungan penghematan energi",
-        "feature": "/id_id/products/drv/inv/pmerit/select/index.html",
+        "feature": "/fa/id_id/products/drv/inv/pmerit/select/index.html",
         "spec": "",
         "standard": "",
         "discon": ""

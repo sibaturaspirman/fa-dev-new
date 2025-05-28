@@ -1,35 +1,35 @@
 {
   "layerNav": {
     "name": "FREQROLシリーズ",
-    "path": "/id_id/products/drv/inv/pmerit/energy_saving/index.html",
+    "path": "/fa/id_id/products/drv/inv/pmerit/energy_saving/index.html",
     "firstLayer": [
       {
         "name": "Fitur utama",
-        "path": "/id_id/products/drv/inv/pmerit/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/index.html"
       },
      {
         "name": "Produk yang direkomendasikan",
-        "path": "/id_id/products/drv/inv/pmerit/new_products/watch/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/new_products/watch/index.html"
       },
       {
         "name": "Perawatan peralatan",
-        "path": "/id_id/products/drv/inv/pmerit/prevention/index.html",
+        "path": "/fa/id_id/products/drv/inv/pmerit/prevention/index.html",
         "secondLayer": [
             {
             "name": "Fitur",
-            "path": "/id_id/products/drv/inv/pmerit/prevention/index.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/prevention/index.html"
             },
             {
             "name": "Pemeliharaan prediktif",
-            "path": "/id_id/products/drv/inv/pmerit/prevention/prediction.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/prevention/prediction.html"
             },
             {
             "name": "Pemeliharaan preventif",
-            "path": "/id_id/products/drv/inv/pmerit/prevention/prevention.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/prevention/prevention.html"
             },
             {
             "name": "Perawatan kerusakan",
-            "path": "/id_id/products/drv/inv/pmerit/prevention/breakdown.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/prevention/breakdown.html"
             }
         ]
       },

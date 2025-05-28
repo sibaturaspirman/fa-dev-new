@@ -1,69 +1,69 @@
 {
   "layerNav": {
     "name": "FREQROL-A800 Plus series",
-    "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_crn/index.html",
+    "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_crn/index.html",
     "firstLayer": [
       {
         "name": "Ringkasan",
-        "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_crn/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_crn/index.html"
       },
       {
         "name": "FREQROL-A800 Plus for CRANES",
-        "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_crn/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_crn/index.html"
       },
       {
         "name": "FREQROL-A800 Plus for Roll to Roll",
-        "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/index.html",
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/index.html",
         "secondLayer": [
           {
             "name": "Konsep",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/index.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/index.html"
           },
           {
             "name": "Penyederhanaan sistem",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r01.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r01.html"
           },
           {
             "name": "Berbagai macam aplikasi",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r02.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r02.html"
           },
           {
             "name": "Memulai dan menyesuaikan dengan mudah",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r03.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r03.html"
           },
           {
             "name": "Performa yang tak tertandingi. Kualitas yang tak tergoyahkan.",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r04.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r04.html"
           },
           {
             "name": "Memberikan lingkungan operasi inverter yang nyaman",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r05.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r05.html"
           },
           {
             "name": "Konfigurasi model",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r06.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_plus_r2r/r2r06.html"
           }
         ]
       },
       {
         "name": "FREQROL-A800 Plus Liquid cooled type",
-        "path": "/id_id/products/drv/inv/pmerit/fr_a800_lc/index.html"
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_lc/index.html"
       },
       {
         "name": "FREQROL-A800 Plus for Automated warehouse",
-        "path": "/id_id/products/drv/inv/pmerit/fr_a800_awh/index.html",
+        "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_awh/index.html",
         "secondLayer": [
           {
             "name": "Fitur",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_awh/index.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_awh/index.html"
           },
           {
             "name": "Diagram konfigurasi sistem/Diagram koneksi terminal",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_awh/system_configuration.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_awh/system_configuration.html"
           },
           {
             "name": "Konfigurasi model",
-            "path": "/id_id/products/drv/inv/pmerit/fr_a800_awh/model_name_configuration.html"
+            "path": "/fa/id_id/products/drv/inv/pmerit/fr_a800_awh/model_name_configuration.html"
           }
         ]
       }
