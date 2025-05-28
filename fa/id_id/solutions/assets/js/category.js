@@ -14,8 +14,8 @@
   const $ourStoriesFilterTagListTrend = $('[ data-js-tag-list-trend]');
   let tagListItems = '';
 
-  const ourStoriesArticleDataURL = '/id_id/our-stories/data/article-data.json';
-  const ourStoriesFilterDataURL = '/id_id/our-stories/data/filter-data.json';
+  const ourStoriesArticleDataURL = '/fa/id_id/our-stories/data/article-data.json';
+  const ourStoriesFilterDataURL = '/fa/id_id/our-stories/data/filter-data.json';
   const $ourStoriesCards = $('[data-js-our-stories-cards]');
   const ourStoriesCardsMaxNumber = 8;
   

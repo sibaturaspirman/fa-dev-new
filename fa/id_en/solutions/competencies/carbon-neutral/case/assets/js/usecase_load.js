@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', function(){
-    fetch('/id_en/solutions/competencies/carbon-neutral/index.html') //【ロード元URL】
+    fetch('/fa/id_en/solutions/competencies/carbon-neutral/index.html') //【ロード元URL】
         .then(response => response.text()) .then(data => { 
             const parser = new DOMParser();
             const html = parser.parseFromString(data, "text/html");

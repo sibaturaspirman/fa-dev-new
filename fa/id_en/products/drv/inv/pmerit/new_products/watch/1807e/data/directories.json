@@ -13,7 +13,7 @@
         "secondLayer": [
           {
             "name": "FR-A800-GN Inverter and FR-A8NCG Plug-in Option for CC-Link IE TSN Communication Function",
-            "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1901e/"         
+            "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1901e/"
           },
           {
             "name": "FR-A800-E-R2R Inverters (Ethernet Communication Model of the roll to roll dedicated inverters)",
@@ -21,25 +21,25 @@
             "thirdLayer": [
               {
                 "name": "Concept",
-                "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1807e/index.html"                 
+                "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1807e/index.html"
               },
               {
                 "name": "Lineup",
-                "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1807e/lineup.html"                  
+                "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1807e/lineup.html"
               }
             ]            
           },
           {
             "name": "Ethernet Communication Model of Liquid Cooled Type Inverter FR-A800-E-LC",
-            "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1805e/"       
+            "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1805e/"
           },
           {
             "name": "High functionality and high performance inverter FR-A870-B",
-            "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1806e/"         
+            "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1806e/"
           },
           {
             "name": "Options for the FR-A842 Serving as a High Power Factor Converter",
-            "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1804e/"          
+            "path": "/fa/id_en/products/drv/inv/pmerit/new_products/watch/1804e/"
           }
         ]
       },

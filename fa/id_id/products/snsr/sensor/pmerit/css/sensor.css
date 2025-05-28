@@ -31,7 +31,7 @@
 }
 
 #melfa_main_area .efactory .efactory_Link a,
-#melfa_main_area a .efactory_Link { padding-left: 10px; background: url(/id_id/products/snsr/sensor/pmerit/images/bullet_link.gif) 0 0.5em no-repeat;
+#melfa_main_area a .efactory_Link { padding-left: 10px; background: url(/fa/id_id/products/snsr/sensor/pmerit/images/bullet_link.gif) 0 0.5em no-repeat;
     color: #005e8c; }
 
 #melfa_main_area .efactory a:hover {
@@ -95,7 +95,7 @@ list
 .page_link li a {
 	display: block;
 	padding-left: 15px;
-	background: url(/id_id/products/snsr/sensor/pmerit/images/arw_anchor_circle.gif) no-repeat 0 0.15em;
+	background: url(/fa/id_id/products/snsr/sensor/pmerit/images/arw_anchor_circle.gif) no-repeat 0 0.15em;
 	text-decoration: none;
 }
 .page_link li a:hover {

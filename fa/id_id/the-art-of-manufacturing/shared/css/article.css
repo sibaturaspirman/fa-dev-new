@@ -105,7 +105,7 @@ a.movr:hover img { opacity:0.8; filter: alpha(opacity=80); -ms-filter:"alpha( op
 #content_compass .product_introduction.listOly .product_intro_sec { border-bottom: 1px dotted #bbb; }
 
 /* リンクarrow（FA共通アイコン） */
-.link_arw a { display: inline-block; background-attachment: scroll; background-color: transparent; background-image: url(/id_id/compass/shared/img/bullet_link_red.png); background-repeat: no-repeat; background-position: 0px 0.55em; padding-left: 10px;}
+.link_arw a { display: inline-block; background-attachment: scroll; background-color: transparent; background-image: url(/fa/id_id/compass/shared/img/bullet_link_red.png); background-repeat: no-repeat; background-position: 0px 0.55em; padding-left: 10px;}
 
 /* 注釈BOX */
 #content_compass .bt_section.m_size { border: 1px solid rgb(187, 187, 187); width: 80%; margin: auto; background:#f7f7f7; }
@@ -115,9 +115,9 @@ div #js_loadmore_ui { border-bottom: 1px dotted #bebcbc; }
 #js_loadmore_ui p { position: relative; left: 50%; top: 21px; margin-left: -115px; background-color: #d24726; border-radius: 3px; width: 230px; height: 43px; font-size: 106.2%; cursor: pointer; }
 #js_loadmore_ui p:hover { background-color: #fff; }
 #js_loadmore_ui p a { color: #fff; text-decoration: none; padding: 9px 22px 8px; display: block; border: 2px solid #d24726; border-radius: 3px; }
-#js_loadmore_ui p a:after { content: ""; display: block; position: absolute; top: 16px; right: 14px; width: 16px; height: 11px; background: url(/id_id/compass/shared/img/icon_arrow_open.png) no-repeat right 50%; background-size: 16px auto; }
+#js_loadmore_ui p a:after { content: ""; display: block; position: absolute; top: 16px; right: 14px; width: 16px; height: 11px; background: url(/fa/id_id/compass/shared/img/icon_arrow_open.png) no-repeat right 50%; background-size: 16px auto; }
 #js_loadmore_ui p a:hover { color: #d24726; border: 2px solid #d24726; } 
-#js_loadmore_ui p a:hover::after { background: url(/id_id/compass/shared/img/icon_arrow_open_ov.png) no-repeat right 50%; background-size: 16px auto; }
+#js_loadmore_ui p a:hover::after { background: url(/fa/id_id/compass/shared/img/icon_arrow_open_ov.png) no-repeat right 50%; background-size: 16px auto; }
 
 
 /*
@@ -245,8 +245,8 @@ lectures
 .commentSection.mn02_cmt { background-color:#fbf0e7 !important; }
 
 /* manners03 */
-.text_box { margin-right:10px!important;width:38%!important;background:url('/id_id/members/compass/lectures/manners03/img/arrow.gif') no-repeat right 60%!important; }
-.text_box p { background:url('/id_id/members/compass/lectures/manners03/img/s_paper05.png') #efefef!important; padding:10px!important; font-size:110%!important;margin-top:30px!important;position:relative!important;width:80%!important; }
+.text_box { margin-right:10px!important;width:38%!important;background:url('/fa/id_id/members/compass/lectures/manners03/img/arrow.gif') no-repeat right 60%!important; }
+.text_box p { background:url('/fa/id_id/members/compass/lectures/manners03/img/s_paper05.png') #efefef!important; padding:10px!important; font-size:110%!important;margin-top:30px!important;position:relative!important;width:80%!important; }
 .text_box img.ng { position:absolute;top:-30px;left:10px;width:60px!important; }
 .section.img_box.mn03_sec { width:60%!important;float:right!important;margin-top:30px!important;margin-left:0!important; }
 .mn03_photo1 { width:221px!important; }
@@ -258,10 +258,10 @@ lectures
 /* manners05 */
 .text_box_m05 p.mn03_photo1,
 .text_box_m05b p.mn03_photo1 { width:221px!important; margin:0!important; }
-.text_box_m05 { background:url('/id_id/members/compass/lectures/manners05/img/bg.gif') no-repeat;}
+.text_box_m05 { background:url('/fa/id_id/members/compass/lectures/manners05/img/bg.gif') no-repeat;}
 .text_box_m05 .title_m05 { font-size: 107.1429% !important; margin-bottom: 5px!important; padding-left:5px;}
 .text_box_m05 .title_m05 img { padding:0; margin-right:5px !important; max-width:35px !important; vertical-align:middle; }
-.text_box_m05 .title_m05 span.more { font-size: 120% !important; margin-left:1em; padding-left: 2em; background: url(/id_id/members/compass/lectures/manners05/img/arw.png) no-repeat; background-size: 20px; background-position:left center; font-weight:bold; display:inline-block !important;}
+.text_box_m05 .title_m05 span.more { font-size: 120% !important; margin-left:1em; padding-left: 2em; background: url(/fa/id_id/members/compass/lectures/manners05/img/arw.png) no-repeat; background-size: 20px; background-position:left center; font-weight:bold; display:inline-block !important;}
 .m05 { padding-left:1em; }
 
 .commentSection.mn05_cmt { background-color: #fcf7ec !important; margin-top: 30px; }
@@ -592,7 +592,7 @@ exhibition
 .compass_clm .clm .exhibition_link  a { padding: 8px 15px; text-align: left; }
 .compass_clm .clm .report_link a { padding: 8px 15px; text-align: left; border: 2px solid #0033cc; }
 .compass_clm .clm .report_link a:hover { background: #ffffff; color:#0033cc; text-decoration: none; }
-.compass_clm .clm .report_link a:hover:after { background: url(/id_id/compass/shared/img/icon_arrow_r_blue.png) no-repeat right 50%; background-size: 10px auto; }
+.compass_clm .clm .report_link a:hover:after { background: url(/fa/id_id/compass/shared/img/icon_arrow_r_blue.png) no-repeat right 50%; background-size: 10px auto; }
 .compass_clm .clm .link_adjust .link_more { float: left; width: 100%; }
 
 .compass_clm .clm .tag_new_exh { font-weight:normal; font-size:70%; background-color: #e60000; }

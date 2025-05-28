@@ -67,7 +67,7 @@ const toCatalogInfo = function(elemid, docNo, kisyuNo, anchorType) {
 (function($) {
   'use strict';
   // ドキュメントリンク 新システム移行機種定義ファイル読み込み
-  $("<script src='/id_id/shared/js/ikouKisyu.js'></script>").appendTo("body");
+  $("<script src='/fa/id_id/shared/js/ikouKisyu.js'></script>").appendTo("body");
   
   // ----------
   // 製品情報トップ
@@ -78,7 +78,7 @@ const toCatalogInfo = function(elemid, docNo, kisyuNo, anchorType) {
   // 製品検索初期化
   if($radioSearchType.length > 0) {
     $.ajax({
-      url: '/id_id/shared/suggest/jn/sdata.json',
+      url: '/fa/id_id/shared/suggest/jn/sdata.json',
       dataType: 'text'
     })
     .done(function(data) {

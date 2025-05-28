@@ -87,17 +87,17 @@
 			current_directory: helper.getCurrentDirectory(),
 			current_directories: helper.getCurrentDirectories(),
 			// Header, Footer's external file path
-			footer_container_path: '/id_en/shared/gws0001/default/include/_footer.html',
-			footer_simple_container_path: '/id_en/shared/gws0001/default/include/_footer_simple.html',
+			footer_container_path: '/fa/id_en/shared/gws0001/default/include/_footer.html',
+			footer_simple_container_path: '/fa/id_en/shared/gws0001/default/include/_footer_simple.html',
 
 			// Header
-			header_path: '/id_en/shared/gws0001/include/me_header.html',
-			header_simple_path: '/id_en/shared/gws0001/include/me_header_simple.html',
+			header_path: '/fa/id_en/shared/gws0001/include/me_header.html',
+			header_simple_path: '/fa/id_en/shared/gws0001/include/me_header_simple.html',
 
 			// Footer
-			footer_main_path: '/id_en/shared/gws0001/include/me_footer.html',
-			footer_popup_path: '/id_en/shared/gws0001/include/me_footer_popup.html',
-			footer_sns_path: '/id_en/shared/gws0001/include/_footer_sns.html',
+			footer_main_path: '/fa/id_en/shared/gws0001/include/me_footer.html',
+			footer_popup_path: '/fa/id_en/shared/gws0001/include/me_footer_popup.html',
+			footer_sns_path: '/fa/id_en/shared/gws0001/include/_footer_sns.html',
 
 			helper: helper
 		},
@@ -537,7 +537,7 @@
 			
 			// Floating Nav
 			// ブランドページではフローティングナビ非表示
-			if(window.MEL_SETTINGS.current_path !== '/id_en/about-us/automating-the-world/') {
+			if(window.MEL_SETTINGS.current_path !== '/fa/id_en/about-us/automating-the-world/') {
 				$('.c-mainVisual, .c-caseStudiyMainVisual').setFloatingNav(
 					{
 						"floatingMenu": {
