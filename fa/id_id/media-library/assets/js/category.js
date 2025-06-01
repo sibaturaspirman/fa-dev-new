@@ -47,11 +47,11 @@
   var mediaLibraryRecommendedItems = '';
   
   var mediaLibraryLabels = {
-    all: 'All',
-    resultSummary0: 'No videos were found that match your criteria.<br>Please change the keyword or condition and search again.',
-    resultSummary1: 'videos found',
+    all: 'Semua',
+    resultSummary0: 'Tidak ditemukan video yang sesuai dengan kriteria Anda.<br>Silakan ubah kata kunci atau kondisi dan cari lagi.',
+    resultSummary1: 'video ditemukan',
     resultUnit: '&emsp;',
-    resultTitle: 'Search Result',
+    resultTitle: 'Hasil Pencarian',
     shown: '掲載する'
   }
   var mediaLibraryi18n = {
