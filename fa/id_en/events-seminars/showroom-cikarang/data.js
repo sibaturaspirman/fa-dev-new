@@ -57,7 +57,7 @@ let datas = [
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-13.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-13.jpg",
-      "Title": "CNC Demokit No-2 In-house Repair"
+      "Title": "CNC In-house Repair"
     },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-14.html",

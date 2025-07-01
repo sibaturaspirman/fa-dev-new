@@ -57,7 +57,7 @@ let datas = [
     {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-13.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-13.jpg",
-      "Title": "Perbaikan Internal CNC Demokit No-2"
+      "Title": "Perbaikan CNC Internal"
     },
     {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-14.html",
