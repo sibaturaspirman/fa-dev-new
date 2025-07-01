@@ -15,11 +15,6 @@ let datas = [
       "Title": "HVAC Redundancy Control System"
     },
     {
-      "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-4.html",
-      "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-4.jpg",
-      "Title": "Induction Motor"
-    },
-    {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-5.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-5.jpg",
       "Title": "Engraving CNC Demo Machine"

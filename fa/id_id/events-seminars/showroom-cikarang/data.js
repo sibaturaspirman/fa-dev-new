@@ -15,11 +15,6 @@ let datas = [
       "Title": "Sistem Kontrol Redundansi HVAC"
     },
     {
-      "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-4.html",
-      "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-4.jpg",
-      "Title": "Motor Induksi"
-    },
-    {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-5.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-5.jpg",
       "Title": "Mesin Demo Ukiran CNC"
