@@ -177,7 +177,7 @@
 					// 小階層を持つ場合プルダウンで表示
 					if(jsonObject.child) {
 						var childItemHtmlArray = jsonObject.child.map(function(value) {
-							return `<li class="c-list__item"><a class="u-icons u-icons--bulletRight" href="${value.link}" ${helper.getAttributeFromJson(value.attr)}>${value.name}</a></li>`;
+							return `<li class="c-list__item"><a target="_blank" class="u-icons u-icons--bulletRight" href="${value.link}" ${helper.getAttributeFromJson(value.attr)}>${value.name}</a></li>`;
 						});
 						return `
 							<div class="c-linkWithIcon c-linkWithIcon--pulldown">
@@ -192,7 +192,7 @@
 						`;
 					} else {
 						return `
-							<a class="c-linkWithIcon" href="${jsonObject.link}" ${helper.getAttributeFromJson(jsonObject.attr)}>
+							<a target="_blank" class="c-linkWithIcon" href="${jsonObject.link}" ${helper.getAttributeFromJson(jsonObject.attr)}>
 							<div class="c-linkWithIcon__icon"><img src="/fa/id_en/shared/common/img/icon/icon_${jsonObject.icon}.svg" alt="" with="60" height="60" decoding="async"></div>
 							<span class="c-linkWithIcon__link u-icons u-icons--bulletRight">${jsonObject.name}</span>
 							</a><!-- /.c-linkWithIcon -->
@@ -205,7 +205,7 @@
 					return '';
 				} else {
 					return `
-						<a class="c-linkButton" href="${jsonObject.link}" ${helper.getAttributeFromJson(jsonObject.attr)}>
+						<a target="_blank" class="c-linkButton" href="${jsonObject.link}" ${helper.getAttributeFromJson(jsonObject.attr)}>
 						<span class="c-linkButton__link u-icons u-icons--bulletRight">${jsonObject.name}</span>
 						</a><!-- /.c-linkButton -->						
 					`;
