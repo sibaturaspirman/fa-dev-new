@@ -34,21 +34,21 @@ let datas = [
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-8.jpg",
       "Title": "Pilih dan Tempatkan Permen Robot"
     },
-    {
-      "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-9.html",
-      "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-9.jpg",
-      "Title": "Aplikasi HVAC untuk Ruang Bersih dan Ruang Kontrol dengan Sistem SCADA"
-    },
+    // {
+    //   "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-9.html",
+    //   "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-9.jpg",
+    //   "Title": "Aplikasi HVAC untuk Ruang Bersih dan Ruang Kontrol dengan Sistem SCADA"
+    // },
     {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-10.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-10.jpg",
       "Title": "Solusi Minyak dan Gas"
     },
-    {
-      "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-11.html",
-      "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-11.jpg",
-      "Title": "Aplikasi HVAC untuk Infrastruktur Sosial"
-    },
+    // {
+    //   "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-11.html",
+    //   "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-11.jpg",
+    //   "Title": "Aplikasi HVAC untuk Infrastruktur Sosial"
+    // },
     {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-12.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-12.jpg",
@@ -65,6 +65,10 @@ let datas = [
       "Title": "Robot Pick and Place dengan Aplikasi Sinkronisasi Rotary dan Linear"
     }
 ];
+
+datas.sort(function (a, b) {
+    return a.Title.localeCompare(b.Title);
+});
 
 $(document).ready(function () {
     $.each(datas, function (i, item) {

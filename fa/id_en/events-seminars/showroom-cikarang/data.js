@@ -34,21 +34,21 @@ let datas = [
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-8.jpg",
       "Title": "Pick and Place Robot Candy"
     },
-    {
-      "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-9.html",
-      "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-9.jpg",
-      "Title": "HVAC Application for Clean Room and Control Room with SCADA System"
-    },
+    // {
+    //   "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-9.html",
+    //   "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-9.jpg",
+    //   "Title": "HVAC Application for Clean Room and Control Room with SCADA System"
+    // },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-10.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-10.jpg",
       "Title": "Oil and Gas Solution"
     },
-    {
-      "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-11.html",
-      "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-11.jpg",
-      "Title": "HVAC Application for Social Infrastructure"
-    },
+    // {
+    //   "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-11.html",
+    //   "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-11.jpg",
+    //   "Title": "HVAC Application for Social Infrastructure"
+    // },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-12.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-12.jpg",
@@ -65,6 +65,10 @@ let datas = [
       "Title": "Pick and Place Robot with Rotary and Linear Synchronize Application"
     }
 ];
+
+datas.sort(function (a, b) {
+    return a.Title.localeCompare(b.Title);
+});
 
 $(document).ready(function () {
     $.each(datas, function (i, item) {
