@@ -3,7 +3,7 @@ let datas = [
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-1.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-1.jpg",
       "Title": "Digitalization of Smart Manufacturing for Production Line",
-        "Virtuals": [1],
+        "Virtuals": [1,2],
     },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-2.html",
@@ -15,7 +15,7 @@ let datas = [
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-3.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-3.jpg",
       "Title": "HVAC Redundancy Control System",
-        "Virtuals": [1],
+        "Virtuals": [1,2],
     },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-5.html",
