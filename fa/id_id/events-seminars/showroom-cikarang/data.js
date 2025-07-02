@@ -3,25 +3,25 @@ let datas = [
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-1.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-1.jpg",
       "Title": "Digitalisasi Manufaktur Cerdas untuk Lini Produksi",
-        "Virtuals": [1,2],
+        "Virtuals": [1,2,3],
     },
     {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-2.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-2.jpg",
       "Title": "Robot Barista Kolaboratif",
-        "Virtuals": [1],
+        "Virtuals": [1,3],
     },
     {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-3.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-3.jpg",
       "Title": "Sistem Kontrol Redundansi HVAC",
-        "Virtuals": [1,2],
+        "Virtuals": [1,2,3],
     },
     {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-5.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-5.jpg",
       "Title": "Mesin Demo Ukiran CNC",
-        "Virtuals": [1],
+        "Virtuals": [1,3],
     },
     {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-6.html",
@@ -67,7 +67,7 @@ let datas = [
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-13.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-13.jpg",
       "Title": "Perbaikan CNC Internal",
-        "Virtuals": [1],
+        "Virtuals": [1,3],
     },
     {
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-14.html",

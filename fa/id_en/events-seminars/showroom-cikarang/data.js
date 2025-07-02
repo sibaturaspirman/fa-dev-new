@@ -3,25 +3,25 @@ let datas = [
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-1.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-1.jpg",
       "Title": "Digitalization of Smart Manufacturing for Production Line",
-        "Virtuals": [1,2],
+        "Virtuals": [1,2,3],
     },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-2.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-2.jpg",
       "Title": "Collaborative Robot Barista",
-        "Virtuals": [1],
+        "Virtuals": [1,3],
     },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-3.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-3.jpg",
       "Title": "HVAC Redundancy Control System",
-        "Virtuals": [1,2],
+        "Virtuals": [1,2,3],
     },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-5.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-5.jpg",
       "Title": "Engraving CNC Demo Machine",
-        "Virtuals": [1],
+        "Virtuals": [1,3],
     },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-6.html",
@@ -67,7 +67,7 @@ let datas = [
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-13.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-13.jpg",
       "Title": "CNC In-house Repair",
-        "Virtuals": [1],
+        "Virtuals": [1,3],
     },
     {
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-14.html",
