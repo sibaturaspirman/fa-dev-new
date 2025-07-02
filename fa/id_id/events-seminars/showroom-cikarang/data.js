@@ -73,7 +73,7 @@ let datas = [
       "URL": "/fa/id_id/events-seminars/showroom-cikarang/B-14.html",
       "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-14.jpg",
       "Title": "Robot Pick and Place dengan Aplikasi Sinkronisasi Rotary dan Linear",
-        "Virtuals": [],
+        "Virtuals": [4],
     }
 ];
 

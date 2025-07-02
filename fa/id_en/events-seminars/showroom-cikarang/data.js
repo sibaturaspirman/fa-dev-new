@@ -73,7 +73,7 @@ let datas = [
       "URL": "/fa/id_en/events-seminars/showroom-cikarang/B-14.html",
       "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-14.jpg",
       "Title": "Pick and Place Robot with Rotary and Linear Synchronize Application",
-        "Virtuals": [],
+        "Virtuals": [4],
     }
 ];
 
