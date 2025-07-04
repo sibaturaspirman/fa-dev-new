@@ -63,23 +63,23 @@
 				"child": [
 					{
 						"name": "Energy Measuring Unit",
-						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems"
+						"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/ems"
 					},
 					{
 						"name": "Energy Saving Data Collecting Server",
-						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=Energy%20Saving%20Data%20Collecting%20Server&search=B&word=Energy%20Saving%20Data%20Collecting%20Server"
+						"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/ems&radio=Energy%20Saving%20Data%20Collecting%20Server&search=B&word=Energy%20Saving%20Data%20Collecting%20Server"
 					},
 					{
 						"name": "Application Software",
-						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=Application%20Software&search=B&word=Application%20Software"
+						"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/ems&radio=Application%20Software&search=B&word=Application%20Software"
 					},
 					{
 						"name": "MELSEC iQ-R Series",
-						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=MELSEC%20iQ-R%20Series&search=B&word=MELSEC%20iQ-R%20Series"
+						"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/ems&radio=MELSEC%20iQ-R%20Series&search=B&word=MELSEC%20iQ-R%20Series"
 					},
 					{
 						"name": "MELSEC-Q Series",
-						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=MELSEC-Q%20Series&search=B&word=MELSEC-Q%20Series"
+						"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/ems&radio=MELSEC-Q%20Series&search=B&word=MELSEC-Q%20Series"
 					}
 				]
 			},

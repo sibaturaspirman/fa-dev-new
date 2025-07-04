@@ -69,19 +69,19 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws",
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcqsws",
         "child": [
           {
             "name": "Safety programmable controller",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
           },
           {
             "name": "Safety controller",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
           },
           {
             "name": "Safety relay",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
           }
         ]
 			},

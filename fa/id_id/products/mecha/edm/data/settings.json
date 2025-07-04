@@ -28,15 +28,15 @@
       {
         "name": "Spesifikasi Produk",
         "icon": "settings",
-        "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm",
+        "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/edm",
         "child": [
           {
             "name": "Wire-cut Electrical Discharge Machines",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm&radio=Wire-cut%20Electrical%20Discharge%20Machines&search=B&word=Wire-cut%20Electrical%20Discharge%20Machines"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/edm&radio=Wire-cut%20Electrical%20Discharge%20Machines&search=B&word=Wire-cut%20Electrical%20Discharge%20Machines"
           },
           {
             "name": "Die-sinking Electrical Discharge Machines",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm&radio=Die-sinker%20Electrical%20Discharge%20Machines&search=B&word=Die-sinker%20Electrical%20Discharge%20Machines"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/edm&radio=Die-sinker%20Electrical%20Discharge%20Machines&search=B&word=Die-sinker%20Electrical%20Discharge%20Machines"
           }
         ]
       },

@@ -47,7 +47,7 @@
 			"group": "Earth Leakage Circuit Breakers",
 			"name": "Earth Leakage Circuit Breakers",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/elcb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=ELCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELCB",
 			"discon": "",
             "return": {

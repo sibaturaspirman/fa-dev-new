@@ -69,7 +69,7 @@
         "group": "FREQROL",
         "name": "FR-A800 series",
         "feature": "/fa/id_en/products/drv/inv/pmerit/fr_a/fr_a800/",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-A800&current=FR-A800 series",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-A800&current=FR-A800 series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/inv&search=B&word=FREQROL-A800&current=FR-A800 series",
         "discon": ""
         },
@@ -85,7 +85,7 @@
         "group": "FREQROL",
         "name": "FR-F series",
         "feature": "/fa/id_en/products/drv/inv/pmerit/fr_f/",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-F800&current=FR-F series",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-F800&current=FR-F series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/inv&search=B&word=FREQROL-F800&current=FR-F series",
         "discon": ""
       },
@@ -93,7 +93,7 @@
         "group": "FREQROL",
         "name": "FR-E series",
         "feature": "/fa/id_en/products/drv/inv/pmerit/fr_e/",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-E800&current=FR-E series",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-E800&current=FR-E series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/inv&search=B&word=FREQROL-E800&current=FR-E series",
         "discon": ""
       },
@@ -109,7 +109,7 @@
         "group": "FREQROL",
         "name": "FR-CS series",
         "feature": "/fa/id_en/products/drv/inv/pmerit/fr_cs/",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-CS80&current=FR-CS series",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/inv&search=B&word=FREQROL-CS80&current=FR-CS series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/inv&search=B&word=FREQROL-CS80&current=FR-CS series",
         "discon": ""
       },
@@ -125,7 +125,7 @@
         "group": "FR-SOFT",
         "name": "FR Configurator2",
         "feature": "/fa/id_en/products/drv/inv/smerit/fr_config2/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/inv_soft",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/inv_soft",
         "standard": "",
         "discon": ""
       },

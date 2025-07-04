@@ -57,7 +57,7 @@
 			"group": "Circuit Breakers for Use in Particular Applications",
 			"name": "Mag-Only Circuit Breaker",
 			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/spcb_mag/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_MAG",
+			"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/lvcb&current=SPCB_MAG",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_MAG",
 			"discon": "",
             "return": {

@@ -39,7 +39,7 @@
 			"group": "Miniature Circuit Breakers",
 			"name": "Miniature Circuit Breakers",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/mcb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=MCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCB",
 			"discon": "",
             "return": {

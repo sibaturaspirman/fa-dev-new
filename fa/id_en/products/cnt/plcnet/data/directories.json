@@ -51,7 +51,7 @@
         "group": "LP3-1",
         "name": "Line up",
         "feature": "/fa/id_en/products/cnt/plcnet/pmerit/concept/",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcnet",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcnet",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon"
       },
@@ -59,7 +59,7 @@
         "group": "LP3-1",
         "name": "CC-Link IE TSN",
         "feature": "/fa/id_en/products/cnt/plcnet/pmerit/cclink_ie_tsn/concept/",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20TSN&search=B&word=CC-Link%20IE%20TSN",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20TSN&search=B&word=CC-Link%20IE%20TSN",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20TSN&search=B&word=CC-Link%20IE%20TSN",
         "discon": ""
       },
@@ -67,7 +67,7 @@
         "group": "LP3-1",
         "name": "CC-Link IE",
         "feature": "/fa/id_en/products/cnt/plcnet/pmerit/cclink_ie/concept/",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fplcnet&radio=CC-Link%20IE%20Control&search=B&word=CC-Link%20IE%20Control",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=%2Fplcnet&radio=CC-Link%20IE%20Control&search=B&word=CC-Link%20IE%20Control",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Control&search=B&word=CC-Link%20IE%20Control",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field"
       },
@@ -75,7 +75,7 @@
         "group": "LP3-1",
         "name": "CC-Link IE Field Basic",
         "feature": "/fa/id_en/products/cnt/plcnet/pmerit/cclink_ie/basic/concept/",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fplcnet&radio=CC-Link%20IE%20Field%20Basic&search=B&word=CC-Link%20IE%20Field%20Basic",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=%2Fplcnet&radio=CC-Link%20IE%20Field%20Basic&search=B&word=CC-Link%20IE%20Field%20Basic",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Field%20Basic&search=B&word=CC-Link%20IE%20Field%20Basic",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field%20Basic"
       },

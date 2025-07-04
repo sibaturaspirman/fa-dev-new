@@ -49,7 +49,7 @@
 			"group": "Circuit Breakers for Distribution Panel and Control Panel",
 			"name": "FA/FAU/FHU Series",
 			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/pbcb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=PBCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/lvcb&current=PBCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=PBCB",
 			"discon": "",
             "return": {

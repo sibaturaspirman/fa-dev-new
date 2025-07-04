@@ -63,7 +63,7 @@
         "group": "Industrial Robot MELFA",
         "name": "Vertical articulated robot",
         "feature": "/fa/id_id/products/rbt/robot/pmerit/vertical/frseries/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
         	"return": {
@@ -75,7 +75,7 @@
         "group": "Industrial Robot MELFA",
         "name": "Horizontal articulated robot",
         "feature": "/fa/id_id/products/rbt/robot/pmerit/horizontal/frseries/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
         	"return": {
@@ -87,7 +87,7 @@
         "group": "Industrial Robot MELFA",
         "name": "MELFA FR PLUS",
         "feature": "/fa/id_id/products/rbt/robot/pmerit/frplus/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
         	"return": {
@@ -99,7 +99,7 @@
         "group": "Industrial Robot MELFA",
         "name": "MELFA Smart Plus",
         "feature": "/fa/id_id/products/rbt/robot/pmerit/msp/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "",
         "discon": "",
         	"return": {
@@ -111,7 +111,7 @@
         "group": "Industrial Robot MELFA",
         "name": "Intelligent Options",
         "feature": "/fa/id_id/products/rbt/robot/pmerit/option/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "",
         "discon": "",
         	"return": {

@@ -43,7 +43,7 @@
 			"group": "Accessories and Related Components",
 			"name": "Accessories and Related Components",
 			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/acc/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ACC",
+			"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/lvcb&current=ACC",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ACC",
 			"discon": "",
             "return": {

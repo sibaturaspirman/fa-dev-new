@@ -57,7 +57,7 @@
 			"group": "Circuit Breakers for Use in Particular Applications",
 			"name": "Sakelar DSN",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/spcb_dsn/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DSN",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DSN",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DSN",
 			"discon": "",
             "return": {
