@@ -69,7 +69,7 @@
       return `
         <div class="l-tile__item">
         <div class="c-card ${newFlag}">
-        <a class="c-card__link" href="/fa/id_id/our-stories/${data.articleID}/index.html">
+        <a class="c-card__link" href="${data.url}" target="_blank">
         <div class="c-card__head">
         <div class="c-card__img">
         <img src="${data.image}" alt="" decoding="async">
@@ -79,7 +79,7 @@
         <div class="c-card__row">
           <span class="c-card__date">${articlePublishedDate}</span>
         </div>
-        <p class="c-card__title">${data.title}</p>
+        <p class="c-card__title">${data.title} <img src="/fa/id_en/shared/common/img/icon/icon_targetBlank.svg" alt="open new window" width="16" height="16"></p>
         <p class="c-card__text">${data.name}</p>
         <p class="c-card__tag">
         ${data.tagTheme ? _generateTags(data.tagTheme) : ''}

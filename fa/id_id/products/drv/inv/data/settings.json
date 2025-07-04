@@ -39,12 +39,12 @@
 		"items": [
 			{
 				"name": "New product FREQROL-D800 Series",
-				"img": "/fa/id_id/products/drv/inv/img/spotlight_d800.jpg",
+				"img": "https://www.mitsubishielectric.com/fa/products/drv/inv/img/spotlight_d800.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_d/d800/index.html"
 			},
 			{
 				"name": "Selected by application",
-				"img": "/fa/id_id/products/drv/inv/img/spotlight_lup.jpg",
+				"img": "https://www.mitsubishielectric.com/fa/products/drv/inv/img/spotlight_lup.jpg",
 				"link": "/fa/id_id/products/drv/inv/pmerit/lup/index.html"
 			},
 			{

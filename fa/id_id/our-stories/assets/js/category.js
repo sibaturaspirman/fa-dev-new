@@ -127,7 +127,7 @@
     if(articleID) {
       cardElement = `<div class="l-tile__item">
       <div class="c-card ${newFlag}">
-      <a class="c-card__link" href="${allArticleObject[articleID]['url']}">
+      <a class="c-card__link" href="${allArticleObject[articleID]['url']}" target="_blank">
       <div class="c-card__head">
       <div class="c-card__img">
       <img src="${allArticleObject[articleID]['image']}" alt="" decoding="async">
@@ -137,7 +137,7 @@
       <div class="c-card__row">
         <span class="c-card__date">${articlePublishedDate}</span>
       </div>
-      <p class="c-card__title">${allArticleObject[articleID]['title']}</p>
+      <p class="c-card__title">${allArticleObject[articleID]['title']} <img src="/fa/id_en/shared/common/img/icon/icon_targetBlank.svg" alt="open new window" width="16" height="16"></p>
       <p class="c-card__text">${allArticleObject[articleID]['name']}</p>
       <p class="c-card__tag">
         ${allArticleObject[articleID]['tagTheme'] ? _generateTags(allArticleObject[articleID]['tagTheme']) : ''}
