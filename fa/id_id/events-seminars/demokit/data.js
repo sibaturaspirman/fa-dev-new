@@ -65,6 +65,26 @@ let demokitVirtual3 = [
         "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-13.jpg",
         "Title": "Perbaikan CNC Internal",
     },
+    {
+        "URL": "NEW-B1.html",
+        "Image": "/fa/id_id/events-seminars/assets/img/showroom/NEW-B1/0.png",
+        "Title": "MES Interface System for Extensive Data Handling",
+    },
+    {
+        "URL": "NEW-B2.html",
+        "Image": "/fa/id_id/events-seminars/assets/img/showroom/NEW-B2/0.png",
+        "Title": "Digitalization of Real-Time Data Visualization with SCADA Genesis 64",
+    },
+    {
+        "URL": "NEW-B3.html",
+        "Image": "/fa/id_id/events-seminars/assets/img/showroom/NEW-B3/0.png",
+        "Title": "Innovation Solution by Device and Network System (CC-Link IE TSN)",
+    },
+    {
+        "URL": "NEW-B4.html",
+        "Image": "/fa/id_id/events-seminars/assets/img/showroom/NEW-B4/0.png",
+        "Title": "Electric Discharge Machine",
+    },
 ];
 
 let demokitVirtual4 = [
