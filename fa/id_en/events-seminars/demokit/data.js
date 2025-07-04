@@ -65,6 +65,11 @@ let demokitVirtual3 = [
         "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-13.jpg",
         "Title": "CNC In-house Repair",
     },
+    {
+        "URL": "NEW-B1.html",
+        "Image": "/fa/id_en/events-seminars/assets/img/showroom/NEW-B1/0.png",
+        "Title": "MES Interface System for Extensive Data Handling",
+    },
 ];
 
 let demokitVirtual4 = [
