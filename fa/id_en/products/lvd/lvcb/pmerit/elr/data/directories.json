@@ -47,7 +47,7 @@
 			"group": "Earth Leakage Relays",
 			"name": "Earth Leakage Relays",
 			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/elr/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELR",
+			"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/lvcb&current=ELR",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELR",
 			"discon": "",
             "return": {

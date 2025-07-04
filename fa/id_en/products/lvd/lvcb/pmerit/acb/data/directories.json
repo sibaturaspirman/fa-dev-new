@@ -51,7 +51,7 @@
 			"group": "Air Circuit Breakers",
 			"name": "Air Circuit Breakers",
 			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/acb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ACB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/lvcb&current=ACB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ACB",
 			"discon": "",
             "return": {

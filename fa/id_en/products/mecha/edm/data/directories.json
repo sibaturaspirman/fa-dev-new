@@ -37,7 +37,7 @@
         "group": "edm_spec_only",
         "name": "Product Features",
         "feature": "/fa/id_en/products/mecha/edm/pmerit/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/edm",
         "standard": "",
         "discon": ""
       },
@@ -45,7 +45,7 @@
         "group": "edm_pmerit",
         "name": "Wire-cut Electrical Discharge Machines",
         "feature": "",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm&radio=Wire-cut Electrical Discharge Machines&search=B&word=Wire-cut Electrical Discharge Machines",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/edm&radio=Wire-cut Electrical Discharge Machines&search=B&word=Wire-cut Electrical Discharge Machines",
         "standard": "",
         "discon": "/fa/id_en/products/mecha/edm/pmerit/wire/close/index.html"
       },
@@ -53,7 +53,7 @@
         "group": "edm_pmerit",
         "name": "Die-sinking Electrical Discharge Machines",
         "feature": "",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm&radio=Die-sinker Electrical Discharge Machines&search=B&word=Die-sinker Electrical Discharge Machines",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/edm&radio=Die-sinker Electrical Discharge Machines&search=B&word=Die-sinker Electrical Discharge Machines",
         "standard": "",
         "discon": "/fa/id_en/products/mecha/edm/pmerit/die_sinking/close/index.html"
       }

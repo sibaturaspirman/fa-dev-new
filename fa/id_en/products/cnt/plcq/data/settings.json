@@ -65,47 +65,47 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq",
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq",
         "child": [
           {
             "name": "CPU",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=CPU&search=B&word=CPU"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=CPU&search=B&word=CPU"
           },
           {
             "name": "Base",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Base&search=B&word=Base"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=Base&search=B&word=Base"
           },
           {
             "name": "Power supply",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Power%20supply&search=B&word=Power%20supply"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=Power%20supply&search=B&word=Power%20supply"
           },
           {
             "name": "I/O",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=I/O&search=B&word=I/O"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=I/O&search=B&word=I/O"
           },
           {
             "name": "Analog",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Analog&search=B&word=Analog"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=Analog&search=B&word=Analog"
           },
           {
             "name": "Simple motion/positioning",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
           },
           {
             "name": "High-speed counter/pulse input",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input"
           },
           {
             "name": "Information/network",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Information/network&search=B&word=Information/network"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=Information/network&search=B&word=Information/network"
           },
           {
             "name": "Energy measuring/insulation monitoring",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring"
           },
           {
             "name": "Option",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Option&search=B&word=Option"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcq&radio=Option&search=B&word=Option"
           }
         ]
 			},

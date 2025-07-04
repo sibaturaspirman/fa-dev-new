@@ -74,19 +74,19 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
+				"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
 				"child": [
 					{
 						"name": "Robot",
-						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot"
+						"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot"
 					},
 					{
 						"name": "Controller",
-						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Controller&search=B&word=Controller"
+						"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/robot&radio=Controller&search=B&word=Controller"
 					},
 					{
 						"name": "Option",
-						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Option&search=B&word=Option"
+						"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/robot&radio=Option&search=B&word=Option"
 					}
 					]
 				},

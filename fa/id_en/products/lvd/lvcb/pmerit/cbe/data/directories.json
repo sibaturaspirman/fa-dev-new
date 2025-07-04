@@ -59,7 +59,7 @@
 			"group": "Circuit Breakers for Equipment",
 			"name": "Circuit Breakers for Equipment",
 			"feature": "/fa/id_en/products/lvd/lvcb/pmerit/cbe/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=CBE",
+			"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/lvcb&current=CBE",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=CBE",
 			"discon": "",
             "return": {

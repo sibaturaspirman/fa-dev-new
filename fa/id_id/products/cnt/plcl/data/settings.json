@@ -65,43 +65,43 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl",
+				"link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl",
         "child": [
           {
             "name": "CPU",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=CPU&search=B&word=CPU"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl&radio=CPU&search=B&word=CPU"
           },
           {
             "name": "Branch/extension",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Branch/extension&search=B&word=Branch/extension"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl&radio=Branch/extension&search=B&word=Branch/extension"
           },
           {
             "name": "Power supply",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Power%20supply&search=B&word=Power%20supply"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl&radio=Power%20supply&search=B&word=Power%20supply"
           },
           {
             "name": "I/O",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=I/O&search=B&word=I/O"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl&radio=I/O&search=B&word=I/O"
           },
           {
             "name": "Analog",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Analog&search=B&word=Analog"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl&radio=Analog&search=B&word=Analog"
           },
           {
             "name": "Simple motion/positioning",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
           },
           {
             "name": "High-speed counter/flexible I/O",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O"
           },
           {
             "name": "Jaringan",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Network&search=B&word=Network"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl&radio=Network&search=B&word=Network"
           },
           {
             "name": "Option",
-            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Option&search=B&word=Option"
+            "link": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/plcl&radio=Option&search=B&word=Option"
           }
         ]
 			},

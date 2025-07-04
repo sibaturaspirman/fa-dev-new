@@ -65,7 +65,7 @@
 			"group": "UL 489 Listed Circuit Breakers",
 			"name": "UL 489 Listed Circuit Breakers",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ULCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=ULCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ULCB",
 			"discon": "",
             "return": {

@@ -151,7 +151,7 @@
 			"group": "Circuit Breakers with Spring Clamp Terminals",
 			"name": "Circuit Breakers with Spring Clamp Terminals",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/sq/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SQ",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=SQ",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SQ",
 			"discon": "",
             "return": {
@@ -163,7 +163,7 @@
 			"group": "Air Circuit Breakers",
 			"name": "Air Circuit Breakers",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/acb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ACB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=ACB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ACB",
 			"discon": "",
             "return": {
@@ -175,7 +175,7 @@
 			"group": "Molded Case Circuit Breakers",
 			"name": "Molded Case Circuit Breakers",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/mccb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MCCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=MCCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCCB",
 			"discon": "",
             "return": {
@@ -187,7 +187,7 @@
 			"group": "Earth Leakage Circuit Breakers",
 			"name": "Earth Leakage Circuit Breakers",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/elcb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=ELCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELCB",
 			"discon": "",
             "return": {
@@ -199,7 +199,7 @@
 			"group": "Miniature Circuit Breakers",
 			"name": "Miniature Circuit Breakers",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/mcb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=MCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCB",
 			"discon": "",
             "return": {
@@ -211,7 +211,7 @@
 			"group": "Circuit Breakers for Equipment",
 			"name": "Circuit Breakers for Equipment",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/cbe/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=CBE",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=CBE",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=CBE",
 			"discon": "",
             "return": {
@@ -223,7 +223,7 @@
 			"group": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
 			"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/dcmccb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=DCMCCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=DCMCCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=DCMCCB",
 			"discon": "",
             "return": {
@@ -235,7 +235,7 @@
 			"group": "UL 489 Listed Circuit Breakers",
 			"name": "UL 489 Listed Circuit Breakers",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/ulcb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ULCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=ULCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ULCB",
 			"discon": "",
             "return": {
@@ -247,7 +247,7 @@
 			"group": "Molded Case Circuit Breakers with MDU",
 			"name": "Molded Case Circuit Breakers with MDU",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/mdu/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MDU",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=MDU",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MDU",
 			"discon": "",
             "return": {
@@ -259,7 +259,7 @@
 			"group": "Circuit Breakers for Use in Particular Applications",
 			"name": "Untuk Tegangan Khusus DC",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/spcb_dc/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DC",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DC",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DC",
 			"discon": "",
             "return": {
@@ -271,7 +271,7 @@
 			"group": "Circuit Breakers for Use in Particular Applications",
 			"name": "Pemutus Sirkuit Hanya Mag",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/spcb_mag/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_MAG",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=SPCB_MAG",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_MAG",
 			"discon": "",
             "return": {
@@ -283,7 +283,7 @@
 			"group": "Circuit Breakers for Use in Particular Applications",
 			"name": "Sakelar DSN",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/spcb_dsn/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DSN",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DSN",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DSN",
 			"discon": "",
             "return": {
@@ -295,7 +295,7 @@
 			"group": "Circuit Breakers for Use in Particular Applications",
 			"name": "Jenis Peningkatan Tahan Korosi untuk Lingkungan Khusus",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/spcb_sp/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_SP",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=SPCB_SP",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_SP",
 			"discon": "",
             "return": {
@@ -307,7 +307,7 @@
 			"group": "Circuit Breakers for Distribution Panel and Control Panel",
 			"name": "FA/FAU/FHU Series",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/pbcb/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=PBCB",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=PBCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=PBCB",
 			"discon": "",
             "return": {
@@ -319,7 +319,7 @@
 			"group": "Circuit Breakers for Distribution Panel and Control Panel",
 			"name": "KC Series",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/pbcb_kc/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=PBCB_KC",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=PBCB_KC",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=PBCB_KC",
 			"discon": "",
             "return": {
@@ -331,7 +331,7 @@
 			"group": "Earth Leakage Relays",
 			"name": "Earth Leakage Relays",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/elr/index.html",
-			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELR",
+			"spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=/lvcb&current=ELR",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELR",
 			"discon": "",
             "return": {

@@ -100,7 +100,7 @@
         "group": "LP3-1",
         "name": "Basic system configuration",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/sysconfig/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Base&search=B&word=Base",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=Base&search=B&word=Base",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Base&search=B&word=Base",
         "discon": ""
         },
@@ -116,7 +116,7 @@
         "group": "LP3-1",
         "name": "CPU",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/cpu/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=CPU&search=B&word=CPU",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=CPU&search=B&word=CPU",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=CPU&search=B&word=CPU",
         "discon": ""
         },
@@ -124,7 +124,7 @@
         "group": "LP3-1",
         "name": "I/O",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/io/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=I/O&search=B&word=I/O",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=I/O&search=B&word=I/O",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=I/O&search=B&word=I/O",
         "discon": ""
         },
@@ -132,7 +132,7 @@
         "group": "LP3-1",
         "name": "Analog",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/analog/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Analog&search=B&word=Analog",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=Analog&search=B&word=Analog",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Analog&search=B&word=Analog",
         "discon": ""
         },
@@ -140,7 +140,7 @@
         "group": "LP3-1",
         "name": "Temperature input module, Temperature control module",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/temp/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Analog&search=B&word=Analog",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=Analog&search=B&word=Analog",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Analog&search=B&word=Analog",
         "discon": ""
         },
@@ -148,7 +148,7 @@
         "group": "LP3-1",
         "name": "Motion, Positioning",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/motion/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Motion/positioning&search=B&word=Motion/positioning",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=Motion/positioning&search=B&word=Motion/positioning",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Motion/positioning&search=B&word=Motion/positioning",
         "discon": ""
         },
@@ -156,7 +156,7 @@
         "group": "LP3-1",
         "name": "High-speed counter, Channel isolated pulse input, Flexible high-speed I/O control",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/high-speed/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=High-speed%20counter/pulse%20input/flexible%20I/O&search=B&word=High-speed%20counter/pulse%20input/flexible%20I/O",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=High-speed%20counter/pulse%20input/flexible%20I/O&search=B&word=High-speed%20counter/pulse%20input/flexible%20I/O",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=High-speed%20counter/pulse%20input/flexible%20I/O&search=B&word=High-speed%20counter/pulse%20input/flexible%20I/O",
         "discon": ""
         },
@@ -164,7 +164,7 @@
         "group": "LP3-1",
         "name": "Network",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/network/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"
         },
@@ -172,7 +172,7 @@
         "group": "LP3-1",
         "name": "Advanced information",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/it_connect/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"
         },
@@ -180,7 +180,7 @@
         "group": "LP3-1",
         "name": "Energy measuring",
         "feature": "/fa/id_en/products/cnt/plcr/pmerit/measuring/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Energy%20measuring&search=B&word=Energy%20measuring",
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcr&radio=Energy%20measuring&search=B&word=Energy%20measuring",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Energy%20measuring&search=B&word=Energy%20measuring",
         "discon": ""
         },

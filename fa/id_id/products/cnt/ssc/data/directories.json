@@ -61,7 +61,7 @@
         "group": "ssc_iq-r",
         "name": "Motion module",
         "feature": "/fa/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-R%20series",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-R%20series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-R%20series",
         "discon": "",
         "return": {
@@ -73,7 +73,7 @@
         "group": "ssc_iq-r",
         "name": "Motion Controllers",
         "feature": "/fa/id_id/products/cnt/ssc/pmerit/ssciqr/r32mt/point.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20Controller&K-01=MELSEC%20iQ-R%20series",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20Controller&K-01=MELSEC%20iQ-R%20series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20Controller&K-01=MELSEC%20iQ-R%20series",
         "discon": "",
         "return": {
@@ -85,7 +85,7 @@
         "group": "ssc_iq-r",
         "name": "Simple Motion module",
 				"feature": "/fa/id_id/products/cnt/ssc/pmerit/ssciqr/rd77ms/point.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-R%20series",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-R%20series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-R%20series",
         "discon": "",
         "return": {
@@ -97,7 +97,7 @@
         "group": "ssc_iq-f",
         "name": "Motion module",
         "feature": "/fa/id_id/products/cnt/ssc/pmerit/ssciqf/fx5g/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series",
         "discon": "",
         "return": {
@@ -109,7 +109,7 @@
         "group": "ssc_iq-f",
         "name": "Simple Motion module",
 				"feature": "/fa/id_id/products/cnt/ssc/pmerit/ssciqf/fx5s/point.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series",
         "discon": "",
         "return": {
@@ -121,7 +121,7 @@
         "group": "ssc_swm-g",
 				"name": "SWM-G",
         "feature": "/fa/id_id/products/cnt/ssc/pmerit/swmg/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&radio=Motion%20Control%20Software&search=B&word=Motion%20Control%20Software",
+        "spec": "https://www.mitsubishielectric.com/fa/id_id/products/faspec/search.page?kisyu=%2Fssc&radio=Motion%20Control%20Software&search=B&word=Motion%20Control%20Software",
         "standard": "",
         "discon": "",
         "return": {
