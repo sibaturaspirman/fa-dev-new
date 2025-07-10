@@ -24,6 +24,11 @@ let demokitVirtual1 = [
         "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-13.jpg",
         "Title": "Perbaikan CNC Internal",
     },
+    {
+        "URL": "B-15.html",
+        "Image": "/fa/id_en/events-seminars/assets/img/showroom/B15/B15-1.png",
+        "Title": "The Future of Excellence Productivity with Real-Time Data Visualization",
+    },
 ];
 
 let demokitVirtual2 = [
