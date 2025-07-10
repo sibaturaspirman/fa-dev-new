@@ -29,6 +29,11 @@ let demokitVirtual1 = [
         "Image": "/fa/id_en/events-seminars/assets/img/showroom/B15/B15-1.png",
         "Title": "The Future of Excellence Productivity with Real-Time Data Visualization",
     },
+    {
+        "URL": "B-16.html",
+        "Image": "/fa/id_en/events-seminars/assets/img/showroom/B16/B16-5.png",
+        "Title": "Green Environment for Achieiving Sustainability with CO2 Data Monitoring",
+    },
 ];
 
 let demokitVirtual2 = [
