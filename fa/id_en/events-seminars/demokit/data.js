@@ -42,6 +42,11 @@ let demokitVirtual2 = [
         "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-3.jpg",
         "Title": "HVAC Redundancy Control System",
     },
+    {
+        "URL": "NEW-B2.html",
+        "Image": "/fa/id_en/events-seminars/assets/img/showroom/NEW-B2/0.png",
+        "Title": "Digitalization of Real-Time Data Visualization with SCADA Genesis 64",
+    },
 ];
 
 let demokitVirtual3 = [
@@ -97,7 +102,12 @@ let demokitVirtual4 = [
         "URL": "B-14.html",
         "Image": "/fa/id_en/events-seminars/assets/img/showroom/B-14.jpg",
         "Title": "Pick and Place Robot with Rotary and Linear Synchronize Application",
-    }
+    },
+    {
+        "URL": "NEW-B5.html",
+        "Image": "/fa/id_en/events-seminars/assets/img/showroom/NEW-B5/0.png",
+        "Title": "iQ PLATFORM-COMPATIBLE PAC Process CPU/Redundant System",
+    },
 ];
 
 let allDemokits = {
