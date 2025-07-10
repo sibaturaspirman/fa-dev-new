@@ -118,19 +118,60 @@ let allDemokits = {
 }
 
 $(document).ready(function () {
-    const virtualAttr = $('#data-demokit').data('virtual');
+    let data = [];
+    let selectedVirtual = 1;
 
-    if (typeof virtualAttr !== 'undefined' && allDemokits.hasOwnProperty(virtualAttr)) {
+    const virtualAttr = $('#data-demokit').data('virtual');
+    if (virtualAttr) {
         let selectedDemokits = allDemokits[virtualAttr];
 
         // Sort by Title (alphabetically)
         selectedDemokits.sort((a, b) => a.Title.localeCompare(b.Title));
 
-        // Render sorted items
-        $.each(selectedDemokits, function (_, item) {
-            const html = `
+        data = selectedDemokits;
+        selectedVirtual = virtualAttr;
+    }
+
+    const params = new URLSearchParams(window.location.search);
+    const virtualAttrQuery = params.get('virtual');
+
+    if (virtualAttrQuery) {
+        const url = `/fa/id_id/events-seminars/virtual-space/virtual-${virtualAttrQuery}.html`;
+        const anchorElem = $("a.u-icons.u-icons--bulletLeft");
+        anchorElem.attr("href", url);
+
+        switch (virtualAttrQuery) {
+            case "1":
+                anchorElem.text("Manufacturing Indonesia 2024 Exhibition");
+                break;
+            case "2":
+                anchorElem.text("Indonesia 4.0 Expo & Conference 2024");
+                break;
+            case "3":
+                anchorElem.text("Manufacturing Indonesia 2023 Exhibition");
+                break;
+            case "4":
+                anchorElem.text("Indonesia 4.0 Expo & Conference 2023");
+                break;
+            default:
+                anchorElem.text("Factory Automation Showroom");
+                break;
+        }
+
+        let selectedDemokits = allDemokits[virtualAttrQuery];
+
+        // Sort by Title (alphabetically)
+        selectedDemokits.sort((a, b) => a.Title.localeCompare(b.Title));
+
+        data = selectedDemokits;
+        selectedVirtual = virtualAttrQuery;
+    }
+
+    // Render sorted items
+    $.each(data, function (_, item) {
+        const html = `
                 <div class="l-grid__item l-grid__item-3 l-grid__item-6-md l-grid__item-6-sm">
-                    <a class="c-linkWithImage" href="/fa/id_id/events-seminars/demokit/${item.URL}?virtual=${virtualAttr}">
+                    <a class="c-linkWithImage" href="/fa/id_id/events-seminars/demokit/${item.URL}?virtual=${selectedVirtual}">
                         <div class="c-linkWithImage__image">
                             <img src="${item.Image}" alt="${item.Title}" decoding="async" style="height: auto;">
                         </div>
@@ -138,7 +179,6 @@ $(document).ready(function () {
                     </a>
                 </div>
             `;
-            $('#data-demokit').append(html);
-        });
-    }
+        $('#data-demokit').append(html);
+    });
 });
