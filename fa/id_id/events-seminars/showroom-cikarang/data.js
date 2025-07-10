@@ -71,33 +71,6 @@ datas.sort(function (a, b) {
 });
 
 $(document).ready(function () {
-    const params = new URLSearchParams(window.location.search);
-    const virtualAttr = params.get('virtual');
-
-    if (virtualAttr) {
-        const url = `/fa/id_id/events-seminars/virtual-space/virtual-${virtualAttr}.html`;
-        const anchorElem = $("a.u-icons.u-icons--bulletLeft");
-        anchorElem.attr("href", url);
-
-        switch (virtualAttr) {
-            case "1":
-                anchorElem.text("Manufacturing Indonesia 2024 Exhibition");
-                break;
-            case "2":
-                anchorElem.text("Indonesia 4.0 Expo & Conference 2024");
-                break;
-            case "3":
-                anchorElem.text("Manufacturing Indonesia 2023 Exhibition");
-                break;
-            case "4":
-                anchorElem.text("Indonesia 4.0 Expo & Conference 2023");
-                break;
-            default:
-                anchorElem.text("Factory Automation Showroom");
-                break;
-        }
-    }
-
     $.each(datas, function (i, item) {
         const html = `
         <div class="l-grid__item l-grid__item-3 l-grid__item-6-md l-grid__item-6-sm">
