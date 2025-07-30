@@ -137,7 +137,7 @@
       <div class="c-card__row">
         <span class="c-card__date">${articlePublishedDate}</span>
       </div>
-      <p class="c-card__title">${allArticleObject[articleID]['title']}</p>
+      <p class="c-card__title">${allArticleObject[articleID]['title']} <img src="/fa/id_en/shared/common/img/icon/icon_targetBlank.svg" alt="open new window" width="16" height="16"></p>
       <p class="c-card__text">${allArticleObject[articleID]['name']}</p>
       <p class="c-card__tag">
         ${allArticleObject[articleID]['tagTheme'] ? _generateTags(allArticleObject[articleID]['tagTheme']) : ''}

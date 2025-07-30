@@ -82,7 +82,7 @@
         <div class="c-card__row">
           <span class="c-card__date">${articlePublishedDate}</span>
         </div>
-        <p class="c-card__title">${data.title}</p>
+        <p class="c-card__title">${data.title} <img src="/fa/id_en/shared/common/img/icon/icon_targetBlank.svg" alt="open new window" width="16" height="16"></p>
         <p class="c-card__text">${data.name}</p>
         <p class="c-card__tag">
           ${data.tagTheme ? _generateTags(data.tagTheme) : ''}
@@ -227,7 +227,7 @@
         <div class="c-card__row">
         <span class="c-card__date">${articlePublishedDate}</span>
         </div>
-        <p class="c-card__title">${data.title}</p>
+         <p class="c-card__title">${data.title} <img src="/fa/id_en/shared/common/img/icon/icon_targetBlank.svg" alt="open new window" width="16" height="16"></p>
         <p class="c-card__tag">
         ${data.tagCategory ? _generateTags(data.tagCategory) : ''}
         ${data.tagTheme ? _generateTags(data.tagTheme) : ''}
