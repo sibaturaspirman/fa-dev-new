@@ -15,6 +15,11 @@ let demokitVirtual1 = [
         "Title": "Sistem Kontrol Redundansi HVAC",
     },
     {
+        "URL": "B-4.html",
+        "Image": "/fa/id_id/events-seminars/assets/img/showroom/B4/B4-1.png",
+        "Title": "Induction Motor",
+    },
+    {
         "URL": "B-5.html",
         "Image": "/fa/id_id/events-seminars/assets/img/showroom/B-5.jpg",
         "Title": "Mesin Demo Ukiran CNC",
@@ -33,6 +38,11 @@ let demokitVirtual1 = [
         "URL": "B-16.html",
         "Image": "/fa/id_id/events-seminars/assets/img/showroom/B16/B16-5.png",
         "Title": "Green Environment for Achieiving Sustainability with CO2 Data Monitoring",
+    },
+    {
+        "URL": "NEW-B6.html",
+        "Image": "/fa/id_id/events-seminars/assets/img/showroom/B6/B6-1.png",
+        "Title": "Wire-cut & NC EDM Systems",
     },
 ];
 
