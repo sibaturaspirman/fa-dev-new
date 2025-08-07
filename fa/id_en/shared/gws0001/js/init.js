@@ -660,15 +660,15 @@
 		document.body.insertBefore(gtmNoscript, document.body.firstChild);
 
 		// SCRIPT WA
-		const qchatInit = document.createElement('script');
-		qchatInit.src = "https://webchat.qontak.com/qchatInitialize.js";
-		const qchatWidget = document.createElement('script');
-		qchatWidget.src = "https://webchat.qontak.com/js/app.js";
-		document.head.prepend(qchatInit);
-		document.head.prepend(qchatWidget);
-		qchatInit.onload = function() { qchatInitialize({
-			id: "5a82c2f2-b732-4940-8a9e-857a447ab777", 
-			code: "-Y-oGgjudy3DVWJX_uiQng"  
-		})};
+		// const qchatInit = document.createElement('script');
+		// qchatInit.src = "https://webchat.qontak.com/qchatInitialize.js";
+		// const qchatWidget = document.createElement('script');
+		// qchatWidget.src = "https://webchat.qontak.com/js/app.js";
+		// document.head.prepend(qchatInit);
+		// document.head.prepend(qchatWidget);
+		// qchatInit.onload = function() { qchatInitialize({
+		// 	id: "d7adcebe-8ffa-45b2-b10e-b3de46374d74", 
+		// 	code: "9850_eFpx20FNrXv3oYysg"  
+		// })};
 	});
 })(window.jQuery3_6 || jQuery);
