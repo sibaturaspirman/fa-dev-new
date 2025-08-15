@@ -667,8 +667,8 @@
 		document.head.prepend(qchatInit);
 		document.head.prepend(qchatWidget);
 		qchatInit.onload = function() { qchatInitialize({
-			id: "d7adcebe-8ffa-45b2-b10e-b3de46374d74", 
-			code: "9850_eFpx20FNrXv3oYysg"  
+			id: "ebf6eb25-91c2-46b6-8de5-1ebecf7338e8", 
+			code: "hr9yvRifX1N-dHQDBnlsEg"  
 		})};
 	});
 })(window.jQuery3_6 || jQuery);
