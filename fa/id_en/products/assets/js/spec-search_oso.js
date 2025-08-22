@@ -898,7 +898,7 @@ function imgSizeChange() {
 			$(this).attr('height', imgHeight);
 			$(this).wrap('<p><a href="javascript:tablePicture(\'' + filePath + "\')\"></a></p>");
 			var parent = $(this).parent().parent();
-			parent.after('<p><a href="javascript:tablePicture(\'' + filePath + "\')\"><img class=\"icon\" src=\"/fa/shared/common/img/icon/icon_zoom_txt.svg\" width=\"40\" height=\"12\" alt=\"Zoom\"></img></a></p>");
+			parent.after('<p><a href="javascript:tablePicture(\'' + filePath + "\')\"><img class=\"icon\" src=\"/fa/id_en/shared/common/img/icon/icon_zoom_txt.svg\" width=\"40\" height=\"12\" alt=\"Zoom\"></img></a></p>");
 			parent.parent().children('p').wrapAll('<div class="outlineimg"></div>');
 		}
 		//表示状態にする
@@ -936,7 +936,7 @@ function tablePicture(src) {
 	new_window.document.write("<img src=\"" + img.src + "\" alt=\"" + "Extended image" + "\" title=\"" + "Extended image" + "\">");
 	new_window.document.write("<div>");
 	new_window.document.write("<a href=\"#\" onClick=\"window.close(); return false;\">");
-	new_window.document.write("<img src=\"/fa/shared/img/module/bt_close_bunrui.gif\" width=\"58\" height=\"18\" alt=\"" + Close + "\" title=\"" + Close + "\">\n");
+	new_window.document.write("<img src=\"/fa/id_en/shared/img/module/bt_close_bunrui.gif\" width=\"58\" height=\"18\" alt=\"" + Close + "\" title=\"" + Close + "\">\n");
 	new_window.document.write("</div>");
 	new_window.document.write("<" + "/body>");
 	new_window.document.write("<" + "/html>");
