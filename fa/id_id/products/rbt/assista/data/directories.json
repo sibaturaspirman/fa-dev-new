@@ -34,7 +34,7 @@
         "name": "Collaborative Robot MELFA ASSISTA",
         "feature": "/fa/id_id/products/rbt/assista/pmerit/assista/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "/fa/id_id/products/rbt/robot/ex/renew/close/index.html",
           "return": {
           "name": "Collaborative Robot MELFA ASSISTA",
@@ -46,7 +46,7 @@
          "name": "Intelligent Options",
         "feature": "/fa/id_id/products/rbt/assista/pmerit/option/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
           "return": {
           "name": "Intelligent Options",

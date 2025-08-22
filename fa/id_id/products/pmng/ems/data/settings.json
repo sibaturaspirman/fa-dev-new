@@ -86,12 +86,12 @@
 			{
 				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
-				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems"
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/ems"
 			},
 			{
 				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
-				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon"
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon"
 			},
 			{
 				"name": "FA Integrated ",

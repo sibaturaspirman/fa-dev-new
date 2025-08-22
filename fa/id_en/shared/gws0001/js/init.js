@@ -550,8 +550,8 @@
 								},
 								// {
 								// 	"name": "Whatsapp",
-								// 	"icon": "chat",
-								// 	"link": "https://wa.me/628123456789"
+								// 	"icon": "chat-wa",
+								// 	"link": "https://api.whatsapp.com/send/?phone=6281119731452&text&type=phone_number&app_absent=0"
 								// },
 								// {
 								// 	"name": "Share",
@@ -585,6 +585,8 @@
 					}
 				);
 			}
+			$(".u-icons--chat-wa").addClass('wa-custom')
+			$(".u-icons--chat-wa").html('<img src="/fa/id_en/shared/img/wa.png" alt="Whatsapp Icon">');
 		})
 		.fail(function() {
 			console.log('設定ファイルが存在しないか形式が不正です');
@@ -667,8 +669,8 @@
 		document.head.prepend(qchatInit);
 		document.head.prepend(qchatWidget);
 		qchatInit.onload = function() { qchatInitialize({
-			id: "4a4579d4-7de1-4c06-b22d-93f3c6067464", 
-			code: "LqrnISsY58xf9Xjyi4o3tQ"  
+			id: "f82dad4a-ca85-416f-a2a0-6cca84a013df", 
+			code: "Hl_VDLXISc_dgw4DXsNCrA"  
 		})};
 	});
 })(window.jQuery3_6 || jQuery);

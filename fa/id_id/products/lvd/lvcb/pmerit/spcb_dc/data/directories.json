@@ -58,7 +58,7 @@
 			"name": "Untuk Tegangan Khusus DC",
 			"feature": "/fa/id_id/products/lvd/lvcb/pmerit/spcb_dc/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DC",
-			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DC",
+			"standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DC",
 			"discon": "",
             "return": {
                 "name": "Circuit Breakers for Use in Particular Applications",

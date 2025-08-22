@@ -4083,3 +4083,5 @@ main{padding-bottom:90px}
 .u-fz--100-sm{font-size:100px}
 .u-fz--100-sm-imp{font-size:100px!important}
 }
+.wa-custom::before{display: none !important;}
+.wa-custom img{display: block;width: 38px;}

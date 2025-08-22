@@ -66,7 +66,7 @@
 				"name": "Main Unit",
 				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/plc/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Main%20Unit",
-				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Main%20Unit&search=B&word=Main%20Unit",
+				"standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Main%20Unit&search=B&word=Main%20Unit",
 				"discon": ""
 			},
 			{
@@ -74,7 +74,7 @@
 				"name": "I/O Extension",
 				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/extension/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Input/output%20extension",
-				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Input/output%20extension&search=B&word=Input/output%20extension",
+				"standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Input/output%20extension&search=B&word=Input/output%20extension",
 				"discon": ""
 			},
 			{
@@ -82,7 +82,7 @@
 				"name": "Analog Control",
 				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/analog/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Analog",
-				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Analog&search=B&word=Analog",
+				"standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Analog&search=B&word=Analog",
 				"discon": ""
 			},
 			{
@@ -90,7 +90,7 @@
 				"name": "High-Speed Counting",
 				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/hc/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plc_fx&search=B&word=High-Speed%20Counter",
-				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=High-Speed%20Counter&search=B&word=High-Speed%20Counter",
+				"standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=High-Speed%20Counter&search=B&word=High-Speed%20Counter",
 				"discon": ""
 			},
 			{
@@ -98,7 +98,7 @@
 				"name": "Positioning Control",
 				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/positioning/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Positioning",
-				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Positioning&search=B&word=Positioning",
+				"standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Positioning&search=B&word=Positioning",
 				"discon": ""
 			},
 			{
@@ -106,7 +106,7 @@
 				"name": "Network/Communication",
 				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/communication/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Data%20link/Communication",
-				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Data%20link/Communication&search=B&word=Data%20link/Communication",
+				"standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Data%20link/Communication&search=B&word=Data%20link/Communication",
 				"discon": ""
 			},
 			{
@@ -114,7 +114,7 @@
 				"name": "Option",
 				"feature": "/fa/id_id/products/cnt/plc_fx/pmerit/contents/option/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Option/Training",
-				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Option/Training&search=B&word=Option/Training",
+				"standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Option/Training&search=B&word=Option/Training",
 				"discon": ""
 			},
 			{

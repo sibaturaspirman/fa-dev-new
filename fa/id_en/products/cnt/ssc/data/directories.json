@@ -62,7 +62,7 @@
         "name": "Motion module",
         "feature": "/fa/id_en/products/cnt/ssc/pmerit/ssciqr/rd78g/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-R%20series",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-R%20series",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-R%20series",
         "discon": "",
         "return": {
           "name": "MELSEC iQ-R series",
@@ -74,7 +74,7 @@
         "name": "Motion Controller",
         "feature": "/fa/id_en/products/cnt/ssc/pmerit/ssciqr/r32mt/point.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20Controller&K-01=MELSEC%20iQ-R%20series",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20Controller&K-01=MELSEC%20iQ-R%20series",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20Controller&K-01=MELSEC%20iQ-R%20series",
         "discon": "",
         "return": {
           "name": "MELSEC iQ-R series",
@@ -86,7 +86,7 @@
         "name": "Simple Motion module",
 				"feature": "/fa/id_en/products/cnt/ssc/pmerit/ssciqr/rd77ms/point.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-R%20series",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-R%20series",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-R%20series",
         "discon": "",
         "return": {
           "name": "MELSEC iQ-R series",
@@ -98,7 +98,7 @@
         "name": "Motion module",
         "feature": "/fa/id_en/products/cnt/ssc/pmerit/ssciqf/fx5g/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series",
         "discon": "",
         "return": {
           "name": "MELSEC iQ-F Series",
@@ -110,7 +110,7 @@
         "name": "Simple Motion module",
 				"feature": "/fa/id_en/products/cnt/ssc/pmerit/ssciqf/fx5s/point.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series",
         "discon": "",
         "return": {
           "name": "MELSEC iQ-F Series",

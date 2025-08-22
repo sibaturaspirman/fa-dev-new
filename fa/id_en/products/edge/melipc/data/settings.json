@@ -65,12 +65,12 @@
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc"
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/melipc"
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon"
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon"
 			}
 		]
 	},

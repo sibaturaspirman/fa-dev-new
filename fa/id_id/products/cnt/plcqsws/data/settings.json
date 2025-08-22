@@ -88,38 +88,38 @@
 			{
 				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
-				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcqsws",
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/plcqsws",
         "child": [
           {
             "name": "Safety programmable controller",
-            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
           },
           {
             "name": "Safety controller",
-            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
           },
           {
             "name": "Safety relay",
-            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
           }
         ]
 			},
 			{
 				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
-				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon",
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon",
         "child": [
           {
             "name": "Safety programmable controller",
-            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20programmable%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20programmable%20controller"
           },
           {
             "name": "Safety controller",
-            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20controller"
           },
           {
             "name": "Safety relay",
-            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20relay"
+            "link": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20relay"
           }
         ]
 			},

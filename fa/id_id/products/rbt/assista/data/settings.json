@@ -78,11 +78,11 @@
 			{
 				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
-				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/robot",
 				"child": [
 					{
 						"name": "Robot",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/robot"
 					},
 					{
 						"name": "Standard certification contents",

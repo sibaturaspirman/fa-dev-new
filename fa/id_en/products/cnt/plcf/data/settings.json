@@ -70,39 +70,39 @@
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcf",
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/plcf",
 				"child": [
 					{
 						"name": "CPU Module",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=CPU%20Module&search=B&word=CPU%20Module"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=CPU%20Module&search=B&word=CPU%20Module"
 					},
 					{
 						"name": "Input/Output Module",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Input/Output%20Module&search=B&word=Input/Output%20Module"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Input/Output%20Module&search=B&word=Input/Output%20Module"
 					},
 					{
 						"name": "Analog I/O Module",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Analog%20I/O%20Module&search=B&word=Analog%20I/O%20Module"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Analog%20I/O%20Module&search=B&word=Analog%20I/O%20Module"
 					},
 					{
 						"name": "High-speed counter Module",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=High-speed%20counter%20Module&search=B&word=High-speed%20counter%20Module"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=High-speed%20counter%20Module&search=B&word=High-speed%20counter%20Module"
 					},
 					{
 						"name": "Motion/Positioning Module",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Motion/Positioning%20Module&search=B&word=Motion/Positioning%20Module"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Motion/Positioning%20Module&search=B&word=Motion/Positioning%20Module"
 					},
 					{
 						"name": "Network/Communication Module",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Network/Communication%20Module&search=B&word=Network/Communication%20Module"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Network/Communication%20Module&search=B&word=Network/Communication%20Module"
 					},
 					{
 						"name": "Safety Extension Module",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Safety%20Extension%20Module&search=B&word=Safety%20Extension%20Module"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Safety%20Extension%20Module&search=B&word=Safety%20Extension%20Module"
 					},
 					{
 						"name": "Option",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Option&search=B&word=Option"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Option&search=B&word=Option"
 					}
 				]
 			},

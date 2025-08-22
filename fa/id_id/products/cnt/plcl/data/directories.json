@@ -57,16 +57,16 @@
         "group": "LP3-1",
         "name": "Fitur Seri L",
         "feature": "/fa/id_id/products/cnt/plcl/pmerit/concept/index.html",
-        "spec": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcl",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcl",
-        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon"
+        "spec": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/plcl",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/plcl",
+        "discon": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon"
       },
       {
         "group": "LP3-1",
         "name": "CPU",
         "feature": "/fa/id_id/products/cnt/plcl/pmerit/cpu/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcl&radio=CPU&search=B&word=CPU",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=CPU&search=B&word=CPU",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=CPU&search=B&word=CPU",
         "discon": ""
       },
       {
@@ -74,7 +74,7 @@
         "name": "I/O",
         "feature": "/fa/id_id/products/cnt/plcl/pmerit/io/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcl&radio=I/O&search=B&word=I/O",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=I/O&search=B&word=I/O",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=I/O&search=B&word=I/O",
         "discon": ""
       },
       {
@@ -82,23 +82,23 @@
         "name": "Analog/Temperature Control",
         "feature": "/fa/id_id/products/cnt/plcl/pmerit/analog/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcl&radio=Analog&search=B&word=Analog",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Analog&search=B&word=Analog",
-        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Analog"
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Analog&search=B&word=Analog",
+        "discon": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Analog"
       },
       {
         "group": "LP3-1",
         "name": "Simple Motion/Positioning",
         "feature": "/fa/id_id/products/cnt/plcl/pmerit/motion/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
-        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Simple%20motion/positioning"
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
+        "discon": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Simple%20motion/positioning"
       },
       {
         "group": "LP3-1",
         "name": "Flexible I/O/High-Speed Counter",
         "feature": "/fa/id_id/products/cnt/plcl/pmerit/counter/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O",
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O",
         "discon": ""
       },
       {
@@ -106,8 +106,8 @@
         "name": "Jaringan",
         "feature": "/fa/id_id/products/cnt/plcl/pmerit/network/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/id_en/products/faspec/search.page?kisyu=/plcl&radio=Network&search=B&word=Network",
-        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Network&search=B&word=Network",
-        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Network"
+        "standard": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Network&search=B&word=Network",
+        "discon": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Network"
       }
     ]
   }

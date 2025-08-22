@@ -68,18 +68,18 @@
 				"child": [
 					{
 						"name": "Instrument Transformers",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Instrument%20Transformers&search=B&word=Instrument%20Transformers"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Instrument%20Transformers&search=B&word=Instrument%20Transformers"
 					},
 					{
 						"name": "Meters",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters"
 					}
 				]
 			},
 			{
 				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
-				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon"
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon"
 			},
 			{
 				"name": "FA Integrated ",

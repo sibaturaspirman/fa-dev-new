@@ -80,39 +80,39 @@
 			{
 				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
-				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plc_fx",
+				"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?kisyu=/plc_fx",
 				"child": [
 					{
 						"name": "Main Unit",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Main%20Unit&search=B&word=Main%20Unit"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Main%20Unit&search=B&word=Main%20Unit"
 					},
 					{
 						"name": "Input/output extension",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Input/output%20extension&search=B&word=Input/output%20extension"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Input/output%20extension&search=B&word=Input/output%20extension"
 					},
 					{
 						"name": "Analog",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Analog&search=B&word=Analog"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Analog&search=B&word=Analog"
 					},
 					{
 						"name": "High-Speed Counter",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=High-Speed%20Counter&search=B&word=High-Speed%20Counter"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=High-Speed%20Counter&search=B&word=High-Speed%20Counter"
 					},
 					{
 						"name": "Positioning",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Positioning&search=B&word=Positioning"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Positioning&search=B&word=Positioning"
 					},
 					{
 						"name": "Data link/Communication",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Data%20link/Communication&search=B&word=Data%20link/Communication"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Data%20link/Communication&search=B&word=Data%20link/Communication"
 					},
 					{
 						"name": "Programming",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Programming&search=B&word=Programming"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Programming&search=B&word=Programming"
 					},
 					{
 						"name": "Option/Training",
-						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Option/Training&search=B&word=Option/Training"
+						"link": "https://www.mitsubishielectric.com/fa/id_en/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Option/Training&search=B&word=Option/Training"
 					}
 				]
 			}
